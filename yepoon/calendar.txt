@@ -1,0 +1,5 @@
+service_id,monday,tuesday,wednesday,thursday,friday,saturday,sunday,start_date,end_date
+GOOGLE-YEPMUL-Weekday-04,1,1,1,1,1,0,0,20130617,20131213
+GOOGLE-YEPPMUSA-Saturday-02,0,0,0,0,0,1,0,20130622,20131228
+GOOGLE-YEPPMUSU-Sunday-02,0,0,0,0,0,0,1,20130623,20131229
+GOOGLE-YEPMUL-Weekday-05,1,1,1,1,1,0,0,20130624,20131231

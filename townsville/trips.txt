@@ -1,0 +1,1182 @@
+route_id,service_id,trip_id,trip_headsign,direction_id,block_id,shape_id
+233-281,GOOGLE-TWN_MUL-Weekday-03,2661817-GOOGLE-TWN_MUL-Weekday-03,"Bushland Beach to Stockland via Deeragun, Burdell, Bohle",0,508315,2330018
+233-281,GOOGLE-TWN_MUL-Weekday-03,2661818-GOOGLE-TWN_MUL-Weekday-03,"Bushland Beach to Stockland via Deeragun, Burdell, Bohle",0,508316,2330018
+233-281,GOOGLE-TWN_MUL-Weekday-03,2661819-GOOGLE-TWN_MUL-Weekday-03,"Bushland Beach to Stockland via Deeragun, Burdell, Bohle",0,508318,2330018
+233-281,GOOGLE-TWN_MUL-Weekday-03,2661820-GOOGLE-TWN_MUL-Weekday-03,"Bushland Beach to Stockland via Deeragun, Burdell, Bohle",0,508319,2330018
+233-281,GOOGLE-TWN_MUL-Weekday-03,2661821-GOOGLE-TWN_MUL-Weekday-03,"Bushland Beach to Stockland via Deeragun, Burdell, Bohle",0,508320,2330018
+233-281,GOOGLE-TWN_MUL-Weekday-03,2661822-GOOGLE-TWN_MUL-Weekday-03,"Bushland Beach to Stockland via Deeragun, Burdell, Bohle",0,508321,2330018
+233-281,GOOGLE-TWN_MUL-Weekday-03,2661823-GOOGLE-TWN_MUL-Weekday-03,"Stockland to Bushland Beach via Bohle, Burdell, Deeragun",1,508317,2330022
+233-281,GOOGLE-TWN_MUL-Weekday-03,2661824-GOOGLE-TWN_MUL-Weekday-03,"Stockland to Bushland Beach via Bohle, Burdell, Deeragun",1,508318,2330024
+233-281,GOOGLE-TWN_MUL-Weekday-03,2661825-GOOGLE-TWN_MUL-Weekday-03,"Stockland to Bushland Beach via Bohle, Burdell, Deeragun",1,508319,2330024
+233-281,GOOGLE-TWN_MUL-Weekday-03,2661826-GOOGLE-TWN_MUL-Weekday-03,"Stockland to Bushland Beach via Bohle, Burdell, Deeragun",1,508320,2330024
+233-281,GOOGLE-TWN_MUL-Weekday-03,2661827-GOOGLE-TWN_MUL-Weekday-03,"Stockland to Bushland Beach via Bohle, Burdell, Deeragun",1,508321,2330024
+233-281,GOOGLE-TWN_MUL-Weekday-03,2661828-GOOGLE-TWN_MUL-Weekday-03,"Stockland to Bushland Beach via Bohle, Burdell, Deeragun",1,508322,2330022
+233-281,GOOGLE-TWN_MUL-Weekday-03,2661829-GOOGLE-TWN_MUL-Weekday-03,"Stockland to Bushland Beach via Bohle, Burdell, Deeragun",1,508323,2330023
+233-281,GOOGLE-TWN_MUL-Weekday-03,2661830-GOOGLE-TWN_MUL-Weekday-03,"Bushland Beach to Stockland via Deeragun, Burdell, Bohle",0,508323,2330019
+233-281,GOOGLE-TWN_MUL-Weekday-03,2661831-GOOGLE-TWN_MUL-Weekday-03,"Bushland Beach to Stockland via Deeragun, Burdell, Bohle",0,508324,2330020
+233-281,GOOGLE-TWN_MUL-Weekday-03,2661832-GOOGLE-TWN_MUL-Weekday-03,"Bushland Beach to Stockland via Deeragun, Burdell, Bohle",0,508325,2330021
+200-281,GOOGLE-TWN_MUL-Weekday-03,2661842-GOOGLE-TWN_MUL-Weekday-03,"Kelso to City and Breakwater",0,508331,2000008
+200-281,GOOGLE-TWN_MUL-Weekday-03,2661843-GOOGLE-TWN_MUL-Weekday-03,"Kelso to City and Breakwater",0,508332,2000008
+200-281,GOOGLE-TWN_MUL-Weekday-03,2661844-GOOGLE-TWN_MUL-Weekday-03,"Kelso to City and Breakwater",0,508333,2000008
+200-281,GOOGLE-TWN_MUL-Weekday-03,2661845-GOOGLE-TWN_MUL-Weekday-03,"Kelso to City and Breakwater",0,508334,2000008
+200-281,GOOGLE-TWN_MUL-Weekday-03,2661846-GOOGLE-TWN_MUL-Weekday-03,"Kelso to City and Breakwater",0,508335,2000008
+200-281,GOOGLE-TWN_MUL-Weekday-03,2661847-GOOGLE-TWN_MUL-Weekday-03,"Kelso to City and Breakwater",0,508336,2000008
+200-281,GOOGLE-TWN_MUL-Weekday-03,2661848-GOOGLE-TWN_MUL-Weekday-03,"Kelso to City and Breakwater",0,508337,2000008
+200-281,GOOGLE-TWN_MUL-Weekday-03,2661849-GOOGLE-TWN_MUL-Weekday-03,"Kelso to City and Breakwater",0,508338,2000008
+200-281,GOOGLE-TWN_MUL-Weekday-03,2661850-GOOGLE-TWN_MUL-Weekday-03,"Kelso to City and Breakwater",0,508339,2000008
+200-281,GOOGLE-TWN_MUL-Weekday-03,2661851-GOOGLE-TWN_MUL-Weekday-03,"Kelso to City and Breakwater",0,508340,2000008
+200-281,GOOGLE-TWN_MUL-Weekday-03,2661852-GOOGLE-TWN_MUL-Weekday-03,"Kelso to City and Breakwater",0,508341,2000008
+200-281,GOOGLE-TWN_MUL-Weekday-03,2661853-GOOGLE-TWN_MUL-Weekday-03,"Kelso to City and Breakwater",0,508342,2000008
+200-281,GOOGLE-TWN_MUL-Weekday-03,2661854-GOOGLE-TWN_MUL-Weekday-03,"Kelso to City and Breakwater",0,508343,2000008
+200-281,GOOGLE-TWN_MUL-Weekday-03,2661855-GOOGLE-TWN_MUL-Weekday-03,"Kelso to City and Breakwater",0,508344,2000008
+200-281,GOOGLE-TWN_MUL-Weekday-03,2661856-GOOGLE-TWN_MUL-Weekday-03,"Kelso to City and Breakwater",0,508345,2000008
+200-281,GOOGLE-TWN_MUL-Weekday-03,2661857-GOOGLE-TWN_MUL-Weekday-03,"Kelso to City and Breakwater",0,508346,2000008
+200-281,GOOGLE-TWN_MUL-Weekday-03,2661858-GOOGLE-TWN_MUL-Weekday-03,"Kelso to City and Breakwater",0,508347,2000008
+200-281,GOOGLE-TWN_MUL-Weekday-03,2661859-GOOGLE-TWN_MUL-Weekday-03,"Kelso to City and Breakwater",0,508348,2000008
+200-281,GOOGLE-TWN_MUL-Weekday-03,2661860-GOOGLE-TWN_MUL-Weekday-03,"Kelso to City and Breakwater",0,508349,2000008
+200-281,GOOGLE-TWN_MUL-Weekday-03,2661861-GOOGLE-TWN_MUL-Weekday-03,"Kelso to City and Breakwater",0,508350,2000008
+200-281,GOOGLE-TWN_MUL-Weekday-03,2661862-GOOGLE-TWN_MUL-Weekday-03,"Kelso to City and Breakwater",0,508351,2000008
+200-281,GOOGLE-TWN_MUL-Weekday-03,2661863-GOOGLE-TWN_MUL-Weekday-03,"Kelso to City and Breakwater",0,508352,2000008
+200-281,GOOGLE-TWN_MUL-Weekday-03,2661864-GOOGLE-TWN_MUL-Weekday-03,"Kelso to City and Breakwater",0,508353,2000008
+200-281,GOOGLE-TWN_MUL-Weekday-03,2661865-GOOGLE-TWN_MUL-Weekday-03,"Kelso to City and Breakwater",0,508354,2000008
+200-281,GOOGLE-TWN_MUL-Weekday-03,2661866-GOOGLE-TWN_MUL-Weekday-03,"Kelso to City and Breakwater",0,508355,2000008
+200-281,GOOGLE-TWN_MUL-Weekday-03,2661867-GOOGLE-TWN_MUL-Weekday-03,"Kelso to City and Breakwater",0,508356,2000008
+200-281,GOOGLE-TWN_MUL-Weekday-03,2661868-GOOGLE-TWN_MUL-Weekday-03,"Kelso to City and Breakwater",0,508357,2000008
+200-281,GOOGLE-TWN_MUL-Weekday-03,2661869-GOOGLE-TWN_MUL-Weekday-03,"Kelso to City and Breakwater",0,508358,2000008
+200-281,GOOGLE-TWN_MUL-Weekday-03,2661870-GOOGLE-TWN_MUL-Weekday-03,"Kelso to City and Breakwater",0,508359,2000008
+200-281,GOOGLE-TWN_MUL-Weekday-03,2661871-GOOGLE-TWN_MUL-Weekday-03,"Kelso to City and Breakwater",0,508360,2000008
+200-281,GOOGLE-TWN_MUL-Weekday-03,2661872-GOOGLE-TWN_MUL-Weekday-03,"Kelso to City and Breakwater",0,508361,2000008
+200-281,GOOGLE-TWN_MUL-Weekday-03,2661873-GOOGLE-TWN_MUL-Weekday-03,"Kelso to City and Breakwater",0,508362,2000008
+200-281,GOOGLE-TWN_MUL-Weekday-03,2661874-GOOGLE-TWN_MUL-Weekday-03,"Kelso to City and Breakwater",0,508363,2000008
+200-281,GOOGLE-TWN_MUL-Weekday-03,2661875-GOOGLE-TWN_MUL-Weekday-03,"Kelso to City and Breakwater",0,508364,2000008
+200-281,GOOGLE-TWN_MUL-Weekday-03,2661876-GOOGLE-TWN_MUL-Weekday-03,"Kelso to City and Breakwater",0,508365,2000008
+200-281,GOOGLE-TWN_MUL-Weekday-03,2661877-GOOGLE-TWN_MUL-Weekday-03,"Kelso to City and Breakwater",0,508366,2000008
+200-281,GOOGLE-TWN_MUL-Weekday-03,2661878-GOOGLE-TWN_MUL-Weekday-03,"Kelso to City and Breakwater",0,508367,2000008
+200-281,GOOGLE-TWN_MUL-Weekday-03,2661879-GOOGLE-TWN_MUL-Weekday-03,"Kelso to City and Breakwater",0,508368,2000008
+200-281,GOOGLE-TWN_MUL-Weekday-03,2661880-GOOGLE-TWN_MUL-Weekday-03,"Kelso to City and Breakwater",0,508369,2000008
+200-281,GOOGLE-TWN_MUL-Weekday-03,2661881-GOOGLE-TWN_MUL-Weekday-03,"Kelso to City and Breakwater",0,508370,2000008
+200-281,GOOGLE-TWN_MUL-Weekday-03,2661882-GOOGLE-TWN_MUL-Weekday-03,"Kelso to City and Breakwater",0,508371,2000008
+200-281,GOOGLE-TWN_MUL-Weekday-03,2661883-GOOGLE-TWN_MUL-Weekday-03,"Kelso to City and Breakwater",0,508372,2000008
+200-281,GOOGLE-TWN_MUL-Weekday-03,2661884-GOOGLE-TWN_MUL-Weekday-03,"Kelso to City and Breakwater",0,508373,2000009
+200-281,GOOGLE-TWN_MUL-Weekday-03,2661885-GOOGLE-TWN_MUL-Weekday-03,"Breakwater and City to Kelso",1,508374,2000010
+200-281,GOOGLE-TWN_MUL-Weekday-03,2661886-GOOGLE-TWN_MUL-Weekday-03,"Breakwater and City to Kelso",1,508375,2000010
+200-281,GOOGLE-TWN_MUL-Weekday-03,2661887-GOOGLE-TWN_MUL-Weekday-03,"Breakwater and City to Kelso",1,508376,2000010
+200-281,GOOGLE-TWN_MUL-Weekday-03,2661888-GOOGLE-TWN_MUL-Weekday-03,"Breakwater and City to Kelso",1,508377,2000010
+200-281,GOOGLE-TWN_MUL-Weekday-03,2661889-GOOGLE-TWN_MUL-Weekday-03,"Breakwater and City to Kelso",1,508378,2000010
+200-281,GOOGLE-TWN_MUL-Weekday-03,2661890-GOOGLE-TWN_MUL-Weekday-03,"Breakwater and City to Kelso",1,508379,2000010
+200-281,GOOGLE-TWN_MUL-Weekday-03,2661891-GOOGLE-TWN_MUL-Weekday-03,"Breakwater and City to Kelso",1,508380,2000010
+200-281,GOOGLE-TWN_MUL-Weekday-03,2661892-GOOGLE-TWN_MUL-Weekday-03,"Breakwater and City to Kelso",1,508381,2000010
+200-281,GOOGLE-TWN_MUL-Weekday-03,2661893-GOOGLE-TWN_MUL-Weekday-03,"Breakwater and City to Kelso",1,508382,2000010
+200-281,GOOGLE-TWN_MUL-Weekday-03,2661894-GOOGLE-TWN_MUL-Weekday-03,"Breakwater and City to Kelso",1,508383,2000010
+200-281,GOOGLE-TWN_MUL-Weekday-03,2661895-GOOGLE-TWN_MUL-Weekday-03,"Breakwater and City to Kelso",1,508384,2000010
+200-281,GOOGLE-TWN_MUL-Weekday-03,2661896-GOOGLE-TWN_MUL-Weekday-03,"Breakwater and City to Kelso",1,508385,2000010
+200-281,GOOGLE-TWN_MUL-Weekday-03,2661897-GOOGLE-TWN_MUL-Weekday-03,"Breakwater and City to Kelso",1,508386,2000010
+200-281,GOOGLE-TWN_MUL-Weekday-03,2661898-GOOGLE-TWN_MUL-Weekday-03,"Breakwater and City to Kelso",1,508387,2000010
+200-281,GOOGLE-TWN_MUL-Weekday-03,2661899-GOOGLE-TWN_MUL-Weekday-03,"Breakwater and City to Kelso",1,508388,2000010
+200-281,GOOGLE-TWN_MUL-Weekday-03,2661900-GOOGLE-TWN_MUL-Weekday-03,"Breakwater and City to Kelso",1,508389,2000010
+200-281,GOOGLE-TWN_MUL-Weekday-03,2661901-GOOGLE-TWN_MUL-Weekday-03,"Breakwater and City to Kelso",1,508390,2000010
+200-281,GOOGLE-TWN_MUL-Weekday-03,2661902-GOOGLE-TWN_MUL-Weekday-03,"Breakwater and City to Kelso",1,508391,2000010
+200-281,GOOGLE-TWN_MUL-Weekday-03,2661903-GOOGLE-TWN_MUL-Weekday-03,"Breakwater and City to Kelso",1,508392,2000010
+200-281,GOOGLE-TWN_MUL-Weekday-03,2661904-GOOGLE-TWN_MUL-Weekday-03,"Breakwater and City to Kelso",1,508393,2000010
+200-281,GOOGLE-TWN_MUL-Weekday-03,2661905-GOOGLE-TWN_MUL-Weekday-03,"Breakwater and City to Kelso",1,508394,2000010
+200-281,GOOGLE-TWN_MUL-Weekday-03,2661906-GOOGLE-TWN_MUL-Weekday-03,"Breakwater and City to Kelso",1,508395,2000010
+200-281,GOOGLE-TWN_MUL-Weekday-03,2661907-GOOGLE-TWN_MUL-Weekday-03,"Breakwater and City to Kelso",1,508396,2000010
+200-281,GOOGLE-TWN_MUL-Weekday-03,2661908-GOOGLE-TWN_MUL-Weekday-03,"Breakwater and City to Kelso",1,508397,2000010
+200-281,GOOGLE-TWN_MUL-Weekday-03,2661909-GOOGLE-TWN_MUL-Weekday-03,"Breakwater and City to Kelso",1,508398,2000010
+200-281,GOOGLE-TWN_MUL-Weekday-03,2661910-GOOGLE-TWN_MUL-Weekday-03,"Breakwater and City to Kelso",1,508399,2000010
+200-281,GOOGLE-TWN_MUL-Weekday-03,2661911-GOOGLE-TWN_MUL-Weekday-03,"Breakwater and City to Kelso",1,508400,2000010
+200-281,GOOGLE-TWN_MUL-Weekday-03,2661912-GOOGLE-TWN_MUL-Weekday-03,"Breakwater and City to Kelso",1,508401,2000010
+200-281,GOOGLE-TWN_MUL-Weekday-03,2661913-GOOGLE-TWN_MUL-Weekday-03,"Breakwater and City to Kelso",1,508402,2000010
+200-281,GOOGLE-TWN_MUL-Weekday-03,2661914-GOOGLE-TWN_MUL-Weekday-03,"Breakwater and City to Kelso",1,508403,2000010
+200-281,GOOGLE-TWN_MUL-Weekday-03,2661915-GOOGLE-TWN_MUL-Weekday-03,"Breakwater and City to Kelso",1,508404,2000010
+200-281,GOOGLE-TWN_MUL-Weekday-03,2661916-GOOGLE-TWN_MUL-Weekday-03,"Breakwater and City to Kelso",1,508405,2000010
+200-281,GOOGLE-TWN_MUL-Weekday-03,2661917-GOOGLE-TWN_MUL-Weekday-03,"Breakwater and City to Kelso",1,508406,2000010
+200-281,GOOGLE-TWN_MUL-Weekday-03,2661918-GOOGLE-TWN_MUL-Weekday-03,"Breakwater and City to Kelso",1,508407,2000010
+200-281,GOOGLE-TWN_MUL-Weekday-03,2661919-GOOGLE-TWN_MUL-Weekday-03,"Breakwater and City to Kelso",1,508408,2000010
+200-281,GOOGLE-TWN_MUL-Weekday-03,2661920-GOOGLE-TWN_MUL-Weekday-03,"Breakwater and City to Kelso",1,508409,2000010
+200-281,GOOGLE-TWN_MUL-Weekday-03,2661921-GOOGLE-TWN_MUL-Weekday-03,"Breakwater and City to Kelso",1,508410,2000010
+200-281,GOOGLE-TWN_MUL-Weekday-03,2661922-GOOGLE-TWN_MUL-Weekday-03,"Breakwater and City to Kelso",1,508411,2000010
+200-281,GOOGLE-TWN_MUL-Weekday-03,2661923-GOOGLE-TWN_MUL-Weekday-03,"Breakwater and City to Kelso",1,508412,2000010
+200-281,GOOGLE-TWN_MUL-Weekday-03,2661924-GOOGLE-TWN_MUL-Weekday-03,"Breakwater and City to Kelso",1,508413,2000010
+200-281,GOOGLE-TWN_MUL-Weekday-03,2661925-GOOGLE-TWN_MUL-Weekday-03,"Breakwater and City to Kelso",1,508414,2000010
+215-281,GOOGLE-TWN_MUL-Weekday-03,2661979-GOOGLE-TWN_MUL-Weekday-03,"Stockland to City via Domain, Garbutt, North Ward",1,508468,2150007
+215-281,GOOGLE-TWN_MUL-Weekday-03,2661980-GOOGLE-TWN_MUL-Weekday-03,"Stockland to City via Domain, Garbutt, North Ward",1,508469,2150007
+215-281,GOOGLE-TWN_MUL-Weekday-03,2661981-GOOGLE-TWN_MUL-Weekday-03,"Stockland to City via Domain, Garbutt, North Ward",1,508470,2150007
+215-281,GOOGLE-TWN_MUL-Weekday-03,2661982-GOOGLE-TWN_MUL-Weekday-03,"Stockland to City via Domain, Garbutt, North Ward",1,508471,2150007
+215-281,GOOGLE-TWN_MUL-Weekday-03,2661983-GOOGLE-TWN_MUL-Weekday-03,"Stockland to City via Domain, Garbutt, North Ward",1,508472,2150007
+215-281,GOOGLE-TWN_MUL-Weekday-03,2661984-GOOGLE-TWN_MUL-Weekday-03,"Stockland to City via Domain, Garbutt, North Ward",1,508473,2150007
+215-281,GOOGLE-TWN_MUL-Weekday-03,2661985-GOOGLE-TWN_MUL-Weekday-03,"Stockland to City via Domain, Garbutt, North Ward",1,508474,2150007
+215-281,GOOGLE-TWN_MUL-Weekday-03,2661986-GOOGLE-TWN_MUL-Weekday-03,"Stockland to City via Domain, Garbutt, North Ward",1,508475,2150007
+215-281,GOOGLE-TWN_MUL-Weekday-03,2661987-GOOGLE-TWN_MUL-Weekday-03,"Stockland to City via Domain, Garbutt, North Ward",1,508476,2150007
+215-281,GOOGLE-TWN_MUL-Weekday-03,2661988-GOOGLE-TWN_MUL-Weekday-03,"Stockland to City via Domain, Garbutt, North Ward",1,508477,2150007
+215-281,GOOGLE-TWN_MUL-Weekday-03,2661989-GOOGLE-TWN_MUL-Weekday-03,"Stockland to City via Domain, Garbutt, North Ward",1,508478,2150007
+215-281,GOOGLE-TWN_MUL-Weekday-03,2661990-GOOGLE-TWN_MUL-Weekday-03,"City to Stockland via North Ward, Garbutt, Domain",0,508479,2150006
+215-281,GOOGLE-TWN_MUL-Weekday-03,2661991-GOOGLE-TWN_MUL-Weekday-03,"City to Stockland via North Ward, Garbutt, Domain",0,508480,2150006
+215-281,GOOGLE-TWN_MUL-Weekday-03,2661992-GOOGLE-TWN_MUL-Weekday-03,"City to Stockland via North Ward, Garbutt, Domain",0,508481,2150006
+215-281,GOOGLE-TWN_MUL-Weekday-03,2661993-GOOGLE-TWN_MUL-Weekday-03,"City to Stockland via North Ward, Garbutt, Domain",0,508482,2150006
+215-281,GOOGLE-TWN_MUL-Weekday-03,2661994-GOOGLE-TWN_MUL-Weekday-03,"City to Stockland via North Ward, Garbutt, Domain",0,508483,2150006
+215-281,GOOGLE-TWN_MUL-Weekday-03,2661995-GOOGLE-TWN_MUL-Weekday-03,"City to Stockland via North Ward, Garbutt, Domain",0,508484,2150006
+215-281,GOOGLE-TWN_MUL-Weekday-03,2661996-GOOGLE-TWN_MUL-Weekday-03,"City to Stockland via North Ward, Garbutt, Domain",0,508485,2150006
+215-281,GOOGLE-TWN_MUL-Weekday-03,2661997-GOOGLE-TWN_MUL-Weekday-03,"City to Stockland via North Ward, Garbutt, Domain",0,508486,2150006
+215-281,GOOGLE-TWN_MUL-Weekday-03,2661998-GOOGLE-TWN_MUL-Weekday-03,"City to Stockland via North Ward, Garbutt, Domain",0,508488,2150006
+215-281,GOOGLE-TWN_MUL-Weekday-03,2661999-GOOGLE-TWN_MUL-Weekday-03,"City to Stockland via North Ward, Garbutt, Domain",0,508487,2150006
+215-281,GOOGLE-TWN_MUL-Weekday-03,2662000-GOOGLE-TWN_MUL-Weekday-03,"City to Stockland via North Ward, Garbutt, Domain",0,508489,2150006
+205-281,GOOGLE-TWN_MUL-Weekday-03,2662001-GOOGLE-TWN_MUL-Weekday-03,"Stockland to City via Garbutt, North Ward",0,508490,2050012
+205-281,GOOGLE-TWN_MUL-Weekday-03,2662002-GOOGLE-TWN_MUL-Weekday-03,"Stockland to City via Garbutt, North Ward",0,508491,2050012
+205-281,GOOGLE-TWN_MUL-Weekday-03,2662003-GOOGLE-TWN_MUL-Weekday-03,"Stockland to City via Garbutt, North Ward",0,508492,2050012
+205-281,GOOGLE-TWN_MUL-Weekday-03,2662004-GOOGLE-TWN_MUL-Weekday-03,"Stockland to City via Garbutt, North Ward",0,508493,2050012
+205-281,GOOGLE-TWN_MUL-Weekday-03,2662005-GOOGLE-TWN_MUL-Weekday-03,"Stockland to City via Garbutt, North Ward",0,508494,2050012
+205-281,GOOGLE-TWN_MUL-Weekday-03,2662006-GOOGLE-TWN_MUL-Weekday-03,"Stockland to City via Garbutt, North Ward",0,508495,2050012
+205-281,GOOGLE-TWN_MUL-Weekday-03,2662007-GOOGLE-TWN_MUL-Weekday-03,"Stockland to City via Garbutt, North Ward",0,508496,2050012
+205-281,GOOGLE-TWN_MUL-Weekday-03,2662008-GOOGLE-TWN_MUL-Weekday-03,"Stockland to City via Garbutt, North Ward",0,508497,2050012
+205-281,GOOGLE-TWN_MUL-Weekday-03,2662009-GOOGLE-TWN_MUL-Weekday-03,"Stockland to City via Garbutt, North Ward",0,508498,2050012
+205-281,GOOGLE-TWN_MUL-Weekday-03,2662010-GOOGLE-TWN_MUL-Weekday-03,"Stockland to City via Garbutt, North Ward",0,508499,2050012
+205-281,GOOGLE-TWN_MUL-Weekday-03,2662011-GOOGLE-TWN_MUL-Weekday-03,"Stockland to City via Garbutt, North Ward",0,508500,2050012
+205-281,GOOGLE-TWN_MUL-Weekday-03,2662012-GOOGLE-TWN_MUL-Weekday-03,"Stockland to City via Garbutt, North Ward",0,508501,2050012
+205-281,GOOGLE-TWN_MUL-Weekday-03,2662013-GOOGLE-TWN_MUL-Weekday-03,"Stockland to City via Garbutt, North Ward",0,508502,2050012
+205-281,GOOGLE-TWN_MUL-Weekday-03,2662014-GOOGLE-TWN_MUL-Weekday-03,"City to Stockland via North Ward, Garbutt",1,508503,2050013
+205-281,GOOGLE-TWN_MUL-Weekday-03,2662015-GOOGLE-TWN_MUL-Weekday-03,"City to Stockland via North Ward, Garbutt",1,508504,2050013
+205-281,GOOGLE-TWN_MUL-Weekday-03,2662016-GOOGLE-TWN_MUL-Weekday-03,"City to Stockland via North Ward, Garbutt",1,508505,2050013
+205-281,GOOGLE-TWN_MUL-Weekday-03,2662017-GOOGLE-TWN_MUL-Weekday-03,"City to Stockland via North Ward, Garbutt",1,508506,2050013
+205-281,GOOGLE-TWN_MUL-Weekday-03,2662018-GOOGLE-TWN_MUL-Weekday-03,"City to Stockland via North Ward, Garbutt",1,508507,2050013
+205-281,GOOGLE-TWN_MUL-Weekday-03,2662019-GOOGLE-TWN_MUL-Weekday-03,"City to Stockland via North Ward, Garbutt",1,508508,2050013
+205-281,GOOGLE-TWN_MUL-Weekday-03,2662020-GOOGLE-TWN_MUL-Weekday-03,"City to Stockland via North Ward, Garbutt",1,508509,2050013
+205-281,GOOGLE-TWN_MUL-Weekday-03,2662021-GOOGLE-TWN_MUL-Weekday-03,"City to Stockland via North Ward, Garbutt",1,508510,2050013
+205-281,GOOGLE-TWN_MUL-Weekday-03,2662022-GOOGLE-TWN_MUL-Weekday-03,"City to Stockland via North Ward, Garbutt",1,508511,2050013
+205-281,GOOGLE-TWN_MUL-Weekday-03,2662023-GOOGLE-TWN_MUL-Weekday-03,"City to Stockland via North Ward, Garbutt",1,508512,2050013
+205-281,GOOGLE-TWN_MUL-Weekday-03,2662024-GOOGLE-TWN_MUL-Weekday-03,"City to Stockland via North Ward, Garbutt",1,508513,2050013
+205-281,GOOGLE-TWN_MUL-Weekday-03,2662025-GOOGLE-TWN_MUL-Weekday-03,"City to Stockland via North Ward, Garbutt",1,508514,2050013
+205-281,GOOGLE-TWN_MUL-Weekday-03,2662026-GOOGLE-TWN_MUL-Weekday-03,"City to Stockland via North Ward, Garbutt",1,508515,2050013
+205-281,GOOGLE-TWN_MUL-Weekday-03,2662027-GOOGLE-TWN_MUL-Weekday-03,"City to Stockland via North Ward, Garbutt",1,508516,2050013
+205-281,GOOGLE-TWN_MUL-Weekday-03,2662028-GOOGLE-TWN_MUL-Weekday-03,"City to Stockland via North Ward, Garbutt",1,508517,2050013
+204-281,GOOGLE-TWN_MUL-Weekday-03,2662044-GOOGLE-TWN_MUL-Weekday-03,"Stockland to City via Mt Louisa",0,508533,2040006
+204-281,GOOGLE-TWN_MUL-Weekday-03,2662045-GOOGLE-TWN_MUL-Weekday-03,"Stockland to City via Mt Louisa",0,508534,2040006
+204-281,GOOGLE-TWN_MUL-Weekday-03,2662046-GOOGLE-TWN_MUL-Weekday-03,"Stockland to City via Mt Louisa",0,508535,2040006
+204-281,GOOGLE-TWN_MUL-Weekday-03,2662047-GOOGLE-TWN_MUL-Weekday-03,"Stockland to City via Mt Louisa",0,508536,2040006
+204-281,GOOGLE-TWN_MUL-Weekday-03,2662048-GOOGLE-TWN_MUL-Weekday-03,"Stockland to City via Mt Louisa",0,508537,2040006
+204-281,GOOGLE-TWN_MUL-Weekday-03,2662049-GOOGLE-TWN_MUL-Weekday-03,"Stockland to City via Mt Louisa",0,508538,2040006
+204-281,GOOGLE-TWN_MUL-Weekday-03,2662050-GOOGLE-TWN_MUL-Weekday-03,"Stockland to City via Mt Louisa",0,508539,2040006
+204-281,GOOGLE-TWN_MUL-Weekday-03,2662051-GOOGLE-TWN_MUL-Weekday-03,"Stockland to City via Mt Louisa",0,508540,2040006
+204-281,GOOGLE-TWN_MUL-Weekday-03,2662052-GOOGLE-TWN_MUL-Weekday-03,"Stockland to City via Mt Louisa",0,508541,2040006
+204-281,GOOGLE-TWN_MUL-Weekday-03,2662053-GOOGLE-TWN_MUL-Weekday-03,"Stockland to City via Mt Louisa",0,508542,2040006
+204-281,GOOGLE-TWN_MUL-Weekday-03,2662054-GOOGLE-TWN_MUL-Weekday-03,"Stockland to City via Mt Louisa",0,508543,2040006
+204-281,GOOGLE-TWN_MUL-Weekday-03,2662055-GOOGLE-TWN_MUL-Weekday-03,"Stockland to City via Mt Louisa",0,508544,2040006
+204-281,GOOGLE-TWN_MUL-Weekday-03,2662056-GOOGLE-TWN_MUL-Weekday-03,"Stockland to City via Mt Louisa",0,508545,2040006
+204-281,GOOGLE-TWN_MUL-Weekday-03,2662057-GOOGLE-TWN_MUL-Weekday-03,"City to Stockland via Mt Louisa",1,508546,2040007
+204-281,GOOGLE-TWN_MUL-Weekday-03,2662058-GOOGLE-TWN_MUL-Weekday-03,"City to Stockland via Mt Louisa",1,508547,2040007
+204-281,GOOGLE-TWN_MUL-Weekday-03,2662059-GOOGLE-TWN_MUL-Weekday-03,"City to Stockland via Mt Louisa",1,508548,2040007
+204-281,GOOGLE-TWN_MUL-Weekday-03,2662060-GOOGLE-TWN_MUL-Weekday-03,"City to Stockland via Mt Louisa",1,508549,2040007
+204-281,GOOGLE-TWN_MUL-Weekday-03,2662061-GOOGLE-TWN_MUL-Weekday-03,"City to Stockland via Mt Louisa",1,508550,2040007
+204-281,GOOGLE-TWN_MUL-Weekday-03,2662062-GOOGLE-TWN_MUL-Weekday-03,"City to Stockland via Mt Louisa",1,508551,2040007
+204-281,GOOGLE-TWN_MUL-Weekday-03,2662063-GOOGLE-TWN_MUL-Weekday-03,"City to Stockland via Mt Louisa",1,508552,2040007
+204-281,GOOGLE-TWN_MUL-Weekday-03,2662064-GOOGLE-TWN_MUL-Weekday-03,"City to Stockland via Mt Louisa",1,508553,2040007
+204-281,GOOGLE-TWN_MUL-Weekday-03,2662065-GOOGLE-TWN_MUL-Weekday-03,"City to Stockland via Mt Louisa",1,508554,2040007
+204-281,GOOGLE-TWN_MUL-Weekday-03,2662066-GOOGLE-TWN_MUL-Weekday-03,"City to Stockland via Mt Louisa",1,508555,2040007
+204-281,GOOGLE-TWN_MUL-Weekday-03,2662067-GOOGLE-TWN_MUL-Weekday-03,"City to Stockland via Mt Louisa",1,508556,2040007
+204-281,GOOGLE-TWN_MUL-Weekday-03,2662068-GOOGLE-TWN_MUL-Weekday-03,"City to Stockland via Mt Louisa",1,508557,2040007
+204-281,GOOGLE-TWN_MUL-Weekday-03,2662069-GOOGLE-TWN_MUL-Weekday-03,"City to Stockland via Mt Louisa",1,508558,2040007
+209-281,GOOGLE-TWN_MUL-Weekday-03,2662086-GOOGLE-TWN_MUL-Weekday-03,"Stockland to City via JCU, Hospital, Wulguru",0,508575,2090005
+209-281,GOOGLE-TWN_MUL-Weekday-03,2662087-GOOGLE-TWN_MUL-Weekday-03,"Stockland to City via JCU, Hospital, Wulguru",0,508576,2090005
+209-281,GOOGLE-TWN_MUL-Weekday-03,2662088-GOOGLE-TWN_MUL-Weekday-03,"Stockland to City via JCU, Hospital, Wulguru",0,508577,2090005
+209-281,GOOGLE-TWN_MUL-Weekday-03,2662089-GOOGLE-TWN_MUL-Weekday-03,"Stockland to City via JCU, Hospital, Wulguru",0,508578,2090005
+209-281,GOOGLE-TWN_MUL-Weekday-03,2662090-GOOGLE-TWN_MUL-Weekday-03,"Stockland to City via JCU, Hospital, Wulguru",0,508579,2090005
+209-281,GOOGLE-TWN_MUL-Weekday-03,2662091-GOOGLE-TWN_MUL-Weekday-03,"Stockland to City via JCU, Hospital, Wulguru",0,508580,2090005
+209-281,GOOGLE-TWN_MUL-Weekday-03,2662092-GOOGLE-TWN_MUL-Weekday-03,"Stockland to City via JCU, Hospital, Wulguru",0,508581,2090005
+209-281,GOOGLE-TWN_MUL-Weekday-03,2662093-GOOGLE-TWN_MUL-Weekday-03,"Stockland to City via JCU, Hospital, Wulguru",0,508582,2090005
+209-281,GOOGLE-TWN_MUL-Weekday-03,2662094-GOOGLE-TWN_MUL-Weekday-03,"Stockland to City via JCU, Hospital, Wulguru",0,508583,2090005
+209-281,GOOGLE-TWN_MUL-Weekday-03,2662095-GOOGLE-TWN_MUL-Weekday-03,"Stockland to City via JCU, Hospital, Wulguru",0,508584,2090005
+209-281,GOOGLE-TWN_MUL-Weekday-03,2662096-GOOGLE-TWN_MUL-Weekday-03,"Stockland to City via JCU, Hospital, Wulguru",0,508585,2090005
+209-281,GOOGLE-TWN_MUL-Weekday-03,2662097-GOOGLE-TWN_MUL-Weekday-03,"Stockland to City via JCU, Hospital, Wulguru",0,508586,2090005
+209-281,GOOGLE-TWN_MUL-Weekday-03,2662098-GOOGLE-TWN_MUL-Weekday-03,"Stockland to City via JCU, Hospital, Wulguru",0,508587,2090005
+209-281,GOOGLE-TWN_MUL-Weekday-03,2662099-GOOGLE-TWN_MUL-Weekday-03,"City to Stockland via Wulguru, JCU, Hospital",1,508588,2090006
+209-281,GOOGLE-TWN_MUL-Weekday-03,2662100-GOOGLE-TWN_MUL-Weekday-03,"City to Stockland via Wulguru, JCU, Hospital",1,508589,2090006
+209-281,GOOGLE-TWN_MUL-Weekday-03,2662101-GOOGLE-TWN_MUL-Weekday-03,"City to Stockland via Wulguru, JCU, Hospital",1,508590,2090006
+209-281,GOOGLE-TWN_MUL-Weekday-03,2662102-GOOGLE-TWN_MUL-Weekday-03,"City to Stockland via Wulguru, JCU, Hospital",1,508591,2090006
+209-281,GOOGLE-TWN_MUL-Weekday-03,2662103-GOOGLE-TWN_MUL-Weekday-03,"City to Stockland via Wulguru, JCU, Hospital",1,508592,2090006
+209-281,GOOGLE-TWN_MUL-Weekday-03,2662104-GOOGLE-TWN_MUL-Weekday-03,"City to Stockland via Wulguru, JCU, Hospital",1,508593,2090006
+209-281,GOOGLE-TWN_MUL-Weekday-03,2662105-GOOGLE-TWN_MUL-Weekday-03,"City to Stockland via Wulguru, JCU, Hospital",1,508594,2090006
+209-281,GOOGLE-TWN_MUL-Weekday-03,2662106-GOOGLE-TWN_MUL-Weekday-03,"City to Stockland via Wulguru, JCU, Hospital",1,508595,2090006
+209-281,GOOGLE-TWN_MUL-Weekday-03,2662107-GOOGLE-TWN_MUL-Weekday-03,"City to Stockland via Wulguru, JCU, Hospital",1,508596,2090006
+209-281,GOOGLE-TWN_MUL-Weekday-03,2662108-GOOGLE-TWN_MUL-Weekday-03,"City to Stockland via Wulguru, JCU, Hospital",1,508597,2090006
+209-281,GOOGLE-TWN_MUL-Weekday-03,2662109-GOOGLE-TWN_MUL-Weekday-03,"City to Stockland via Wulguru, JCU, Hospital",1,508598,2090006
+209-281,GOOGLE-TWN_MUL-Weekday-03,2662110-GOOGLE-TWN_MUL-Weekday-03,"City to Stockland via Wulguru, JCU, Hospital",1,508599,2090006
+209-281,GOOGLE-TWN_MUL-Weekday-03,2662111-GOOGLE-TWN_MUL-Weekday-03,"City to Stockland via Wulguru, JCU, Hospital",1,508600,2090006
+210-281,GOOGLE-TWN_MUL-Weekday-03,2662128-GOOGLE-TWN_MUL-Weekday-03,"University to Willows express via Douglas Arterial",0,508617,2100007
+210-281,GOOGLE-TWN_MUL-Weekday-03,2662129-GOOGLE-TWN_MUL-Weekday-03,"University to Willows express via Douglas Arterial",0,508618,2100007
+210-281,GOOGLE-TWN_MUL-Weekday-03,2662130-GOOGLE-TWN_MUL-Weekday-03,"University to Willows express via Douglas Arterial",0,508619,2100007
+210-281,GOOGLE-TWN_MUL-Weekday-03,2662131-GOOGLE-TWN_MUL-Weekday-03,"University to Willows express via Douglas Arterial",0,508620,2100007
+210-281,GOOGLE-TWN_MUL-Weekday-03,2662132-GOOGLE-TWN_MUL-Weekday-03,"University to Willows express via Douglas Arterial",0,508621,2100007
+210-281,GOOGLE-TWN_MUL-Weekday-03,2662133-GOOGLE-TWN_MUL-Weekday-03,"University to Willows express via Douglas Arterial",0,508622,2100007
+210-281,GOOGLE-TWN_MUL-Weekday-03,2662134-GOOGLE-TWN_MUL-Weekday-03,"University to Willows express via Douglas Arterial",0,508623,2100007
+210-281,GOOGLE-TWN_MUL-Weekday-03,2662135-GOOGLE-TWN_MUL-Weekday-03,"University to Willows express via Douglas Arterial",0,508624,2100007
+210-281,GOOGLE-TWN_MUL-Weekday-03,2662136-GOOGLE-TWN_MUL-Weekday-03,"University to Willows express via Douglas Arterial",0,508625,2100007
+210-281,GOOGLE-TWN_MUL-Weekday-03,2662137-GOOGLE-TWN_MUL-Weekday-03,"University to Willows express via Douglas Arterial",0,508626,2100007
+210-281,GOOGLE-TWN_MUL-Weekday-03,2662138-GOOGLE-TWN_MUL-Weekday-03,"University to Willows express via Douglas Arterial",0,508627,2100007
+210-281,GOOGLE-TWN_MUL-Weekday-03,2662139-GOOGLE-TWN_MUL-Weekday-03,"Willows to University express via Douglas Arterial",1,508628,2100008
+210-281,GOOGLE-TWN_MUL-Weekday-03,2662140-GOOGLE-TWN_MUL-Weekday-03,"Willows to University express via Douglas Arterial",1,508629,2100008
+210-281,GOOGLE-TWN_MUL-Weekday-03,2662141-GOOGLE-TWN_MUL-Weekday-03,"Willows to University express via Douglas Arterial",1,508630,2100008
+210-281,GOOGLE-TWN_MUL-Weekday-03,2662142-GOOGLE-TWN_MUL-Weekday-03,"Willows to University express via Douglas Arterial",1,508631,2100008
+210-281,GOOGLE-TWN_MUL-Weekday-03,2662143-GOOGLE-TWN_MUL-Weekday-03,"Willows to University express via Douglas Arterial",1,508632,2100008
+210-281,GOOGLE-TWN_MUL-Weekday-03,2662144-GOOGLE-TWN_MUL-Weekday-03,"Willows to University express via Douglas Arterial",1,508633,2100008
+210-281,GOOGLE-TWN_MUL-Weekday-03,2662145-GOOGLE-TWN_MUL-Weekday-03,"Willows to University express via Douglas Arterial",1,508634,2100008
+210-281,GOOGLE-TWN_MUL-Weekday-03,2662146-GOOGLE-TWN_MUL-Weekday-03,"Willows to University express via Douglas Arterial",1,508635,2100008
+210-281,GOOGLE-TWN_MUL-Weekday-03,2662147-GOOGLE-TWN_MUL-Weekday-03,"Willows to University express via Douglas Arterial",1,508636,2100008
+210-281,GOOGLE-TWN_MUL-Weekday-03,2662148-GOOGLE-TWN_MUL-Weekday-03,"Willows to University express via Douglas Arterial",1,508637,2100008
+210-281,GOOGLE-TWN_MUL-Weekday-03,2662149-GOOGLE-TWN_MUL-Weekday-03,"Willows to University express via Douglas Arterial",1,508638,2100008
+208-281,GOOGLE-TWN_MUL-Weekday-03,2662162-GOOGLE-TWN_MUL-Weekday-03,"Willows to City via Heatley, Stockland, JCU, Annandale",0,508651,2080015
+208-281,GOOGLE-TWN_MUL-Weekday-03,2662163-GOOGLE-TWN_MUL-Weekday-03,"Willows to City via Heatley, Stockland, JCU, Annandale",0,508652,2080015
+208-281,GOOGLE-TWN_MUL-Weekday-03,2662164-GOOGLE-TWN_MUL-Weekday-03,"Willows to City via Heatley, Stockland, JCU, Annandale",0,508653,2080015
+208-281,GOOGLE-TWN_MUL-Weekday-03,2662165-GOOGLE-TWN_MUL-Weekday-03,"Willows to City via Heatley, Stockland, JCU, Annandale",0,508654,2080015
+208-281,GOOGLE-TWN_MUL-Weekday-03,2662166-GOOGLE-TWN_MUL-Weekday-03,"Willows to City via Heatley, Stockland, JCU, Annandale",0,508655,2080015
+208-281,GOOGLE-TWN_MUL-Weekday-03,2662167-GOOGLE-TWN_MUL-Weekday-03,"Willows to City via Heatley, Stockland, JCU, Annandale",0,508656,2080015
+208-281,GOOGLE-TWN_MUL-Weekday-03,2662168-GOOGLE-TWN_MUL-Weekday-03,"Willows to City via Heatley, Stockland, JCU, Annandale",0,508657,2080015
+208-281,GOOGLE-TWN_MUL-Weekday-03,2662169-GOOGLE-TWN_MUL-Weekday-03,"Willows to City via Heatley, Stockland, JCU, Annandale",0,508658,2080015
+208-281,GOOGLE-TWN_MUL-Weekday-03,2662170-GOOGLE-TWN_MUL-Weekday-03,"Willows to City via Heatley, Stockland, JCU, Annandale",0,508659,2080015
+208-281,GOOGLE-TWN_MUL-Weekday-03,2662171-GOOGLE-TWN_MUL-Weekday-03,"Willows to City via Heatley, Stockland, JCU, Annandale",0,508660,2080015
+208-281,GOOGLE-TWN_MUL-Weekday-03,2662172-GOOGLE-TWN_MUL-Weekday-03,"Willows to City via Heatley, Stockland, JCU, Annandale",0,508661,2080015
+208-281,GOOGLE-TWN_MUL-Weekday-03,2662173-GOOGLE-TWN_MUL-Weekday-03,"Willows to City via Heatley, Stockland, JCU, Annandale",0,508662,2080015
+208-281,GOOGLE-TWN_MUL-Weekday-03,2662174-GOOGLE-TWN_MUL-Weekday-03,"City to Willows via Annandale, Hospital, University, Heatley",1,508663,2080016
+208-281,GOOGLE-TWN_MUL-Weekday-03,2662175-GOOGLE-TWN_MUL-Weekday-03,"City to Willows via Annandale, Hospital, University, Heatley",1,508664,2080016
+208-281,GOOGLE-TWN_MUL-Weekday-03,2662176-GOOGLE-TWN_MUL-Weekday-03,"City to Willows via Annandale, Hospital, University, Heatley",1,508665,2080016
+208-281,GOOGLE-TWN_MUL-Weekday-03,2662177-GOOGLE-TWN_MUL-Weekday-03,"City to Willows via Annandale, Hospital, University, Heatley",1,508666,2080016
+208-281,GOOGLE-TWN_MUL-Weekday-03,2662178-GOOGLE-TWN_MUL-Weekday-03,"City to Willows via Annandale, Hospital, University, Heatley",1,508667,2080016
+208-281,GOOGLE-TWN_MUL-Weekday-03,2662179-GOOGLE-TWN_MUL-Weekday-03,"City to Willows via Annandale, Hospital, University, Heatley",1,508668,2080016
+208-281,GOOGLE-TWN_MUL-Weekday-03,2662180-GOOGLE-TWN_MUL-Weekday-03,"City to Willows via Annandale, Hospital, University, Heatley",1,508669,2080016
+208-281,GOOGLE-TWN_MUL-Weekday-03,2662181-GOOGLE-TWN_MUL-Weekday-03,"City to Willows via Annandale, Hospital, University, Heatley",1,508670,2080016
+208-281,GOOGLE-TWN_MUL-Weekday-03,2662182-GOOGLE-TWN_MUL-Weekday-03,"City to Willows via Annandale, Hospital, University, Heatley",1,508671,2080016
+208-281,GOOGLE-TWN_MUL-Weekday-03,2662183-GOOGLE-TWN_MUL-Weekday-03,"City to Willows via Annandale, Hospital, University, Heatley",1,508672,2080016
+208-281,GOOGLE-TWN_MUL-Weekday-03,2662184-GOOGLE-TWN_MUL-Weekday-03,"City to Willows via Annandale, Hospital, University, Heatley",1,508673,2080016
+208-281,GOOGLE-TWN_MUL-Weekday-03,2662185-GOOGLE-TWN_MUL-Weekday-03,"City to Willows via Annandale, Hospital, University, Heatley",1,508674,2080016
+208-281,GOOGLE-TWN_MUL-Weekday-03,2662186-GOOGLE-TWN_MUL-Weekday-03,"City to Willows via Annandale, Hospital, University, Heatley",1,508675,2080017
+207-281,GOOGLE-TWN_MUL-Weekday-03,2662201-GOOGLE-TWN_MUL-Weekday-03,"Stuart to City via Fairfield Waters",0,508690,2070006
+207-281,GOOGLE-TWN_MUL-Weekday-03,2662202-GOOGLE-TWN_MUL-Weekday-03,"Stuart to City via Fairfield Waters",0,508691,2070006
+207-281,GOOGLE-TWN_MUL-Weekday-03,2662203-GOOGLE-TWN_MUL-Weekday-03,"Stuart to City via Fairfield Waters",0,508692,2070006
+207-281,GOOGLE-TWN_MUL-Weekday-03,2662204-GOOGLE-TWN_MUL-Weekday-03,"Stuart to City via Fairfield Waters",0,508693,2070006
+207-281,GOOGLE-TWN_MUL-Weekday-03,2662205-GOOGLE-TWN_MUL-Weekday-03,"City to Stuart via Fairfield Waters",1,508694,2070007
+207-281,GOOGLE-TWN_MUL-Weekday-03,2662206-GOOGLE-TWN_MUL-Weekday-03,"City to Stuart via Fairfield Waters",1,508695,2070007
+207-281,GOOGLE-TWN_MUL-Weekday-03,2662207-GOOGLE-TWN_MUL-Weekday-03,"City to Stuart via Fairfield Waters",1,508696,2070007
+207-281,GOOGLE-TWN_MUL-Weekday-03,2662208-GOOGLE-TWN_MUL-Weekday-03,"City to Stuart via Fairfield Waters",1,508697,2070007
+206-281,GOOGLE-TWN_MUL-Weekday-03,2662209-GOOGLE-TWN_MUL-Weekday-03,"Townsville City - Cape Pallarenda",1,508698,2060010
+206-281,GOOGLE-TWN_MUL-Weekday-03,2662210-GOOGLE-TWN_MUL-Weekday-03,"Townsville City - Cape Pallarenda",1,508699,2060010
+206-281,GOOGLE-TWN_MUL-Weekday-03,2662211-GOOGLE-TWN_MUL-Weekday-03,"Townsville City - Cape Pallarenda",1,508700,2060010
+206-281,GOOGLE-TWN_MUL-Weekday-03,2662212-GOOGLE-TWN_MUL-Weekday-03,"Townsville City - Cape Pallarenda",1,508701,2060010
+206-281,GOOGLE-TWN_MUL-Weekday-03,2662213-GOOGLE-TWN_MUL-Weekday-03,"Townsville City - Cape Pallarenda",1,508702,2060010
+206-281,GOOGLE-TWN_MUL-Weekday-03,2662214-GOOGLE-TWN_MUL-Weekday-03,"Townsville City - Cape Pallarenda",1,508703,2060010
+206-281,GOOGLE-TWN_MUL-Weekday-03,2662215-GOOGLE-TWN_MUL-Weekday-03,"Townsville City - Cape Pallarenda",1,508704,2060010
+206-281,GOOGLE-TWN_MUL-Weekday-03,2662216-GOOGLE-TWN_MUL-Weekday-03,"Townsville City - Cape Pallarenda",1,508705,2060010
+206-281,GOOGLE-TWN_MUL-Weekday-03,2662217-GOOGLE-TWN_MUL-Weekday-03,"Townsville City - Cape Pallarenda",1,508706,2060010
+206-281,GOOGLE-TWN_MUL-Weekday-03,2662218-GOOGLE-TWN_MUL-Weekday-03,"Townsville City - Cape Pallarenda",1,508707,2060010
+206-281,GOOGLE-TWN_MUL-Weekday-03,2662219-GOOGLE-TWN_MUL-Weekday-03,"Townsville City - Cape Pallarenda",1,508708,2060010
+206-281,GOOGLE-TWN_MUL-Weekday-03,2662220-GOOGLE-TWN_MUL-Weekday-03," Cape Pallarenda - Townsville City",0,508709,2060009
+206-281,GOOGLE-TWN_MUL-Weekday-03,2662221-GOOGLE-TWN_MUL-Weekday-03," Cape Pallarenda - Townsville City",0,508710,2060009
+206-281,GOOGLE-TWN_MUL-Weekday-03,2662222-GOOGLE-TWN_MUL-Weekday-03," Cape Pallarenda - Townsville City",0,508711,2060009
+206-281,GOOGLE-TWN_MUL-Weekday-03,2662223-GOOGLE-TWN_MUL-Weekday-03," Cape Pallarenda - Townsville City",0,508712,2060009
+206-281,GOOGLE-TWN_MUL-Weekday-03,2662224-GOOGLE-TWN_MUL-Weekday-03," Cape Pallarenda - Townsville City",0,508713,2060009
+206-281,GOOGLE-TWN_MUL-Weekday-03,2662225-GOOGLE-TWN_MUL-Weekday-03," Cape Pallarenda - Townsville City",0,508714,2060009
+206-281,GOOGLE-TWN_MUL-Weekday-03,2662226-GOOGLE-TWN_MUL-Weekday-03," Cape Pallarenda - Townsville City",0,508715,2060009
+206-281,GOOGLE-TWN_MUL-Weekday-03,2662227-GOOGLE-TWN_MUL-Weekday-03," Cape Pallarenda - Townsville City",0,508716,2060009
+206-281,GOOGLE-TWN_MUL-Weekday-03,2662228-GOOGLE-TWN_MUL-Weekday-03," Cape Pallarenda - Townsville City",0,508717,2060009
+206-281,GOOGLE-TWN_MUL-Weekday-03,2662229-GOOGLE-TWN_MUL-Weekday-03," Cape Pallarenda - Townsville City",0,508718,2060009
+206-281,GOOGLE-TWN_MUL-Weekday-03,2662230-GOOGLE-TWN_MUL-Weekday-03," Cape Pallarenda - Townsville City",0,508719,2060009
+203-281,GOOGLE-TWN_MUL-Weekday-03,2662242-GOOGLE-TWN_MUL-Weekday-03,"Kirwan to City via Willows, Heatley, Stockland, Castletown",0,508731,2030008
+203-281,GOOGLE-TWN_MUL-Weekday-03,2662243-GOOGLE-TWN_MUL-Weekday-03,"Kirwan to City via Willows, Heatley, Stockland, Castletown",0,508732,2030008
+203-281,GOOGLE-TWN_MUL-Weekday-03,2662244-GOOGLE-TWN_MUL-Weekday-03,"Kirwan to City via Willows, Heatley, Stockland, Castletown",0,508733,2030008
+203-281,GOOGLE-TWN_MUL-Weekday-03,2662245-GOOGLE-TWN_MUL-Weekday-03,"Kirwan to City via Willows, Heatley, Stockland, Castletown",0,508734,2030008
+203-281,GOOGLE-TWN_MUL-Weekday-03,2662246-GOOGLE-TWN_MUL-Weekday-03,"Kirwan to City via Willows, Heatley, Stockland, Castletown",0,508735,2030008
+203-281,GOOGLE-TWN_MUL-Weekday-03,2662247-GOOGLE-TWN_MUL-Weekday-03,"Kirwan to City via Willows, Heatley, Stockland, Castletown",0,508736,2030008
+203-281,GOOGLE-TWN_MUL-Weekday-03,2662248-GOOGLE-TWN_MUL-Weekday-03,"Kirwan to City via Willows, Heatley, Stockland, Castletown",0,508737,2030008
+203-281,GOOGLE-TWN_MUL-Weekday-03,2662249-GOOGLE-TWN_MUL-Weekday-03,"Kirwan to City via Willows, Heatley, Stockland, Castletown",0,508738,2030008
+203-281,GOOGLE-TWN_MUL-Weekday-03,2662250-GOOGLE-TWN_MUL-Weekday-03,"Kirwan to City via Willows, Heatley, Stockland, Castletown",0,508739,2030008
+203-281,GOOGLE-TWN_MUL-Weekday-03,2662251-GOOGLE-TWN_MUL-Weekday-03,"Kirwan to City via Willows, Heatley, Stockland, Castletown",0,508740,2030008
+203-281,GOOGLE-TWN_MUL-Weekday-03,2662252-GOOGLE-TWN_MUL-Weekday-03,"Kirwan to City via Willows, Heatley, Stockland, Castletown",0,508741,2030008
+203-281,GOOGLE-TWN_MUL-Weekday-03,2662253-GOOGLE-TWN_MUL-Weekday-03,"Kirwan to City via Willows, Heatley, Stockland, Castletown",0,508742,2030008
+203-281,GOOGLE-TWN_MUL-Weekday-03,2662254-GOOGLE-TWN_MUL-Weekday-03,"Kirwan to City via Willows, Heatley, Stockland, Castletown",0,508743,2030008
+203-281,GOOGLE-TWN_MUL-Weekday-03,2662255-GOOGLE-TWN_MUL-Weekday-03,"Kirwan to City via Willows, Heatley, Stockland, Castletown",0,508744,2030008
+203-281,GOOGLE-TWN_MUL-Weekday-03,2662256-GOOGLE-TWN_MUL-Weekday-03,"Kirwan to City via Willows, Heatley, Stockland, Castletown",0,508745,2030008
+203-281,GOOGLE-TWN_MUL-Weekday-03,2662257-GOOGLE-TWN_MUL-Weekday-03,"Kirwan to City via Willows, Heatley, Stockland, Castletown",0,508746,2030008
+203-281,GOOGLE-TWN_MUL-Weekday-03,2662258-GOOGLE-TWN_MUL-Weekday-03,"Kirwan to City via Willows, Heatley, Stockland, Castletown",0,508747,2030008
+203-281,GOOGLE-TWN_MUL-Weekday-03,2662259-GOOGLE-TWN_MUL-Weekday-03,"Kirwan to City via Willows, Heatley, Stockland, Castletown",0,508748,2030008
+203-281,GOOGLE-TWN_MUL-Weekday-03,2662260-GOOGLE-TWN_MUL-Weekday-03,"Kirwan to City via Willows, Heatley, Stockland, Castletown",0,508749,2030008
+203-281,GOOGLE-TWN_MUL-Weekday-03,2662261-GOOGLE-TWN_MUL-Weekday-03,"Kirwan to City via Willows, Heatley, Stockland, Castletown",0,508750,2030008
+203-281,GOOGLE-TWN_MUL-Weekday-03,2662262-GOOGLE-TWN_MUL-Weekday-03,"Kirwan to City via Willows, Heatley, Stockland, Castletown",0,508751,2030008
+203-281,GOOGLE-TWN_MUL-Weekday-03,2662263-GOOGLE-TWN_MUL-Weekday-03,"Kirwan to City via Willows, Heatley, Stockland, Castletown",0,508752,2030008
+203-281,GOOGLE-TWN_MUL-Weekday-03,2662264-GOOGLE-TWN_MUL-Weekday-03,"Kirwan to City via Willows, Heatley, Stockland, Castletown",0,508753,2030008
+203-281,GOOGLE-TWN_MUL-Weekday-03,2662265-GOOGLE-TWN_MUL-Weekday-03,"Kirwan to City via Willows, Heatley, Stockland, Castletown",0,508754,2030008
+203-281,GOOGLE-TWN_MUL-Weekday-03,2662266-GOOGLE-TWN_MUL-Weekday-03,"Kirwan to City via Willows, Heatley, Stockland, Castletown",0,508755,2030008
+203-281,GOOGLE-TWN_MUL-Weekday-03,2662267-GOOGLE-TWN_MUL-Weekday-03,"Kirwan to City via Willows, Heatley, Stockland, Castletown",0,508756,2030008
+203-281,GOOGLE-TWN_MUL-Weekday-03,2662268-GOOGLE-TWN_MUL-Weekday-03,"Kirwan to City via Willows, Heatley, Stockland, Castletown",0,508757,2030008
+203-281,GOOGLE-TWN_MUL-Weekday-03,2662269-GOOGLE-TWN_MUL-Weekday-03,"Kirwan to City via Willows, Heatley, Stockland, Castletown",0,508758,2030008
+203-281,GOOGLE-TWN_MUL-Weekday-03,2662270-GOOGLE-TWN_MUL-Weekday-03,"City to Kirwan via Castletown, Stockland, Heatley, Willows",1,508759,2030009
+203-281,GOOGLE-TWN_MUL-Weekday-03,2662271-GOOGLE-TWN_MUL-Weekday-03,"City to Kirwan via Castletown, Stockland, Heatley, Willows",1,508760,2030009
+203-281,GOOGLE-TWN_MUL-Weekday-03,2662272-GOOGLE-TWN_MUL-Weekday-03,"City to Kirwan via Castletown, Stockland, Heatley, Willows",1,508761,2030009
+203-281,GOOGLE-TWN_MUL-Weekday-03,2662273-GOOGLE-TWN_MUL-Weekday-03,"City to Kirwan via Castletown, Stockland, Heatley, Willows",1,508762,2030009
+203-281,GOOGLE-TWN_MUL-Weekday-03,2662274-GOOGLE-TWN_MUL-Weekday-03,"City to Kirwan via Castletown, Stockland, Heatley, Willows",1,508763,2030009
+203-281,GOOGLE-TWN_MUL-Weekday-03,2662275-GOOGLE-TWN_MUL-Weekday-03,"City to Kirwan via Castletown, Stockland, Heatley, Willows",1,508764,2030009
+203-281,GOOGLE-TWN_MUL-Weekday-03,2662276-GOOGLE-TWN_MUL-Weekday-03,"City to Kirwan via Castletown, Stockland, Heatley, Willows",1,508765,2030009
+203-281,GOOGLE-TWN_MUL-Weekday-03,2662277-GOOGLE-TWN_MUL-Weekday-03,"City to Kirwan via Castletown, Stockland, Heatley, Willows",1,508766,2030009
+203-281,GOOGLE-TWN_MUL-Weekday-03,2662278-GOOGLE-TWN_MUL-Weekday-03,"City to Kirwan via Castletown, Stockland, Heatley, Willows",1,508767,2030009
+203-281,GOOGLE-TWN_MUL-Weekday-03,2662279-GOOGLE-TWN_MUL-Weekday-03,"City to Kirwan via Castletown, Stockland, Heatley, Willows",1,508768,2030009
+203-281,GOOGLE-TWN_MUL-Weekday-03,2662280-GOOGLE-TWN_MUL-Weekday-03,"City to Kirwan via Castletown, Stockland, Heatley, Willows",1,508769,2030009
+203-281,GOOGLE-TWN_MUL-Weekday-03,2662281-GOOGLE-TWN_MUL-Weekday-03,"City to Kirwan via Castletown, Stockland, Heatley, Willows",1,508770,2030009
+203-281,GOOGLE-TWN_MUL-Weekday-03,2662282-GOOGLE-TWN_MUL-Weekday-03,"City to Kirwan via Castletown, Stockland, Heatley, Willows",1,508771,2030009
+203-281,GOOGLE-TWN_MUL-Weekday-03,2662283-GOOGLE-TWN_MUL-Weekday-03,"City to Kirwan via Castletown, Stockland, Heatley, Willows",1,508772,2030009
+203-281,GOOGLE-TWN_MUL-Weekday-03,2662284-GOOGLE-TWN_MUL-Weekday-03,"City to Kirwan via Castletown, Stockland, Heatley, Willows",1,508773,2030009
+203-281,GOOGLE-TWN_MUL-Weekday-03,2662285-GOOGLE-TWN_MUL-Weekday-03,"City to Kirwan via Castletown, Stockland, Heatley, Willows",1,508774,2030009
+203-281,GOOGLE-TWN_MUL-Weekday-03,2662286-GOOGLE-TWN_MUL-Weekday-03,"City to Kirwan via Castletown, Stockland, Heatley, Willows",1,508775,2030009
+203-281,GOOGLE-TWN_MUL-Weekday-03,2662287-GOOGLE-TWN_MUL-Weekday-03,"City to Kirwan via Castletown, Stockland, Heatley, Willows",1,508776,2030009
+203-281,GOOGLE-TWN_MUL-Weekday-03,2662288-GOOGLE-TWN_MUL-Weekday-03,"City to Kirwan via Castletown, Stockland, Heatley, Willows",1,508777,2030009
+203-281,GOOGLE-TWN_MUL-Weekday-03,2662289-GOOGLE-TWN_MUL-Weekday-03,"City to Kirwan via Castletown, Stockland, Heatley, Willows",1,508778,2030009
+203-281,GOOGLE-TWN_MUL-Weekday-03,2662290-GOOGLE-TWN_MUL-Weekday-03,"City to Kirwan via Castletown, Stockland, Heatley, Willows",1,508779,2030009
+203-281,GOOGLE-TWN_MUL-Weekday-03,2662291-GOOGLE-TWN_MUL-Weekday-03,"City to Kirwan via Castletown, Stockland, Heatley, Willows",1,508780,2030009
+203-281,GOOGLE-TWN_MUL-Weekday-03,2662292-GOOGLE-TWN_MUL-Weekday-03,"City to Kirwan via Castletown, Stockland, Heatley, Willows",1,508781,2030009
+203-281,GOOGLE-TWN_MUL-Weekday-03,2662293-GOOGLE-TWN_MUL-Weekday-03,"City to Kirwan via Castletown, Stockland, Heatley, Willows",1,508782,2030009
+203-281,GOOGLE-TWN_MUL-Weekday-03,2662294-GOOGLE-TWN_MUL-Weekday-03,"City to Kirwan via Castletown, Stockland, Heatley, Willows",1,508783,2030009
+203-281,GOOGLE-TWN_MUL-Weekday-03,2662295-GOOGLE-TWN_MUL-Weekday-03,"City to Kirwan via Castletown, Stockland, Heatley, Willows",1,508785,2030009
+203-281,GOOGLE-TWN_MUL-Weekday-03,2662296-GOOGLE-TWN_MUL-Weekday-03,"City to Kirwan via Castletown, Stockland, Heatley, Willows",1,508784,2030009
+202-281,GOOGLE-TWN_MUL-Weekday-03,2662327-GOOGLE-TWN_MUL-Weekday-03,"University to City via Douglas, Stockland, Gulliver",0,508818,2020005
+202-281,GOOGLE-TWN_MUL-Weekday-03,2662328-GOOGLE-TWN_MUL-Weekday-03,"University to City via Douglas, Stockland, Gulliver",0,508816,2020005
+202-281,GOOGLE-TWN_MUL-Weekday-03,2662329-GOOGLE-TWN_MUL-Weekday-03,"University to City via Douglas, Stockland, Gulliver",0,508817,2020005
+202-281,GOOGLE-TWN_MUL-Weekday-03,2662330-GOOGLE-TWN_MUL-Weekday-03,"University to City via Douglas, Stockland, Gulliver",0,508819,2020005
+202-281,GOOGLE-TWN_MUL-Weekday-03,2662331-GOOGLE-TWN_MUL-Weekday-03,"University to City via Douglas, Stockland, Gulliver",0,508820,2020005
+202-281,GOOGLE-TWN_MUL-Weekday-03,2662332-GOOGLE-TWN_MUL-Weekday-03,"University to City via Douglas, Stockland, Gulliver",0,508822,2020005
+202-281,GOOGLE-TWN_MUL-Weekday-03,2662333-GOOGLE-TWN_MUL-Weekday-03,"University to City via Douglas, Stockland, Gulliver",0,508821,2020005
+202-281,GOOGLE-TWN_MUL-Weekday-03,2662334-GOOGLE-TWN_MUL-Weekday-03,"University to City via Douglas, Stockland, Gulliver",0,508823,2020005
+202-281,GOOGLE-TWN_MUL-Weekday-03,2662335-GOOGLE-TWN_MUL-Weekday-03,"University to City via Douglas, Stockland, Gulliver",0,508824,2020005
+202-281,GOOGLE-TWN_MUL-Weekday-03,2662336-GOOGLE-TWN_MUL-Weekday-03,"University to City via Douglas, Stockland, Gulliver",0,508825,2020005
+202-281,GOOGLE-TWN_MUL-Weekday-03,2662337-GOOGLE-TWN_MUL-Weekday-03,"University to City via Douglas, Stockland, Gulliver",0,508826,2020005
+202-281,GOOGLE-TWN_MUL-Weekday-03,2662338-GOOGLE-TWN_MUL-Weekday-03,"University to City via Douglas, Stockland, Gulliver",0,508827,2020005
+202-281,GOOGLE-TWN_MUL-Weekday-03,2662339-GOOGLE-TWN_MUL-Weekday-03,"City to University via Gulliver, Stockland, Douglas",1,508828,2020006
+202-281,GOOGLE-TWN_MUL-Weekday-03,2662340-GOOGLE-TWN_MUL-Weekday-03,"City to University via Gulliver, Stockland, Douglas",1,508829,2020006
+202-281,GOOGLE-TWN_MUL-Weekday-03,2662341-GOOGLE-TWN_MUL-Weekday-03,"City to University via Gulliver, Stockland, Douglas",1,508830,2020006
+202-281,GOOGLE-TWN_MUL-Weekday-03,2662342-GOOGLE-TWN_MUL-Weekday-03,"City to University via Gulliver, Stockland, Douglas",1,508831,2020006
+202-281,GOOGLE-TWN_MUL-Weekday-03,2662343-GOOGLE-TWN_MUL-Weekday-03,"City to University via Gulliver, Stockland, Douglas",1,508832,2020006
+202-281,GOOGLE-TWN_MUL-Weekday-03,2662344-GOOGLE-TWN_MUL-Weekday-03,"City to University via Gulliver, Stockland, Douglas",1,508833,2020006
+202-281,GOOGLE-TWN_MUL-Weekday-03,2662345-GOOGLE-TWN_MUL-Weekday-03,"City to University via Gulliver, Stockland, Douglas",1,508834,2020006
+202-281,GOOGLE-TWN_MUL-Weekday-03,2662346-GOOGLE-TWN_MUL-Weekday-03,"City to University via Gulliver, Stockland, Douglas",1,508835,2020006
+202-281,GOOGLE-TWN_MUL-Weekday-03,2662347-GOOGLE-TWN_MUL-Weekday-03,"City to University via Gulliver, Stockland, Douglas",1,508836,2020006
+202-281,GOOGLE-TWN_MUL-Weekday-03,2662348-GOOGLE-TWN_MUL-Weekday-03,"City to University via Gulliver, Stockland, Douglas",1,508837,2020006
+202-281,GOOGLE-TWN_MUL-Weekday-03,2662349-GOOGLE-TWN_MUL-Weekday-03,"City to University via Gulliver, Stockland, Douglas",1,508838,2020006
+202-281,GOOGLE-TWN_MUL-Weekday-03,2662350-GOOGLE-TWN_MUL-Weekday-03,"City to University via Gulliver, Stockland, Douglas",1,508839,2020006
+202-281,GOOGLE-TWN_MUL-Weekday-03,2662351-GOOGLE-TWN_MUL-Weekday-03,"City to University via Gulliver, Stockland, Douglas",1,508840,2020006
+201-281,GOOGLE-TWN_MUL-Weekday-03,2662366-GOOGLE-TWN_MUL-Weekday-03,"University to City and Breakwater",0,508855,2010034
+201-281,GOOGLE-TWN_MUL-Weekday-03,2662367-GOOGLE-TWN_MUL-Weekday-03,"University to City and Breakwater",0,508856,2010034
+201-281,GOOGLE-TWN_MUL-Weekday-03,2662368-GOOGLE-TWN_MUL-Weekday-03,"University to City and Breakwater",0,508857,2010034
+201-281,GOOGLE-TWN_MUL-Weekday-03,2662369-GOOGLE-TWN_MUL-Weekday-03,"University to City and Breakwater",0,508858,2010034
+201-281,GOOGLE-TWN_MUL-Weekday-03,2662370-GOOGLE-TWN_MUL-Weekday-03,"University to City and Breakwater",0,508859,2010034
+201-281,GOOGLE-TWN_MUL-Weekday-03,2662371-GOOGLE-TWN_MUL-Weekday-03,"University to City and Breakwater",0,508860,2010034
+201-281,GOOGLE-TWN_MUL-Weekday-03,2662372-GOOGLE-TWN_MUL-Weekday-03,"University to City and Breakwater",0,508861,2010034
+201-281,GOOGLE-TWN_MUL-Weekday-03,2662373-GOOGLE-TWN_MUL-Weekday-03,"University to City and Breakwater",0,508862,2010034
+201-281,GOOGLE-TWN_MUL-Weekday-03,2662374-GOOGLE-TWN_MUL-Weekday-03,"University to City and Breakwater",0,508863,2010034
+201-281,GOOGLE-TWN_MUL-Weekday-03,2662375-GOOGLE-TWN_MUL-Weekday-03,"University to City and Breakwater",0,508864,2010034
+201-281,GOOGLE-TWN_MUL-Weekday-03,2662376-GOOGLE-TWN_MUL-Weekday-03,"University to City and Breakwater",0,508865,2010034
+201-281,GOOGLE-TWN_MUL-Weekday-03,2662377-GOOGLE-TWN_MUL-Weekday-03,"University to City and Breakwater",0,508866,2010034
+201-281,GOOGLE-TWN_MUL-Weekday-03,2662378-GOOGLE-TWN_MUL-Weekday-03,"University to City and Breakwater",0,508867,2010034
+201-281,GOOGLE-TWN_MUL-Weekday-03,2662379-GOOGLE-TWN_MUL-Weekday-03,"University to City and Breakwater",0,508868,2010034
+201-281,GOOGLE-TWN_MUL-Weekday-03,2662380-GOOGLE-TWN_MUL-Weekday-03,"University to City and Breakwater",0,508869,2010034
+201-281,GOOGLE-TWN_MUL-Weekday-03,2662381-GOOGLE-TWN_MUL-Weekday-03,"University to City and Breakwater",0,508870,2010034
+201-281,GOOGLE-TWN_MUL-Weekday-03,2662382-GOOGLE-TWN_MUL-Weekday-03,"University to City and Breakwater",0,508871,2010034
+201-281,GOOGLE-TWN_MUL-Weekday-03,2662383-GOOGLE-TWN_MUL-Weekday-03,"University to City and Breakwater",0,508872,2010034
+201-281,GOOGLE-TWN_MUL-Weekday-03,2662384-GOOGLE-TWN_MUL-Weekday-03,"University to City and Breakwater",0,508873,2010034
+201-281,GOOGLE-TWN_MUL-Weekday-03,2662385-GOOGLE-TWN_MUL-Weekday-03,"University to City and Breakwater",0,508874,2010034
+201-281,GOOGLE-TWN_MUL-Weekday-03,2662386-GOOGLE-TWN_MUL-Weekday-03,"University to City and Breakwater",0,508875,2010034
+201-281,GOOGLE-TWN_MUL-Weekday-03,2662387-GOOGLE-TWN_MUL-Weekday-03,"University to City and Breakwater",0,508876,2010034
+201-281,GOOGLE-TWN_MUL-Weekday-03,2662388-GOOGLE-TWN_MUL-Weekday-03,"University to City and Breakwater",0,508877,2010034
+201-281,GOOGLE-TWN_MUL-Weekday-03,2662389-GOOGLE-TWN_MUL-Weekday-03,"University to City and Breakwater",0,508878,2010034
+201-281,GOOGLE-TWN_MUL-Weekday-03,2662390-GOOGLE-TWN_MUL-Weekday-03,"University to City and Breakwater",0,508879,2010034
+201-281,GOOGLE-TWN_MUL-Weekday-03,2662391-GOOGLE-TWN_MUL-Weekday-03,"University to City and Breakwater",0,508880,2010034
+201-281,GOOGLE-TWN_MUL-Weekday-03,2662392-GOOGLE-TWN_MUL-Weekday-03,"University to City and Breakwater",0,508881,2010034
+201-281,GOOGLE-TWN_MUL-Weekday-03,2662393-GOOGLE-TWN_MUL-Weekday-03,"University to City and Breakwater",0,508882,2010034
+201-281,GOOGLE-TWN_MUL-Weekday-03,2662394-GOOGLE-TWN_MUL-Weekday-03,"University to City and Breakwater",0,508883,2010034
+201-281,GOOGLE-TWN_MUL-Weekday-03,2662395-GOOGLE-TWN_MUL-Weekday-03,"University to City and Breakwater",0,508884,2010034
+201-281,GOOGLE-TWN_MUL-Weekday-03,2662396-GOOGLE-TWN_MUL-Weekday-03,"University to City and Breakwater",0,508885,2010034
+201-281,GOOGLE-TWN_MUL-Weekday-03,2662397-GOOGLE-TWN_MUL-Weekday-03,"University to City and Breakwater",0,508886,2010034
+201-281,GOOGLE-TWN_MUL-Weekday-03,2662398-GOOGLE-TWN_MUL-Weekday-03,"University to City and Breakwater",0,508887,2010034
+201-281,GOOGLE-TWN_MUL-Weekday-03,2662399-GOOGLE-TWN_MUL-Weekday-03,"University to City and Breakwater",0,508888,2010034
+201-281,GOOGLE-TWN_MUL-Weekday-03,2662400-GOOGLE-TWN_MUL-Weekday-03,"University to City and Breakwater",0,508889,2010034
+201-281,GOOGLE-TWN_MUL-Weekday-03,2662401-GOOGLE-TWN_MUL-Weekday-03,"University to City and Breakwater",0,508890,2010034
+201-281,GOOGLE-TWN_MUL-Weekday-03,2662402-GOOGLE-TWN_MUL-Weekday-03,"University to City and Breakwater",0,508891,2010034
+201-281,GOOGLE-TWN_MUL-Weekday-03,2662403-GOOGLE-TWN_MUL-Weekday-03,"University to City and Breakwater",0,508892,2010034
+201-281,GOOGLE-TWN_MUL-Weekday-03,2662404-GOOGLE-TWN_MUL-Weekday-03,"University to City and Breakwater",0,508893,2010034
+201-281,GOOGLE-TWN_MUL-Weekday-03,2662405-GOOGLE-TWN_MUL-Weekday-03,"University to City and Breakwater",0,508894,2010034
+201-281,GOOGLE-TWN_MUL-Weekday-03,2662406-GOOGLE-TWN_MUL-Weekday-03,"University to City and Breakwater",0,508895,2010034
+201-281,GOOGLE-TWN_MUL-Weekday-03,2662407-GOOGLE-TWN_MUL-Weekday-03,"University to City and Breakwater",0,508896,2010034
+201-281,GOOGLE-TWN_MUL-Weekday-03,2662408-GOOGLE-TWN_MUL-Weekday-03,"University to City and Breakwater",0,508897,2010035
+201-281,GOOGLE-TWN_MUL-Weekday-03-0000100,2662409-GOOGLE-TWN_MUL-Weekday-03-0000100,"University to City and Breakwater",0,508898,2010035
+201-281,GOOGLE-TWN_MUL-Weekday-03-0000100,2662410-GOOGLE-TWN_MUL-Weekday-03-0000100,"University to City and Breakwater",0,508899,2010035
+201-281,GOOGLE-TWN_MUL-Weekday-03-0000100,2662411-GOOGLE-TWN_MUL-Weekday-03-0000100,"University to City and Breakwater",0,508900,2010035
+201-281,GOOGLE-TWN_MUL-Weekday-03,2662412-GOOGLE-TWN_MUL-Weekday-03,"Breakwater to Hospital and University via City",1,508901,2010036
+201-281,GOOGLE-TWN_MUL-Weekday-03,2662413-GOOGLE-TWN_MUL-Weekday-03,"Breakwater to Hospital and University via City",1,508902,2010036
+201-281,GOOGLE-TWN_MUL-Weekday-03,2662414-GOOGLE-TWN_MUL-Weekday-03,"Breakwater to Hospital and University via City",1,508903,2010036
+201-281,GOOGLE-TWN_MUL-Weekday-03,2662415-GOOGLE-TWN_MUL-Weekday-03,"Breakwater to Hospital and University via City",1,508904,2010036
+201-281,GOOGLE-TWN_MUL-Weekday-03,2662416-GOOGLE-TWN_MUL-Weekday-03,"Breakwater to Hospital and University via City",1,508905,2010036
+201-281,GOOGLE-TWN_MUL-Weekday-03,2662417-GOOGLE-TWN_MUL-Weekday-03,"Breakwater to Hospital and University via City",1,508906,2010036
+201-281,GOOGLE-TWN_MUL-Weekday-03,2662418-GOOGLE-TWN_MUL-Weekday-03,"Breakwater to Hospital and University via City",1,508907,2010036
+201-281,GOOGLE-TWN_MUL-Weekday-03,2662419-GOOGLE-TWN_MUL-Weekday-03,"Breakwater to Hospital and University via City",1,508908,2010036
+201-281,GOOGLE-TWN_MUL-Weekday-03,2662420-GOOGLE-TWN_MUL-Weekday-03,"Breakwater to Hospital and University via City",1,508909,2010036
+201-281,GOOGLE-TWN_MUL-Weekday-03,2662421-GOOGLE-TWN_MUL-Weekday-03,"Breakwater to Hospital and University via City",1,508910,2010036
+201-281,GOOGLE-TWN_MUL-Weekday-03,2662422-GOOGLE-TWN_MUL-Weekday-03,"Breakwater to Hospital and University via City",1,508911,2010036
+201-281,GOOGLE-TWN_MUL-Weekday-03,2662423-GOOGLE-TWN_MUL-Weekday-03,"Breakwater to Hospital and University via City",1,508912,2010036
+201-281,GOOGLE-TWN_MUL-Weekday-03,2662424-GOOGLE-TWN_MUL-Weekday-03,"Breakwater to Hospital and University via City",1,508913,2010036
+201-281,GOOGLE-TWN_MUL-Weekday-03,2662425-GOOGLE-TWN_MUL-Weekday-03,"Breakwater to Hospital and University via City",1,508914,2010036
+201-281,GOOGLE-TWN_MUL-Weekday-03,2662426-GOOGLE-TWN_MUL-Weekday-03,"Breakwater to Hospital and University via City",1,508915,2010036
+201-281,GOOGLE-TWN_MUL-Weekday-03,2662427-GOOGLE-TWN_MUL-Weekday-03,"Breakwater to Hospital and University via City",1,508916,2010036
+201-281,GOOGLE-TWN_MUL-Weekday-03,2662428-GOOGLE-TWN_MUL-Weekday-03,"Breakwater to Hospital and University via City",1,508917,2010036
+201-281,GOOGLE-TWN_MUL-Weekday-03,2662429-GOOGLE-TWN_MUL-Weekday-03,"Breakwater to Hospital and University via City",1,508918,2010036
+201-281,GOOGLE-TWN_MUL-Weekday-03,2662430-GOOGLE-TWN_MUL-Weekday-03,"Breakwater to Hospital and University via City",1,508919,2010036
+201-281,GOOGLE-TWN_MUL-Weekday-03,2662431-GOOGLE-TWN_MUL-Weekday-03,"Breakwater to Hospital and University via City",1,508920,2010036
+201-281,GOOGLE-TWN_MUL-Weekday-03,2662432-GOOGLE-TWN_MUL-Weekday-03,"Breakwater to Hospital and University via City",1,508921,2010036
+201-281,GOOGLE-TWN_MUL-Weekday-03,2662433-GOOGLE-TWN_MUL-Weekday-03,"Breakwater to Hospital and University via City",1,508922,2010036
+201-281,GOOGLE-TWN_MUL-Weekday-03,2662434-GOOGLE-TWN_MUL-Weekday-03,"Breakwater to Hospital and University via City",1,508923,2010036
+201-281,GOOGLE-TWN_MUL-Weekday-03,2662435-GOOGLE-TWN_MUL-Weekday-03,"Breakwater to Hospital and University via City",1,508924,2010036
+201-281,GOOGLE-TWN_MUL-Weekday-03,2662436-GOOGLE-TWN_MUL-Weekday-03,"Breakwater to Hospital and University via City",1,508925,2010036
+201-281,GOOGLE-TWN_MUL-Weekday-03,2662437-GOOGLE-TWN_MUL-Weekday-03,"Breakwater to Hospital and University via City",1,508926,2010036
+201-281,GOOGLE-TWN_MUL-Weekday-03,2662438-GOOGLE-TWN_MUL-Weekday-03,"Breakwater to Hospital and University via City",1,508927,2010036
+201-281,GOOGLE-TWN_MUL-Weekday-03,2662439-GOOGLE-TWN_MUL-Weekday-03,"Breakwater to Hospital and University via City",1,508928,2010036
+201-281,GOOGLE-TWN_MUL-Weekday-03,2662440-GOOGLE-TWN_MUL-Weekday-03,"Breakwater to Hospital and University via City",1,508929,2010036
+201-281,GOOGLE-TWN_MUL-Weekday-03,2662441-GOOGLE-TWN_MUL-Weekday-03,"Breakwater to Hospital and University via City",1,508930,2010036
+201-281,GOOGLE-TWN_MUL-Weekday-03,2662442-GOOGLE-TWN_MUL-Weekday-03,"Breakwater to Hospital and University via City",1,508931,2010036
+201-281,GOOGLE-TWN_MUL-Weekday-03,2662443-GOOGLE-TWN_MUL-Weekday-03,"Breakwater to Hospital and University via City",1,508932,2010036
+201-281,GOOGLE-TWN_MUL-Weekday-03,2662444-GOOGLE-TWN_MUL-Weekday-03,"Breakwater to Hospital and University via City",1,508933,2010036
+201-281,GOOGLE-TWN_MUL-Weekday-03,2662445-GOOGLE-TWN_MUL-Weekday-03,"Breakwater to Hospital and University via City",1,508934,2010036
+201-281,GOOGLE-TWN_MUL-Weekday-03,2662446-GOOGLE-TWN_MUL-Weekday-03,"Breakwater to Hospital and University via City",1,508935,2010036
+201-281,GOOGLE-TWN_MUL-Weekday-03,2662447-GOOGLE-TWN_MUL-Weekday-03,"Breakwater to Hospital and University via City",1,508936,2010036
+201-281,GOOGLE-TWN_MUL-Weekday-03,2662448-GOOGLE-TWN_MUL-Weekday-03,"Breakwater to Hospital and University via City",1,508937,2010036
+201-281,GOOGLE-TWN_MUL-Weekday-03,2662449-GOOGLE-TWN_MUL-Weekday-03,"Breakwater to Hospital and University via City",1,508938,2010036
+201-281,GOOGLE-TWN_MUL-Weekday-03,2662450-GOOGLE-TWN_MUL-Weekday-03,"Breakwater to Hospital and University via City",1,508939,2010036
+201-281,GOOGLE-TWN_MUL-Weekday-03,2662451-GOOGLE-TWN_MUL-Weekday-03,"Breakwater to Hospital and University via City",1,508940,2010036
+201-281,GOOGLE-TWN_MUL-Weekday-03,2662452-GOOGLE-TWN_MUL-Weekday-03,"Breakwater to Hospital and University via City",1,508941,2010036
+201-281,GOOGLE-TWN_MUL-Weekday-03-0000100,2662453-GOOGLE-TWN_MUL-Weekday-03-0000100,"Breakwater to Hospital and University via City",1,508942,2010037
+201-281,GOOGLE-TWN_MUL-Weekday-03-0000100,2662454-GOOGLE-TWN_MUL-Weekday-03-0000100,"Breakwater to Hospital and University via City",1,508943,2010037
+201-281,GOOGLE-TWN_MUL-Weekday-03-0000100,2662455-GOOGLE-TWN_MUL-Weekday-03-0000100,"Breakwater to Hospital and University via City",1,508944,2010037
+201-281,GOOGLE-TWN_MUL-Weekday-03-0000100,2662456-GOOGLE-TWN_MUL-Weekday-03-0000100,"Breakwater to Hospital and University via City",1,508945,2010037
+201-281,GOOGLE-TWN_MUL-Weekday-03-0000100,2662457-GOOGLE-TWN_MUL-Weekday-03-0000100,"Breakwater to Hospital and University via City",1,508946,2010037
+201-281,GOOGLE-TWN_MUL-Weekday-03-0000100,2662458-GOOGLE-TWN_MUL-Weekday-03-0000100,"Breakwater to Hospital and University via City",1,508947,2010037
+201-281,GOOGLE-TWN_MUL-Weekday-03-0000100,2662459-GOOGLE-TWN_MUL-Weekday-03-0000100,"Breakwater to Hospital and University via City",1,508948,2010037
+201-281,GOOGLE-TWN_MUL-Weekday-03-0000100,2662460-GOOGLE-TWN_MUL-Weekday-03-0000100,"Breakwater to Hospital and University via City",1,508949,2010037
+201-281,GOOGLE-TWN_MUL-Weekday-03-0000100,2662461-GOOGLE-TWN_MUL-Weekday-03-0000100,"Breakwater to Hospital and University via City",1,508950,2010037
+201-281,GOOGLE-TWN_MUL-Weekday-03-0000100,2662462-GOOGLE-TWN_MUL-Weekday-03-0000100,"Breakwater to Hospital and University via City",1,508951,2010037
+201-281,GOOGLE-TWN_MUL-Weekday-03-0000100,2662463-GOOGLE-TWN_MUL-Weekday-03-0000100,"Breakwater to Hospital and University via City",1,508952,2010037
+200-281,GOOGLE-TWN_MUL-Weekday-04,2661842-GOOGLE-TWN_MUL-Weekday-04,"Kelso to City and Breakwater",0,508331,2000008
+200-281,GOOGLE-TWN_MUL-Weekday-04,2661843-GOOGLE-TWN_MUL-Weekday-04,"Kelso to City and Breakwater",0,508332,2000008
+200-281,GOOGLE-TWN_MUL-Weekday-04,2661844-GOOGLE-TWN_MUL-Weekday-04,"Kelso to City and Breakwater",0,508333,2000008
+200-281,GOOGLE-TWN_MUL-Weekday-04,2661845-GOOGLE-TWN_MUL-Weekday-04,"Kelso to City and Breakwater",0,508334,2000008
+200-281,GOOGLE-TWN_MUL-Weekday-04,2661846-GOOGLE-TWN_MUL-Weekday-04,"Kelso to City and Breakwater",0,508335,2000008
+200-281,GOOGLE-TWN_MUL-Weekday-04,2661847-GOOGLE-TWN_MUL-Weekday-04,"Kelso to City and Breakwater",0,508336,2000008
+200-281,GOOGLE-TWN_MUL-Weekday-04,2661848-GOOGLE-TWN_MUL-Weekday-04,"Kelso to City and Breakwater",0,508337,2000008
+200-281,GOOGLE-TWN_MUL-Weekday-04,2661849-GOOGLE-TWN_MUL-Weekday-04,"Kelso to City and Breakwater",0,508338,2000008
+200-281,GOOGLE-TWN_MUL-Weekday-04,2661850-GOOGLE-TWN_MUL-Weekday-04,"Kelso to City and Breakwater",0,508339,2000008
+200-281,GOOGLE-TWN_MUL-Weekday-04,2661851-GOOGLE-TWN_MUL-Weekday-04,"Kelso to City and Breakwater",0,508340,2000008
+200-281,GOOGLE-TWN_MUL-Weekday-04,2661852-GOOGLE-TWN_MUL-Weekday-04,"Kelso to City and Breakwater",0,508341,2000008
+200-281,GOOGLE-TWN_MUL-Weekday-04,2661853-GOOGLE-TWN_MUL-Weekday-04,"Kelso to City and Breakwater",0,508342,2000008
+200-281,GOOGLE-TWN_MUL-Weekday-04,2661854-GOOGLE-TWN_MUL-Weekday-04,"Kelso to City and Breakwater",0,508343,2000008
+200-281,GOOGLE-TWN_MUL-Weekday-04,2661855-GOOGLE-TWN_MUL-Weekday-04,"Kelso to City and Breakwater",0,508344,2000008
+200-281,GOOGLE-TWN_MUL-Weekday-04,2661856-GOOGLE-TWN_MUL-Weekday-04,"Kelso to City and Breakwater",0,508345,2000008
+200-281,GOOGLE-TWN_MUL-Weekday-04,2661857-GOOGLE-TWN_MUL-Weekday-04,"Kelso to City and Breakwater",0,508346,2000008
+200-281,GOOGLE-TWN_MUL-Weekday-04,2661858-GOOGLE-TWN_MUL-Weekday-04,"Kelso to City and Breakwater",0,508347,2000008
+200-281,GOOGLE-TWN_MUL-Weekday-04,2661859-GOOGLE-TWN_MUL-Weekday-04,"Kelso to City and Breakwater",0,508348,2000008
+200-281,GOOGLE-TWN_MUL-Weekday-04,2661860-GOOGLE-TWN_MUL-Weekday-04,"Kelso to City and Breakwater",0,508349,2000008
+200-281,GOOGLE-TWN_MUL-Weekday-04,2661861-GOOGLE-TWN_MUL-Weekday-04,"Kelso to City and Breakwater",0,508350,2000008
+200-281,GOOGLE-TWN_MUL-Weekday-04,2661862-GOOGLE-TWN_MUL-Weekday-04,"Kelso to City and Breakwater",0,508351,2000008
+200-281,GOOGLE-TWN_MUL-Weekday-04,2661863-GOOGLE-TWN_MUL-Weekday-04,"Kelso to City and Breakwater",0,508352,2000008
+200-281,GOOGLE-TWN_MUL-Weekday-04,2661864-GOOGLE-TWN_MUL-Weekday-04,"Kelso to City and Breakwater",0,508353,2000008
+200-281,GOOGLE-TWN_MUL-Weekday-04,2661865-GOOGLE-TWN_MUL-Weekday-04,"Kelso to City and Breakwater",0,508354,2000008
+200-281,GOOGLE-TWN_MUL-Weekday-04,2661866-GOOGLE-TWN_MUL-Weekday-04,"Kelso to City and Breakwater",0,508355,2000008
+200-281,GOOGLE-TWN_MUL-Weekday-04,2661867-GOOGLE-TWN_MUL-Weekday-04,"Kelso to City and Breakwater",0,508356,2000008
+200-281,GOOGLE-TWN_MUL-Weekday-04,2661868-GOOGLE-TWN_MUL-Weekday-04,"Kelso to City and Breakwater",0,508357,2000008
+200-281,GOOGLE-TWN_MUL-Weekday-04,2661869-GOOGLE-TWN_MUL-Weekday-04,"Kelso to City and Breakwater",0,508358,2000008
+200-281,GOOGLE-TWN_MUL-Weekday-04,2661870-GOOGLE-TWN_MUL-Weekday-04,"Kelso to City and Breakwater",0,508359,2000008
+200-281,GOOGLE-TWN_MUL-Weekday-04,2661871-GOOGLE-TWN_MUL-Weekday-04,"Kelso to City and Breakwater",0,508360,2000008
+200-281,GOOGLE-TWN_MUL-Weekday-04,2661872-GOOGLE-TWN_MUL-Weekday-04,"Kelso to City and Breakwater",0,508361,2000008
+200-281,GOOGLE-TWN_MUL-Weekday-04,2661873-GOOGLE-TWN_MUL-Weekday-04,"Kelso to City and Breakwater",0,508362,2000008
+200-281,GOOGLE-TWN_MUL-Weekday-04,2661874-GOOGLE-TWN_MUL-Weekday-04,"Kelso to City and Breakwater",0,508363,2000008
+200-281,GOOGLE-TWN_MUL-Weekday-04,2661875-GOOGLE-TWN_MUL-Weekday-04,"Kelso to City and Breakwater",0,508364,2000008
+200-281,GOOGLE-TWN_MUL-Weekday-04,2661876-GOOGLE-TWN_MUL-Weekday-04,"Kelso to City and Breakwater",0,508365,2000008
+200-281,GOOGLE-TWN_MUL-Weekday-04,2661877-GOOGLE-TWN_MUL-Weekday-04,"Kelso to City and Breakwater",0,508366,2000008
+200-281,GOOGLE-TWN_MUL-Weekday-04,2661878-GOOGLE-TWN_MUL-Weekday-04,"Kelso to City and Breakwater",0,508367,2000008
+200-281,GOOGLE-TWN_MUL-Weekday-04,2661879-GOOGLE-TWN_MUL-Weekday-04,"Kelso to City and Breakwater",0,508368,2000008
+200-281,GOOGLE-TWN_MUL-Weekday-04,2661880-GOOGLE-TWN_MUL-Weekday-04,"Kelso to City and Breakwater",0,508369,2000008
+200-281,GOOGLE-TWN_MUL-Weekday-04,2661881-GOOGLE-TWN_MUL-Weekday-04,"Kelso to City and Breakwater",0,508370,2000008
+200-281,GOOGLE-TWN_MUL-Weekday-04,2661882-GOOGLE-TWN_MUL-Weekday-04,"Kelso to City and Breakwater",0,508371,2000008
+200-281,GOOGLE-TWN_MUL-Weekday-04,2661883-GOOGLE-TWN_MUL-Weekday-04,"Kelso to City and Breakwater",0,508372,2000008
+200-281,GOOGLE-TWN_MUL-Weekday-04,2661884-GOOGLE-TWN_MUL-Weekday-04,"Kelso to City and Breakwater",0,508373,2000009
+200-281,GOOGLE-TWN_MUL-Weekday-04,2661885-GOOGLE-TWN_MUL-Weekday-04,"Breakwater and City to Kelso",1,508374,2000010
+200-281,GOOGLE-TWN_MUL-Weekday-04,2661886-GOOGLE-TWN_MUL-Weekday-04,"Breakwater and City to Kelso",1,508375,2000010
+200-281,GOOGLE-TWN_MUL-Weekday-04,2661887-GOOGLE-TWN_MUL-Weekday-04,"Breakwater and City to Kelso",1,508376,2000010
+200-281,GOOGLE-TWN_MUL-Weekday-04,2661888-GOOGLE-TWN_MUL-Weekday-04,"Breakwater and City to Kelso",1,508377,2000010
+200-281,GOOGLE-TWN_MUL-Weekday-04,2661889-GOOGLE-TWN_MUL-Weekday-04,"Breakwater and City to Kelso",1,508378,2000010
+200-281,GOOGLE-TWN_MUL-Weekday-04,2661890-GOOGLE-TWN_MUL-Weekday-04,"Breakwater and City to Kelso",1,508379,2000010
+200-281,GOOGLE-TWN_MUL-Weekday-04,2661891-GOOGLE-TWN_MUL-Weekday-04,"Breakwater and City to Kelso",1,508380,2000010
+200-281,GOOGLE-TWN_MUL-Weekday-04,2661892-GOOGLE-TWN_MUL-Weekday-04,"Breakwater and City to Kelso",1,508381,2000010
+200-281,GOOGLE-TWN_MUL-Weekday-04,2661893-GOOGLE-TWN_MUL-Weekday-04,"Breakwater and City to Kelso",1,508382,2000010
+200-281,GOOGLE-TWN_MUL-Weekday-04,2661894-GOOGLE-TWN_MUL-Weekday-04,"Breakwater and City to Kelso",1,508383,2000010
+200-281,GOOGLE-TWN_MUL-Weekday-04,2661895-GOOGLE-TWN_MUL-Weekday-04,"Breakwater and City to Kelso",1,508384,2000010
+200-281,GOOGLE-TWN_MUL-Weekday-04,2661896-GOOGLE-TWN_MUL-Weekday-04,"Breakwater and City to Kelso",1,508385,2000010
+200-281,GOOGLE-TWN_MUL-Weekday-04,2661897-GOOGLE-TWN_MUL-Weekday-04,"Breakwater and City to Kelso",1,508386,2000010
+200-281,GOOGLE-TWN_MUL-Weekday-04,2661898-GOOGLE-TWN_MUL-Weekday-04,"Breakwater and City to Kelso",1,508387,2000010
+200-281,GOOGLE-TWN_MUL-Weekday-04,2661899-GOOGLE-TWN_MUL-Weekday-04,"Breakwater and City to Kelso",1,508388,2000010
+200-281,GOOGLE-TWN_MUL-Weekday-04,2661900-GOOGLE-TWN_MUL-Weekday-04,"Breakwater and City to Kelso",1,508389,2000010
+200-281,GOOGLE-TWN_MUL-Weekday-04,2661901-GOOGLE-TWN_MUL-Weekday-04,"Breakwater and City to Kelso",1,508390,2000010
+200-281,GOOGLE-TWN_MUL-Weekday-04,2661902-GOOGLE-TWN_MUL-Weekday-04,"Breakwater and City to Kelso",1,508391,2000010
+200-281,GOOGLE-TWN_MUL-Weekday-04,2661903-GOOGLE-TWN_MUL-Weekday-04,"Breakwater and City to Kelso",1,508392,2000010
+200-281,GOOGLE-TWN_MUL-Weekday-04,2661904-GOOGLE-TWN_MUL-Weekday-04,"Breakwater and City to Kelso",1,508393,2000010
+200-281,GOOGLE-TWN_MUL-Weekday-04,2661905-GOOGLE-TWN_MUL-Weekday-04,"Breakwater and City to Kelso",1,508394,2000010
+200-281,GOOGLE-TWN_MUL-Weekday-04,2661906-GOOGLE-TWN_MUL-Weekday-04,"Breakwater and City to Kelso",1,508395,2000010
+200-281,GOOGLE-TWN_MUL-Weekday-04,2661907-GOOGLE-TWN_MUL-Weekday-04,"Breakwater and City to Kelso",1,508396,2000010
+200-281,GOOGLE-TWN_MUL-Weekday-04,2661908-GOOGLE-TWN_MUL-Weekday-04,"Breakwater and City to Kelso",1,508397,2000010
+200-281,GOOGLE-TWN_MUL-Weekday-04,2661909-GOOGLE-TWN_MUL-Weekday-04,"Breakwater and City to Kelso",1,508398,2000010
+200-281,GOOGLE-TWN_MUL-Weekday-04,2661910-GOOGLE-TWN_MUL-Weekday-04,"Breakwater and City to Kelso",1,508399,2000010
+200-281,GOOGLE-TWN_MUL-Weekday-04,2661911-GOOGLE-TWN_MUL-Weekday-04,"Breakwater and City to Kelso",1,508400,2000010
+200-281,GOOGLE-TWN_MUL-Weekday-04,2661912-GOOGLE-TWN_MUL-Weekday-04,"Breakwater and City to Kelso",1,508401,2000010
+200-281,GOOGLE-TWN_MUL-Weekday-04,2661913-GOOGLE-TWN_MUL-Weekday-04,"Breakwater and City to Kelso",1,508402,2000010
+200-281,GOOGLE-TWN_MUL-Weekday-04,2661914-GOOGLE-TWN_MUL-Weekday-04,"Breakwater and City to Kelso",1,508403,2000010
+200-281,GOOGLE-TWN_MUL-Weekday-04,2661915-GOOGLE-TWN_MUL-Weekday-04,"Breakwater and City to Kelso",1,508404,2000010
+200-281,GOOGLE-TWN_MUL-Weekday-04,2661916-GOOGLE-TWN_MUL-Weekday-04,"Breakwater and City to Kelso",1,508405,2000010
+200-281,GOOGLE-TWN_MUL-Weekday-04,2661917-GOOGLE-TWN_MUL-Weekday-04,"Breakwater and City to Kelso",1,508406,2000010
+200-281,GOOGLE-TWN_MUL-Weekday-04,2661918-GOOGLE-TWN_MUL-Weekday-04,"Breakwater and City to Kelso",1,508407,2000010
+200-281,GOOGLE-TWN_MUL-Weekday-04,2661919-GOOGLE-TWN_MUL-Weekday-04,"Breakwater and City to Kelso",1,508408,2000010
+200-281,GOOGLE-TWN_MUL-Weekday-04,2661920-GOOGLE-TWN_MUL-Weekday-04,"Breakwater and City to Kelso",1,508409,2000010
+200-281,GOOGLE-TWN_MUL-Weekday-04,2661921-GOOGLE-TWN_MUL-Weekday-04,"Breakwater and City to Kelso",1,508410,2000010
+200-281,GOOGLE-TWN_MUL-Weekday-04,2661922-GOOGLE-TWN_MUL-Weekday-04,"Breakwater and City to Kelso",1,508411,2000010
+200-281,GOOGLE-TWN_MUL-Weekday-04,2661923-GOOGLE-TWN_MUL-Weekday-04,"Breakwater and City to Kelso",1,508412,2000010
+200-281,GOOGLE-TWN_MUL-Weekday-04,2661924-GOOGLE-TWN_MUL-Weekday-04,"Breakwater and City to Kelso",1,508413,2000010
+200-281,GOOGLE-TWN_MUL-Weekday-04,2661925-GOOGLE-TWN_MUL-Weekday-04,"Breakwater and City to Kelso",1,508414,2000010
+215-281,GOOGLE-TWN_MUL-Weekday-04,2661979-GOOGLE-TWN_MUL-Weekday-04,"Stockland to City via Domain, Garbutt, North Ward",1,508468,2150007
+215-281,GOOGLE-TWN_MUL-Weekday-04,2661980-GOOGLE-TWN_MUL-Weekday-04,"Stockland to City via Domain, Garbutt, North Ward",1,508469,2150007
+215-281,GOOGLE-TWN_MUL-Weekday-04,2661981-GOOGLE-TWN_MUL-Weekday-04,"Stockland to City via Domain, Garbutt, North Ward",1,508470,2150007
+215-281,GOOGLE-TWN_MUL-Weekday-04,2661982-GOOGLE-TWN_MUL-Weekday-04,"Stockland to City via Domain, Garbutt, North Ward",1,508471,2150007
+215-281,GOOGLE-TWN_MUL-Weekday-04,2661983-GOOGLE-TWN_MUL-Weekday-04,"Stockland to City via Domain, Garbutt, North Ward",1,508472,2150007
+215-281,GOOGLE-TWN_MUL-Weekday-04,2661984-GOOGLE-TWN_MUL-Weekday-04,"Stockland to City via Domain, Garbutt, North Ward",1,508473,2150007
+215-281,GOOGLE-TWN_MUL-Weekday-04,2661985-GOOGLE-TWN_MUL-Weekday-04,"Stockland to City via Domain, Garbutt, North Ward",1,508474,2150007
+215-281,GOOGLE-TWN_MUL-Weekday-04,2661986-GOOGLE-TWN_MUL-Weekday-04,"Stockland to City via Domain, Garbutt, North Ward",1,508475,2150007
+215-281,GOOGLE-TWN_MUL-Weekday-04,2661987-GOOGLE-TWN_MUL-Weekday-04,"Stockland to City via Domain, Garbutt, North Ward",1,508476,2150007
+215-281,GOOGLE-TWN_MUL-Weekday-04,2661988-GOOGLE-TWN_MUL-Weekday-04,"Stockland to City via Domain, Garbutt, North Ward",1,508477,2150007
+215-281,GOOGLE-TWN_MUL-Weekday-04,2661989-GOOGLE-TWN_MUL-Weekday-04,"Stockland to City via Domain, Garbutt, North Ward",1,508478,2150007
+215-281,GOOGLE-TWN_MUL-Weekday-04,2661990-GOOGLE-TWN_MUL-Weekday-04,"City to Stockland via North Ward, Garbutt, Domain",0,508479,2150006
+215-281,GOOGLE-TWN_MUL-Weekday-04,2661991-GOOGLE-TWN_MUL-Weekday-04,"City to Stockland via North Ward, Garbutt, Domain",0,508480,2150006
+215-281,GOOGLE-TWN_MUL-Weekday-04,2661992-GOOGLE-TWN_MUL-Weekday-04,"City to Stockland via North Ward, Garbutt, Domain",0,508481,2150006
+215-281,GOOGLE-TWN_MUL-Weekday-04,2661993-GOOGLE-TWN_MUL-Weekday-04,"City to Stockland via North Ward, Garbutt, Domain",0,508482,2150006
+215-281,GOOGLE-TWN_MUL-Weekday-04,2661994-GOOGLE-TWN_MUL-Weekday-04,"City to Stockland via North Ward, Garbutt, Domain",0,508483,2150006
+215-281,GOOGLE-TWN_MUL-Weekday-04,2661995-GOOGLE-TWN_MUL-Weekday-04,"City to Stockland via North Ward, Garbutt, Domain",0,508484,2150006
+215-281,GOOGLE-TWN_MUL-Weekday-04,2661996-GOOGLE-TWN_MUL-Weekday-04,"City to Stockland via North Ward, Garbutt, Domain",0,508485,2150006
+215-281,GOOGLE-TWN_MUL-Weekday-04,2661997-GOOGLE-TWN_MUL-Weekday-04,"City to Stockland via North Ward, Garbutt, Domain",0,508486,2150006
+215-281,GOOGLE-TWN_MUL-Weekday-04,2661998-GOOGLE-TWN_MUL-Weekday-04,"City to Stockland via North Ward, Garbutt, Domain",0,508488,2150006
+215-281,GOOGLE-TWN_MUL-Weekday-04,2661999-GOOGLE-TWN_MUL-Weekday-04,"City to Stockland via North Ward, Garbutt, Domain",0,508487,2150006
+215-281,GOOGLE-TWN_MUL-Weekday-04,2662000-GOOGLE-TWN_MUL-Weekday-04,"City to Stockland via North Ward, Garbutt, Domain",0,508489,2150006
+205-281,GOOGLE-TWN_MUL-Weekday-04,2662001-GOOGLE-TWN_MUL-Weekday-04,"Stockland to City via Garbutt, North Ward",0,508490,2050012
+205-281,GOOGLE-TWN_MUL-Weekday-04,2662002-GOOGLE-TWN_MUL-Weekday-04,"Stockland to City via Garbutt, North Ward",0,508491,2050012
+205-281,GOOGLE-TWN_MUL-Weekday-04,2662003-GOOGLE-TWN_MUL-Weekday-04,"Stockland to City via Garbutt, North Ward",0,508492,2050012
+205-281,GOOGLE-TWN_MUL-Weekday-04,2662004-GOOGLE-TWN_MUL-Weekday-04,"Stockland to City via Garbutt, North Ward",0,508493,2050012
+205-281,GOOGLE-TWN_MUL-Weekday-04,2662005-GOOGLE-TWN_MUL-Weekday-04,"Stockland to City via Garbutt, North Ward",0,508494,2050012
+205-281,GOOGLE-TWN_MUL-Weekday-04,2662006-GOOGLE-TWN_MUL-Weekday-04,"Stockland to City via Garbutt, North Ward",0,508495,2050012
+205-281,GOOGLE-TWN_MUL-Weekday-04,2662007-GOOGLE-TWN_MUL-Weekday-04,"Stockland to City via Garbutt, North Ward",0,508496,2050012
+205-281,GOOGLE-TWN_MUL-Weekday-04,2662008-GOOGLE-TWN_MUL-Weekday-04,"Stockland to City via Garbutt, North Ward",0,508497,2050012
+205-281,GOOGLE-TWN_MUL-Weekday-04,2662009-GOOGLE-TWN_MUL-Weekday-04,"Stockland to City via Garbutt, North Ward",0,508498,2050012
+205-281,GOOGLE-TWN_MUL-Weekday-04,2662010-GOOGLE-TWN_MUL-Weekday-04,"Stockland to City via Garbutt, North Ward",0,508499,2050012
+205-281,GOOGLE-TWN_MUL-Weekday-04,2662011-GOOGLE-TWN_MUL-Weekday-04,"Stockland to City via Garbutt, North Ward",0,508500,2050012
+205-281,GOOGLE-TWN_MUL-Weekday-04,2662012-GOOGLE-TWN_MUL-Weekday-04,"Stockland to City via Garbutt, North Ward",0,508501,2050012
+205-281,GOOGLE-TWN_MUL-Weekday-04,2662013-GOOGLE-TWN_MUL-Weekday-04,"Stockland to City via Garbutt, North Ward",0,508502,2050012
+205-281,GOOGLE-TWN_MUL-Weekday-04,2662014-GOOGLE-TWN_MUL-Weekday-04,"City to Stockland via North Ward, Garbutt",1,508503,2050013
+205-281,GOOGLE-TWN_MUL-Weekday-04,2662015-GOOGLE-TWN_MUL-Weekday-04,"City to Stockland via North Ward, Garbutt",1,508504,2050013
+205-281,GOOGLE-TWN_MUL-Weekday-04,2662016-GOOGLE-TWN_MUL-Weekday-04,"City to Stockland via North Ward, Garbutt",1,508505,2050013
+205-281,GOOGLE-TWN_MUL-Weekday-04,2662017-GOOGLE-TWN_MUL-Weekday-04,"City to Stockland via North Ward, Garbutt",1,508506,2050013
+205-281,GOOGLE-TWN_MUL-Weekday-04,2662018-GOOGLE-TWN_MUL-Weekday-04,"City to Stockland via North Ward, Garbutt",1,508507,2050013
+205-281,GOOGLE-TWN_MUL-Weekday-04,2662019-GOOGLE-TWN_MUL-Weekday-04,"City to Stockland via North Ward, Garbutt",1,508508,2050013
+205-281,GOOGLE-TWN_MUL-Weekday-04,2662020-GOOGLE-TWN_MUL-Weekday-04,"City to Stockland via North Ward, Garbutt",1,508509,2050013
+205-281,GOOGLE-TWN_MUL-Weekday-04,2662021-GOOGLE-TWN_MUL-Weekday-04,"City to Stockland via North Ward, Garbutt",1,508510,2050013
+205-281,GOOGLE-TWN_MUL-Weekday-04,2662022-GOOGLE-TWN_MUL-Weekday-04,"City to Stockland via North Ward, Garbutt",1,508511,2050013
+205-281,GOOGLE-TWN_MUL-Weekday-04,2662023-GOOGLE-TWN_MUL-Weekday-04,"City to Stockland via North Ward, Garbutt",1,508512,2050013
+205-281,GOOGLE-TWN_MUL-Weekday-04,2662024-GOOGLE-TWN_MUL-Weekday-04,"City to Stockland via North Ward, Garbutt",1,508513,2050013
+205-281,GOOGLE-TWN_MUL-Weekday-04,2662025-GOOGLE-TWN_MUL-Weekday-04,"City to Stockland via North Ward, Garbutt",1,508514,2050013
+205-281,GOOGLE-TWN_MUL-Weekday-04,2662026-GOOGLE-TWN_MUL-Weekday-04,"City to Stockland via North Ward, Garbutt",1,508515,2050013
+205-281,GOOGLE-TWN_MUL-Weekday-04,2662027-GOOGLE-TWN_MUL-Weekday-04,"City to Stockland via North Ward, Garbutt",1,508516,2050013
+205-281,GOOGLE-TWN_MUL-Weekday-04,2662028-GOOGLE-TWN_MUL-Weekday-04,"City to Stockland via North Ward, Garbutt",1,508517,2050013
+204-281,GOOGLE-TWN_MUL-Weekday-04,2662044-GOOGLE-TWN_MUL-Weekday-04,"Stockland to City via Mt Louisa",0,508533,2040006
+204-281,GOOGLE-TWN_MUL-Weekday-04,2662045-GOOGLE-TWN_MUL-Weekday-04,"Stockland to City via Mt Louisa",0,508534,2040006
+204-281,GOOGLE-TWN_MUL-Weekday-04,2662046-GOOGLE-TWN_MUL-Weekday-04,"Stockland to City via Mt Louisa",0,508535,2040006
+204-281,GOOGLE-TWN_MUL-Weekday-04,2662047-GOOGLE-TWN_MUL-Weekday-04,"Stockland to City via Mt Louisa",0,508536,2040006
+204-281,GOOGLE-TWN_MUL-Weekday-04,2662048-GOOGLE-TWN_MUL-Weekday-04,"Stockland to City via Mt Louisa",0,508537,2040006
+204-281,GOOGLE-TWN_MUL-Weekday-04,2662049-GOOGLE-TWN_MUL-Weekday-04,"Stockland to City via Mt Louisa",0,508538,2040006
+204-281,GOOGLE-TWN_MUL-Weekday-04,2662050-GOOGLE-TWN_MUL-Weekday-04,"Stockland to City via Mt Louisa",0,508539,2040006
+204-281,GOOGLE-TWN_MUL-Weekday-04,2662051-GOOGLE-TWN_MUL-Weekday-04,"Stockland to City via Mt Louisa",0,508540,2040006
+204-281,GOOGLE-TWN_MUL-Weekday-04,2662052-GOOGLE-TWN_MUL-Weekday-04,"Stockland to City via Mt Louisa",0,508541,2040006
+204-281,GOOGLE-TWN_MUL-Weekday-04,2662053-GOOGLE-TWN_MUL-Weekday-04,"Stockland to City via Mt Louisa",0,508542,2040006
+204-281,GOOGLE-TWN_MUL-Weekday-04,2662054-GOOGLE-TWN_MUL-Weekday-04,"Stockland to City via Mt Louisa",0,508543,2040006
+204-281,GOOGLE-TWN_MUL-Weekday-04,2662055-GOOGLE-TWN_MUL-Weekday-04,"Stockland to City via Mt Louisa",0,508544,2040006
+204-281,GOOGLE-TWN_MUL-Weekday-04,2662056-GOOGLE-TWN_MUL-Weekday-04,"Stockland to City via Mt Louisa",0,508545,2040006
+204-281,GOOGLE-TWN_MUL-Weekday-04,2662057-GOOGLE-TWN_MUL-Weekday-04,"City to Stockland via Mt Louisa",1,508546,2040007
+204-281,GOOGLE-TWN_MUL-Weekday-04,2662058-GOOGLE-TWN_MUL-Weekday-04,"City to Stockland via Mt Louisa",1,508547,2040007
+204-281,GOOGLE-TWN_MUL-Weekday-04,2662059-GOOGLE-TWN_MUL-Weekday-04,"City to Stockland via Mt Louisa",1,508548,2040007
+204-281,GOOGLE-TWN_MUL-Weekday-04,2662060-GOOGLE-TWN_MUL-Weekday-04,"City to Stockland via Mt Louisa",1,508549,2040007
+204-281,GOOGLE-TWN_MUL-Weekday-04,2662061-GOOGLE-TWN_MUL-Weekday-04,"City to Stockland via Mt Louisa",1,508550,2040007
+204-281,GOOGLE-TWN_MUL-Weekday-04,2662062-GOOGLE-TWN_MUL-Weekday-04,"City to Stockland via Mt Louisa",1,508551,2040007
+204-281,GOOGLE-TWN_MUL-Weekday-04,2662063-GOOGLE-TWN_MUL-Weekday-04,"City to Stockland via Mt Louisa",1,508552,2040007
+204-281,GOOGLE-TWN_MUL-Weekday-04,2662064-GOOGLE-TWN_MUL-Weekday-04,"City to Stockland via Mt Louisa",1,508553,2040007
+204-281,GOOGLE-TWN_MUL-Weekday-04,2662065-GOOGLE-TWN_MUL-Weekday-04,"City to Stockland via Mt Louisa",1,508554,2040007
+204-281,GOOGLE-TWN_MUL-Weekday-04,2662066-GOOGLE-TWN_MUL-Weekday-04,"City to Stockland via Mt Louisa",1,508555,2040007
+204-281,GOOGLE-TWN_MUL-Weekday-04,2662067-GOOGLE-TWN_MUL-Weekday-04,"City to Stockland via Mt Louisa",1,508556,2040007
+204-281,GOOGLE-TWN_MUL-Weekday-04,2662068-GOOGLE-TWN_MUL-Weekday-04,"City to Stockland via Mt Louisa",1,508557,2040007
+204-281,GOOGLE-TWN_MUL-Weekday-04,2662069-GOOGLE-TWN_MUL-Weekday-04,"City to Stockland via Mt Louisa",1,508558,2040007
+209-281,GOOGLE-TWN_MUL-Weekday-04,2662086-GOOGLE-TWN_MUL-Weekday-04,"Stockland to City via JCU, Hospital, Wulguru",0,508575,2090005
+209-281,GOOGLE-TWN_MUL-Weekday-04,2662087-GOOGLE-TWN_MUL-Weekday-04,"Stockland to City via JCU, Hospital, Wulguru",0,508576,2090005
+209-281,GOOGLE-TWN_MUL-Weekday-04,2662088-GOOGLE-TWN_MUL-Weekday-04,"Stockland to City via JCU, Hospital, Wulguru",0,508577,2090005
+209-281,GOOGLE-TWN_MUL-Weekday-04,2662089-GOOGLE-TWN_MUL-Weekday-04,"Stockland to City via JCU, Hospital, Wulguru",0,508578,2090005
+209-281,GOOGLE-TWN_MUL-Weekday-04,2662090-GOOGLE-TWN_MUL-Weekday-04,"Stockland to City via JCU, Hospital, Wulguru",0,508579,2090005
+209-281,GOOGLE-TWN_MUL-Weekday-04,2662091-GOOGLE-TWN_MUL-Weekday-04,"Stockland to City via JCU, Hospital, Wulguru",0,508580,2090005
+209-281,GOOGLE-TWN_MUL-Weekday-04,2662092-GOOGLE-TWN_MUL-Weekday-04,"Stockland to City via JCU, Hospital, Wulguru",0,508581,2090005
+209-281,GOOGLE-TWN_MUL-Weekday-04,2662093-GOOGLE-TWN_MUL-Weekday-04,"Stockland to City via JCU, Hospital, Wulguru",0,508582,2090005
+209-281,GOOGLE-TWN_MUL-Weekday-04,2662094-GOOGLE-TWN_MUL-Weekday-04,"Stockland to City via JCU, Hospital, Wulguru",0,508583,2090005
+209-281,GOOGLE-TWN_MUL-Weekday-04,2662095-GOOGLE-TWN_MUL-Weekday-04,"Stockland to City via JCU, Hospital, Wulguru",0,508584,2090005
+209-281,GOOGLE-TWN_MUL-Weekday-04,2662096-GOOGLE-TWN_MUL-Weekday-04,"Stockland to City via JCU, Hospital, Wulguru",0,508585,2090005
+209-281,GOOGLE-TWN_MUL-Weekday-04,2662097-GOOGLE-TWN_MUL-Weekday-04,"Stockland to City via JCU, Hospital, Wulguru",0,508586,2090005
+209-281,GOOGLE-TWN_MUL-Weekday-04,2662098-GOOGLE-TWN_MUL-Weekday-04,"Stockland to City via JCU, Hospital, Wulguru",0,508587,2090005
+209-281,GOOGLE-TWN_MUL-Weekday-04,2662099-GOOGLE-TWN_MUL-Weekday-04,"City to Stockland via Wulguru, JCU, Hospital",1,508588,2090006
+209-281,GOOGLE-TWN_MUL-Weekday-04,2662100-GOOGLE-TWN_MUL-Weekday-04,"City to Stockland via Wulguru, JCU, Hospital",1,508589,2090006
+209-281,GOOGLE-TWN_MUL-Weekday-04,2662101-GOOGLE-TWN_MUL-Weekday-04,"City to Stockland via Wulguru, JCU, Hospital",1,508590,2090006
+209-281,GOOGLE-TWN_MUL-Weekday-04,2662102-GOOGLE-TWN_MUL-Weekday-04,"City to Stockland via Wulguru, JCU, Hospital",1,508591,2090006
+209-281,GOOGLE-TWN_MUL-Weekday-04,2662103-GOOGLE-TWN_MUL-Weekday-04,"City to Stockland via Wulguru, JCU, Hospital",1,508592,2090006
+209-281,GOOGLE-TWN_MUL-Weekday-04,2662104-GOOGLE-TWN_MUL-Weekday-04,"City to Stockland via Wulguru, JCU, Hospital",1,508593,2090006
+209-281,GOOGLE-TWN_MUL-Weekday-04,2662105-GOOGLE-TWN_MUL-Weekday-04,"City to Stockland via Wulguru, JCU, Hospital",1,508594,2090006
+209-281,GOOGLE-TWN_MUL-Weekday-04,2662106-GOOGLE-TWN_MUL-Weekday-04,"City to Stockland via Wulguru, JCU, Hospital",1,508595,2090006
+209-281,GOOGLE-TWN_MUL-Weekday-04,2662107-GOOGLE-TWN_MUL-Weekday-04,"City to Stockland via Wulguru, JCU, Hospital",1,508596,2090006
+209-281,GOOGLE-TWN_MUL-Weekday-04,2662108-GOOGLE-TWN_MUL-Weekday-04,"City to Stockland via Wulguru, JCU, Hospital",1,508597,2090006
+209-281,GOOGLE-TWN_MUL-Weekday-04,2662109-GOOGLE-TWN_MUL-Weekday-04,"City to Stockland via Wulguru, JCU, Hospital",1,508598,2090006
+209-281,GOOGLE-TWN_MUL-Weekday-04,2662110-GOOGLE-TWN_MUL-Weekday-04,"City to Stockland via Wulguru, JCU, Hospital",1,508599,2090006
+209-281,GOOGLE-TWN_MUL-Weekday-04,2662111-GOOGLE-TWN_MUL-Weekday-04,"City to Stockland via Wulguru, JCU, Hospital",1,508600,2090006
+210-281,GOOGLE-TWN_MUL-Weekday-04,2662128-GOOGLE-TWN_MUL-Weekday-04,"University to Willows express via Douglas Arterial",0,508617,2100007
+210-281,GOOGLE-TWN_MUL-Weekday-04,2662129-GOOGLE-TWN_MUL-Weekday-04,"University to Willows express via Douglas Arterial",0,508618,2100007
+210-281,GOOGLE-TWN_MUL-Weekday-04,2662130-GOOGLE-TWN_MUL-Weekday-04,"University to Willows express via Douglas Arterial",0,508619,2100007
+210-281,GOOGLE-TWN_MUL-Weekday-04,2662131-GOOGLE-TWN_MUL-Weekday-04,"University to Willows express via Douglas Arterial",0,508620,2100007
+210-281,GOOGLE-TWN_MUL-Weekday-04,2662132-GOOGLE-TWN_MUL-Weekday-04,"University to Willows express via Douglas Arterial",0,508621,2100007
+210-281,GOOGLE-TWN_MUL-Weekday-04,2662133-GOOGLE-TWN_MUL-Weekday-04,"University to Willows express via Douglas Arterial",0,508622,2100007
+210-281,GOOGLE-TWN_MUL-Weekday-04,2662134-GOOGLE-TWN_MUL-Weekday-04,"University to Willows express via Douglas Arterial",0,508623,2100007
+210-281,GOOGLE-TWN_MUL-Weekday-04,2662135-GOOGLE-TWN_MUL-Weekday-04,"University to Willows express via Douglas Arterial",0,508624,2100007
+210-281,GOOGLE-TWN_MUL-Weekday-04,2662136-GOOGLE-TWN_MUL-Weekday-04,"University to Willows express via Douglas Arterial",0,508625,2100007
+210-281,GOOGLE-TWN_MUL-Weekday-04,2662137-GOOGLE-TWN_MUL-Weekday-04,"University to Willows express via Douglas Arterial",0,508626,2100007
+210-281,GOOGLE-TWN_MUL-Weekday-04,2662138-GOOGLE-TWN_MUL-Weekday-04,"University to Willows express via Douglas Arterial",0,508627,2100007
+210-281,GOOGLE-TWN_MUL-Weekday-04,2662139-GOOGLE-TWN_MUL-Weekday-04,"Willows to University express via Douglas Arterial",1,508628,2100008
+210-281,GOOGLE-TWN_MUL-Weekday-04,2662140-GOOGLE-TWN_MUL-Weekday-04,"Willows to University express via Douglas Arterial",1,508629,2100008
+210-281,GOOGLE-TWN_MUL-Weekday-04,2662141-GOOGLE-TWN_MUL-Weekday-04,"Willows to University express via Douglas Arterial",1,508630,2100008
+210-281,GOOGLE-TWN_MUL-Weekday-04,2662142-GOOGLE-TWN_MUL-Weekday-04,"Willows to University express via Douglas Arterial",1,508631,2100008
+210-281,GOOGLE-TWN_MUL-Weekday-04,2662143-GOOGLE-TWN_MUL-Weekday-04,"Willows to University express via Douglas Arterial",1,508632,2100008
+210-281,GOOGLE-TWN_MUL-Weekday-04,2662144-GOOGLE-TWN_MUL-Weekday-04,"Willows to University express via Douglas Arterial",1,508633,2100008
+210-281,GOOGLE-TWN_MUL-Weekday-04,2662145-GOOGLE-TWN_MUL-Weekday-04,"Willows to University express via Douglas Arterial",1,508634,2100008
+210-281,GOOGLE-TWN_MUL-Weekday-04,2662146-GOOGLE-TWN_MUL-Weekday-04,"Willows to University express via Douglas Arterial",1,508635,2100008
+210-281,GOOGLE-TWN_MUL-Weekday-04,2662147-GOOGLE-TWN_MUL-Weekday-04,"Willows to University express via Douglas Arterial",1,508636,2100008
+210-281,GOOGLE-TWN_MUL-Weekday-04,2662148-GOOGLE-TWN_MUL-Weekday-04,"Willows to University express via Douglas Arterial",1,508637,2100008
+210-281,GOOGLE-TWN_MUL-Weekday-04,2662149-GOOGLE-TWN_MUL-Weekday-04,"Willows to University express via Douglas Arterial",1,508638,2100008
+208-281,GOOGLE-TWN_MUL-Weekday-04,2662162-GOOGLE-TWN_MUL-Weekday-04,"Willows to City via Heatley, Stockland, JCU, Annandale",0,508651,2080015
+208-281,GOOGLE-TWN_MUL-Weekday-04,2662163-GOOGLE-TWN_MUL-Weekday-04,"Willows to City via Heatley, Stockland, JCU, Annandale",0,508652,2080015
+208-281,GOOGLE-TWN_MUL-Weekday-04,2662164-GOOGLE-TWN_MUL-Weekday-04,"Willows to City via Heatley, Stockland, JCU, Annandale",0,508653,2080015
+208-281,GOOGLE-TWN_MUL-Weekday-04,2662165-GOOGLE-TWN_MUL-Weekday-04,"Willows to City via Heatley, Stockland, JCU, Annandale",0,508654,2080015
+208-281,GOOGLE-TWN_MUL-Weekday-04,2662166-GOOGLE-TWN_MUL-Weekday-04,"Willows to City via Heatley, Stockland, JCU, Annandale",0,508655,2080015
+208-281,GOOGLE-TWN_MUL-Weekday-04,2662167-GOOGLE-TWN_MUL-Weekday-04,"Willows to City via Heatley, Stockland, JCU, Annandale",0,508656,2080015
+208-281,GOOGLE-TWN_MUL-Weekday-04,2662168-GOOGLE-TWN_MUL-Weekday-04,"Willows to City via Heatley, Stockland, JCU, Annandale",0,508657,2080015
+208-281,GOOGLE-TWN_MUL-Weekday-04,2662169-GOOGLE-TWN_MUL-Weekday-04,"Willows to City via Heatley, Stockland, JCU, Annandale",0,508658,2080015
+208-281,GOOGLE-TWN_MUL-Weekday-04,2662170-GOOGLE-TWN_MUL-Weekday-04,"Willows to City via Heatley, Stockland, JCU, Annandale",0,508659,2080015
+208-281,GOOGLE-TWN_MUL-Weekday-04,2662171-GOOGLE-TWN_MUL-Weekday-04,"Willows to City via Heatley, Stockland, JCU, Annandale",0,508660,2080015
+208-281,GOOGLE-TWN_MUL-Weekday-04,2662172-GOOGLE-TWN_MUL-Weekday-04,"Willows to City via Heatley, Stockland, JCU, Annandale",0,508661,2080015
+208-281,GOOGLE-TWN_MUL-Weekday-04,2662173-GOOGLE-TWN_MUL-Weekday-04,"Willows to City via Heatley, Stockland, JCU, Annandale",0,508662,2080015
+208-281,GOOGLE-TWN_MUL-Weekday-04,2662174-GOOGLE-TWN_MUL-Weekday-04,"City to Willows via Annandale, Hospital, University, Heatley",1,508663,2080016
+208-281,GOOGLE-TWN_MUL-Weekday-04,2662175-GOOGLE-TWN_MUL-Weekday-04,"City to Willows via Annandale, Hospital, University, Heatley",1,508664,2080016
+208-281,GOOGLE-TWN_MUL-Weekday-04,2662176-GOOGLE-TWN_MUL-Weekday-04,"City to Willows via Annandale, Hospital, University, Heatley",1,508665,2080016
+208-281,GOOGLE-TWN_MUL-Weekday-04,2662177-GOOGLE-TWN_MUL-Weekday-04,"City to Willows via Annandale, Hospital, University, Heatley",1,508666,2080016
+208-281,GOOGLE-TWN_MUL-Weekday-04,2662178-GOOGLE-TWN_MUL-Weekday-04,"City to Willows via Annandale, Hospital, University, Heatley",1,508667,2080016
+208-281,GOOGLE-TWN_MUL-Weekday-04,2662179-GOOGLE-TWN_MUL-Weekday-04,"City to Willows via Annandale, Hospital, University, Heatley",1,508668,2080016
+208-281,GOOGLE-TWN_MUL-Weekday-04,2662180-GOOGLE-TWN_MUL-Weekday-04,"City to Willows via Annandale, Hospital, University, Heatley",1,508669,2080016
+208-281,GOOGLE-TWN_MUL-Weekday-04,2662181-GOOGLE-TWN_MUL-Weekday-04,"City to Willows via Annandale, Hospital, University, Heatley",1,508670,2080016
+208-281,GOOGLE-TWN_MUL-Weekday-04,2662182-GOOGLE-TWN_MUL-Weekday-04,"City to Willows via Annandale, Hospital, University, Heatley",1,508671,2080016
+208-281,GOOGLE-TWN_MUL-Weekday-04,2662183-GOOGLE-TWN_MUL-Weekday-04,"City to Willows via Annandale, Hospital, University, Heatley",1,508672,2080016
+208-281,GOOGLE-TWN_MUL-Weekday-04,2662184-GOOGLE-TWN_MUL-Weekday-04,"City to Willows via Annandale, Hospital, University, Heatley",1,508673,2080016
+208-281,GOOGLE-TWN_MUL-Weekday-04,2662185-GOOGLE-TWN_MUL-Weekday-04,"City to Willows via Annandale, Hospital, University, Heatley",1,508674,2080016
+208-281,GOOGLE-TWN_MUL-Weekday-04,2662186-GOOGLE-TWN_MUL-Weekday-04,"City to Willows via Annandale, Hospital, University, Heatley",1,508675,2080017
+207-281,GOOGLE-TWN_MUL-Weekday-04,2662201-GOOGLE-TWN_MUL-Weekday-04,"Stuart to City via Fairfield Waters",0,508690,2070006
+207-281,GOOGLE-TWN_MUL-Weekday-04,2662202-GOOGLE-TWN_MUL-Weekday-04,"Stuart to City via Fairfield Waters",0,508691,2070006
+207-281,GOOGLE-TWN_MUL-Weekday-04,2662203-GOOGLE-TWN_MUL-Weekday-04,"Stuart to City via Fairfield Waters",0,508692,2070006
+207-281,GOOGLE-TWN_MUL-Weekday-04,2662204-GOOGLE-TWN_MUL-Weekday-04,"Stuart to City via Fairfield Waters",0,508693,2070006
+207-281,GOOGLE-TWN_MUL-Weekday-04,2662205-GOOGLE-TWN_MUL-Weekday-04,"City to Stuart via Fairfield Waters",1,508694,2070007
+207-281,GOOGLE-TWN_MUL-Weekday-04,2662206-GOOGLE-TWN_MUL-Weekday-04,"City to Stuart via Fairfield Waters",1,508695,2070007
+207-281,GOOGLE-TWN_MUL-Weekday-04,2662207-GOOGLE-TWN_MUL-Weekday-04,"City to Stuart via Fairfield Waters",1,508696,2070007
+207-281,GOOGLE-TWN_MUL-Weekday-04,2662208-GOOGLE-TWN_MUL-Weekday-04,"City to Stuart via Fairfield Waters",1,508697,2070007
+206-281,GOOGLE-TWN_MUL-Weekday-04,2662209-GOOGLE-TWN_MUL-Weekday-04,"Townsville City - Cape Pallarenda",1,508698,2060010
+206-281,GOOGLE-TWN_MUL-Weekday-04,2662210-GOOGLE-TWN_MUL-Weekday-04,"Townsville City - Cape Pallarenda",1,508699,2060010
+206-281,GOOGLE-TWN_MUL-Weekday-04,2662211-GOOGLE-TWN_MUL-Weekday-04,"Townsville City - Cape Pallarenda",1,508700,2060010
+206-281,GOOGLE-TWN_MUL-Weekday-04,2662212-GOOGLE-TWN_MUL-Weekday-04,"Townsville City - Cape Pallarenda",1,508701,2060010
+206-281,GOOGLE-TWN_MUL-Weekday-04,2662213-GOOGLE-TWN_MUL-Weekday-04,"Townsville City - Cape Pallarenda",1,508702,2060010
+206-281,GOOGLE-TWN_MUL-Weekday-04,2662214-GOOGLE-TWN_MUL-Weekday-04,"Townsville City - Cape Pallarenda",1,508703,2060010
+206-281,GOOGLE-TWN_MUL-Weekday-04,2662215-GOOGLE-TWN_MUL-Weekday-04,"Townsville City - Cape Pallarenda",1,508704,2060010
+206-281,GOOGLE-TWN_MUL-Weekday-04,2662216-GOOGLE-TWN_MUL-Weekday-04,"Townsville City - Cape Pallarenda",1,508705,2060010
+206-281,GOOGLE-TWN_MUL-Weekday-04,2662217-GOOGLE-TWN_MUL-Weekday-04,"Townsville City - Cape Pallarenda",1,508706,2060010
+206-281,GOOGLE-TWN_MUL-Weekday-04,2662218-GOOGLE-TWN_MUL-Weekday-04,"Townsville City - Cape Pallarenda",1,508707,2060010
+206-281,GOOGLE-TWN_MUL-Weekday-04,2662219-GOOGLE-TWN_MUL-Weekday-04,"Townsville City - Cape Pallarenda",1,508708,2060010
+206-281,GOOGLE-TWN_MUL-Weekday-04,2662220-GOOGLE-TWN_MUL-Weekday-04," Cape Pallarenda - Townsville City",0,508709,2060009
+206-281,GOOGLE-TWN_MUL-Weekday-04,2662221-GOOGLE-TWN_MUL-Weekday-04," Cape Pallarenda - Townsville City",0,508710,2060009
+206-281,GOOGLE-TWN_MUL-Weekday-04,2662222-GOOGLE-TWN_MUL-Weekday-04," Cape Pallarenda - Townsville City",0,508711,2060009
+206-281,GOOGLE-TWN_MUL-Weekday-04,2662223-GOOGLE-TWN_MUL-Weekday-04," Cape Pallarenda - Townsville City",0,508712,2060009
+206-281,GOOGLE-TWN_MUL-Weekday-04,2662224-GOOGLE-TWN_MUL-Weekday-04," Cape Pallarenda - Townsville City",0,508713,2060009
+206-281,GOOGLE-TWN_MUL-Weekday-04,2662225-GOOGLE-TWN_MUL-Weekday-04," Cape Pallarenda - Townsville City",0,508714,2060009
+206-281,GOOGLE-TWN_MUL-Weekday-04,2662226-GOOGLE-TWN_MUL-Weekday-04," Cape Pallarenda - Townsville City",0,508715,2060009
+206-281,GOOGLE-TWN_MUL-Weekday-04,2662227-GOOGLE-TWN_MUL-Weekday-04," Cape Pallarenda - Townsville City",0,508716,2060009
+206-281,GOOGLE-TWN_MUL-Weekday-04,2662228-GOOGLE-TWN_MUL-Weekday-04," Cape Pallarenda - Townsville City",0,508717,2060009
+206-281,GOOGLE-TWN_MUL-Weekday-04,2662229-GOOGLE-TWN_MUL-Weekday-04," Cape Pallarenda - Townsville City",0,508718,2060009
+206-281,GOOGLE-TWN_MUL-Weekday-04,2662230-GOOGLE-TWN_MUL-Weekday-04," Cape Pallarenda - Townsville City",0,508719,2060009
+203-281,GOOGLE-TWN_MUL-Weekday-04,2662242-GOOGLE-TWN_MUL-Weekday-04,"Kirwan to City via Willows, Heatley, Stockland, Castletown",0,508731,2030008
+203-281,GOOGLE-TWN_MUL-Weekday-04,2662243-GOOGLE-TWN_MUL-Weekday-04,"Kirwan to City via Willows, Heatley, Stockland, Castletown",0,508732,2030008
+203-281,GOOGLE-TWN_MUL-Weekday-04,2662244-GOOGLE-TWN_MUL-Weekday-04,"Kirwan to City via Willows, Heatley, Stockland, Castletown",0,508733,2030008
+203-281,GOOGLE-TWN_MUL-Weekday-04,2662245-GOOGLE-TWN_MUL-Weekday-04,"Kirwan to City via Willows, Heatley, Stockland, Castletown",0,508734,2030008
+203-281,GOOGLE-TWN_MUL-Weekday-04,2662246-GOOGLE-TWN_MUL-Weekday-04,"Kirwan to City via Willows, Heatley, Stockland, Castletown",0,508735,2030008
+203-281,GOOGLE-TWN_MUL-Weekday-04,2662247-GOOGLE-TWN_MUL-Weekday-04,"Kirwan to City via Willows, Heatley, Stockland, Castletown",0,508736,2030008
+203-281,GOOGLE-TWN_MUL-Weekday-04,2662248-GOOGLE-TWN_MUL-Weekday-04,"Kirwan to City via Willows, Heatley, Stockland, Castletown",0,508737,2030008
+203-281,GOOGLE-TWN_MUL-Weekday-04,2662249-GOOGLE-TWN_MUL-Weekday-04,"Kirwan to City via Willows, Heatley, Stockland, Castletown",0,508738,2030008
+203-281,GOOGLE-TWN_MUL-Weekday-04,2662250-GOOGLE-TWN_MUL-Weekday-04,"Kirwan to City via Willows, Heatley, Stockland, Castletown",0,508739,2030008
+203-281,GOOGLE-TWN_MUL-Weekday-04,2662251-GOOGLE-TWN_MUL-Weekday-04,"Kirwan to City via Willows, Heatley, Stockland, Castletown",0,508740,2030008
+203-281,GOOGLE-TWN_MUL-Weekday-04,2662252-GOOGLE-TWN_MUL-Weekday-04,"Kirwan to City via Willows, Heatley, Stockland, Castletown",0,508741,2030008
+203-281,GOOGLE-TWN_MUL-Weekday-04,2662253-GOOGLE-TWN_MUL-Weekday-04,"Kirwan to City via Willows, Heatley, Stockland, Castletown",0,508742,2030008
+203-281,GOOGLE-TWN_MUL-Weekday-04,2662254-GOOGLE-TWN_MUL-Weekday-04,"Kirwan to City via Willows, Heatley, Stockland, Castletown",0,508743,2030008
+203-281,GOOGLE-TWN_MUL-Weekday-04,2662255-GOOGLE-TWN_MUL-Weekday-04,"Kirwan to City via Willows, Heatley, Stockland, Castletown",0,508744,2030008
+203-281,GOOGLE-TWN_MUL-Weekday-04,2662256-GOOGLE-TWN_MUL-Weekday-04,"Kirwan to City via Willows, Heatley, Stockland, Castletown",0,508745,2030008
+203-281,GOOGLE-TWN_MUL-Weekday-04,2662257-GOOGLE-TWN_MUL-Weekday-04,"Kirwan to City via Willows, Heatley, Stockland, Castletown",0,508746,2030008
+203-281,GOOGLE-TWN_MUL-Weekday-04,2662258-GOOGLE-TWN_MUL-Weekday-04,"Kirwan to City via Willows, Heatley, Stockland, Castletown",0,508747,2030008
+203-281,GOOGLE-TWN_MUL-Weekday-04,2662259-GOOGLE-TWN_MUL-Weekday-04,"Kirwan to City via Willows, Heatley, Stockland, Castletown",0,508748,2030008
+203-281,GOOGLE-TWN_MUL-Weekday-04,2662260-GOOGLE-TWN_MUL-Weekday-04,"Kirwan to City via Willows, Heatley, Stockland, Castletown",0,508749,2030008
+203-281,GOOGLE-TWN_MUL-Weekday-04,2662261-GOOGLE-TWN_MUL-Weekday-04,"Kirwan to City via Willows, Heatley, Stockland, Castletown",0,508750,2030008
+203-281,GOOGLE-TWN_MUL-Weekday-04,2662262-GOOGLE-TWN_MUL-Weekday-04,"Kirwan to City via Willows, Heatley, Stockland, Castletown",0,508751,2030008
+203-281,GOOGLE-TWN_MUL-Weekday-04,2662263-GOOGLE-TWN_MUL-Weekday-04,"Kirwan to City via Willows, Heatley, Stockland, Castletown",0,508752,2030008
+203-281,GOOGLE-TWN_MUL-Weekday-04,2662264-GOOGLE-TWN_MUL-Weekday-04,"Kirwan to City via Willows, Heatley, Stockland, Castletown",0,508753,2030008
+203-281,GOOGLE-TWN_MUL-Weekday-04,2662265-GOOGLE-TWN_MUL-Weekday-04,"Kirwan to City via Willows, Heatley, Stockland, Castletown",0,508754,2030008
+203-281,GOOGLE-TWN_MUL-Weekday-04,2662266-GOOGLE-TWN_MUL-Weekday-04,"Kirwan to City via Willows, Heatley, Stockland, Castletown",0,508755,2030008
+203-281,GOOGLE-TWN_MUL-Weekday-04,2662267-GOOGLE-TWN_MUL-Weekday-04,"Kirwan to City via Willows, Heatley, Stockland, Castletown",0,508756,2030008
+203-281,GOOGLE-TWN_MUL-Weekday-04,2662268-GOOGLE-TWN_MUL-Weekday-04,"Kirwan to City via Willows, Heatley, Stockland, Castletown",0,508757,2030008
+203-281,GOOGLE-TWN_MUL-Weekday-04,2662269-GOOGLE-TWN_MUL-Weekday-04,"Kirwan to City via Willows, Heatley, Stockland, Castletown",0,508758,2030008
+203-281,GOOGLE-TWN_MUL-Weekday-04,2662270-GOOGLE-TWN_MUL-Weekday-04,"City to Kirwan via Castletown, Stockland, Heatley, Willows",1,508759,2030009
+203-281,GOOGLE-TWN_MUL-Weekday-04,2662271-GOOGLE-TWN_MUL-Weekday-04,"City to Kirwan via Castletown, Stockland, Heatley, Willows",1,508760,2030009
+203-281,GOOGLE-TWN_MUL-Weekday-04,2662272-GOOGLE-TWN_MUL-Weekday-04,"City to Kirwan via Castletown, Stockland, Heatley, Willows",1,508761,2030009
+203-281,GOOGLE-TWN_MUL-Weekday-04,2662273-GOOGLE-TWN_MUL-Weekday-04,"City to Kirwan via Castletown, Stockland, Heatley, Willows",1,508762,2030009
+203-281,GOOGLE-TWN_MUL-Weekday-04,2662274-GOOGLE-TWN_MUL-Weekday-04,"City to Kirwan via Castletown, Stockland, Heatley, Willows",1,508763,2030009
+203-281,GOOGLE-TWN_MUL-Weekday-04,2662275-GOOGLE-TWN_MUL-Weekday-04,"City to Kirwan via Castletown, Stockland, Heatley, Willows",1,508764,2030009
+203-281,GOOGLE-TWN_MUL-Weekday-04,2662276-GOOGLE-TWN_MUL-Weekday-04,"City to Kirwan via Castletown, Stockland, Heatley, Willows",1,508765,2030009
+203-281,GOOGLE-TWN_MUL-Weekday-04,2662277-GOOGLE-TWN_MUL-Weekday-04,"City to Kirwan via Castletown, Stockland, Heatley, Willows",1,508766,2030009
+203-281,GOOGLE-TWN_MUL-Weekday-04,2662278-GOOGLE-TWN_MUL-Weekday-04,"City to Kirwan via Castletown, Stockland, Heatley, Willows",1,508767,2030009
+203-281,GOOGLE-TWN_MUL-Weekday-04,2662279-GOOGLE-TWN_MUL-Weekday-04,"City to Kirwan via Castletown, Stockland, Heatley, Willows",1,508768,2030009
+203-281,GOOGLE-TWN_MUL-Weekday-04,2662280-GOOGLE-TWN_MUL-Weekday-04,"City to Kirwan via Castletown, Stockland, Heatley, Willows",1,508769,2030009
+203-281,GOOGLE-TWN_MUL-Weekday-04,2662281-GOOGLE-TWN_MUL-Weekday-04,"City to Kirwan via Castletown, Stockland, Heatley, Willows",1,508770,2030009
+203-281,GOOGLE-TWN_MUL-Weekday-04,2662282-GOOGLE-TWN_MUL-Weekday-04,"City to Kirwan via Castletown, Stockland, Heatley, Willows",1,508771,2030009
+203-281,GOOGLE-TWN_MUL-Weekday-04,2662283-GOOGLE-TWN_MUL-Weekday-04,"City to Kirwan via Castletown, Stockland, Heatley, Willows",1,508772,2030009
+203-281,GOOGLE-TWN_MUL-Weekday-04,2662284-GOOGLE-TWN_MUL-Weekday-04,"City to Kirwan via Castletown, Stockland, Heatley, Willows",1,508773,2030009
+203-281,GOOGLE-TWN_MUL-Weekday-04,2662285-GOOGLE-TWN_MUL-Weekday-04,"City to Kirwan via Castletown, Stockland, Heatley, Willows",1,508774,2030009
+203-281,GOOGLE-TWN_MUL-Weekday-04,2662286-GOOGLE-TWN_MUL-Weekday-04,"City to Kirwan via Castletown, Stockland, Heatley, Willows",1,508775,2030009
+203-281,GOOGLE-TWN_MUL-Weekday-04,2662287-GOOGLE-TWN_MUL-Weekday-04,"City to Kirwan via Castletown, Stockland, Heatley, Willows",1,508776,2030009
+203-281,GOOGLE-TWN_MUL-Weekday-04,2662288-GOOGLE-TWN_MUL-Weekday-04,"City to Kirwan via Castletown, Stockland, Heatley, Willows",1,508777,2030009
+203-281,GOOGLE-TWN_MUL-Weekday-04,2662289-GOOGLE-TWN_MUL-Weekday-04,"City to Kirwan via Castletown, Stockland, Heatley, Willows",1,508778,2030009
+203-281,GOOGLE-TWN_MUL-Weekday-04,2662290-GOOGLE-TWN_MUL-Weekday-04,"City to Kirwan via Castletown, Stockland, Heatley, Willows",1,508779,2030009
+203-281,GOOGLE-TWN_MUL-Weekday-04,2662291-GOOGLE-TWN_MUL-Weekday-04,"City to Kirwan via Castletown, Stockland, Heatley, Willows",1,508780,2030009
+203-281,GOOGLE-TWN_MUL-Weekday-04,2662292-GOOGLE-TWN_MUL-Weekday-04,"City to Kirwan via Castletown, Stockland, Heatley, Willows",1,508781,2030009
+203-281,GOOGLE-TWN_MUL-Weekday-04,2662293-GOOGLE-TWN_MUL-Weekday-04,"City to Kirwan via Castletown, Stockland, Heatley, Willows",1,508782,2030009
+203-281,GOOGLE-TWN_MUL-Weekday-04,2662294-GOOGLE-TWN_MUL-Weekday-04,"City to Kirwan via Castletown, Stockland, Heatley, Willows",1,508783,2030009
+203-281,GOOGLE-TWN_MUL-Weekday-04,2662295-GOOGLE-TWN_MUL-Weekday-04,"City to Kirwan via Castletown, Stockland, Heatley, Willows",1,508785,2030009
+203-281,GOOGLE-TWN_MUL-Weekday-04,2662296-GOOGLE-TWN_MUL-Weekday-04,"City to Kirwan via Castletown, Stockland, Heatley, Willows",1,508784,2030009
+202-281,GOOGLE-TWN_MUL-Weekday-04,2662327-GOOGLE-TWN_MUL-Weekday-04,"University to City via Douglas, Stockland, Gulliver",0,508818,2020005
+202-281,GOOGLE-TWN_MUL-Weekday-04,2662328-GOOGLE-TWN_MUL-Weekday-04,"University to City via Douglas, Stockland, Gulliver",0,508816,2020005
+202-281,GOOGLE-TWN_MUL-Weekday-04,2662329-GOOGLE-TWN_MUL-Weekday-04,"University to City via Douglas, Stockland, Gulliver",0,508817,2020005
+202-281,GOOGLE-TWN_MUL-Weekday-04,2662330-GOOGLE-TWN_MUL-Weekday-04,"University to City via Douglas, Stockland, Gulliver",0,508819,2020005
+202-281,GOOGLE-TWN_MUL-Weekday-04,2662331-GOOGLE-TWN_MUL-Weekday-04,"University to City via Douglas, Stockland, Gulliver",0,508820,2020005
+202-281,GOOGLE-TWN_MUL-Weekday-04,2662332-GOOGLE-TWN_MUL-Weekday-04,"University to City via Douglas, Stockland, Gulliver",0,508822,2020005
+202-281,GOOGLE-TWN_MUL-Weekday-04,2662333-GOOGLE-TWN_MUL-Weekday-04,"University to City via Douglas, Stockland, Gulliver",0,508821,2020005
+202-281,GOOGLE-TWN_MUL-Weekday-04,2662334-GOOGLE-TWN_MUL-Weekday-04,"University to City via Douglas, Stockland, Gulliver",0,508823,2020005
+202-281,GOOGLE-TWN_MUL-Weekday-04,2662335-GOOGLE-TWN_MUL-Weekday-04,"University to City via Douglas, Stockland, Gulliver",0,508824,2020005
+202-281,GOOGLE-TWN_MUL-Weekday-04,2662336-GOOGLE-TWN_MUL-Weekday-04,"University to City via Douglas, Stockland, Gulliver",0,508825,2020005
+202-281,GOOGLE-TWN_MUL-Weekday-04,2662337-GOOGLE-TWN_MUL-Weekday-04,"University to City via Douglas, Stockland, Gulliver",0,508826,2020005
+202-281,GOOGLE-TWN_MUL-Weekday-04,2662338-GOOGLE-TWN_MUL-Weekday-04,"University to City via Douglas, Stockland, Gulliver",0,508827,2020005
+202-281,GOOGLE-TWN_MUL-Weekday-04,2662339-GOOGLE-TWN_MUL-Weekday-04,"City to University via Gulliver, Stockland, Douglas",1,508828,2020006
+202-281,GOOGLE-TWN_MUL-Weekday-04,2662340-GOOGLE-TWN_MUL-Weekday-04,"City to University via Gulliver, Stockland, Douglas",1,508829,2020006
+202-281,GOOGLE-TWN_MUL-Weekday-04,2662341-GOOGLE-TWN_MUL-Weekday-04,"City to University via Gulliver, Stockland, Douglas",1,508830,2020006
+202-281,GOOGLE-TWN_MUL-Weekday-04,2662342-GOOGLE-TWN_MUL-Weekday-04,"City to University via Gulliver, Stockland, Douglas",1,508831,2020006
+202-281,GOOGLE-TWN_MUL-Weekday-04,2662343-GOOGLE-TWN_MUL-Weekday-04,"City to University via Gulliver, Stockland, Douglas",1,508832,2020006
+202-281,GOOGLE-TWN_MUL-Weekday-04,2662344-GOOGLE-TWN_MUL-Weekday-04,"City to University via Gulliver, Stockland, Douglas",1,508833,2020006
+202-281,GOOGLE-TWN_MUL-Weekday-04,2662345-GOOGLE-TWN_MUL-Weekday-04,"City to University via Gulliver, Stockland, Douglas",1,508834,2020006
+202-281,GOOGLE-TWN_MUL-Weekday-04,2662346-GOOGLE-TWN_MUL-Weekday-04,"City to University via Gulliver, Stockland, Douglas",1,508835,2020006
+202-281,GOOGLE-TWN_MUL-Weekday-04,2662347-GOOGLE-TWN_MUL-Weekday-04,"City to University via Gulliver, Stockland, Douglas",1,508836,2020006
+202-281,GOOGLE-TWN_MUL-Weekday-04,2662348-GOOGLE-TWN_MUL-Weekday-04,"City to University via Gulliver, Stockland, Douglas",1,508837,2020006
+202-281,GOOGLE-TWN_MUL-Weekday-04,2662349-GOOGLE-TWN_MUL-Weekday-04,"City to University via Gulliver, Stockland, Douglas",1,508838,2020006
+202-281,GOOGLE-TWN_MUL-Weekday-04,2662350-GOOGLE-TWN_MUL-Weekday-04,"City to University via Gulliver, Stockland, Douglas",1,508839,2020006
+202-281,GOOGLE-TWN_MUL-Weekday-04,2662351-GOOGLE-TWN_MUL-Weekday-04,"City to University via Gulliver, Stockland, Douglas",1,508840,2020006
+201-281,GOOGLE-TWN_MUL-Weekday-04,2662366-GOOGLE-TWN_MUL-Weekday-04,"University to City and Breakwater",0,508855,2010034
+201-281,GOOGLE-TWN_MUL-Weekday-04,2662367-GOOGLE-TWN_MUL-Weekday-04,"University to City and Breakwater",0,508856,2010034
+201-281,GOOGLE-TWN_MUL-Weekday-04,2662368-GOOGLE-TWN_MUL-Weekday-04,"University to City and Breakwater",0,508857,2010034
+201-281,GOOGLE-TWN_MUL-Weekday-04,2662369-GOOGLE-TWN_MUL-Weekday-04,"University to City and Breakwater",0,508858,2010034
+201-281,GOOGLE-TWN_MUL-Weekday-04,2662370-GOOGLE-TWN_MUL-Weekday-04,"University to City and Breakwater",0,508859,2010034
+201-281,GOOGLE-TWN_MUL-Weekday-04,2662371-GOOGLE-TWN_MUL-Weekday-04,"University to City and Breakwater",0,508860,2010034
+201-281,GOOGLE-TWN_MUL-Weekday-04,2662372-GOOGLE-TWN_MUL-Weekday-04,"University to City and Breakwater",0,508861,2010034
+201-281,GOOGLE-TWN_MUL-Weekday-04,2662373-GOOGLE-TWN_MUL-Weekday-04,"University to City and Breakwater",0,508862,2010034
+201-281,GOOGLE-TWN_MUL-Weekday-04,2662374-GOOGLE-TWN_MUL-Weekday-04,"University to City and Breakwater",0,508863,2010034
+201-281,GOOGLE-TWN_MUL-Weekday-04,2662375-GOOGLE-TWN_MUL-Weekday-04,"University to City and Breakwater",0,508864,2010034
+201-281,GOOGLE-TWN_MUL-Weekday-04,2662376-GOOGLE-TWN_MUL-Weekday-04,"University to City and Breakwater",0,508865,2010034
+201-281,GOOGLE-TWN_MUL-Weekday-04,2662377-GOOGLE-TWN_MUL-Weekday-04,"University to City and Breakwater",0,508866,2010034
+201-281,GOOGLE-TWN_MUL-Weekday-04,2662378-GOOGLE-TWN_MUL-Weekday-04,"University to City and Breakwater",0,508867,2010034
+201-281,GOOGLE-TWN_MUL-Weekday-04,2662379-GOOGLE-TWN_MUL-Weekday-04,"University to City and Breakwater",0,508868,2010034
+201-281,GOOGLE-TWN_MUL-Weekday-04,2662380-GOOGLE-TWN_MUL-Weekday-04,"University to City and Breakwater",0,508869,2010034
+201-281,GOOGLE-TWN_MUL-Weekday-04,2662381-GOOGLE-TWN_MUL-Weekday-04,"University to City and Breakwater",0,508870,2010034
+201-281,GOOGLE-TWN_MUL-Weekday-04,2662382-GOOGLE-TWN_MUL-Weekday-04,"University to City and Breakwater",0,508871,2010034
+201-281,GOOGLE-TWN_MUL-Weekday-04,2662383-GOOGLE-TWN_MUL-Weekday-04,"University to City and Breakwater",0,508872,2010034
+201-281,GOOGLE-TWN_MUL-Weekday-04,2662384-GOOGLE-TWN_MUL-Weekday-04,"University to City and Breakwater",0,508873,2010034
+201-281,GOOGLE-TWN_MUL-Weekday-04,2662385-GOOGLE-TWN_MUL-Weekday-04,"University to City and Breakwater",0,508874,2010034
+201-281,GOOGLE-TWN_MUL-Weekday-04,2662386-GOOGLE-TWN_MUL-Weekday-04,"University to City and Breakwater",0,508875,2010034
+201-281,GOOGLE-TWN_MUL-Weekday-04,2662387-GOOGLE-TWN_MUL-Weekday-04,"University to City and Breakwater",0,508876,2010034
+201-281,GOOGLE-TWN_MUL-Weekday-04,2662388-GOOGLE-TWN_MUL-Weekday-04,"University to City and Breakwater",0,508877,2010034
+201-281,GOOGLE-TWN_MUL-Weekday-04,2662389-GOOGLE-TWN_MUL-Weekday-04,"University to City and Breakwater",0,508878,2010034
+201-281,GOOGLE-TWN_MUL-Weekday-04,2662390-GOOGLE-TWN_MUL-Weekday-04,"University to City and Breakwater",0,508879,2010034
+201-281,GOOGLE-TWN_MUL-Weekday-04,2662391-GOOGLE-TWN_MUL-Weekday-04,"University to City and Breakwater",0,508880,2010034
+201-281,GOOGLE-TWN_MUL-Weekday-04,2662392-GOOGLE-TWN_MUL-Weekday-04,"University to City and Breakwater",0,508881,2010034
+201-281,GOOGLE-TWN_MUL-Weekday-04,2662393-GOOGLE-TWN_MUL-Weekday-04,"University to City and Breakwater",0,508882,2010034
+201-281,GOOGLE-TWN_MUL-Weekday-04,2662394-GOOGLE-TWN_MUL-Weekday-04,"University to City and Breakwater",0,508883,2010034
+201-281,GOOGLE-TWN_MUL-Weekday-04,2662395-GOOGLE-TWN_MUL-Weekday-04,"University to City and Breakwater",0,508884,2010034
+201-281,GOOGLE-TWN_MUL-Weekday-04,2662396-GOOGLE-TWN_MUL-Weekday-04,"University to City and Breakwater",0,508885,2010034
+201-281,GOOGLE-TWN_MUL-Weekday-04,2662397-GOOGLE-TWN_MUL-Weekday-04,"University to City and Breakwater",0,508886,2010034
+201-281,GOOGLE-TWN_MUL-Weekday-04,2662398-GOOGLE-TWN_MUL-Weekday-04,"University to City and Breakwater",0,508887,2010034
+201-281,GOOGLE-TWN_MUL-Weekday-04,2662399-GOOGLE-TWN_MUL-Weekday-04,"University to City and Breakwater",0,508888,2010034
+201-281,GOOGLE-TWN_MUL-Weekday-04,2662400-GOOGLE-TWN_MUL-Weekday-04,"University to City and Breakwater",0,508889,2010034
+201-281,GOOGLE-TWN_MUL-Weekday-04,2662401-GOOGLE-TWN_MUL-Weekday-04,"University to City and Breakwater",0,508890,2010034
+201-281,GOOGLE-TWN_MUL-Weekday-04,2662402-GOOGLE-TWN_MUL-Weekday-04,"University to City and Breakwater",0,508891,2010034
+201-281,GOOGLE-TWN_MUL-Weekday-04,2662403-GOOGLE-TWN_MUL-Weekday-04,"University to City and Breakwater",0,508892,2010034
+201-281,GOOGLE-TWN_MUL-Weekday-04,2662404-GOOGLE-TWN_MUL-Weekday-04,"University to City and Breakwater",0,508893,2010034
+201-281,GOOGLE-TWN_MUL-Weekday-04,2662405-GOOGLE-TWN_MUL-Weekday-04,"University to City and Breakwater",0,508894,2010034
+201-281,GOOGLE-TWN_MUL-Weekday-04,2662406-GOOGLE-TWN_MUL-Weekday-04,"University to City and Breakwater",0,508895,2010034
+201-281,GOOGLE-TWN_MUL-Weekday-04,2662407-GOOGLE-TWN_MUL-Weekday-04,"University to City and Breakwater",0,508896,2010034
+201-281,GOOGLE-TWN_MUL-Weekday-04,2662408-GOOGLE-TWN_MUL-Weekday-04,"University to City and Breakwater",0,508897,2010035
+201-281,GOOGLE-TWN_MUL-Weekday-04-0000100,2662409-GOOGLE-TWN_MUL-Weekday-04-0000100,"University to City and Breakwater",0,508898,2010035
+201-281,GOOGLE-TWN_MUL-Weekday-04-0000100,2662410-GOOGLE-TWN_MUL-Weekday-04-0000100,"University to City and Breakwater",0,508899,2010035
+201-281,GOOGLE-TWN_MUL-Weekday-04-0000100,2662411-GOOGLE-TWN_MUL-Weekday-04-0000100,"University to City and Breakwater",0,508900,2010035
+201-281,GOOGLE-TWN_MUL-Weekday-04,2662412-GOOGLE-TWN_MUL-Weekday-04,"Breakwater to Hospital and University via City",1,508901,2010036
+201-281,GOOGLE-TWN_MUL-Weekday-04,2662413-GOOGLE-TWN_MUL-Weekday-04,"Breakwater to Hospital and University via City",1,508902,2010036
+201-281,GOOGLE-TWN_MUL-Weekday-04,2662414-GOOGLE-TWN_MUL-Weekday-04,"Breakwater to Hospital and University via City",1,508903,2010036
+201-281,GOOGLE-TWN_MUL-Weekday-04,2662415-GOOGLE-TWN_MUL-Weekday-04,"Breakwater to Hospital and University via City",1,508904,2010036
+201-281,GOOGLE-TWN_MUL-Weekday-04,2662416-GOOGLE-TWN_MUL-Weekday-04,"Breakwater to Hospital and University via City",1,508905,2010036
+201-281,GOOGLE-TWN_MUL-Weekday-04,2662417-GOOGLE-TWN_MUL-Weekday-04,"Breakwater to Hospital and University via City",1,508906,2010036
+201-281,GOOGLE-TWN_MUL-Weekday-04,2662418-GOOGLE-TWN_MUL-Weekday-04,"Breakwater to Hospital and University via City",1,508907,2010036
+201-281,GOOGLE-TWN_MUL-Weekday-04,2662419-GOOGLE-TWN_MUL-Weekday-04,"Breakwater to Hospital and University via City",1,508908,2010036
+201-281,GOOGLE-TWN_MUL-Weekday-04,2662420-GOOGLE-TWN_MUL-Weekday-04,"Breakwater to Hospital and University via City",1,508909,2010036
+201-281,GOOGLE-TWN_MUL-Weekday-04,2662421-GOOGLE-TWN_MUL-Weekday-04,"Breakwater to Hospital and University via City",1,508910,2010036
+201-281,GOOGLE-TWN_MUL-Weekday-04,2662422-GOOGLE-TWN_MUL-Weekday-04,"Breakwater to Hospital and University via City",1,508911,2010036
+201-281,GOOGLE-TWN_MUL-Weekday-04,2662423-GOOGLE-TWN_MUL-Weekday-04,"Breakwater to Hospital and University via City",1,508912,2010036
+201-281,GOOGLE-TWN_MUL-Weekday-04,2662424-GOOGLE-TWN_MUL-Weekday-04,"Breakwater to Hospital and University via City",1,508913,2010036
+201-281,GOOGLE-TWN_MUL-Weekday-04,2662425-GOOGLE-TWN_MUL-Weekday-04,"Breakwater to Hospital and University via City",1,508914,2010036
+201-281,GOOGLE-TWN_MUL-Weekday-04,2662426-GOOGLE-TWN_MUL-Weekday-04,"Breakwater to Hospital and University via City",1,508915,2010036
+201-281,GOOGLE-TWN_MUL-Weekday-04,2662427-GOOGLE-TWN_MUL-Weekday-04,"Breakwater to Hospital and University via City",1,508916,2010036
+201-281,GOOGLE-TWN_MUL-Weekday-04,2662428-GOOGLE-TWN_MUL-Weekday-04,"Breakwater to Hospital and University via City",1,508917,2010036
+201-281,GOOGLE-TWN_MUL-Weekday-04,2662429-GOOGLE-TWN_MUL-Weekday-04,"Breakwater to Hospital and University via City",1,508918,2010036
+201-281,GOOGLE-TWN_MUL-Weekday-04,2662430-GOOGLE-TWN_MUL-Weekday-04,"Breakwater to Hospital and University via City",1,508919,2010036
+201-281,GOOGLE-TWN_MUL-Weekday-04,2662431-GOOGLE-TWN_MUL-Weekday-04,"Breakwater to Hospital and University via City",1,508920,2010036
+201-281,GOOGLE-TWN_MUL-Weekday-04,2662432-GOOGLE-TWN_MUL-Weekday-04,"Breakwater to Hospital and University via City",1,508921,2010036
+201-281,GOOGLE-TWN_MUL-Weekday-04,2662433-GOOGLE-TWN_MUL-Weekday-04,"Breakwater to Hospital and University via City",1,508922,2010036
+201-281,GOOGLE-TWN_MUL-Weekday-04,2662434-GOOGLE-TWN_MUL-Weekday-04,"Breakwater to Hospital and University via City",1,508923,2010036
+201-281,GOOGLE-TWN_MUL-Weekday-04,2662435-GOOGLE-TWN_MUL-Weekday-04,"Breakwater to Hospital and University via City",1,508924,2010036
+201-281,GOOGLE-TWN_MUL-Weekday-04,2662436-GOOGLE-TWN_MUL-Weekday-04,"Breakwater to Hospital and University via City",1,508925,2010036
+201-281,GOOGLE-TWN_MUL-Weekday-04,2662437-GOOGLE-TWN_MUL-Weekday-04,"Breakwater to Hospital and University via City",1,508926,2010036
+201-281,GOOGLE-TWN_MUL-Weekday-04,2662438-GOOGLE-TWN_MUL-Weekday-04,"Breakwater to Hospital and University via City",1,508927,2010036
+201-281,GOOGLE-TWN_MUL-Weekday-04,2662439-GOOGLE-TWN_MUL-Weekday-04,"Breakwater to Hospital and University via City",1,508928,2010036
+201-281,GOOGLE-TWN_MUL-Weekday-04,2662440-GOOGLE-TWN_MUL-Weekday-04,"Breakwater to Hospital and University via City",1,508929,2010036
+201-281,GOOGLE-TWN_MUL-Weekday-04,2662441-GOOGLE-TWN_MUL-Weekday-04,"Breakwater to Hospital and University via City",1,508930,2010036
+201-281,GOOGLE-TWN_MUL-Weekday-04,2662442-GOOGLE-TWN_MUL-Weekday-04,"Breakwater to Hospital and University via City",1,508931,2010036
+201-281,GOOGLE-TWN_MUL-Weekday-04,2662443-GOOGLE-TWN_MUL-Weekday-04,"Breakwater to Hospital and University via City",1,508932,2010036
+201-281,GOOGLE-TWN_MUL-Weekday-04,2662444-GOOGLE-TWN_MUL-Weekday-04,"Breakwater to Hospital and University via City",1,508933,2010036
+201-281,GOOGLE-TWN_MUL-Weekday-04,2662445-GOOGLE-TWN_MUL-Weekday-04,"Breakwater to Hospital and University via City",1,508934,2010036
+201-281,GOOGLE-TWN_MUL-Weekday-04,2662446-GOOGLE-TWN_MUL-Weekday-04,"Breakwater to Hospital and University via City",1,508935,2010036
+201-281,GOOGLE-TWN_MUL-Weekday-04,2662447-GOOGLE-TWN_MUL-Weekday-04,"Breakwater to Hospital and University via City",1,508936,2010036
+201-281,GOOGLE-TWN_MUL-Weekday-04,2662448-GOOGLE-TWN_MUL-Weekday-04,"Breakwater to Hospital and University via City",1,508937,2010036
+201-281,GOOGLE-TWN_MUL-Weekday-04,2662449-GOOGLE-TWN_MUL-Weekday-04,"Breakwater to Hospital and University via City",1,508938,2010036
+201-281,GOOGLE-TWN_MUL-Weekday-04,2662450-GOOGLE-TWN_MUL-Weekday-04,"Breakwater to Hospital and University via City",1,508939,2010036
+201-281,GOOGLE-TWN_MUL-Weekday-04,2662451-GOOGLE-TWN_MUL-Weekday-04,"Breakwater to Hospital and University via City",1,508940,2010036
+201-281,GOOGLE-TWN_MUL-Weekday-04,2662452-GOOGLE-TWN_MUL-Weekday-04,"Breakwater to Hospital and University via City",1,508941,2010036
+201-281,GOOGLE-TWN_MUL-Weekday-04-0000100,2662453-GOOGLE-TWN_MUL-Weekday-04-0000100,"Breakwater to Hospital and University via City",1,508942,2010037
+201-281,GOOGLE-TWN_MUL-Weekday-04-0000100,2662454-GOOGLE-TWN_MUL-Weekday-04-0000100,"Breakwater to Hospital and University via City",1,508943,2010037
+201-281,GOOGLE-TWN_MUL-Weekday-04-0000100,2662455-GOOGLE-TWN_MUL-Weekday-04-0000100,"Breakwater to Hospital and University via City",1,508944,2010037
+201-281,GOOGLE-TWN_MUL-Weekday-04-0000100,2662456-GOOGLE-TWN_MUL-Weekday-04-0000100,"Breakwater to Hospital and University via City",1,508945,2010037
+201-281,GOOGLE-TWN_MUL-Weekday-04-0000100,2662457-GOOGLE-TWN_MUL-Weekday-04-0000100,"Breakwater to Hospital and University via City",1,508946,2010037
+201-281,GOOGLE-TWN_MUL-Weekday-04-0000100,2662458-GOOGLE-TWN_MUL-Weekday-04-0000100,"Breakwater to Hospital and University via City",1,508947,2010037
+201-281,GOOGLE-TWN_MUL-Weekday-04-0000100,2662459-GOOGLE-TWN_MUL-Weekday-04-0000100,"Breakwater to Hospital and University via City",1,508948,2010037
+201-281,GOOGLE-TWN_MUL-Weekday-04-0000100,2662460-GOOGLE-TWN_MUL-Weekday-04-0000100,"Breakwater to Hospital and University via City",1,508949,2010037
+201-281,GOOGLE-TWN_MUL-Weekday-04-0000100,2662461-GOOGLE-TWN_MUL-Weekday-04-0000100,"Breakwater to Hospital and University via City",1,508950,2010037
+201-281,GOOGLE-TWN_MUL-Weekday-04-0000100,2662462-GOOGLE-TWN_MUL-Weekday-04-0000100,"Breakwater to Hospital and University via City",1,508951,2010037
+201-281,GOOGLE-TWN_MUL-Weekday-04-0000100,2662463-GOOGLE-TWN_MUL-Weekday-04-0000100,"Breakwater to Hospital and University via City",1,508952,2010037
+233-281,GOOGLE-TWN_MUL-Weekday-04,2662720-GOOGLE-TWN_MUL-Weekday-04,"Bushland Beach to Stockland via Deeragun, Burdell, Bohle",0,509102,2330018
+233-281,GOOGLE-TWN_MUL-Weekday-04,2662721-GOOGLE-TWN_MUL-Weekday-04,"Bushland Beach to Stockland via Deeragun, Burdell, Bohle",0,509103,2330018
+233-281,GOOGLE-TWN_MUL-Weekday-04,2662722-GOOGLE-TWN_MUL-Weekday-04,"Bushland Beach to Stockland via Deeragun, Burdell, Bohle",0,509105,2330018
+233-281,GOOGLE-TWN_MUL-Weekday-04,2662723-GOOGLE-TWN_MUL-Weekday-04,"Bushland Beach to Stockland via Deeragun, Burdell, Bohle",0,509106,2330018
+233-281,GOOGLE-TWN_MUL-Weekday-04,2662724-GOOGLE-TWN_MUL-Weekday-04,"Bushland Beach to Stockland via Deeragun, Burdell, Bohle",0,509107,2330018
+233-281,GOOGLE-TWN_MUL-Weekday-04,2662725-GOOGLE-TWN_MUL-Weekday-04,"Bushland Beach to Stockland via Deeragun, Burdell, Bohle",0,509108,2330018
+233-281,GOOGLE-TWN_MUL-Weekday-04,2662726-GOOGLE-TWN_MUL-Weekday-04,"Stockland to Bushland Beach via Bohle, Burdell, Deeragun",1,509104,2330022
+233-281,GOOGLE-TWN_MUL-Weekday-04,2662727-GOOGLE-TWN_MUL-Weekday-04,"Stockland to Bushland Beach via Bohle, Burdell, Deeragun",1,509105,2330024
+233-281,GOOGLE-TWN_MUL-Weekday-04,2662728-GOOGLE-TWN_MUL-Weekday-04,"Stockland to Bushland Beach via Bohle, Burdell, Deeragun",1,509106,2330024
+233-281,GOOGLE-TWN_MUL-Weekday-04,2662729-GOOGLE-TWN_MUL-Weekday-04,"Stockland to Bushland Beach via Bohle, Burdell, Deeragun",1,509107,2330024
+233-281,GOOGLE-TWN_MUL-Weekday-04,2662730-GOOGLE-TWN_MUL-Weekday-04,"Stockland to Bushland Beach via Bohle, Burdell, Deeragun",1,509108,2330024
+233-281,GOOGLE-TWN_MUL-Weekday-04,2662731-GOOGLE-TWN_MUL-Weekday-04,"Stockland to Bushland Beach via Bohle, Burdell, Deeragun",1,509109,2330022
+233-281,GOOGLE-TWN_MUL-Saturday-02,2661833-GOOGLE-TWN_MUL-Saturday-02,"Bushland Beach to Stockland via Deeragun, Burdell, Bohle",0,508326,2330018
+233-281,GOOGLE-TWN_MUL-Saturday-02,2661834-GOOGLE-TWN_MUL-Saturday-02,"Bushland Beach to Stockland via Deeragun, Burdell, Bohle",0,508327,2330018
+233-281,GOOGLE-TWN_MUL-Saturday-02,2661835-GOOGLE-TWN_MUL-Saturday-02,"Bushland Beach to Stockland via Deeragun, Burdell, Bohle",0,508329,2330018
+233-281,GOOGLE-TWN_MUL-Saturday-02,2661836-GOOGLE-TWN_MUL-Saturday-02,"Bushland Beach to Stockland via Deeragun, Burdell, Bohle",0,508328,2330018
+233-281,GOOGLE-TWN_MUL-Saturday-02,2661837-GOOGLE-TWN_MUL-Saturday-02,"Bushland Beach to Stockland via Deeragun, Burdell, Bohle",0,508330,2330018
+233-281,GOOGLE-TWN_MUL-Saturday-02,2661838-GOOGLE-TWN_MUL-Saturday-02,"Stockland to Bushland Beach via Bohle, Burdell, Deeragun",1,508327,2330024
+233-281,GOOGLE-TWN_MUL-Saturday-02,2661839-GOOGLE-TWN_MUL-Saturday-02,"Stockland to Bushland Beach via Bohle, Burdell, Deeragun",1,508329,2330024
+233-281,GOOGLE-TWN_MUL-Saturday-02,2661840-GOOGLE-TWN_MUL-Saturday-02,"Stockland to Bushland Beach via Bohle, Burdell, Deeragun",1,508328,2330024
+233-281,GOOGLE-TWN_MUL-Saturday-02,2661841-GOOGLE-TWN_MUL-Saturday-02,"Stockland to Bushland Beach via Bohle, Burdell, Deeragun",1,508330,2330024
+200-281,GOOGLE-TWN_MUL-Saturday-02,2661926-GOOGLE-TWN_MUL-Saturday-02,"Kelso to City and Breakwater",0,508415,2000008
+200-281,GOOGLE-TWN_MUL-Saturday-02,2661927-GOOGLE-TWN_MUL-Saturday-02,"Kelso to City and Breakwater",0,508416,2000008
+200-281,GOOGLE-TWN_MUL-Saturday-02,2661928-GOOGLE-TWN_MUL-Saturday-02,"Kelso to City and Breakwater",0,508417,2000008
+200-281,GOOGLE-TWN_MUL-Saturday-02,2661929-GOOGLE-TWN_MUL-Saturday-02,"Kelso to City and Breakwater",0,508418,2000008
+200-281,GOOGLE-TWN_MUL-Saturday-02,2661930-GOOGLE-TWN_MUL-Saturday-02,"Kelso to City and Breakwater",0,508419,2000008
+200-281,GOOGLE-TWN_MUL-Saturday-02,2661931-GOOGLE-TWN_MUL-Saturday-02,"Kelso to City and Breakwater",0,508420,2000008
+200-281,GOOGLE-TWN_MUL-Saturday-02,2661932-GOOGLE-TWN_MUL-Saturday-02,"Kelso to City and Breakwater",0,508421,2000008
+200-281,GOOGLE-TWN_MUL-Saturday-02,2661933-GOOGLE-TWN_MUL-Saturday-02,"Kelso to City and Breakwater",0,508422,2000008
+200-281,GOOGLE-TWN_MUL-Saturday-02,2661934-GOOGLE-TWN_MUL-Saturday-02,"Kelso to City and Breakwater",0,508423,2000008
+200-281,GOOGLE-TWN_MUL-Saturday-02,2661935-GOOGLE-TWN_MUL-Saturday-02,"Kelso to City and Breakwater",0,508424,2000008
+200-281,GOOGLE-TWN_MUL-Saturday-02,2661936-GOOGLE-TWN_MUL-Saturday-02,"Kelso to City and Breakwater",0,508425,2000008
+200-281,GOOGLE-TWN_MUL-Saturday-02,2661937-GOOGLE-TWN_MUL-Saturday-02,"Kelso to City and Breakwater",0,508426,2000008
+200-281,GOOGLE-TWN_MUL-Saturday-02,2661938-GOOGLE-TWN_MUL-Saturday-02,"Kelso to City and Breakwater",0,508427,2000008
+200-281,GOOGLE-TWN_MUL-Saturday-02,2661939-GOOGLE-TWN_MUL-Saturday-02,"Kelso to City and Breakwater",0,508428,2000008
+200-281,GOOGLE-TWN_MUL-Saturday-02,2661940-GOOGLE-TWN_MUL-Saturday-02,"Kelso to City and Breakwater",0,508429,2000008
+200-281,GOOGLE-TWN_MUL-Saturday-02,2661941-GOOGLE-TWN_MUL-Saturday-02,"Kelso to City and Breakwater",0,508430,2000008
+200-281,GOOGLE-TWN_MUL-Saturday-02,2661942-GOOGLE-TWN_MUL-Saturday-02,"Breakwater and City to Kelso",1,508431,2000010
+200-281,GOOGLE-TWN_MUL-Saturday-02,2661943-GOOGLE-TWN_MUL-Saturday-02,"Breakwater and City to Kelso",1,508432,2000010
+200-281,GOOGLE-TWN_MUL-Saturday-02,2661944-GOOGLE-TWN_MUL-Saturday-02,"Breakwater and City to Kelso",1,508433,2000010
+200-281,GOOGLE-TWN_MUL-Saturday-02,2661945-GOOGLE-TWN_MUL-Saturday-02,"Breakwater and City to Kelso",1,508434,2000010
+200-281,GOOGLE-TWN_MUL-Saturday-02,2661946-GOOGLE-TWN_MUL-Saturday-02,"Breakwater and City to Kelso",1,508435,2000010
+200-281,GOOGLE-TWN_MUL-Saturday-02,2661947-GOOGLE-TWN_MUL-Saturday-02,"Breakwater and City to Kelso",1,508436,2000010
+200-281,GOOGLE-TWN_MUL-Saturday-02,2661948-GOOGLE-TWN_MUL-Saturday-02,"Breakwater and City to Kelso",1,508437,2000010
+200-281,GOOGLE-TWN_MUL-Saturday-02,2661949-GOOGLE-TWN_MUL-Saturday-02,"Breakwater and City to Kelso",1,508438,2000010
+200-281,GOOGLE-TWN_MUL-Saturday-02,2661950-GOOGLE-TWN_MUL-Saturday-02,"Breakwater and City to Kelso",1,508439,2000010
+200-281,GOOGLE-TWN_MUL-Saturday-02,2661951-GOOGLE-TWN_MUL-Saturday-02,"Breakwater and City to Kelso",1,508440,2000010
+200-281,GOOGLE-TWN_MUL-Saturday-02,2661952-GOOGLE-TWN_MUL-Saturday-02,"Breakwater and City to Kelso",1,508441,2000010
+200-281,GOOGLE-TWN_MUL-Saturday-02,2661953-GOOGLE-TWN_MUL-Saturday-02,"Breakwater and City to Kelso",1,508442,2000010
+200-281,GOOGLE-TWN_MUL-Saturday-02,2661954-GOOGLE-TWN_MUL-Saturday-02,"Breakwater and City to Kelso",1,508443,2000010
+200-281,GOOGLE-TWN_MUL-Saturday-02,2661955-GOOGLE-TWN_MUL-Saturday-02,"Breakwater and City to Kelso",1,508444,2000010
+200-281,GOOGLE-TWN_MUL-Saturday-02,2661956-GOOGLE-TWN_MUL-Saturday-02,"Breakwater and City to Kelso",1,508445,2000010
+200-281,GOOGLE-TWN_MUL-Saturday-02,2661957-GOOGLE-TWN_MUL-Saturday-02,"Breakwater and City to Kelso",1,508446,2000010
+200-281,GOOGLE-TWN_MUL-Saturday-02,2661958-GOOGLE-TWN_MUL-Saturday-02,"Breakwater and City to Kelso",1,508447,2000010
+205-281,GOOGLE-TWN_MUL-Saturday-02,2662029-GOOGLE-TWN_MUL-Saturday-02,"Stockland to City via Garbutt, North Ward",0,508518,2050012
+205-281,GOOGLE-TWN_MUL-Saturday-02,2662030-GOOGLE-TWN_MUL-Saturday-02,"Stockland to City via Garbutt, North Ward",0,508519,2050012
+205-281,GOOGLE-TWN_MUL-Saturday-02,2662031-GOOGLE-TWN_MUL-Saturday-02,"Stockland to City via Garbutt, North Ward",0,508520,2050012
+205-281,GOOGLE-TWN_MUL-Saturday-02,2662032-GOOGLE-TWN_MUL-Saturday-02,"Stockland to City via Garbutt, North Ward",0,508521,2050012
+205-281,GOOGLE-TWN_MUL-Saturday-02,2662033-GOOGLE-TWN_MUL-Saturday-02,"Stockland to City via Garbutt, North Ward",0,508523,2050012
+205-281,GOOGLE-TWN_MUL-Saturday-02,2662034-GOOGLE-TWN_MUL-Saturday-02,"Stockland to City via Garbutt, North Ward",0,508522,2050012
+205-281,GOOGLE-TWN_MUL-Saturday-02,2662035-GOOGLE-TWN_MUL-Saturday-02,"Stockland to City via Garbutt, North Ward",0,508524,2050012
+205-281,GOOGLE-TWN_MUL-Saturday-02,2662036-GOOGLE-TWN_MUL-Saturday-02,"Stockland to City via Garbutt, North Ward",0,508525,2050012
+205-281,GOOGLE-TWN_MUL-Saturday-02,2662037-GOOGLE-TWN_MUL-Saturday-02,"City to Stockland via North Ward, Garbutt",1,508526,2050013
+205-281,GOOGLE-TWN_MUL-Saturday-02,2662038-GOOGLE-TWN_MUL-Saturday-02,"City to Stockland via North Ward, Garbutt",1,508527,2050013
+205-281,GOOGLE-TWN_MUL-Saturday-02,2662039-GOOGLE-TWN_MUL-Saturday-02,"City to Stockland via North Ward, Garbutt",1,508528,2050013
+205-281,GOOGLE-TWN_MUL-Saturday-02,2662040-GOOGLE-TWN_MUL-Saturday-02,"City to Stockland via North Ward, Garbutt",1,508529,2050013
+205-281,GOOGLE-TWN_MUL-Saturday-02,2662041-GOOGLE-TWN_MUL-Saturday-02,"City to Stockland via North Ward, Garbutt",1,508530,2050013
+205-281,GOOGLE-TWN_MUL-Saturday-02,2662042-GOOGLE-TWN_MUL-Saturday-02,"City to Stockland via North Ward, Garbutt",1,508531,2050013
+205-281,GOOGLE-TWN_MUL-Saturday-02,2662043-GOOGLE-TWN_MUL-Saturday-02,"City to Stockland via North Ward, Garbutt",1,508532,2050013
+204-281,GOOGLE-TWN_MUL-Saturday-02,2662070-GOOGLE-TWN_MUL-Saturday-02,"Stockland to City via Mt Louisa",0,508559,2040006
+204-281,GOOGLE-TWN_MUL-Saturday-02,2662071-GOOGLE-TWN_MUL-Saturday-02,"Stockland to City via Mt Louisa",0,508560,2040006
+204-281,GOOGLE-TWN_MUL-Saturday-02,2662072-GOOGLE-TWN_MUL-Saturday-02,"Stockland to City via Mt Louisa",0,508561,2040006
+204-281,GOOGLE-TWN_MUL-Saturday-02,2662073-GOOGLE-TWN_MUL-Saturday-02,"Stockland to City via Mt Louisa",0,508562,2040006
+204-281,GOOGLE-TWN_MUL-Saturday-02,2662074-GOOGLE-TWN_MUL-Saturday-02,"Stockland to City via Mt Louisa",0,508563,2040006
+204-281,GOOGLE-TWN_MUL-Saturday-02,2662075-GOOGLE-TWN_MUL-Saturday-02,"Stockland to City via Mt Louisa",0,508564,2040006
+204-281,GOOGLE-TWN_MUL-Saturday-02,2662076-GOOGLE-TWN_MUL-Saturday-02,"Stockland to City via Mt Louisa",0,508565,2040006
+204-281,GOOGLE-TWN_MUL-Saturday-02,2662077-GOOGLE-TWN_MUL-Saturday-02,"Stockland to City via Mt Louisa",0,508566,2040006
+204-281,GOOGLE-TWN_MUL-Saturday-02,2662078-GOOGLE-TWN_MUL-Saturday-02,"City to Stockland via Mt Louisa",1,508567,2040007
+204-281,GOOGLE-TWN_MUL-Saturday-02,2662079-GOOGLE-TWN_MUL-Saturday-02,"City to Stockland via Mt Louisa",1,508568,2040007
+204-281,GOOGLE-TWN_MUL-Saturday-02,2662080-GOOGLE-TWN_MUL-Saturday-02,"City to Stockland via Mt Louisa",1,508569,2040007
+204-281,GOOGLE-TWN_MUL-Saturday-02,2662081-GOOGLE-TWN_MUL-Saturday-02,"City to Stockland via Mt Louisa",1,508570,2040007
+204-281,GOOGLE-TWN_MUL-Saturday-02,2662082-GOOGLE-TWN_MUL-Saturday-02,"City to Stockland via Mt Louisa",1,508571,2040007
+204-281,GOOGLE-TWN_MUL-Saturday-02,2662083-GOOGLE-TWN_MUL-Saturday-02,"City to Stockland via Mt Louisa",1,508572,2040007
+204-281,GOOGLE-TWN_MUL-Saturday-02,2662084-GOOGLE-TWN_MUL-Saturday-02,"City to Stockland via Mt Louisa",1,508573,2040007
+204-281,GOOGLE-TWN_MUL-Saturday-02,2662085-GOOGLE-TWN_MUL-Saturday-02,"City to Stockland via Mt Louisa",1,508574,2040007
+209-281,GOOGLE-TWN_MUL-Saturday-02,2662112-GOOGLE-TWN_MUL-Saturday-02,"City to Stockland via Wulguru, JCU, Hospital",1,508601,2090006
+209-281,GOOGLE-TWN_MUL-Saturday-02,2662113-GOOGLE-TWN_MUL-Saturday-02,"City to Stockland via Wulguru, JCU, Hospital",1,508602,2090006
+209-281,GOOGLE-TWN_MUL-Saturday-02,2662114-GOOGLE-TWN_MUL-Saturday-02,"City to Stockland via Wulguru, JCU, Hospital",1,508603,2090006
+209-281,GOOGLE-TWN_MUL-Saturday-02,2662115-GOOGLE-TWN_MUL-Saturday-02,"City to Stockland via Wulguru, JCU, Hospital",1,508604,2090006
+209-281,GOOGLE-TWN_MUL-Saturday-02,2662116-GOOGLE-TWN_MUL-Saturday-02,"City to Stockland via Wulguru, JCU, Hospital",1,508605,2090006
+209-281,GOOGLE-TWN_MUL-Saturday-02,2662117-GOOGLE-TWN_MUL-Saturday-02,"City to Stockland via Wulguru, JCU, Hospital",1,508606,2090006
+209-281,GOOGLE-TWN_MUL-Saturday-02,2662118-GOOGLE-TWN_MUL-Saturday-02,"City to Stockland via Wulguru, JCU, Hospital",1,508607,2090006
+209-281,GOOGLE-TWN_MUL-Saturday-02,2662119-GOOGLE-TWN_MUL-Saturday-02,"City to Stockland via Wulguru, JCU, Hospital",1,508608,2090006
+209-281,GOOGLE-TWN_MUL-Saturday-02,2662120-GOOGLE-TWN_MUL-Saturday-02,"Stockland to City via JCU, Hospital, Wulguru",0,508609,2090005
+209-281,GOOGLE-TWN_MUL-Saturday-02,2662121-GOOGLE-TWN_MUL-Saturday-02,"Stockland to City via JCU, Hospital, Wulguru",0,508610,2090005
+209-281,GOOGLE-TWN_MUL-Saturday-02,2662122-GOOGLE-TWN_MUL-Saturday-02,"Stockland to City via JCU, Hospital, Wulguru",0,508611,2090005
+209-281,GOOGLE-TWN_MUL-Saturday-02,2662123-GOOGLE-TWN_MUL-Saturday-02,"Stockland to City via JCU, Hospital, Wulguru",0,508612,2090005
+209-281,GOOGLE-TWN_MUL-Saturday-02,2662124-GOOGLE-TWN_MUL-Saturday-02,"Stockland to City via JCU, Hospital, Wulguru",0,508613,2090005
+209-281,GOOGLE-TWN_MUL-Saturday-02,2662125-GOOGLE-TWN_MUL-Saturday-02,"Stockland to City via JCU, Hospital, Wulguru",0,508614,2090005
+209-281,GOOGLE-TWN_MUL-Saturday-02,2662126-GOOGLE-TWN_MUL-Saturday-02,"Stockland to City via JCU, Hospital, Wulguru",0,508615,2090005
+209-281,GOOGLE-TWN_MUL-Saturday-02,2662127-GOOGLE-TWN_MUL-Saturday-02,"Stockland to City via JCU, Hospital, Wulguru",0,508616,2090005
+210-281,GOOGLE-TWN_MUL-Saturday-02,2662150-GOOGLE-TWN_MUL-Saturday-02,"University to Willows express via Douglas Arterial",0,508639,2100009
+210-281,GOOGLE-TWN_MUL-Saturday-02,2662151-GOOGLE-TWN_MUL-Saturday-02,"University to Willows express via Douglas Arterial",0,508640,2100009
+210-281,GOOGLE-TWN_MUL-Saturday-02,2662152-GOOGLE-TWN_MUL-Saturday-02,"University to Willows express via Douglas Arterial",0,508641,2100009
+210-281,GOOGLE-TWN_MUL-Saturday-02,2662153-GOOGLE-TWN_MUL-Saturday-02,"University to Willows express via Douglas Arterial",0,508642,2100009
+210-281,GOOGLE-TWN_MUL-Saturday-02,2662154-GOOGLE-TWN_MUL-Saturday-02,"University to Willows express via Douglas Arterial",0,508643,2100009
+210-281,GOOGLE-TWN_MUL-Saturday-02,2662155-GOOGLE-TWN_MUL-Saturday-02,"University to Willows express via Douglas Arterial",0,508644,2100009
+210-281,GOOGLE-TWN_MUL-Saturday-02,2662156-GOOGLE-TWN_MUL-Saturday-02,"Willows to University express via Douglas Arterial",1,508645,2100010
+210-281,GOOGLE-TWN_MUL-Saturday-02,2662157-GOOGLE-TWN_MUL-Saturday-02,"Willows to University express via Douglas Arterial",1,508646,2100010
+210-281,GOOGLE-TWN_MUL-Saturday-02,2662158-GOOGLE-TWN_MUL-Saturday-02,"Willows to University express via Douglas Arterial",1,508647,2100010
+210-281,GOOGLE-TWN_MUL-Saturday-02,2662159-GOOGLE-TWN_MUL-Saturday-02,"Willows to University express via Douglas Arterial",1,508648,2100010
+210-281,GOOGLE-TWN_MUL-Saturday-02,2662160-GOOGLE-TWN_MUL-Saturday-02,"Willows to University express via Douglas Arterial",1,508649,2100010
+210-281,GOOGLE-TWN_MUL-Saturday-02,2662161-GOOGLE-TWN_MUL-Saturday-02,"Willows to University express via Douglas Arterial",1,508650,2100010
+208-281,GOOGLE-TWN_MUL-Saturday-02,2662187-GOOGLE-TWN_MUL-Saturday-02,"Willows to City via Heatley, Stockland, JCU, Annandale",0,508676,2080015
+208-281,GOOGLE-TWN_MUL-Saturday-02,2662188-GOOGLE-TWN_MUL-Saturday-02,"Willows to City via Heatley, Stockland, JCU, Annandale",0,508677,2080015
+208-281,GOOGLE-TWN_MUL-Saturday-02,2662189-GOOGLE-TWN_MUL-Saturday-02,"Willows to City via Heatley, Stockland, JCU, Annandale",0,508678,2080015
+208-281,GOOGLE-TWN_MUL-Saturday-02,2662190-GOOGLE-TWN_MUL-Saturday-02,"Willows to City via Heatley, Stockland, JCU, Annandale",0,508679,2080015
+208-281,GOOGLE-TWN_MUL-Saturday-02,2662191-GOOGLE-TWN_MUL-Saturday-02,"Willows to City via Heatley, Stockland, JCU, Annandale",0,508680,2080015
+208-281,GOOGLE-TWN_MUL-Saturday-02,2662192-GOOGLE-TWN_MUL-Saturday-02,"Willows to City via Heatley, Stockland, JCU, Annandale",0,508681,2080015
+208-281,GOOGLE-TWN_MUL-Saturday-02,2662193-GOOGLE-TWN_MUL-Saturday-02,"Willows to City via Heatley, Stockland, JCU, Annandale",0,508682,2080015
+208-281,GOOGLE-TWN_MUL-Saturday-02,2662194-GOOGLE-TWN_MUL-Saturday-02,"City to Willows via Annandale, Hospital, University, Heatley",1,508683,2080016
+208-281,GOOGLE-TWN_MUL-Saturday-02,2662195-GOOGLE-TWN_MUL-Saturday-02,"City to Willows via Annandale, Hospital, University, Heatley",1,508684,2080016
+208-281,GOOGLE-TWN_MUL-Saturday-02,2662196-GOOGLE-TWN_MUL-Saturday-02,"City to Willows via Annandale, Hospital, University, Heatley",1,508685,2080016
+208-281,GOOGLE-TWN_MUL-Saturday-02,2662197-GOOGLE-TWN_MUL-Saturday-02,"City to Willows via Annandale, Hospital, University, Heatley",1,508686,2080016
+208-281,GOOGLE-TWN_MUL-Saturday-02,2662198-GOOGLE-TWN_MUL-Saturday-02,"City to Willows via Annandale, Hospital, University, Heatley",1,508687,2080016
+208-281,GOOGLE-TWN_MUL-Saturday-02,2662199-GOOGLE-TWN_MUL-Saturday-02,"City to Willows via Annandale, Hospital, University, Heatley",1,508688,2080016
+208-281,GOOGLE-TWN_MUL-Saturday-02,2662200-GOOGLE-TWN_MUL-Saturday-02,"City to Willows via Annandale, Hospital, University, Heatley",1,508689,2080016
+206-281,GOOGLE-TWN_MUL-Saturday-02,2662231-GOOGLE-TWN_MUL-Saturday-02," Cape Pallarenda - Townsville City",0,508720,2060009
+206-281,GOOGLE-TWN_MUL-Saturday-02,2662232-GOOGLE-TWN_MUL-Saturday-02," Cape Pallarenda - Townsville City",0,508721,2060009
+206-281,GOOGLE-TWN_MUL-Saturday-02,2662233-GOOGLE-TWN_MUL-Saturday-02," Cape Pallarenda - Townsville City",0,508722,2060009
+206-281,GOOGLE-TWN_MUL-Saturday-02,2662234-GOOGLE-TWN_MUL-Saturday-02," Cape Pallarenda - Townsville City",0,508723,2060009
+206-281,GOOGLE-TWN_MUL-Saturday-02,2662235-GOOGLE-TWN_MUL-Saturday-02," Cape Pallarenda - Townsville City",0,508724,2060009
+206-281,GOOGLE-TWN_MUL-Saturday-02,2662236-GOOGLE-TWN_MUL-Saturday-02," Cape Pallarenda - Townsville City",0,508725,2060009
+206-281,GOOGLE-TWN_MUL-Saturday-02,2662237-GOOGLE-TWN_MUL-Saturday-02,"Townsville City - Cape Pallarenda",1,508726,2060010
+206-281,GOOGLE-TWN_MUL-Saturday-02,2662238-GOOGLE-TWN_MUL-Saturday-02,"Townsville City - Cape Pallarenda",1,508727,2060010
+206-281,GOOGLE-TWN_MUL-Saturday-02,2662239-GOOGLE-TWN_MUL-Saturday-02,"Townsville City - Cape Pallarenda",1,508728,2060010
+206-281,GOOGLE-TWN_MUL-Saturday-02,2662240-GOOGLE-TWN_MUL-Saturday-02,"Townsville City - Cape Pallarenda",1,508729,2060010
+206-281,GOOGLE-TWN_MUL-Saturday-02,2662241-GOOGLE-TWN_MUL-Saturday-02,"Townsville City - Cape Pallarenda",1,508730,2060010
+203-281,GOOGLE-TWN_MUL-Saturday-02,2662297-GOOGLE-TWN_MUL-Saturday-02,"Kirwan to City via Willows, Heatley, Stockland, Castletown",0,508786,2030008
+203-281,GOOGLE-TWN_MUL-Saturday-02,2662298-GOOGLE-TWN_MUL-Saturday-02,"Kirwan to City via Willows, Heatley, Stockland, Castletown",0,508787,2030008
+203-281,GOOGLE-TWN_MUL-Saturday-02,2662299-GOOGLE-TWN_MUL-Saturday-02,"Kirwan to City via Willows, Heatley, Stockland, Castletown",0,508788,2030008
+203-281,GOOGLE-TWN_MUL-Saturday-02,2662300-GOOGLE-TWN_MUL-Saturday-02,"Kirwan to City via Willows, Heatley, Stockland, Castletown",0,508789,2030008
+203-281,GOOGLE-TWN_MUL-Saturday-02,2662301-GOOGLE-TWN_MUL-Saturday-02,"Kirwan to City via Willows, Heatley, Stockland, Castletown",0,508790,2030008
+203-281,GOOGLE-TWN_MUL-Saturday-02,2662302-GOOGLE-TWN_MUL-Saturday-02,"Kirwan to City via Willows, Heatley, Stockland, Castletown",0,508791,2030008
+203-281,GOOGLE-TWN_MUL-Saturday-02,2662303-GOOGLE-TWN_MUL-Saturday-02,"Kirwan to City via Willows, Heatley, Stockland, Castletown",0,508792,2030008
+203-281,GOOGLE-TWN_MUL-Saturday-02,2662304-GOOGLE-TWN_MUL-Saturday-02,"Kirwan to City via Willows, Heatley, Stockland, Castletown",0,508793,2030008
+203-281,GOOGLE-TWN_MUL-Saturday-02,2662305-GOOGLE-TWN_MUL-Saturday-02,"Kirwan to City via Willows, Heatley, Stockland, Castletown",0,508794,2030008
+203-281,GOOGLE-TWN_MUL-Saturday-02,2662306-GOOGLE-TWN_MUL-Saturday-02,"Kirwan to City via Willows, Heatley, Stockland, Castletown",0,508795,2030008
+203-281,GOOGLE-TWN_MUL-Saturday-02,2662307-GOOGLE-TWN_MUL-Saturday-02,"Kirwan to City via Willows, Heatley, Stockland, Castletown",0,508796,2030008
+203-281,GOOGLE-TWN_MUL-Saturday-02,2662308-GOOGLE-TWN_MUL-Saturday-02,"City to Kirwan via Castletown, Stockland, Heatley, Willows",1,508797,2030009
+203-281,GOOGLE-TWN_MUL-Saturday-02,2662309-GOOGLE-TWN_MUL-Saturday-02,"City to Kirwan via Castletown, Stockland, Heatley, Willows",1,508798,2030009
+203-281,GOOGLE-TWN_MUL-Saturday-02,2662310-GOOGLE-TWN_MUL-Saturday-02,"City to Kirwan via Castletown, Stockland, Heatley, Willows",1,508799,2030009
+203-281,GOOGLE-TWN_MUL-Saturday-02,2662311-GOOGLE-TWN_MUL-Saturday-02,"City to Kirwan via Castletown, Stockland, Heatley, Willows",1,508800,2030009
+203-281,GOOGLE-TWN_MUL-Saturday-02,2662312-GOOGLE-TWN_MUL-Saturday-02,"City to Kirwan via Castletown, Stockland, Heatley, Willows",1,508801,2030009
+203-281,GOOGLE-TWN_MUL-Saturday-02,2662313-GOOGLE-TWN_MUL-Saturday-02,"City to Kirwan via Castletown, Stockland, Heatley, Willows",1,508802,2030009
+203-281,GOOGLE-TWN_MUL-Saturday-02,2662314-GOOGLE-TWN_MUL-Saturday-02,"City to Kirwan via Castletown, Stockland, Heatley, Willows",1,508803,2030009
+203-281,GOOGLE-TWN_MUL-Saturday-02,2662315-GOOGLE-TWN_MUL-Saturday-02,"City to Kirwan via Castletown, Stockland, Heatley, Willows",1,508804,2030009
+203-281,GOOGLE-TWN_MUL-Saturday-02,2662316-GOOGLE-TWN_MUL-Saturday-02,"City to Kirwan via Castletown, Stockland, Heatley, Willows",1,508805,2030009
+203-281,GOOGLE-TWN_MUL-Saturday-02,2662317-GOOGLE-TWN_MUL-Saturday-02,"City to Kirwan via Castletown, Stockland, Heatley, Willows",1,508806,2030009
+203-281,GOOGLE-TWN_MUL-Saturday-02,2662318-GOOGLE-TWN_MUL-Saturday-02,"City to Kirwan via Castletown, Stockland, Heatley, Willows",1,508807,2030009
+202-281,GOOGLE-TWN_MUL-Saturday-02,2662352-GOOGLE-TWN_MUL-Saturday-02,"University to City via Douglas, Stockland, Gulliver",0,508841,2020007
+202-281,GOOGLE-TWN_MUL-Saturday-02,2662353-GOOGLE-TWN_MUL-Saturday-02,"University to City via Douglas, Stockland, Gulliver",0,508842,2020007
+202-281,GOOGLE-TWN_MUL-Saturday-02,2662354-GOOGLE-TWN_MUL-Saturday-02,"University to City via Douglas, Stockland, Gulliver",0,508843,2020007
+202-281,GOOGLE-TWN_MUL-Saturday-02,2662355-GOOGLE-TWN_MUL-Saturday-02,"University to City via Douglas, Stockland, Gulliver",0,508844,2020007
+202-281,GOOGLE-TWN_MUL-Saturday-02,2662356-GOOGLE-TWN_MUL-Saturday-02,"University to City via Douglas, Stockland, Gulliver",0,508846,2020007
+202-281,GOOGLE-TWN_MUL-Saturday-02,2662357-GOOGLE-TWN_MUL-Saturday-02,"University to City via Douglas, Stockland, Gulliver",0,508845,2020007
+202-281,GOOGLE-TWN_MUL-Saturday-02,2662358-GOOGLE-TWN_MUL-Saturday-02,"University to City via Douglas, Stockland, Gulliver",0,508847,2020007
+202-281,GOOGLE-TWN_MUL-Saturday-02,2662359-GOOGLE-TWN_MUL-Saturday-02,"City to University via Gulliver, Stockland, Douglas",1,508848,2020008
+202-281,GOOGLE-TWN_MUL-Saturday-02,2662360-GOOGLE-TWN_MUL-Saturday-02,"City to University via Gulliver, Stockland, Douglas",1,508849,2020008
+202-281,GOOGLE-TWN_MUL-Saturday-02,2662361-GOOGLE-TWN_MUL-Saturday-02,"City to University via Gulliver, Stockland, Douglas",1,508850,2020008
+202-281,GOOGLE-TWN_MUL-Saturday-02,2662362-GOOGLE-TWN_MUL-Saturday-02,"City to University via Gulliver, Stockland, Douglas",1,508851,2020008
+202-281,GOOGLE-TWN_MUL-Saturday-02,2662363-GOOGLE-TWN_MUL-Saturday-02,"City to University via Gulliver, Stockland, Douglas",1,508852,2020008
+202-281,GOOGLE-TWN_MUL-Saturday-02,2662364-GOOGLE-TWN_MUL-Saturday-02,"City to University via Gulliver, Stockland, Douglas",1,508853,2020008
+202-281,GOOGLE-TWN_MUL-Saturday-02,2662365-GOOGLE-TWN_MUL-Saturday-02,"City to University via Gulliver, Stockland, Douglas",1,508854,2020008
+201-281,GOOGLE-TWN_MUL-Saturday-02,2662464-GOOGLE-TWN_MUL-Saturday-02,"University to City and Breakwater",0,508953,2010034
+201-281,GOOGLE-TWN_MUL-Saturday-02,2662465-GOOGLE-TWN_MUL-Saturday-02,"University to City and Breakwater",0,508954,2010034
+201-281,GOOGLE-TWN_MUL-Saturday-02,2662466-GOOGLE-TWN_MUL-Saturday-02,"University to City and Breakwater",0,508955,2010034
+201-281,GOOGLE-TWN_MUL-Saturday-02,2662467-GOOGLE-TWN_MUL-Saturday-02,"University to City and Breakwater",0,508956,2010034
+201-281,GOOGLE-TWN_MUL-Saturday-02,2662468-GOOGLE-TWN_MUL-Saturday-02,"University to City and Breakwater",0,508957,2010034
+201-281,GOOGLE-TWN_MUL-Saturday-02,2662469-GOOGLE-TWN_MUL-Saturday-02,"University to City and Breakwater",0,508958,2010034
+201-281,GOOGLE-TWN_MUL-Saturday-02,2662470-GOOGLE-TWN_MUL-Saturday-02,"University to City and Breakwater",0,508959,2010034
+201-281,GOOGLE-TWN_MUL-Saturday-02,2662471-GOOGLE-TWN_MUL-Saturday-02,"University to City and Breakwater",0,508960,2010034
+201-281,GOOGLE-TWN_MUL-Saturday-02,2662472-GOOGLE-TWN_MUL-Saturday-02,"University to City and Breakwater",0,508961,2010034
+201-281,GOOGLE-TWN_MUL-Saturday-02,2662473-GOOGLE-TWN_MUL-Saturday-02,"University to City and Breakwater",0,508962,2010034
+201-281,GOOGLE-TWN_MUL-Saturday-02,2662474-GOOGLE-TWN_MUL-Saturday-02,"University to City and Breakwater",0,508963,2010034
+201-281,GOOGLE-TWN_MUL-Saturday-02,2662475-GOOGLE-TWN_MUL-Saturday-02,"University to City and Breakwater",0,508964,2010034
+201-281,GOOGLE-TWN_MUL-Saturday-02,2662476-GOOGLE-TWN_MUL-Saturday-02,"University to City and Breakwater",0,508965,2010034
+201-281,GOOGLE-TWN_MUL-Saturday-02,2662477-GOOGLE-TWN_MUL-Saturday-02,"University to City and Breakwater",0,508966,2010034
+201-281,GOOGLE-TWN_MUL-Saturday-02,2662478-GOOGLE-TWN_MUL-Saturday-02,"University to City and Breakwater",0,508967,2010034
+201-281,GOOGLE-TWN_MUL-Saturday-02,2662479-GOOGLE-TWN_MUL-Saturday-02,"University to City and Breakwater",0,508968,2010034
+201-281,GOOGLE-TWN_MUL-Saturday-02,2662480-GOOGLE-TWN_MUL-Saturday-02,"University to City and Breakwater",0,508969,2010034
+201-281,GOOGLE-TWN_MUL-Saturday-02,2662481-GOOGLE-TWN_MUL-Saturday-02,"University to City and Breakwater",0,508970,2010035
+201-281,GOOGLE-TWN_MUL-Saturday-02,2662482-GOOGLE-TWN_MUL-Saturday-02,"University to City and Breakwater",0,508971,2010035
+201-281,GOOGLE-TWN_MUL-Saturday-02,2662483-GOOGLE-TWN_MUL-Saturday-02,"University to City and Breakwater",0,508972,2010035
+201-281,GOOGLE-TWN_MUL-Saturday-02,2662484-GOOGLE-TWN_MUL-Saturday-02,"University to City and Breakwater",0,508973,2010035
+201-281,GOOGLE-TWN_MUL-Saturday-02,2662485-GOOGLE-TWN_MUL-Saturday-02,"Breakwater to Hospital and University via City",1,508974,2010036
+201-281,GOOGLE-TWN_MUL-Saturday-02,2662486-GOOGLE-TWN_MUL-Saturday-02,"Breakwater to Hospital and University via City",1,508975,2010036
+201-281,GOOGLE-TWN_MUL-Saturday-02,2662487-GOOGLE-TWN_MUL-Saturday-02,"Breakwater to Hospital and University via City",1,508976,2010036
+201-281,GOOGLE-TWN_MUL-Saturday-02,2662488-GOOGLE-TWN_MUL-Saturday-02,"Breakwater to Hospital and University via City",1,508977,2010036
+201-281,GOOGLE-TWN_MUL-Saturday-02,2662489-GOOGLE-TWN_MUL-Saturday-02,"Breakwater to Hospital and University via City",1,508978,2010036
+201-281,GOOGLE-TWN_MUL-Saturday-02,2662490-GOOGLE-TWN_MUL-Saturday-02,"Breakwater to Hospital and University via City",1,508979,2010036
+201-281,GOOGLE-TWN_MUL-Saturday-02,2662491-GOOGLE-TWN_MUL-Saturday-02,"Breakwater to Hospital and University via City",1,508980,2010036
+201-281,GOOGLE-TWN_MUL-Saturday-02,2662492-GOOGLE-TWN_MUL-Saturday-02,"Breakwater to Hospital and University via City",1,508981,2010036
+201-281,GOOGLE-TWN_MUL-Saturday-02,2662493-GOOGLE-TWN_MUL-Saturday-02,"Breakwater to Hospital and University via City",1,508982,2010036
+201-281,GOOGLE-TWN_MUL-Saturday-02,2662494-GOOGLE-TWN_MUL-Saturday-02,"Breakwater to Hospital and University via City",1,508983,2010036
+201-281,GOOGLE-TWN_MUL-Saturday-02,2662495-GOOGLE-TWN_MUL-Saturday-02,"Breakwater to Hospital and University via City",1,508984,2010036
+201-281,GOOGLE-TWN_MUL-Saturday-02,2662496-GOOGLE-TWN_MUL-Saturday-02,"Breakwater to Hospital and University via City",1,508985,2010036
+201-281,GOOGLE-TWN_MUL-Saturday-02,2662497-GOOGLE-TWN_MUL-Saturday-02,"Breakwater to Hospital and University via City",1,508986,2010036
+201-281,GOOGLE-TWN_MUL-Saturday-02,2662498-GOOGLE-TWN_MUL-Saturday-02,"Breakwater to Hospital and University via City",1,508987,2010036
+201-281,GOOGLE-TWN_MUL-Saturday-02,2662499-GOOGLE-TWN_MUL-Saturday-02,"Breakwater to Hospital and University via City",1,508988,2010036
+201-281,GOOGLE-TWN_MUL-Saturday-02,2662500-GOOGLE-TWN_MUL-Saturday-02,"Breakwater to Hospital and University via City",1,508989,2010036
+201-281,GOOGLE-TWN_MUL-Saturday-02,2662501-GOOGLE-TWN_MUL-Saturday-02,"Breakwater to Hospital and University via City",1,508990,2010036
+201-281,GOOGLE-TWN_MUL-Saturday-02,2662502-GOOGLE-TWN_MUL-Saturday-02,"Breakwater to Hospital and University via City",1,508991,2010037
+201-281,GOOGLE-TWN_MUL-Saturday-02,2662503-GOOGLE-TWN_MUL-Saturday-02,"Breakwater to Hospital and University via City",1,508992,2010037
+201-281,GOOGLE-TWN_MUL-Saturday-02,2662504-GOOGLE-TWN_MUL-Saturday-02,"Breakwater to Hospital and University via City",1,508993,2010037
+201-281,GOOGLE-TWN_MUL-Saturday-02,2662505-GOOGLE-TWN_MUL-Saturday-02,"Breakwater to Hospital and University via City",1,508994,2010037
+201-281,GOOGLE-TWN_MUL-Saturday-02,2662506-GOOGLE-TWN_MUL-Saturday-02,"Breakwater to Hospital and University via City",1,508995,2010037
+201-281,GOOGLE-TWN_MUL-Saturday-02,2662507-GOOGLE-TWN_MUL-Saturday-02,"Breakwater to Hospital and University via City",1,508996,2010037
+201-281,GOOGLE-TWN_MUL-Saturday-02,2662508-GOOGLE-TWN_MUL-Saturday-02,"Breakwater to Hospital and University via City",1,508997,2010037
+201-281,GOOGLE-TWN_MUL-Saturday-02,2662509-GOOGLE-TWN_MUL-Saturday-02,"Breakwater to Hospital and University via City",1,508998,2010037
+201-281,GOOGLE-TWN_MUL-Saturday-02,2662510-GOOGLE-TWN_MUL-Saturday-02,"Breakwater to Hospital and University via City",1,508999,2010037
+201-281,GOOGLE-TWN_MUL-Saturday-02,2662511-GOOGLE-TWN_MUL-Saturday-02,"Breakwater to Hospital and University via City",1,509000,2010037
+201-281,GOOGLE-TWN_MUL-Saturday-02,2662512-GOOGLE-TWN_MUL-Saturday-02,"Breakwater to Hospital and University via City",1,509001,2010037
+200-281,GOOGLE-TWN_MUL-Sunday-02,2661959-GOOGLE-TWN_MUL-Sunday-02,"Kelso to City and Breakwater",0,508448,2000008
+200-281,GOOGLE-TWN_MUL-Sunday-02,2661960-GOOGLE-TWN_MUL-Sunday-02,"Kelso to City and Breakwater",0,508449,2000008
+200-281,GOOGLE-TWN_MUL-Sunday-02,2661961-GOOGLE-TWN_MUL-Sunday-02,"Kelso to City and Breakwater",0,508450,2000008
+200-281,GOOGLE-TWN_MUL-Sunday-02,2661962-GOOGLE-TWN_MUL-Sunday-02,"Kelso to City and Breakwater",0,508451,2000008
+200-281,GOOGLE-TWN_MUL-Sunday-02,2661963-GOOGLE-TWN_MUL-Sunday-02,"Kelso to City and Breakwater",0,508452,2000008
+200-281,GOOGLE-TWN_MUL-Sunday-02,2661964-GOOGLE-TWN_MUL-Sunday-02,"Kelso to City and Breakwater",0,508453,2000008
+200-281,GOOGLE-TWN_MUL-Sunday-02,2661965-GOOGLE-TWN_MUL-Sunday-02,"Kelso to City and Breakwater",0,508454,2000008
+200-281,GOOGLE-TWN_MUL-Sunday-02,2661966-GOOGLE-TWN_MUL-Sunday-02,"Kelso to City and Breakwater",0,508455,2000008
+200-281,GOOGLE-TWN_MUL-Sunday-02,2661967-GOOGLE-TWN_MUL-Sunday-02,"Kelso to City and Breakwater",0,508456,2000008
+200-281,GOOGLE-TWN_MUL-Sunday-02,2661968-GOOGLE-TWN_MUL-Sunday-02,"Kelso to City and Breakwater",0,508457,2000008
+200-281,GOOGLE-TWN_MUL-Sunday-02,2661969-GOOGLE-TWN_MUL-Sunday-02,"Breakwater and City to Kelso",1,508458,2000010
+200-281,GOOGLE-TWN_MUL-Sunday-02,2661970-GOOGLE-TWN_MUL-Sunday-02,"Breakwater and City to Kelso",1,508459,2000010
+200-281,GOOGLE-TWN_MUL-Sunday-02,2661971-GOOGLE-TWN_MUL-Sunday-02,"Breakwater and City to Kelso",1,508460,2000010
+200-281,GOOGLE-TWN_MUL-Sunday-02,2661972-GOOGLE-TWN_MUL-Sunday-02,"Breakwater and City to Kelso",1,508461,2000010
+200-281,GOOGLE-TWN_MUL-Sunday-02,2661973-GOOGLE-TWN_MUL-Sunday-02,"Breakwater and City to Kelso",1,508462,2000010
+200-281,GOOGLE-TWN_MUL-Sunday-02,2661974-GOOGLE-TWN_MUL-Sunday-02,"Breakwater and City to Kelso",1,508463,2000010
+200-281,GOOGLE-TWN_MUL-Sunday-02,2661975-GOOGLE-TWN_MUL-Sunday-02,"Breakwater and City to Kelso",1,508464,2000010
+200-281,GOOGLE-TWN_MUL-Sunday-02,2661976-GOOGLE-TWN_MUL-Sunday-02,"Breakwater and City to Kelso",1,508465,2000010
+200-281,GOOGLE-TWN_MUL-Sunday-02,2661977-GOOGLE-TWN_MUL-Sunday-02,"Breakwater and City to Kelso",1,508466,2000010
+200-281,GOOGLE-TWN_MUL-Sunday-02,2661978-GOOGLE-TWN_MUL-Sunday-02,"Breakwater and City to Kelso",1,508467,2000010
+203-281,GOOGLE-TWN_MUL-Sunday-02,2662319-GOOGLE-TWN_MUL-Sunday-02,"Kirwan to City via Willows, Heatley, Stockland, Castletown",0,508808,2030010
+203-281,GOOGLE-TWN_MUL-Sunday-02,2662320-GOOGLE-TWN_MUL-Sunday-02,"Kirwan to City via Willows, Heatley, Stockland, Castletown",0,508809,2030010
+203-281,GOOGLE-TWN_MUL-Sunday-02,2662321-GOOGLE-TWN_MUL-Sunday-02,"Kirwan to City via Willows, Heatley, Stockland, Castletown",0,508810,2030010
+203-281,GOOGLE-TWN_MUL-Sunday-02,2662322-GOOGLE-TWN_MUL-Sunday-02,"Kirwan to City via Willows, Heatley, Stockland, Castletown",0,508811,2030010
+203-281,GOOGLE-TWN_MUL-Sunday-02,2662323-GOOGLE-TWN_MUL-Sunday-02,"City to Kirwan via Castletown, Stockland, Heatley, Willows",1,508812,2030011
+203-281,GOOGLE-TWN_MUL-Sunday-02,2662324-GOOGLE-TWN_MUL-Sunday-02,"City to Kirwan via Castletown, Stockland, Heatley, Willows",1,508813,2030011
+203-281,GOOGLE-TWN_MUL-Sunday-02,2662325-GOOGLE-TWN_MUL-Sunday-02,"City to Kirwan via Castletown, Stockland, Heatley, Willows",1,508814,2030011
+203-281,GOOGLE-TWN_MUL-Sunday-02,2662326-GOOGLE-TWN_MUL-Sunday-02,"City to Kirwan via Castletown, Stockland, Heatley, Willows",1,508815,2030011
+201-281,GOOGLE-TWN_MUL-Sunday-02,2662513-GOOGLE-TWN_MUL-Sunday-02,"University to City and Breakwater",0,509002,2010034
+201-281,GOOGLE-TWN_MUL-Sunday-02,2662514-GOOGLE-TWN_MUL-Sunday-02,"University to City and Breakwater",0,509003,2010034
+201-281,GOOGLE-TWN_MUL-Sunday-02,2662515-GOOGLE-TWN_MUL-Sunday-02,"University to City and Breakwater",0,509004,2010034
+201-281,GOOGLE-TWN_MUL-Sunday-02,2662516-GOOGLE-TWN_MUL-Sunday-02,"University to City and Breakwater",0,509005,2010034
+201-281,GOOGLE-TWN_MUL-Sunday-02,2662517-GOOGLE-TWN_MUL-Sunday-02,"University to City and Breakwater",0,509006,2010034
+201-281,GOOGLE-TWN_MUL-Sunday-02,2662518-GOOGLE-TWN_MUL-Sunday-02,"University to City and Breakwater",0,509007,2010034
+201-281,GOOGLE-TWN_MUL-Sunday-02,2662519-GOOGLE-TWN_MUL-Sunday-02,"University to City and Breakwater",0,509008,2010034
+201-281,GOOGLE-TWN_MUL-Sunday-02,2662520-GOOGLE-TWN_MUL-Sunday-02,"University to City and Breakwater",0,509009,2010034
+201-281,GOOGLE-TWN_MUL-Sunday-02,2662521-GOOGLE-TWN_MUL-Sunday-02,"University to City and Breakwater",0,509010,2010034
+201-281,GOOGLE-TWN_MUL-Sunday-02,2662522-GOOGLE-TWN_MUL-Sunday-02,"University to City and Breakwater",0,509011,2010034
+201-281,GOOGLE-TWN_MUL-Sunday-02,2662523-GOOGLE-TWN_MUL-Sunday-02,"University to City and Breakwater",0,509012,2010034
+201-281,GOOGLE-TWN_MUL-Sunday-02,2662524-GOOGLE-TWN_MUL-Sunday-02,"University to City and Breakwater",0,509013,2010034
+201-281,GOOGLE-TWN_MUL-Sunday-02,2662525-GOOGLE-TWN_MUL-Sunday-02,"University to City and Breakwater",0,509014,2010034
+201-281,GOOGLE-TWN_MUL-Sunday-02,2662526-GOOGLE-TWN_MUL-Sunday-02,"University to City and Breakwater",0,509015,2010034
+201-281,GOOGLE-TWN_MUL-Sunday-02,2662527-GOOGLE-TWN_MUL-Sunday-02,"University to City and Breakwater",0,509016,2010034
+201-281,GOOGLE-TWN_MUL-Sunday-02,2662528-GOOGLE-TWN_MUL-Sunday-02,"University to City and Breakwater",0,509017,2010034
+201-281,GOOGLE-TWN_MUL-Sunday-02,2662529-GOOGLE-TWN_MUL-Sunday-02,"Breakwater to Hospital and University via City",1,509018,2010036
+201-281,GOOGLE-TWN_MUL-Sunday-02,2662530-GOOGLE-TWN_MUL-Sunday-02,"Breakwater to Hospital and University via City",1,509019,2010036
+201-281,GOOGLE-TWN_MUL-Sunday-02,2662531-GOOGLE-TWN_MUL-Sunday-02,"Breakwater to Hospital and University via City",1,509020,2010036
+201-281,GOOGLE-TWN_MUL-Sunday-02,2662532-GOOGLE-TWN_MUL-Sunday-02,"Breakwater to Hospital and University via City",1,509021,2010036
+201-281,GOOGLE-TWN_MUL-Sunday-02,2662533-GOOGLE-TWN_MUL-Sunday-02,"Breakwater to Hospital and University via City",1,509022,2010036
+201-281,GOOGLE-TWN_MUL-Sunday-02,2662534-GOOGLE-TWN_MUL-Sunday-02,"Breakwater to Hospital and University via City",1,509023,2010036
+201-281,GOOGLE-TWN_MUL-Sunday-02,2662535-GOOGLE-TWN_MUL-Sunday-02,"Breakwater to Hospital and University via City",1,509024,2010036
+201-281,GOOGLE-TWN_MUL-Sunday-02,2662536-GOOGLE-TWN_MUL-Sunday-02,"Breakwater to Hospital and University via City",1,509025,2010036
+201-281,GOOGLE-TWN_MUL-Sunday-02,2662537-GOOGLE-TWN_MUL-Sunday-02,"Breakwater to Hospital and University via City",1,509026,2010036
+201-281,GOOGLE-TWN_MUL-Sunday-02,2662538-GOOGLE-TWN_MUL-Sunday-02,"Breakwater to Hospital and University via City",1,509027,2010036
+201-281,GOOGLE-TWN_MUL-Sunday-02,2662539-GOOGLE-TWN_MUL-Sunday-02,"Breakwater to Hospital and University via City",1,509028,2010036
+201-281,GOOGLE-TWN_MUL-Sunday-02,2662540-GOOGLE-TWN_MUL-Sunday-02,"Breakwater to Hospital and University via City",1,509029,2010036
+201-281,GOOGLE-TWN_MUL-Sunday-02,2662541-GOOGLE-TWN_MUL-Sunday-02,"Breakwater to Hospital and University via City",1,509030,2010036
+201-281,GOOGLE-TWN_MUL-Sunday-02,2662542-GOOGLE-TWN_MUL-Sunday-02,"Breakwater to Hospital and University via City",1,509031,2010036
+201-281,GOOGLE-TWN_MUL-Sunday-02,2662543-GOOGLE-TWN_MUL-Sunday-02,"Breakwater to Hospital and University via City",1,509032,2010036
+201-281,GOOGLE-TWN_MUL-Sunday-02,2662544-GOOGLE-TWN_MUL-Sunday-02,"Breakwater to Hospital and University via City",1,509033,2010036

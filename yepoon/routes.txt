@@ -1,0 +1,11 @@
+route_id,route_short_name,route_long_name,route_desc,route_type,route_url
+20-279,20,"Rockhampton - Capricorn Coast",,3,
+21-279,21,"Rockhampton - Gracemere",,3,
+22-279,22,"Rockhampton - Gracemere - Mt Morgan",,3,
+23-279,23,"Rockhampton - Keppel Sands",,3,
+24-279,24,"Taranganba",,3,
+25-279,25,"Barlow Hill - Pacific Heights",,3,
+26-279,26,"Eden Park Estate",,3,
+27-279,27,"Club Estate - Golf Links",,3,
+28-279,28,"Yeppoon Hospital Shuttle Service",,3,
+29-279,29,"Rockhampton - Cawarral - Emu Park",,3,

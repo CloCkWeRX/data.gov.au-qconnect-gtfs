@@ -1,0 +1,4 @@
+service_id,monday,tuesday,wednesday,thursday,friday,saturday,sunday,start_date,end_date
+GOOGLE-MALE_MUL-Weekday-01,1,1,1,1,1,0,0,20130617,20131231
+GOOGLE-MAL_MUSA-Saturday-01,0,0,0,0,0,1,0,20130622,20131228
+GOOGLE-MAL_MUSU-Sunday-01,0,0,0,0,0,0,1,20130623,20131229

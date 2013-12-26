@@ -1,0 +1,10 @@
+route_id,route_short_name,route_long_name,route_desc,route_type,route_url
+401-279,401,"Glenmore to The Range via City",,3,
+402-279,402,"Rockhampton City to Stockland via Frenchville",,3,
+403-279,403,"CQU to West Rockhampton (Loop) via City",,3,
+404-279,404,"The Range to Glenmore via City",,3,
+405-279,405,"City to Depot Hill",,3,
+406-279,406,"Lakes Creek to City via Stockland",,3,
+407-279,407,"Wandal to CQU via City",,3,
+410-279,410,"City to Parkhurst via Stockland",,3,
+411-279,411,"Lakes Creek to CQU via Stockland",,3,

@@ -1,0 +1,269 @@
+route_id,service_id,trip_id,trip_headsign,direction_id,block_id,shape_id
+4-43,GOOGLE-MAHV_MUL-Weekday-02,498764-GOOGLE-MAHV_MUL-Weekday-02,"City - Granville - City",0,435822,40026
+4-43,GOOGLE-MAHV_MUL-Weekday-02,498765-GOOGLE-MAHV_MUL-Weekday-02,"City - Granville - City",0,435807,40027
+4-43,GOOGLE-MAHV_MUL-Weekday-02,498766-GOOGLE-MAHV_MUL-Weekday-02,"City - Granville - City",0,435822,40026
+4-43,GOOGLE-MAHV_MUL-Weekday-02,498767-GOOGLE-MAHV_MUL-Weekday-02,"City - Granville - City",0,435808,40026
+4-43,GOOGLE-MAHV_MUL-Weekday-02,498768-GOOGLE-MAHV_MUL-Weekday-02,"City - Granville - City",0,435821,40080
+4-43,GOOGLE-MAHV_MUL-Weekday-02,498769-GOOGLE-MAHV_MUL-Weekday-02,"City - Granville - City",0,435817,40082
+6-43,GOOGLE-MAHV_MUL-Weekday-02,498771-GOOGLE-MAHV_MUL-Weekday-02,"City - Tinana - Chelsea - City",0,435802,60009
+6-43,GOOGLE-MAHV_MUL-Weekday-02,498772-GOOGLE-MAHV_MUL-Weekday-02,"City - Tinana - Chelsea - City",0,435815,60009
+6-43,GOOGLE-MAHV_MUL-Weekday-02,498773-GOOGLE-MAHV_MUL-Weekday-02,"City - Tinana - Chelsea - City",0,435815,60012
+6-43,GOOGLE-MAHV_MUL-Weekday-02,498774-GOOGLE-MAHV_MUL-Weekday-02,"City - Tinana - Chelsea - City",0,435801,60010
+20-43,GOOGLE-MAHV_MUL-Weekday-02,498778-GOOGLE-MAHV_MUL-Weekday-02,"Pialba - Eli Waters - Pialba",0,435830,200056
+20-43,GOOGLE-MAHV_MUL-Weekday-02,498779-GOOGLE-MAHV_MUL-Weekday-02,"Pialba - Eli Waters - Pialba",0,435812,200053
+20-43,GOOGLE-MAHV_MUL-Weekday-02,498780-GOOGLE-MAHV_MUL-Weekday-02,"Pialba - Eli Waters - Pialba",0,435812,200054
+20-43,GOOGLE-MAHV_MUL-Weekday-02,498781-GOOGLE-MAHV_MUL-Weekday-02,"Pialba - Eli Waters - Pialba",0,435830,200009
+20-43,GOOGLE-MAHV_MUL-Weekday-02,498782-GOOGLE-MAHV_MUL-Weekday-02,"Pialba - Eli Waters - Pialba",0,435820,200009
+20-43,GOOGLE-MAHV_MUL-Weekday-02,498783-GOOGLE-MAHV_MUL-Weekday-02,"Pialba - Eli Waters - Pialba",0,435831,200009
+20-43,GOOGLE-MAHV_MUL-Weekday-02,498784-GOOGLE-MAHV_MUL-Weekday-02,"Pialba - Eli Waters - Pialba",0,435827,200009
+20-43,GOOGLE-MAHV_MUL-Weekday-02,498785-GOOGLE-MAHV_MUL-Weekday-02,"Pialba - Eli Waters - Pialba",0,435830,200012
+20-43,GOOGLE-MAHV_MUL-Weekday-02,498786-GOOGLE-MAHV_MUL-Weekday-02,"Pialba - Eli Waters - Pialba",0,435830,200055
+1A-43,GOOGLE-MAHV_MUL-Weekday-02,498787-GOOGLE-MAHV_MUL-Weekday-02,"Hervey Bay - Craignish - Hervey Bay",0,435828,1A0017
+1A-43,GOOGLE-MAHV_MUL-Weekday-02,498788-GOOGLE-MAHV_MUL-Weekday-02,"Hervey Bay - Craignish - Hervey Bay",0,435830,1A0018
+1A-43,GOOGLE-MAHV_MUL-Weekday-02,498789-GOOGLE-MAHV_MUL-Weekday-02,"Hervey Bay - Craignish - Hervey Bay",0,435830,1A0019
+1A-43,GOOGLE-MAHV_MUL-Weekday-02,498790-GOOGLE-MAHV_MUL-Weekday-02,"Hervey Bay - Craignish - Hervey Bay",0,435806,1A0016
+16-43,GOOGLE-MAHV_MUL-Weekday-02,498791-GOOGLE-MAHV_MUL-Weekday-02,"Pialba - Boat Harbour - Torquay - Pialba",0,435819,160003
+16-43,GOOGLE-MAHV_MUL-Weekday-02,498792-GOOGLE-MAHV_MUL-Weekday-02,"Pialba - Boat Harbour - Torquay - Pialba",0,435819,160003
+16-43,GOOGLE-MAHV_MUL-Weekday-02,498793-GOOGLE-MAHV_MUL-Weekday-02,"Pialba - Boat Harbour - Torquay - Pialba",0,435819,160003
+16-43,GOOGLE-MAHV_MUL-Weekday-02,498794-GOOGLE-MAHV_MUL-Weekday-02,"Pialba - Boat Harbour - Torquay - Pialba",0,435819,160003
+16-43,GOOGLE-MAHV_MUL-Weekday-02,498795-GOOGLE-MAHV_MUL-Weekday-02,"Pialba - Boat Harbour - Torquay - Pialba",0,435819,160003
+16-43,GOOGLE-MAHV_MUL-Weekday-02,498796-GOOGLE-MAHV_MUL-Weekday-02,"Pialba - Boat Harbour - Torquay - Pialba",0,435819,160003
+16-43,GOOGLE-MAHV_MUL-Weekday-02,498797-GOOGLE-MAHV_MUL-Weekday-02,"Pialba - Boat Harbour - Torquay - Pialba",0,435819,160003
+16-43,GOOGLE-MAHV_MUL-Weekday-02,498798-GOOGLE-MAHV_MUL-Weekday-02,"Pialba - Boat Harbour - Torquay - Pialba",0,435819,160003
+16-43,GOOGLE-MAHV_MUL-Weekday-02,498799-GOOGLE-MAHV_MUL-Weekday-02,"Pialba - Boat Harbour - Torquay - Pialba",0,435819,160003
+16-43,GOOGLE-MAHV_MUL-Weekday-02,498800-GOOGLE-MAHV_MUL-Weekday-02,"Pialba - Boat Harbour - Torquay - Pialba",0,435819,160003
+16-43,GOOGLE-MAHV_MUL-Weekday-02,498801-GOOGLE-MAHV_MUL-Weekday-02,"Pialba - Boat Harbour - Torquay - Pialba",0,435819,160003
+17-43,GOOGLE-MAHV_MUL-Weekday-02,498802-GOOGLE-MAHV_MUL-Weekday-02,"Pilaba - Urangan Central - Pialba",0,435827,170002
+17-43,GOOGLE-MAHV_MUL-Weekday-02,498803-GOOGLE-MAHV_MUL-Weekday-02,"Pilaba - Urangan Central - Pialba",0,435827,170002
+17-43,GOOGLE-MAHV_MUL-Weekday-02,498804-GOOGLE-MAHV_MUL-Weekday-02,"Pilaba - Urangan Central - Pialba",0,435829,170002
+18-43,GOOGLE-MAHV_MUL-Weekday-02,498805-GOOGLE-MAHV_MUL-Weekday-02,"Pialba - Opposite Urangan Central - Pialba",0,435820,180006
+18-43,GOOGLE-MAHV_MUL-Weekday-02,498806-GOOGLE-MAHV_MUL-Weekday-02,"Pialba - Opposite Urangan Central - Pialba",0,435820,180006
+18-43,GOOGLE-MAHV_MUL-Weekday-02,498807-GOOGLE-MAHV_MUL-Weekday-02,"Pialba - Opposite Urangan Central - Pialba",0,435820,180006
+18-43,GOOGLE-MAHV_MUL-Weekday-02,498808-GOOGLE-MAHV_MUL-Weekday-02,"Pialba - Opposite Urangan Central - Pialba",0,435825,180006
+18-43,GOOGLE-MAHV_MUL-Weekday-02,498809-GOOGLE-MAHV_MUL-Weekday-02,"Pialba - Opposite Urangan Central - Pialba",0,435820,180005
+1B-43,GOOGLE-MAHV_MUL-Weekday-02,498810-GOOGLE-MAHV_MUL-Weekday-02,"Hervey Bay - Burrum Heads - Toogoom - Hervey Bay",0,435812,1B0008
+1B-43,GOOGLE-MAHV_MUL-Weekday-02,498811-GOOGLE-MAHV_MUL-Weekday-02,"Outbound",1,435827,1B0009
+5-43,GOOGLE-MAHV_MUL-Weekday-02,498812-GOOGLE-MAHV_MUL-Weekday-02,"Maryborough - Hervey Bay - Maryborough Clockwise",0,435801,50039
+5-43,GOOGLE-MAHV_MUL-Weekday-02,498813-GOOGLE-MAHV_MUL-Weekday-02,"Maryborough - Hervey Bay - Maryborough Clockwise",0,435805,50040
+5-43,GOOGLE-MAHV_MUL-Weekday-02,498814-GOOGLE-MAHV_MUL-Weekday-02,"Maryborough - Hervey Bay - Maryborough Clockwise",0,435808,50041
+5-43,GOOGLE-MAHV_MUL-Weekday-02,498815-GOOGLE-MAHV_MUL-Weekday-02,"Maryborough - Hervey Bay - Maryborough Clockwise",0,435823,50041
+5-43,GOOGLE-MAHV_MUL-Weekday-02,498816-GOOGLE-MAHV_MUL-Weekday-02,"Maryborough - Hervey Bay - Maryborough Clockwise",0,435805,50041
+5-43,GOOGLE-MAHV_MUL-Weekday-02,498817-GOOGLE-MAHV_MUL-Weekday-02,"Maryborough - Hervey Bay - Maryborough Clockwise",0,435808,50041
+5-43,GOOGLE-MAHV_MUL-Weekday-02,498818-GOOGLE-MAHV_MUL-Weekday-02,"Maryborough - Hervey Bay - Maryborough Clockwise",0,435823,50042
+5-43,GOOGLE-MAHV_MUL-Weekday-02,498819-GOOGLE-MAHV_MUL-Weekday-02,"Maryborough - Hervey Bay - Maryborough Clockwise",0,435805,50042
+5-43,GOOGLE-MAHV_MUL-Weekday-02,498820-GOOGLE-MAHV_MUL-Weekday-02,"Maryborough - Hervey Bay - Maryborough Clockwise",0,435807,50043
+5-43,GOOGLE-MAHV_MUL-Weekday-02,498821-GOOGLE-MAHV_MUL-Weekday-02,"Maryborough - Hervey Bay - Maryborough Clockwise",0,435823,50043
+5-43,GOOGLE-MAHV_MUL-Weekday-02,498822-GOOGLE-MAHV_MUL-Weekday-02,"Maryborough - Hervey Bay - Maryborough Clockwise",0,435805,50042
+5-43,GOOGLE-MAHV_MUL-Weekday-02,498823-GOOGLE-MAHV_MUL-Weekday-02,"Maryborough - Hervey Bay - Maryborough Clockwise",0,435807,50044
+5-43,GOOGLE-MAHV_MUL-Weekday-02,498824-GOOGLE-MAHV_MUL-Weekday-02,"Maryborough - Hervey Bay - Maryborough Clockwise",0,435821,50045
+1-43,GOOGLE-MAHV_MUL-Weekday-02,498825-GOOGLE-MAHV_MUL-Weekday-02,"City - Fairfield - Hospital - City",0,435810,10114
+1-43,GOOGLE-MAHV_MUL-Weekday-02,498826-GOOGLE-MAHV_MUL-Weekday-02,"City - Fairfield - Hospital - City",0,435822,10114
+1-43,GOOGLE-MAHV_MUL-Weekday-02,498827-GOOGLE-MAHV_MUL-Weekday-02,"City - Fairfield - Hospital - City",0,435813,10114
+1-43,GOOGLE-MAHV_MUL-Weekday-02,498828-GOOGLE-MAHV_MUL-Weekday-02,"City - Fairfield - Hospital - City",0,435818,10114
+1-43,GOOGLE-MAHV_MUL-Weekday-02,498829-GOOGLE-MAHV_MUL-Weekday-02,"City - Fairfield - Hospital - City",0,435803,10117
+1-43,GOOGLE-MAHV_MUL-Weekday-02,498830-GOOGLE-MAHV_MUL-Weekday-02,"City - Fairfield - Hospital - City",0,435814,10116
+1-43,GOOGLE-MAHV_MUL-Weekday-02,498831-GOOGLE-MAHV_MUL-Weekday-02,"City - Fairfield - Hospital - City",0,435804,10115
+2-43,GOOGLE-MAHV_MUL-Weekday-02,498832-GOOGLE-MAHV_MUL-Weekday-02,"City - Newtown - Aubinville - City",0,435826,20024
+2-43,GOOGLE-MAHV_MUL-Weekday-02,498833-GOOGLE-MAHV_MUL-Weekday-02,"City - Newtown - Aubinville - City",0,435822,20025
+2-43,GOOGLE-MAHV_MUL-Weekday-02,498834-GOOGLE-MAHV_MUL-Weekday-02,"City - Newtown - Aubinville - City",0,435817,20022
+2-43,GOOGLE-MAHV_MUL-Weekday-02,498835-GOOGLE-MAHV_MUL-Weekday-02,"City - Newtown - Aubinville - City",0,435824,20025
+2-43,GOOGLE-MAHV_MUL-Weekday-02,498836-GOOGLE-MAHV_MUL-Weekday-02,"City - Newtown - Aubinville - City",0,435802,20022
+2-43,GOOGLE-MAHV_MUL-Weekday-02,498837-GOOGLE-MAHV_MUL-Weekday-02,"City - Newtown - Aubinville - City",0,435822,20025
+2-43,GOOGLE-MAHV_MUL-Weekday-02,498838-GOOGLE-MAHV_MUL-Weekday-02,"City - Newtown - Aubinville - City",0,435809,20025
+2-43,GOOGLE-MAHV_MUL-Weekday-02,498839-GOOGLE-MAHV_MUL-Weekday-02,"City - Newtown - Aubinville - City",0,435821,20022
+2-43,GOOGLE-MAHV_MUL-Weekday-02,498840-GOOGLE-MAHV_MUL-Weekday-02,"City - Newtown - Aubinville - City",0,435811,20023
+3-43,GOOGLE-MAHV_MUL-Weekday-02,498841-GOOGLE-MAHV_MUL-Weekday-02,"Ululah",0,435801,30049
+3-43,GOOGLE-MAHV_MUL-Weekday-02,498842-GOOGLE-MAHV_MUL-Weekday-02,"Ululah",0,435814,30049
+3-43,GOOGLE-MAHV_MUL-Weekday-02,498843-GOOGLE-MAHV_MUL-Weekday-02,"Ululah",0,435807,30049
+3-43,GOOGLE-MAHV_MUL-Weekday-02,498844-GOOGLE-MAHV_MUL-Weekday-02,"Ululah",0,435807,30037
+3-43,GOOGLE-MAHV_MUL-Weekday-02,498845-GOOGLE-MAHV_MUL-Weekday-02,"Ululah",0,435818,30037
+3-43,GOOGLE-MAHV_MUL-Weekday-02,498846-GOOGLE-MAHV_MUL-Weekday-02,"Ululah",0,435809,30049
+3-43,GOOGLE-MAHV_MUL-Weekday-02,498847-GOOGLE-MAHV_MUL-Weekday-02,"Ululah",0,435823,30037
+3-43,GOOGLE-MAHV_MUL-Weekday-02,498848-GOOGLE-MAHV_MUL-Weekday-02,"Ululah",0,435814,30036
+13-43,GOOGLE-MAHV_MUL-Weekday-02,498849-GOOGLE-MAHV_MUL-Weekday-02," Kawungan - Urraween",0,435828,130005
+13-43,GOOGLE-MAHV_MUL-Weekday-02,498850-GOOGLE-MAHV_MUL-Weekday-02," Kawungan - Urraween",0,435831,130005
+13-43,GOOGLE-MAHV_MUL-Weekday-02,498851-GOOGLE-MAHV_MUL-Weekday-02," Kawungan - Urraween",0,435831,130007
+13-43,GOOGLE-MAHV_MUL-Weekday-02,498852-GOOGLE-MAHV_MUL-Weekday-02," Kawungan - Urraween",0,435830,130008
+13-43,GOOGLE-MAHV_MUL-Weekday-02,498853-GOOGLE-MAHV_MUL-Weekday-02," Kawungan - Urraween",0,435831,130008
+13-43,GOOGLE-MAHV_MUL-Weekday-02,498854-GOOGLE-MAHV_MUL-Weekday-02," Kawungan - Urraween",0,435830,130006
+KGH-43,GOOGLE-MAHV_MUL-Weekday-02,512145-GOOGLE-MAHV_MUL-Weekday-02,"Kan Go Pialba - Point Vernon - Pialba",0,435820,KGH0007
+KGH-43,GOOGLE-MAHV_MUL-Weekday-02,512146-GOOGLE-MAHV_MUL-Weekday-02,"Kan Go Pialba - Point Vernon - Pialba",0,435819,KGH0008
+KGH-43,GOOGLE-MAHV_MUL-Weekday-02,512147-GOOGLE-MAHV_MUL-Weekday-02,"Kan Go Pialba - Point Vernon - Pialba",0,435831,KGH0007
+KGH-43,GOOGLE-MAHV_MUL-Weekday-02,512148-GOOGLE-MAHV_MUL-Weekday-02,"Kan Go Pialba - Point Vernon - Pialba",0,435830,KGH0007
+KGH-43,GOOGLE-MAHV_MUL-Weekday-02,512149-GOOGLE-MAHV_MUL-Weekday-02,"Kan Go Pialba - Point Vernon - Pialba",0,435830,KGH0007
+KGH-43,GOOGLE-MAHV_MUL-Weekday-02,512150-GOOGLE-MAHV_MUL-Weekday-02,"Kan Go Pialba - Point Vernon - Pialba",0,435820,KGH0008
+KGH-43,GOOGLE-MAHV_MUL-Weekday-02,512151-GOOGLE-MAHV_MUL-Weekday-02,"Kan Go Pialba - Point Vernon - Pialba",0,435820,KGH0007
+KGH-43,GOOGLE-MAHV_MUL-Weekday-02,512152-GOOGLE-MAHV_MUL-Weekday-02,"Kan Go Pialba - Point Vernon - Pialba",0,435827,KGH0010
+KGH-43,GOOGLE-MAHV_MUL-Weekday-02,512153-GOOGLE-MAHV_MUL-Weekday-02,"Kan Go Pialba - Point Vernon - Pialba",0,435830,KGH0009
+KGH-43,GOOGLE-MAHV_MUL-Weekday-02,512154-GOOGLE-MAHV_MUL-Weekday-02,"Kan Go Pialba - Point Vernon - Pialba",0,435816,KGH0007
+4-43,GOOGLE-MAHV_MUL-Weekday-02,600146-GOOGLE-MAHV_MUL-Weekday-02,"City - Granville - City",0,435826,40081
+7-43,GOOGLE-MAHV_MUL-Weekday-02,1048408-GOOGLE-MAHV_MUL-Weekday-02,"City - Aldershot - Torbanlea - Howard - City",0,435810,70011
+7-43,GOOGLE-MAHV_MUL-Weekday-02,1048409-GOOGLE-MAHV_MUL-Weekday-02,"City - Aldershot - Torbanlea - Howard - City",0,435811,70010
+7-43,GOOGLE-MAHV_MUL-Weekday-02-0101000,1628648-GOOGLE-MAHV_MUL-Weekday-02-0101000,"City - Aldershot - Torbanlea - Howard - City",0,435811,70012
+6-43,GOOGLE-MAHV_MUL-Weekday-02,1628649-GOOGLE-MAHV_MUL-Weekday-02,"City - Tinana - Chelsea - City",0,435807,60011
+1A-43,GOOGLE-MAHV_MUL-Weekday-03,498787-GOOGLE-MAHV_MUL-Weekday-03,"Hervey Bay - Craignish - Hervey Bay",0,436127,1A0017
+1A-43,GOOGLE-MAHV_MUL-Weekday-03,498788-GOOGLE-MAHV_MUL-Weekday-03,"Hervey Bay - Craignish - Hervey Bay",0,436121,1A0018
+1A-43,GOOGLE-MAHV_MUL-Weekday-03,498789-GOOGLE-MAHV_MUL-Weekday-03,"Hervey Bay - Craignish - Hervey Bay",0,436122,1A0019
+1A-43,GOOGLE-MAHV_MUL-Weekday-03,498790-GOOGLE-MAHV_MUL-Weekday-03,"Hervey Bay - Craignish - Hervey Bay",0,436103,1A0016
+16-43,GOOGLE-MAHV_MUL-Weekday-03,498791-GOOGLE-MAHV_MUL-Weekday-03,"Pialba - Boat Harbour - Torquay - Pialba",0,436113,160003
+16-43,GOOGLE-MAHV_MUL-Weekday-03,498792-GOOGLE-MAHV_MUL-Weekday-03,"Pialba - Boat Harbour - Torquay - Pialba",0,436113,160003
+16-43,GOOGLE-MAHV_MUL-Weekday-03,498793-GOOGLE-MAHV_MUL-Weekday-03,"Pialba - Boat Harbour - Torquay - Pialba",0,436113,160003
+16-43,GOOGLE-MAHV_MUL-Weekday-03,498794-GOOGLE-MAHV_MUL-Weekday-03,"Pialba - Boat Harbour - Torquay - Pialba",0,436113,160003
+16-43,GOOGLE-MAHV_MUL-Weekday-03,498795-GOOGLE-MAHV_MUL-Weekday-03,"Pialba - Boat Harbour - Torquay - Pialba",0,436113,160003
+16-43,GOOGLE-MAHV_MUL-Weekday-03,498796-GOOGLE-MAHV_MUL-Weekday-03,"Pialba - Boat Harbour - Torquay - Pialba",0,436113,160003
+16-43,GOOGLE-MAHV_MUL-Weekday-03,498797-GOOGLE-MAHV_MUL-Weekday-03,"Pialba - Boat Harbour - Torquay - Pialba",0,436113,160003
+16-43,GOOGLE-MAHV_MUL-Weekday-03,498798-GOOGLE-MAHV_MUL-Weekday-03,"Pialba - Boat Harbour - Torquay - Pialba",0,436113,160003
+16-43,GOOGLE-MAHV_MUL-Weekday-03,498799-GOOGLE-MAHV_MUL-Weekday-03,"Pialba - Boat Harbour - Torquay - Pialba",0,436113,160003
+16-43,GOOGLE-MAHV_MUL-Weekday-03,498800-GOOGLE-MAHV_MUL-Weekday-03,"Pialba - Boat Harbour - Torquay - Pialba",0,436113,160003
+16-43,GOOGLE-MAHV_MUL-Weekday-03,498801-GOOGLE-MAHV_MUL-Weekday-03,"Pialba - Boat Harbour - Torquay - Pialba",0,436113,160003
+17-43,GOOGLE-MAHV_MUL-Weekday-03,498802-GOOGLE-MAHV_MUL-Weekday-03,"Pilaba - Urangan Central - Pialba",0,436112,170002
+17-43,GOOGLE-MAHV_MUL-Weekday-03,498803-GOOGLE-MAHV_MUL-Weekday-03,"Pilaba - Urangan Central - Pialba",0,436112,170002
+17-43,GOOGLE-MAHV_MUL-Weekday-03,498804-GOOGLE-MAHV_MUL-Weekday-03,"Pilaba - Urangan Central - Pialba",0,436118,170002
+1B-43,GOOGLE-MAHV_MUL-Weekday-03,498810-GOOGLE-MAHV_MUL-Weekday-03,"Hervey Bay - Burrum Heads - Toogoom - Hervey Bay",0,436123,1B0008
+1B-43,GOOGLE-MAHV_MUL-Weekday-03,498811-GOOGLE-MAHV_MUL-Weekday-03,"Outbound",1,436112,1B0009
+5-43,GOOGLE-MAHV_MUL-Weekday-03,498812-GOOGLE-MAHV_MUL-Weekday-03,"Maryborough - Hervey Bay - Maryborough Clockwise",0,436101,50039
+5-43,GOOGLE-MAHV_MUL-Weekday-03,498813-GOOGLE-MAHV_MUL-Weekday-03,"Maryborough - Hervey Bay - Maryborough Clockwise",0,436102,50040
+5-43,GOOGLE-MAHV_MUL-Weekday-03,498814-GOOGLE-MAHV_MUL-Weekday-03,"Maryborough - Hervey Bay - Maryborough Clockwise",0,436105,50041
+5-43,GOOGLE-MAHV_MUL-Weekday-03,498815-GOOGLE-MAHV_MUL-Weekday-03,"Maryborough - Hervey Bay - Maryborough Clockwise",0,436101,50041
+5-43,GOOGLE-MAHV_MUL-Weekday-03,498816-GOOGLE-MAHV_MUL-Weekday-03,"Maryborough - Hervey Bay - Maryborough Clockwise",0,436102,50041
+5-43,GOOGLE-MAHV_MUL-Weekday-03,498817-GOOGLE-MAHV_MUL-Weekday-03,"Maryborough - Hervey Bay - Maryborough Clockwise",0,436105,50041
+5-43,GOOGLE-MAHV_MUL-Weekday-03,498818-GOOGLE-MAHV_MUL-Weekday-03,"Maryborough - Hervey Bay - Maryborough Clockwise",0,436101,50042
+5-43,GOOGLE-MAHV_MUL-Weekday-03,498819-GOOGLE-MAHV_MUL-Weekday-03,"Maryborough - Hervey Bay - Maryborough Clockwise",0,436102,50042
+5-43,GOOGLE-MAHV_MUL-Weekday-03,498820-GOOGLE-MAHV_MUL-Weekday-03,"Maryborough - Hervey Bay - Maryborough Clockwise",0,436104,50043
+5-43,GOOGLE-MAHV_MUL-Weekday-03,498821-GOOGLE-MAHV_MUL-Weekday-03,"Maryborough - Hervey Bay - Maryborough Clockwise",0,436101,50043
+5-43,GOOGLE-MAHV_MUL-Weekday-03,498822-GOOGLE-MAHV_MUL-Weekday-03,"Maryborough - Hervey Bay - Maryborough Clockwise",0,436102,50042
+5-43,GOOGLE-MAHV_MUL-Weekday-03,498823-GOOGLE-MAHV_MUL-Weekday-03,"Maryborough - Hervey Bay - Maryborough Clockwise",0,436104,50044
+5-43,GOOGLE-MAHV_MUL-Weekday-03,498824-GOOGLE-MAHV_MUL-Weekday-03,"Maryborough - Hervey Bay - Maryborough Clockwise",0,436125,50045
+1-43,GOOGLE-MAHV_MUL-Weekday-03,498825-GOOGLE-MAHV_MUL-Weekday-03,"City - Fairfield - Hospital - City",0,436107,10114
+1-43,GOOGLE-MAHV_MUL-Weekday-03,498826-GOOGLE-MAHV_MUL-Weekday-03,"City - Fairfield - Hospital - City",0,436114,10114
+1-43,GOOGLE-MAHV_MUL-Weekday-03,498827-GOOGLE-MAHV_MUL-Weekday-03,"City - Fairfield - Hospital - City",0,436124,10114
+1-43,GOOGLE-MAHV_MUL-Weekday-03,498828-GOOGLE-MAHV_MUL-Weekday-03,"City - Fairfield - Hospital - City",0,436125,10114
+1-43,GOOGLE-MAHV_MUL-Weekday-03,498829-GOOGLE-MAHV_MUL-Weekday-03,"City - Fairfield - Hospital - City",0,436115,10117
+1-43,GOOGLE-MAHV_MUL-Weekday-03,498830-GOOGLE-MAHV_MUL-Weekday-03,"City - Fairfield - Hospital - City",0,436109,10116
+1-43,GOOGLE-MAHV_MUL-Weekday-03,498831-GOOGLE-MAHV_MUL-Weekday-03,"City - Fairfield - Hospital - City",0,436116,10115
+2-43,GOOGLE-MAHV_MUL-Weekday-03,498832-GOOGLE-MAHV_MUL-Weekday-03,"City - Newtown - Aubinville - City",0,436111,20024
+2-43,GOOGLE-MAHV_MUL-Weekday-03,498833-GOOGLE-MAHV_MUL-Weekday-03,"City - Newtown - Aubinville - City",0,436114,20025
+2-43,GOOGLE-MAHV_MUL-Weekday-03,498834-GOOGLE-MAHV_MUL-Weekday-03,"City - Newtown - Aubinville - City",0,436119,20022
+2-43,GOOGLE-MAHV_MUL-Weekday-03,498835-GOOGLE-MAHV_MUL-Weekday-03,"City - Newtown - Aubinville - City",0,436128,20025
+2-43,GOOGLE-MAHV_MUL-Weekday-03,498836-GOOGLE-MAHV_MUL-Weekday-03,"City - Newtown - Aubinville - City",0,436120,20022
+2-43,GOOGLE-MAHV_MUL-Weekday-03,498837-GOOGLE-MAHV_MUL-Weekday-03,"City - Newtown - Aubinville - City",0,436114,20025
+2-43,GOOGLE-MAHV_MUL-Weekday-03,498838-GOOGLE-MAHV_MUL-Weekday-03,"City - Newtown - Aubinville - City",0,436106,20025
+2-43,GOOGLE-MAHV_MUL-Weekday-03,498839-GOOGLE-MAHV_MUL-Weekday-03,"City - Newtown - Aubinville - City",0,436125,20022
+2-43,GOOGLE-MAHV_MUL-Weekday-03,498840-GOOGLE-MAHV_MUL-Weekday-03,"City - Newtown - Aubinville - City",0,436108,20023
+3-43,GOOGLE-MAHV_MUL-Weekday-03,498841-GOOGLE-MAHV_MUL-Weekday-03,"Ululah",0,436117,30049
+3-43,GOOGLE-MAHV_MUL-Weekday-03,498842-GOOGLE-MAHV_MUL-Weekday-03,"Ululah",0,436109,30049
+3-43,GOOGLE-MAHV_MUL-Weekday-03,498843-GOOGLE-MAHV_MUL-Weekday-03,"Ululah",0,436104,30049
+3-43,GOOGLE-MAHV_MUL-Weekday-03,498844-GOOGLE-MAHV_MUL-Weekday-03,"Ululah",0,436104,30037
+3-43,GOOGLE-MAHV_MUL-Weekday-03,498845-GOOGLE-MAHV_MUL-Weekday-03,"Ululah",0,436129,30037
+3-43,GOOGLE-MAHV_MUL-Weekday-03,498846-GOOGLE-MAHV_MUL-Weekday-03,"Ululah",0,436106,30049
+3-43,GOOGLE-MAHV_MUL-Weekday-03,498847-GOOGLE-MAHV_MUL-Weekday-03,"Ululah",0,436101,30037
+3-43,GOOGLE-MAHV_MUL-Weekday-03,498848-GOOGLE-MAHV_MUL-Weekday-03,"Ululah",0,436109,30036
+KGH-43,GOOGLE-MAHV_MUL-Weekday-03,512145-GOOGLE-MAHV_MUL-Weekday-03,"Kan Go Pialba - Point Vernon - Pialba",0,436121,KGH0007
+KGH-43,GOOGLE-MAHV_MUL-Weekday-03,512146-GOOGLE-MAHV_MUL-Weekday-03,"Kan Go Pialba - Point Vernon - Pialba",0,436113,KGH0008
+KGH-43,GOOGLE-MAHV_MUL-Weekday-03,512147-GOOGLE-MAHV_MUL-Weekday-03,"Kan Go Pialba - Point Vernon - Pialba",0,436126,KGH0007
+KGH-43,GOOGLE-MAHV_MUL-Weekday-03,512148-GOOGLE-MAHV_MUL-Weekday-03,"Kan Go Pialba - Point Vernon - Pialba",0,436121,KGH0007
+KGH-43,GOOGLE-MAHV_MUL-Weekday-03,512149-GOOGLE-MAHV_MUL-Weekday-03,"Kan Go Pialba - Point Vernon - Pialba",0,436121,KGH0007
+KGH-43,GOOGLE-MAHV_MUL-Weekday-03,512150-GOOGLE-MAHV_MUL-Weekday-03,"Kan Go Pialba - Point Vernon - Pialba",0,436131,KGH0008
+KGH-43,GOOGLE-MAHV_MUL-Weekday-03,512151-GOOGLE-MAHV_MUL-Weekday-03,"Kan Go Pialba - Point Vernon - Pialba",0,436131,KGH0007
+KGH-43,GOOGLE-MAHV_MUL-Weekday-03,512152-GOOGLE-MAHV_MUL-Weekday-03,"Kan Go Pialba - Point Vernon - Pialba",0,436112,KGH0010
+KGH-43,GOOGLE-MAHV_MUL-Weekday-03,512153-GOOGLE-MAHV_MUL-Weekday-03,"Kan Go Pialba - Point Vernon - Pialba",0,436122,KGH0009
+KGH-43,GOOGLE-MAHV_MUL-Weekday-03,512154-GOOGLE-MAHV_MUL-Weekday-03,"Kan Go Pialba - Point Vernon - Pialba",0,436130,KGH0007
+7-43,GOOGLE-MAHV_MUL-Weekday-03,1048408-GOOGLE-MAHV_MUL-Weekday-03,"City - Aldershot - Torbanlea - Howard - City",0,436107,70011
+7-43,GOOGLE-MAHV_MUL-Weekday-03,1048409-GOOGLE-MAHV_MUL-Weekday-03,"City - Aldershot - Torbanlea - Howard - City",0,436108,70010
+7-43,GOOGLE-MAHV_MUL-Weekday-03-0101000,1628648-GOOGLE-MAHV_MUL-Weekday-03-0101000,"City - Aldershot - Torbanlea - Howard - City",0,436108,70012
+4-43,GOOGLE-MAHV_MUL-Weekday-03,1628650-GOOGLE-MAHV_MUL-Weekday-03,"City - Granville - City",0,436114,40026
+4-43,GOOGLE-MAHV_MUL-Weekday-03,1628651-GOOGLE-MAHV_MUL-Weekday-03,"City - Granville - City",0,436104,40027
+4-43,GOOGLE-MAHV_MUL-Weekday-03,1628652-GOOGLE-MAHV_MUL-Weekday-03,"City - Granville - City",0,436114,40026
+4-43,GOOGLE-MAHV_MUL-Weekday-03,1628653-GOOGLE-MAHV_MUL-Weekday-03,"City - Granville - City",0,436105,40026
+4-43,GOOGLE-MAHV_MUL-Weekday-03,1628654-GOOGLE-MAHV_MUL-Weekday-03,"City - Granville - City",0,436125,40080
+4-43,GOOGLE-MAHV_MUL-Weekday-03,1628656-GOOGLE-MAHV_MUL-Weekday-03,"City - Granville - City",0,436111,40081
+6-43,GOOGLE-MAHV_MUL-Weekday-03,1628657-GOOGLE-MAHV_MUL-Weekday-03,"City - Tinana - Chelsea - City",0,436120,60009
+6-43,GOOGLE-MAHV_MUL-Weekday-03,1628658-GOOGLE-MAHV_MUL-Weekday-03,"City - Tinana - Chelsea - City",0,436129,60009
+6-43,GOOGLE-MAHV_MUL-Weekday-03,1628661-GOOGLE-MAHV_MUL-Weekday-03,"City - Tinana - Chelsea - City",0,436104,60011
+18-43,GOOGLE-MAHV_MUL-Weekday-03,1628662-GOOGLE-MAHV_MUL-Weekday-03,"Pialba - Opposite Urangan Central - Pialba",0,436126,180006
+18-43,GOOGLE-MAHV_MUL-Weekday-03,1628663-GOOGLE-MAHV_MUL-Weekday-03,"Pialba - Opposite Urangan Central - Pialba",0,436131,180006
+18-43,GOOGLE-MAHV_MUL-Weekday-03,1628664-GOOGLE-MAHV_MUL-Weekday-03,"Pialba - Opposite Urangan Central - Pialba",0,436131,180006
+18-43,GOOGLE-MAHV_MUL-Weekday-03,1628665-GOOGLE-MAHV_MUL-Weekday-03,"Pialba - Opposite Urangan Central - Pialba",0,436110,180006
+20-43,GOOGLE-MAHV_MUL-Weekday-03,1628670-GOOGLE-MAHV_MUL-Weekday-03,"Pialba - Eli Waters - Pialba",0,436121,200009
+20-43,GOOGLE-MAHV_MUL-Weekday-03,1628671-GOOGLE-MAHV_MUL-Weekday-03,"Pialba - Eli Waters - Pialba",0,436131,200009
+20-43,GOOGLE-MAHV_MUL-Weekday-03,1628672-GOOGLE-MAHV_MUL-Weekday-03,"Pialba - Eli Waters - Pialba",0,436126,200009
+20-43,GOOGLE-MAHV_MUL-Weekday-03,1628673-GOOGLE-MAHV_MUL-Weekday-03,"Pialba - Eli Waters - Pialba",0,436112,200009
+20-43,GOOGLE-MAHV_MUL-Weekday-03,1628674-GOOGLE-MAHV_MUL-Weekday-03,"Pialba - Eli Waters - Pialba",0,436121,200012
+20-43,GOOGLE-MAHV_MUL-Weekday-03,1628675-GOOGLE-MAHV_MUL-Weekday-03,"Pialba - Eli Waters - Pialba",0,436121,200055
+13-43,GOOGLE-MAHV_MUL-Weekday-03,1628676-GOOGLE-MAHV_MUL-Weekday-03," Kawungan - Urraween",0,436127,130005
+13-43,GOOGLE-MAHV_MUL-Weekday-03,1628677-GOOGLE-MAHV_MUL-Weekday-03," Kawungan - Urraween",0,436126,130005
+13-43,GOOGLE-MAHV_MUL-Weekday-03,1628678-GOOGLE-MAHV_MUL-Weekday-03," Kawungan - Urraween",0,436126,130007
+13-43,GOOGLE-MAHV_MUL-Weekday-03,1628679-GOOGLE-MAHV_MUL-Weekday-03," Kawungan - Urraween",0,436121,130008
+13-43,GOOGLE-MAHV_MUL-Weekday-03,1628680-GOOGLE-MAHV_MUL-Weekday-03," Kawungan - Urraween",0,436126,130008
+13-43,GOOGLE-MAHV_MUL-Saturday-01,498855-GOOGLE-MAHV_MUL-Saturday-01," Kawungan - Urraween",0,436003,130008
+13-43,GOOGLE-MAHV_MUL-Saturday-01,498856-GOOGLE-MAHV_MUL-Saturday-01," Kawungan - Urraween",0,436010,130008
+13-43,GOOGLE-MAHV_MUL-Saturday-01,498857-GOOGLE-MAHV_MUL-Saturday-01," Kawungan - Urraween",0,436014,130005
+13-43,GOOGLE-MAHV_MUL-Saturday-01,498858-GOOGLE-MAHV_MUL-Saturday-01," Kawungan - Urraween",0,436014,130007
+13-43,GOOGLE-MAHV_MUL-Saturday-01,498859-GOOGLE-MAHV_MUL-Saturday-01," Kawungan - Urraween",0,436016,130005
+16-43,GOOGLE-MAHV_MUL-Saturday-01,498860-GOOGLE-MAHV_MUL-Saturday-01,"Pialba - Boat Harbour - Torquay - Pialba",0,436005,160003
+16-43,GOOGLE-MAHV_MUL-Saturday-01,498861-GOOGLE-MAHV_MUL-Saturday-01,"Pialba - Boat Harbour - Torquay - Pialba",0,436005,160003
+16-43,GOOGLE-MAHV_MUL-Saturday-01,498862-GOOGLE-MAHV_MUL-Saturday-01,"Pialba - Boat Harbour - Torquay - Pialba",0,436015,160003
+16-43,GOOGLE-MAHV_MUL-Saturday-01,498863-GOOGLE-MAHV_MUL-Saturday-01,"Pialba - Boat Harbour - Torquay - Pialba",0,436015,160003
+16-43,GOOGLE-MAHV_MUL-Saturday-01,498864-GOOGLE-MAHV_MUL-Saturday-01,"Pialba - Boat Harbour - Torquay - Pialba",0,436015,160003
+16-43,GOOGLE-MAHV_MUL-Saturday-01,498865-GOOGLE-MAHV_MUL-Saturday-01,"Pialba - Boat Harbour - Torquay - Pialba",0,436015,160003
+16-43,GOOGLE-MAHV_MUL-Saturday-01,498866-GOOGLE-MAHV_MUL-Saturday-01,"Pialba - Boat Harbour - Torquay - Pialba",0,436015,160003
+16-43,GOOGLE-MAHV_MUL-Saturday-01,498867-GOOGLE-MAHV_MUL-Saturday-01,"Pialba - Boat Harbour - Torquay - Pialba",0,436015,160003
+16-43,GOOGLE-MAHV_MUL-Saturday-01,498868-GOOGLE-MAHV_MUL-Saturday-01,"Pialba - Boat Harbour - Torquay - Pialba",0,436015,160003
+16-43,GOOGLE-MAHV_MUL-Saturday-01,498869-GOOGLE-MAHV_MUL-Saturday-01,"Pialba - Boat Harbour - Torquay - Pialba",0,436015,160003
+16-43,GOOGLE-MAHV_MUL-Saturday-01,498870-GOOGLE-MAHV_MUL-Saturday-01,"Pialba - Boat Harbour - Torquay - Pialba",0,436015,160003
+1-43,GOOGLE-MAHV_MUL-Saturday-01,498871-GOOGLE-MAHV_MUL-Saturday-01,"City - Fairfield - Hospital - City",0,436013,10114
+1-43,GOOGLE-MAHV_MUL-Saturday-01,498872-GOOGLE-MAHV_MUL-Saturday-01,"City - Fairfield - Hospital - City",0,436019,10114
+1-43,GOOGLE-MAHV_MUL-Saturday-01,498873-GOOGLE-MAHV_MUL-Saturday-01,"City - Fairfield - Hospital - City",0,436017,10114
+1-43,GOOGLE-MAHV_MUL-Saturday-01,498874-GOOGLE-MAHV_MUL-Saturday-01,"City - Fairfield - Hospital - City",0,436007,10114
+1-43,GOOGLE-MAHV_MUL-Saturday-01,498875-GOOGLE-MAHV_MUL-Saturday-01,"City - Fairfield - Hospital - City",0,436006,10114
+2-43,GOOGLE-MAHV_MUL-Saturday-01,498876-GOOGLE-MAHV_MUL-Saturday-01,"City - Newtown - Aubinville - City",0,436017,20022
+2-43,GOOGLE-MAHV_MUL-Saturday-01,498877-GOOGLE-MAHV_MUL-Saturday-01,"City - Newtown - Aubinville - City",0,436021,20022
+2-43,GOOGLE-MAHV_MUL-Saturday-01,498878-GOOGLE-MAHV_MUL-Saturday-01,"City - Newtown - Aubinville - City",0,436002,20022
+2-43,GOOGLE-MAHV_MUL-Saturday-01,498879-GOOGLE-MAHV_MUL-Saturday-01,"City - Newtown - Aubinville - City",0,436006,20022
+2-43,GOOGLE-MAHV_MUL-Saturday-01,498880-GOOGLE-MAHV_MUL-Saturday-01,"City - Newtown - Aubinville - City",0,436009,20022
+3-43,GOOGLE-MAHV_MUL-Saturday-01,498881-GOOGLE-MAHV_MUL-Saturday-01,"Ululah",0,436021,30049
+3-43,GOOGLE-MAHV_MUL-Saturday-01,498882-GOOGLE-MAHV_MUL-Saturday-01,"Ululah",0,436019,30049
+3-43,GOOGLE-MAHV_MUL-Saturday-01,498883-GOOGLE-MAHV_MUL-Saturday-01,"Ululah",0,436019,30049
+3-43,GOOGLE-MAHV_MUL-Saturday-01,498884-GOOGLE-MAHV_MUL-Saturday-01,"Ululah",0,436008,30049
+4-43,GOOGLE-MAHV_MUL-Saturday-01,498885-GOOGLE-MAHV_MUL-Saturday-01,"City - Granville - City",0,436017,40080
+4-43,GOOGLE-MAHV_MUL-Saturday-01,498886-GOOGLE-MAHV_MUL-Saturday-01,"City - Granville - City",0,436006,40080
+4-43,GOOGLE-MAHV_MUL-Saturday-01,498887-GOOGLE-MAHV_MUL-Saturday-01,"City - Granville - City",0,436013,40089
+4-43,GOOGLE-MAHV_MUL-Saturday-01,498888-GOOGLE-MAHV_MUL-Saturday-01,"City - Granville - City",0,436002,40080
+4-43,GOOGLE-MAHV_MUL-Saturday-01,498889-GOOGLE-MAHV_MUL-Saturday-01,"City - Granville - City",0,436021,40090
+5-43,GOOGLE-MAHV_MUL-Saturday-01,498890-GOOGLE-MAHV_MUL-Saturday-01,"Maryborough - Hervey Bay - Maryborough Clockwise",0,436009,50042
+5-43,GOOGLE-MAHV_MUL-Saturday-01,498891-GOOGLE-MAHV_MUL-Saturday-01,"Maryborough - Hervey Bay - Maryborough Clockwise",0,436002,50043
+5-43,GOOGLE-MAHV_MUL-Saturday-01,498892-GOOGLE-MAHV_MUL-Saturday-01,"Maryborough - Hervey Bay - Maryborough Clockwise",0,436001,50046
+5-43,GOOGLE-MAHV_MUL-Saturday-01,498893-GOOGLE-MAHV_MUL-Saturday-01,"Maryborough - Hervey Bay - Maryborough Clockwise",0,436012,50041
+5-43,GOOGLE-MAHV_MUL-Saturday-01,498894-GOOGLE-MAHV_MUL-Saturday-01,"Maryborough - Hervey Bay - Maryborough Clockwise",0,436002,50043
+1A-43,GOOGLE-MAHV_MUL-Saturday-01,498895-GOOGLE-MAHV_MUL-Saturday-01,"Hervey Bay - Craignish - Hervey Bay",0,436018,1A0019
+1A-43,GOOGLE-MAHV_MUL-Saturday-01,498896-GOOGLE-MAHV_MUL-Saturday-01,"Hervey Bay - Craignish - Hervey Bay",0,436003,1A0012
+1A-43,GOOGLE-MAHV_MUL-Saturday-01,498897-GOOGLE-MAHV_MUL-Saturday-01,"Hervey Bay - Craignish - Hervey Bay",0,436010,1A0012
+1B-43,GOOGLE-MAHV_MUL-Saturday-01,498898-GOOGLE-MAHV_MUL-Saturday-01,"Hervey Bay - Burrum Heads - Toogoom - Hervey Bay",0,436003,1B0008
+1B-43,GOOGLE-MAHV_MUL-Saturday-01,498899-GOOGLE-MAHV_MUL-Saturday-01,"Outbound",1,436005,1B0009
+17-43,GOOGLE-MAHV_MUL-Saturday-01,498900-GOOGLE-MAHV_MUL-Saturday-01,"Pilaba - Urangan Central - Pialba",0,436005,170002
+17-43,GOOGLE-MAHV_MUL-Saturday-01,498901-GOOGLE-MAHV_MUL-Saturday-01,"Pilaba - Urangan Central - Pialba",0,436004,170002
+17-43,GOOGLE-MAHV_MUL-Saturday-01,498902-GOOGLE-MAHV_MUL-Saturday-01,"Pilaba - Urangan Central - Pialba",0,436005,170002
+18-43,GOOGLE-MAHV_MUL-Saturday-01,498903-GOOGLE-MAHV_MUL-Saturday-01,"Pialba - Opposite Urangan Central - Pialba",0,436020,180006
+18-43,GOOGLE-MAHV_MUL-Saturday-01,498904-GOOGLE-MAHV_MUL-Saturday-01,"Pialba - Opposite Urangan Central - Pialba",0,436020,180006
+18-43,GOOGLE-MAHV_MUL-Saturday-01,498905-GOOGLE-MAHV_MUL-Saturday-01,"Pialba - Opposite Urangan Central - Pialba",0,436022,180006
+18-43,GOOGLE-MAHV_MUL-Saturday-01,498906-GOOGLE-MAHV_MUL-Saturday-01,"Pialba - Opposite Urangan Central - Pialba",0,436010,180006
+20-43,GOOGLE-MAHV_MUL-Saturday-01,498907-GOOGLE-MAHV_MUL-Saturday-01,"Pialba - Eli Waters - Pialba",0,436020,200009
+20-43,GOOGLE-MAHV_MUL-Saturday-01,498908-GOOGLE-MAHV_MUL-Saturday-01,"Pialba - Eli Waters - Pialba",0,436010,200009
+20-43,GOOGLE-MAHV_MUL-Saturday-01,498909-GOOGLE-MAHV_MUL-Saturday-01,"Pialba - Eli Waters - Pialba",0,436005,200009
+20-43,GOOGLE-MAHV_MUL-Saturday-01,498910-GOOGLE-MAHV_MUL-Saturday-01,"Pialba - Eli Waters - Pialba",0,436010,200012
+20-43,GOOGLE-MAHV_MUL-Saturday-01,498911-GOOGLE-MAHV_MUL-Saturday-01,"Pialba - Eli Waters - Pialba",0,436010,200055
+20-43,GOOGLE-MAHV_MUL-Saturday-01,498912-GOOGLE-MAHV_MUL-Saturday-01,"Pialba - Eli Waters - Pialba",0,436015,200009
+KGH-43,GOOGLE-MAHV_MUL-Saturday-01,512171-GOOGLE-MAHV_MUL-Saturday-01,"Kan Go Pialba - Point Vernon - Pialba",0,436010,KGH0007
+KGH-43,GOOGLE-MAHV_MUL-Saturday-01,512172-GOOGLE-MAHV_MUL-Saturday-01,"Kan Go Pialba - Point Vernon - Pialba",0,436010,KGH0007
+KGH-43,GOOGLE-MAHV_MUL-Saturday-01,512173-GOOGLE-MAHV_MUL-Saturday-01,"Kan Go Pialba - Point Vernon - Pialba",0,436003,KGH0007
+KGH-43,GOOGLE-MAHV_MUL-Saturday-01,512174-GOOGLE-MAHV_MUL-Saturday-01,"Kan Go Pialba - Point Vernon - Pialba",0,436005,KGH0007
+KGH-43,GOOGLE-MAHV_MUL-Saturday-01,512175-GOOGLE-MAHV_MUL-Saturday-01,"Kan Go Pialba - Point Vernon - Pialba",0,436020,KGH0007
+KGH-43,GOOGLE-MAHV_MUL-Saturday-01,512176-GOOGLE-MAHV_MUL-Saturday-01,"Kan Go Pialba - Point Vernon - Pialba",0,436011,KGH0007
+KGH-43,GOOGLE-MAHV_MUL-Saturday-01,512177-GOOGLE-MAHV_MUL-Saturday-01,"Kan Go Pialba - Point Vernon - Pialba",0,436005,KGH0008
+KGH-43,GOOGLE-MAHV_MUL-Saturday-01,512178-GOOGLE-MAHV_MUL-Saturday-01,"Kan Go Pialba - Point Vernon - Pialba",0,436020,KGH0008
+KGH-43,GOOGLE-MAHV_MUL-Saturday-01,512179-GOOGLE-MAHV_MUL-Saturday-01,"Kan Go Pialba - Point Vernon - Pialba",0,436014,KGH0010
+KGH-43,GOOGLE-MAHV_MUL-Saturday-01,512180-GOOGLE-MAHV_MUL-Saturday-01,"Kan Go Pialba - Point Vernon - Pialba",0,436018,KGH0009
+3-43,GOOGLE-MAHV_MUL-Saturday-01,600145-GOOGLE-MAHV_MUL-Saturday-01,"Ululah",0,436019,30049
+5-43,GOOGLE-MAHV_MUL-Sunday-01,498913-GOOGLE-MAHV_MUL-Sunday-01,"Maryborough - Hervey Bay - Maryborough Clockwise",0,435902,50042
+5-43,GOOGLE-MAHV_MUL-Sunday-01,498914-GOOGLE-MAHV_MUL-Sunday-01,"Maryborough - Hervey Bay - Maryborough Clockwise",0,435903,50043
+5-43,GOOGLE-MAHV_MUL-Sunday-01,498915-GOOGLE-MAHV_MUL-Sunday-01,"Maryborough - Hervey Bay - Maryborough Clockwise",0,435901,50046

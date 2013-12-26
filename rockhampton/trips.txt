@@ -1,0 +1,364 @@
+route_id,service_id,trip_id,trip_headsign,direction_id,block_id,shape_id
+401-279,GOOGLE-ROCK_MUL-Weekday-04,2826578-GOOGLE-ROCK_MUL-Weekday-04,"The Range -  Allenstown - City - Stockland - Glenmore School",0,,4010017
+401-279,GOOGLE-ROCK_MUL-Weekday-04,2826579-GOOGLE-ROCK_MUL-Weekday-04,"The Range -  Allenstown - City - Stockland - Glenmore School",0,,4010017
+401-279,GOOGLE-ROCK_MUL-Weekday-04,2826580-GOOGLE-ROCK_MUL-Weekday-04,"The Range -  Allenstown - City - Stockland - Glenmore School",0,,4010017
+401-279,GOOGLE-ROCK_MUL-Weekday-04,2826581-GOOGLE-ROCK_MUL-Weekday-04,"The Range -  Allenstown - City - Stockland - Glenmore School",0,,4010017
+401-279,GOOGLE-ROCK_MUL-Weekday-04,2826582-GOOGLE-ROCK_MUL-Weekday-04,"The Range -  Allenstown - City - Stockland - Glenmore School",0,,4010017
+401-279,GOOGLE-ROCK_MUL-Weekday-04,2826583-GOOGLE-ROCK_MUL-Weekday-04,"The Range -  Allenstown - City - Stockland - Glenmore School",0,,4010017
+401-279,GOOGLE-ROCK_MUL-Weekday-04,2826584-GOOGLE-ROCK_MUL-Weekday-04,"The Range -  Allenstown - City - Stockland - Glenmore School",0,,4010017
+401-279,GOOGLE-ROCK_MUL-Weekday-04,2826585-GOOGLE-ROCK_MUL-Weekday-04,"The Range -  Allenstown - City - Stockland - Glenmore School",0,,4010017
+401-279,GOOGLE-ROCK_MUL-Weekday-04,2826586-GOOGLE-ROCK_MUL-Weekday-04,"The Range -  Allenstown - City - Stockland - Glenmore School",0,,4010017
+401-279,GOOGLE-ROCK_MUL-Weekday-04,2826587-GOOGLE-ROCK_MUL-Weekday-04,"The Range -  Allenstown - City - Stockland - Glenmore School",0,,4010019
+401-279,GOOGLE-ROCK_MUL-Weekday-04,2826588-GOOGLE-ROCK_MUL-Weekday-04,"The Range -  Allenstown - City - Stockland - Glenmore School",0,,4010018
+401-279,GOOGLE-ROCK_MUL-Weekday-04,2826589-GOOGLE-ROCK_MUL-Weekday-04,"The Range -  Allenstown - City - Stockland - Glenmore School",0,,4010017
+401-279,GOOGLE-ROCK_MUL-Weekday-04,2826590-GOOGLE-ROCK_MUL-Weekday-04,"The Range -  Allenstown - City - Stockland - Glenmore School",0,,4010017
+401-279,GOOGLE-ROCK_MUL-Weekday-04,2826591-GOOGLE-ROCK_MUL-Weekday-04,"Glenmore Schools - Stockland - City - Allenstown - The Range",1,,4010020
+401-279,GOOGLE-ROCK_MUL-Weekday-04,2826592-GOOGLE-ROCK_MUL-Weekday-04,"Glenmore Schools - Stockland - City - Allenstown - The Range",1,,4010020
+401-279,GOOGLE-ROCK_MUL-Weekday-04,2826593-GOOGLE-ROCK_MUL-Weekday-04,"Glenmore Schools - Stockland - City - Allenstown - The Range",1,,4010020
+401-279,GOOGLE-ROCK_MUL-Weekday-04,2826594-GOOGLE-ROCK_MUL-Weekday-04,"Glenmore Schools - Stockland - City - Allenstown - The Range",1,,4010020
+401-279,GOOGLE-ROCK_MUL-Weekday-04,2826595-GOOGLE-ROCK_MUL-Weekday-04,"Glenmore Schools - Stockland - City - Allenstown - The Range",1,,4010020
+401-279,GOOGLE-ROCK_MUL-Weekday-04,2826596-GOOGLE-ROCK_MUL-Weekday-04,"Glenmore Schools - Stockland - City - Allenstown - The Range",1,,4010020
+401-279,GOOGLE-ROCK_MUL-Weekday-04,2826597-GOOGLE-ROCK_MUL-Weekday-04,"Glenmore Schools - Stockland - City - Allenstown - The Range",1,,4010020
+401-279,GOOGLE-ROCK_MUL-Weekday-04,2826598-GOOGLE-ROCK_MUL-Weekday-04,"Glenmore Schools - Stockland - City - Allenstown - The Range",1,,4010020
+401-279,GOOGLE-ROCK_MUL-Weekday-04,2826599-GOOGLE-ROCK_MUL-Weekday-04,"Glenmore Schools - Stockland - City - Allenstown - The Range",1,,4010022
+401-279,GOOGLE-ROCK_MUL-Weekday-04,2826600-GOOGLE-ROCK_MUL-Weekday-04,"Glenmore Schools - Stockland - City - Allenstown - The Range",1,,4010020
+401-279,GOOGLE-ROCK_MUL-Weekday-04,2826601-GOOGLE-ROCK_MUL-Weekday-04,"Glenmore Schools - Stockland - City - Allenstown - The Range",1,,4010020
+401-279,GOOGLE-ROCK_MUL-Weekday-04,2826602-GOOGLE-ROCK_MUL-Weekday-04,"Glenmore Schools - Stockland - City - Allenstown - The Range",1,,4010020
+401-279,GOOGLE-ROCK_MUL-Weekday-04,2826603-GOOGLE-ROCK_MUL-Weekday-04,"Glenmore Schools - Stockland - City - Allenstown - The Range",1,,4010021
+401-279,GOOGLE-ROCK_MUL-Weekday-04,2826604-GOOGLE-ROCK_MUL-Weekday-04,"The Range -  Allenstown - City - Stockland - Glenmore School",0,,4010017
+402-279,GOOGLE-ROCK_MUL-Weekday-04,2826613-GOOGLE-ROCK_MUL-Weekday-04,"Stockland Plaza - Frenchville -  Mt Archer - City",0,,4020015
+402-279,GOOGLE-ROCK_MUL-Weekday-04,2826614-GOOGLE-ROCK_MUL-Weekday-04,"Stockland Plaza - Frenchville -  Mt Archer - City",0,,4020015
+402-279,GOOGLE-ROCK_MUL-Weekday-04,2826615-GOOGLE-ROCK_MUL-Weekday-04,"Stockland Plaza - Frenchville -  Mt Archer - City",0,,4020015
+402-279,GOOGLE-ROCK_MUL-Weekday-04,2826616-GOOGLE-ROCK_MUL-Weekday-04,"Stockland Plaza - Frenchville -  Mt Archer - City",0,,4020015
+402-279,GOOGLE-ROCK_MUL-Weekday-04,2826617-GOOGLE-ROCK_MUL-Weekday-04,"Stockland Plaza - Frenchville -  Mt Archer - City",0,,4020015
+402-279,GOOGLE-ROCK_MUL-Weekday-04,2826618-GOOGLE-ROCK_MUL-Weekday-04,"Stockland Plaza - Frenchville -  Mt Archer - City",0,,4020015
+402-279,GOOGLE-ROCK_MUL-Weekday-04,2826619-GOOGLE-ROCK_MUL-Weekday-04,"Stockland Plaza - Frenchville -  Mt Archer - City",0,,4020015
+402-279,GOOGLE-ROCK_MUL-Weekday-04,2826620-GOOGLE-ROCK_MUL-Weekday-04,"Stockland Plaza - Frenchville -  Mt Archer - City",0,,4020015
+402-279,GOOGLE-ROCK_MUL-Weekday-04,2826621-GOOGLE-ROCK_MUL-Weekday-04,"Stockland Plaza - Frenchville -  Mt Archer - City",0,,4020015
+402-279,GOOGLE-ROCK_MUL-Weekday-04,2826622-GOOGLE-ROCK_MUL-Weekday-04,"Stockland Plaza - Frenchville -  Mt Archer - City",0,,4020015
+402-279,GOOGLE-ROCK_MUL-Weekday-04,2826623-GOOGLE-ROCK_MUL-Weekday-04,"Stockland Plaza - Frenchville -  Mt Archer - City",0,,4020017
+402-279,GOOGLE-ROCK_MUL-Weekday-04,2826624-GOOGLE-ROCK_MUL-Weekday-04,"Stockland Plaza - Frenchville -  Mt Archer - City",0,,4020016
+402-279,GOOGLE-ROCK_MUL-Weekday-04,2826625-GOOGLE-ROCK_MUL-Weekday-04,"City - Mt Archer - Frenchville - Stockland",1,,4020018
+402-279,GOOGLE-ROCK_MUL-Weekday-04,2826626-GOOGLE-ROCK_MUL-Weekday-04,"City - Mt Archer - Frenchville - Stockland",1,,4020019
+402-279,GOOGLE-ROCK_MUL-Weekday-04,2826627-GOOGLE-ROCK_MUL-Weekday-04,"City - Mt Archer - Frenchville - Stockland",1,,4020019
+402-279,GOOGLE-ROCK_MUL-Weekday-04,2826628-GOOGLE-ROCK_MUL-Weekday-04,"City - Mt Archer - Frenchville - Stockland",1,,4020019
+402-279,GOOGLE-ROCK_MUL-Weekday-04,2826629-GOOGLE-ROCK_MUL-Weekday-04,"City - Mt Archer - Frenchville - Stockland",1,,4020019
+402-279,GOOGLE-ROCK_MUL-Weekday-04,2826630-GOOGLE-ROCK_MUL-Weekday-04,"City - Mt Archer - Frenchville - Stockland",1,,4020019
+402-279,GOOGLE-ROCK_MUL-Weekday-04,2826631-GOOGLE-ROCK_MUL-Weekday-04,"City - Mt Archer - Frenchville - Stockland",1,,4020019
+402-279,GOOGLE-ROCK_MUL-Weekday-04,2826632-GOOGLE-ROCK_MUL-Weekday-04,"City - Mt Archer - Frenchville - Stockland",1,,4020019
+402-279,GOOGLE-ROCK_MUL-Weekday-04,2826633-GOOGLE-ROCK_MUL-Weekday-04,"City - Mt Archer - Frenchville - Stockland",1,,4020019
+402-279,GOOGLE-ROCK_MUL-Weekday-04,2826634-GOOGLE-ROCK_MUL-Weekday-04,"City - Mt Archer - Frenchville - Stockland",1,,4020019
+402-279,GOOGLE-ROCK_MUL-Weekday-04,2826635-GOOGLE-ROCK_MUL-Weekday-04,"City - Mt Archer - Frenchville - Stockland",1,,4020019
+403-279,GOOGLE-ROCK_MUL-Weekday-04,2826645-GOOGLE-ROCK_MUL-Weekday-04," Base Hospital - West Rockhampton - City - Stockland - CQU",0,,4030010
+403-279,GOOGLE-ROCK_MUL-Weekday-04,2826646-GOOGLE-ROCK_MUL-Weekday-04," Base Hospital - West Rockhampton - City - Stockland - CQU",0,,4030011
+403-279,GOOGLE-ROCK_MUL-Weekday-04,2826647-GOOGLE-ROCK_MUL-Weekday-04," Base Hospital - West Rockhampton - City - Stockland - CQU",0,,4030011
+403-279,GOOGLE-ROCK_MUL-Weekday-04,2826648-GOOGLE-ROCK_MUL-Weekday-04," Base Hospital - West Rockhampton - City - Stockland - CQU",0,,4030011
+403-279,GOOGLE-ROCK_MUL-Weekday-04,2826649-GOOGLE-ROCK_MUL-Weekday-04," Base Hospital - West Rockhampton - City - Stockland - CQU",0,,4030011
+403-279,GOOGLE-ROCK_MUL-Weekday-04,2826650-GOOGLE-ROCK_MUL-Weekday-04," Base Hospital - West Rockhampton - City - Stockland - CQU",0,,4030011
+403-279,GOOGLE-ROCK_MUL-Weekday-04,2826651-GOOGLE-ROCK_MUL-Weekday-04," Base Hospital - West Rockhampton - City - Stockland - CQU",0,,4030011
+403-279,GOOGLE-ROCK_MUL-Weekday-04,2826652-GOOGLE-ROCK_MUL-Weekday-04," Base Hospital - West Rockhampton - City - Stockland - CQU",0,,4030010
+404-279,GOOGLE-ROCK_MUL-Weekday-04,2826656-GOOGLE-ROCK_MUL-Weekday-04,"Botanic Gardens - TAFE - City - Stockland - Glenmore",0,,4040010
+404-279,GOOGLE-ROCK_MUL-Weekday-04,2826657-GOOGLE-ROCK_MUL-Weekday-04,"Botanic Gardens - TAFE - City - Stockland - Glenmore",0,,4040010
+404-279,GOOGLE-ROCK_MUL-Weekday-04,2826658-GOOGLE-ROCK_MUL-Weekday-04,"Botanic Gardens - TAFE - City - Stockland - Glenmore",0,,4040010
+404-279,GOOGLE-ROCK_MUL-Weekday-04,2826659-GOOGLE-ROCK_MUL-Weekday-04,"Botanic Gardens - TAFE - City - Stockland - Glenmore",0,,4040010
+404-279,GOOGLE-ROCK_MUL-Weekday-04,2826660-GOOGLE-ROCK_MUL-Weekday-04,"Botanic Gardens - TAFE - City - Stockland - Glenmore",0,,4040010
+404-279,GOOGLE-ROCK_MUL-Weekday-04,2826661-GOOGLE-ROCK_MUL-Weekday-04,"Botanic Gardens - TAFE - City - Stockland - Glenmore",0,,4040010
+404-279,GOOGLE-ROCK_MUL-Weekday-04,2826662-GOOGLE-ROCK_MUL-Weekday-04,"Botanic Gardens - TAFE - City - Stockland - Glenmore",0,,4040010
+404-279,GOOGLE-ROCK_MUL-Weekday-04,2826663-GOOGLE-ROCK_MUL-Weekday-04,"Botanic Gardens - TAFE - City - Stockland - Glenmore",0,,4040010
+404-279,GOOGLE-ROCK_MUL-Weekday-04,2826664-GOOGLE-ROCK_MUL-Weekday-04,"Botanic Gardens - TAFE - City - Stockland - Glenmore",0,,4040010
+404-279,GOOGLE-ROCK_MUL-Weekday-04,2826665-GOOGLE-ROCK_MUL-Weekday-04,"Botanic Gardens - TAFE - City - Stockland - Glenmore",0,,4040010
+404-279,GOOGLE-ROCK_MUL-Weekday-04,2826666-GOOGLE-ROCK_MUL-Weekday-04,"Botanic Gardens - TAFE - City - Stockland - Glenmore",0,,4040010
+404-279,GOOGLE-ROCK_MUL-Weekday-04,2826667-GOOGLE-ROCK_MUL-Weekday-04,"Botanic Gardens - TAFE - City - Stockland - Glenmore",0,,4040010
+404-279,GOOGLE-ROCK_MUL-Weekday-04,2826668-GOOGLE-ROCK_MUL-Weekday-04,"Glenmore - Stockland - City - TAFE - Botanic Gardens",1,,4040013
+404-279,GOOGLE-ROCK_MUL-Weekday-04,2826669-GOOGLE-ROCK_MUL-Weekday-04,"Glenmore - Stockland - City - TAFE - Botanic Gardens",1,,4040013
+404-279,GOOGLE-ROCK_MUL-Weekday-04,2826670-GOOGLE-ROCK_MUL-Weekday-04,"Glenmore - Stockland - City - TAFE - Botanic Gardens",1,,4040013
+404-279,GOOGLE-ROCK_MUL-Weekday-04,2826671-GOOGLE-ROCK_MUL-Weekday-04,"Glenmore - Stockland - City - TAFE - Botanic Gardens",1,,4040013
+404-279,GOOGLE-ROCK_MUL-Weekday-04,2826672-GOOGLE-ROCK_MUL-Weekday-04,"Glenmore - Stockland - City - TAFE - Botanic Gardens",1,,4040013
+404-279,GOOGLE-ROCK_MUL-Weekday-04,2826673-GOOGLE-ROCK_MUL-Weekday-04,"Glenmore - Stockland - City - TAFE - Botanic Gardens",1,,4040013
+404-279,GOOGLE-ROCK_MUL-Weekday-04,2826674-GOOGLE-ROCK_MUL-Weekday-04,"Glenmore - Stockland - City - TAFE - Botanic Gardens",1,,4040013
+404-279,GOOGLE-ROCK_MUL-Weekday-04,2826675-GOOGLE-ROCK_MUL-Weekday-04,"Glenmore - Stockland - City - TAFE - Botanic Gardens",1,,4040013
+404-279,GOOGLE-ROCK_MUL-Weekday-04,2826676-GOOGLE-ROCK_MUL-Weekday-04,"Glenmore - Stockland - City - TAFE - Botanic Gardens",1,,4040013
+404-279,GOOGLE-ROCK_MUL-Weekday-04,2826677-GOOGLE-ROCK_MUL-Weekday-04,"Glenmore - Stockland - City - TAFE - Botanic Gardens",1,,4040013
+404-279,GOOGLE-ROCK_MUL-Weekday-04,2826678-GOOGLE-ROCK_MUL-Weekday-04,"Glenmore - Stockland - City - TAFE - Botanic Gardens",1,,4040013
+404-279,GOOGLE-ROCK_MUL-Weekday-04,2826679-GOOGLE-ROCK_MUL-Weekday-04,"Glenmore - Stockland - City - TAFE - Botanic Gardens",1,,4040013
+404-279,GOOGLE-ROCK_MUL-Weekday-04,2826680-GOOGLE-ROCK_MUL-Weekday-04,"Glenmore - Stockland - City - TAFE - Botanic Gardens",1,,4040012
+404-279,GOOGLE-ROCK_MUL-Weekday-04,2826681-GOOGLE-ROCK_MUL-Weekday-04,"Botanic Gardens - TAFE - City - Stockland - Glenmore",0,,4040010
+404-279,GOOGLE-ROCK_MUL-Weekday-04,2826682-GOOGLE-ROCK_MUL-Weekday-04,"Glenmore - Stockland - City - TAFE - Botanic Gardens",1,,4040013
+404-279,GOOGLE-ROCK_MUL-Weekday-04,2826683-GOOGLE-ROCK_MUL-Weekday-04,"Glenmore - Stockland - City - TAFE - Botanic Gardens",1,,4040013
+404-279,GOOGLE-ROCK_MUL-Weekday-04,2826684-GOOGLE-ROCK_MUL-Weekday-04,"Botanic Gardens - TAFE - City - Stockland - Glenmore",0,,4040011
+405-279,GOOGLE-ROCK_MUL-Weekday-04,2826694-GOOGLE-ROCK_MUL-Weekday-04,"Depot Hill - Rockhampton City",0,,4050010
+405-279,GOOGLE-ROCK_MUL-Weekday-04,2826695-GOOGLE-ROCK_MUL-Weekday-04,"Depot Hill - Rockhampton City",0,,4050009
+405-279,GOOGLE-ROCK_MUL-Weekday-04,2826696-GOOGLE-ROCK_MUL-Weekday-04,"Depot Hill - Rockhampton City",0,,4050009
+405-279,GOOGLE-ROCK_MUL-Weekday-04,2826697-GOOGLE-ROCK_MUL-Weekday-04,"Depot Hill - Rockhampton City",0,,4050009
+405-279,GOOGLE-ROCK_MUL-Weekday-04,2826698-GOOGLE-ROCK_MUL-Weekday-04,"Depot Hill - Rockhampton City",0,,4050009
+405-279,GOOGLE-ROCK_MUL-Weekday-04,2826699-GOOGLE-ROCK_MUL-Weekday-04,"Rockhampton City - Depot Hill",1,,4050012
+405-279,GOOGLE-ROCK_MUL-Weekday-04,2826700-GOOGLE-ROCK_MUL-Weekday-04,"Rockhampton City - Depot Hill",1,,4050012
+405-279,GOOGLE-ROCK_MUL-Weekday-04,2826701-GOOGLE-ROCK_MUL-Weekday-04,"Rockhampton City - Depot Hill",1,,4050012
+405-279,GOOGLE-ROCK_MUL-Weekday-04,2826702-GOOGLE-ROCK_MUL-Weekday-04,"Rockhampton City - Depot Hill",1,,4050011
+406-279,GOOGLE-ROCK_MUL-Weekday-04,2826703-GOOGLE-ROCK_MUL-Weekday-04,"Lakes Creek - Elphinstone St - Stockland - City",0,,4060014
+406-279,GOOGLE-ROCK_MUL-Weekday-04,2826704-GOOGLE-ROCK_MUL-Weekday-04,"Lakes Creek - Elphinstone St - Stockland - City",0,,4060014
+406-279,GOOGLE-ROCK_MUL-Weekday-04,2826705-GOOGLE-ROCK_MUL-Weekday-04,"Lakes Creek - Elphinstone St - Stockland - City",0,,4060014
+406-279,GOOGLE-ROCK_MUL-Weekday-04,2826706-GOOGLE-ROCK_MUL-Weekday-04,"Lakes Creek - Elphinstone St - Stockland - City",0,,4060014
+406-279,GOOGLE-ROCK_MUL-Weekday-04,2826707-GOOGLE-ROCK_MUL-Weekday-04,"Lakes Creek - Elphinstone St - Stockland - City",0,,4060014
+406-279,GOOGLE-ROCK_MUL-Weekday-04,2826708-GOOGLE-ROCK_MUL-Weekday-04,"Lakes Creek - Elphinstone St - Stockland - City",0,,4060014
+406-279,GOOGLE-ROCK_MUL-Weekday-04,2826709-GOOGLE-ROCK_MUL-Weekday-04,"Lakes Creek - Elphinstone St - Stockland - City",0,,4060014
+406-279,GOOGLE-ROCK_MUL-Weekday-04,2826710-GOOGLE-ROCK_MUL-Weekday-04,"Lakes Creek - Elphinstone St - Stockland - City",0,,4060014
+406-279,GOOGLE-ROCK_MUL-Weekday-04,2826711-GOOGLE-ROCK_MUL-Weekday-04,"Lakes Creek - Elphinstone St - Stockland - City",0,,4060014
+406-279,GOOGLE-ROCK_MUL-Weekday-04,2826712-GOOGLE-ROCK_MUL-Weekday-04,"Lakes Creek - Elphinstone St - Stockland - City",0,,4060015
+406-279,GOOGLE-ROCK_MUL-Weekday-04,2826713-GOOGLE-ROCK_MUL-Weekday-04,"City - Stockland - Elphinstone St - Lakes Creek",1,,4060009
+406-279,GOOGLE-ROCK_MUL-Weekday-04,2826714-GOOGLE-ROCK_MUL-Weekday-04,"City - Stockland - Elphinstone St - Lakes Creek",1,,4060009
+406-279,GOOGLE-ROCK_MUL-Weekday-04,2826715-GOOGLE-ROCK_MUL-Weekday-04,"City - Stockland - Elphinstone St - Lakes Creek",1,,4060009
+406-279,GOOGLE-ROCK_MUL-Weekday-04,2826716-GOOGLE-ROCK_MUL-Weekday-04,"City - Stockland - Elphinstone St - Lakes Creek",1,,4060009
+406-279,GOOGLE-ROCK_MUL-Weekday-04,2826717-GOOGLE-ROCK_MUL-Weekday-04,"City - Stockland - Elphinstone St - Lakes Creek",1,,4060009
+406-279,GOOGLE-ROCK_MUL-Weekday-04,2826718-GOOGLE-ROCK_MUL-Weekday-04,"City - Stockland - Elphinstone St - Lakes Creek",1,,4060009
+406-279,GOOGLE-ROCK_MUL-Weekday-04,2826719-GOOGLE-ROCK_MUL-Weekday-04,"City - Stockland - Elphinstone St - Lakes Creek",1,,4060009
+406-279,GOOGLE-ROCK_MUL-Weekday-04,2826720-GOOGLE-ROCK_MUL-Weekday-04,"City - Stockland - Elphinstone St - Lakes Creek",1,,4060009
+406-279,GOOGLE-ROCK_MUL-Weekday-04,2826721-GOOGLE-ROCK_MUL-Weekday-04,"City - Stockland - Elphinstone St - Lakes Creek",1,,4060009
+406-279,GOOGLE-ROCK_MUL-Weekday-04,2826722-GOOGLE-ROCK_MUL-Weekday-04,"City - Stockland - Elphinstone St - Lakes Creek",1,,4060009
+407-279,GOOGLE-ROCK_MUL-Weekday-04,2826723-GOOGLE-ROCK_MUL-Weekday-04,"West Rockhampton - Base Hospital -  City - CQU",0,,4070015
+407-279,GOOGLE-ROCK_MUL-Weekday-04,2826724-GOOGLE-ROCK_MUL-Weekday-04,"West Rockhampton - Base Hospital -  City - CQU",0,,4070015
+407-279,GOOGLE-ROCK_MUL-Weekday-04,2826725-GOOGLE-ROCK_MUL-Weekday-04,"West Rockhampton - Base Hospital -  City - CQU",0,,4070015
+407-279,GOOGLE-ROCK_MUL-Weekday-04,2826726-GOOGLE-ROCK_MUL-Weekday-04,"West Rockhampton - Base Hospital -  City - CQU",0,,4070015
+407-279,GOOGLE-ROCK_MUL-Weekday-04,2826727-GOOGLE-ROCK_MUL-Weekday-04,"West Rockhampton - Base Hospital -  City - CQU",0,,4070015
+407-279,GOOGLE-ROCK_MUL-Weekday-04,2826728-GOOGLE-ROCK_MUL-Weekday-04,"West Rockhampton - Base Hospital -  City - CQU",0,,4070015
+407-279,GOOGLE-ROCK_MUL-Weekday-04,2826729-GOOGLE-ROCK_MUL-Weekday-04,"West Rockhampton - Base Hospital -  City - CQU",0,,4070016
+407-279,GOOGLE-ROCK_MUL-Weekday-04,2826730-GOOGLE-ROCK_MUL-Weekday-04,"West Rockhampton - Base Hospital -  City - CQU",0,,4070017
+410-279,GOOGLE-ROCK_MUL-Weekday-04,2826733-GOOGLE-ROCK_MUL-Weekday-04,"Parkhurst - CQU - Stockland - City",0,,4100004
+410-279,GOOGLE-ROCK_MUL-Weekday-04,2826734-GOOGLE-ROCK_MUL-Weekday-04,"Parkhurst - CQU - Stockland - City",0,,4100004
+410-279,GOOGLE-ROCK_MUL-Weekday-04,2826735-GOOGLE-ROCK_MUL-Weekday-04,"Parkhurst - CQU - Stockland - City",0,,4100004
+410-279,GOOGLE-ROCK_MUL-Weekday-04,2826736-GOOGLE-ROCK_MUL-Weekday-04,"Parkhurst - CQU - Stockland - City",0,,4100004
+410-279,GOOGLE-ROCK_MUL-Weekday-04,2826737-GOOGLE-ROCK_MUL-Weekday-04,"Parkhurst - CQU - Stockland - City",0,,4100004
+410-279,GOOGLE-ROCK_MUL-Weekday-04,2826738-GOOGLE-ROCK_MUL-Weekday-04,"Parkhurst - CQU - Stockland - City",0,,4100004
+410-279,GOOGLE-ROCK_MUL-Weekday-04,2826739-GOOGLE-ROCK_MUL-Weekday-04,"Parkhurst - CQU - Stockland - City",0,,4100004
+410-279,GOOGLE-ROCK_MUL-Weekday-04,2826740-GOOGLE-ROCK_MUL-Weekday-04,"Parkhurst - CQU - Stockland - City",0,,4100004
+410-279,GOOGLE-ROCK_MUL-Weekday-04,2826741-GOOGLE-ROCK_MUL-Weekday-04,"Parkhurst - CQU - Stockland - City",0,,4100004
+410-279,GOOGLE-ROCK_MUL-Weekday-04,2826742-GOOGLE-ROCK_MUL-Weekday-04,"Parkhurst - CQU - Stockland - City",0,,4100004
+410-279,GOOGLE-ROCK_MUL-Weekday-04,2826743-GOOGLE-ROCK_MUL-Weekday-04,"City - Stockland - CQU - Parkhurst",1,,4100005
+410-279,GOOGLE-ROCK_MUL-Weekday-04,2826744-GOOGLE-ROCK_MUL-Weekday-04,"City - Stockland - CQU - Parkhurst",1,,4100005
+410-279,GOOGLE-ROCK_MUL-Weekday-04,2826745-GOOGLE-ROCK_MUL-Weekday-04,"City - Stockland - CQU - Parkhurst",1,,4100005
+410-279,GOOGLE-ROCK_MUL-Weekday-04,2826746-GOOGLE-ROCK_MUL-Weekday-04,"City - Stockland - CQU - Parkhurst",1,,4100005
+410-279,GOOGLE-ROCK_MUL-Weekday-04,2826747-GOOGLE-ROCK_MUL-Weekday-04,"City - Stockland - CQU - Parkhurst",1,,4100005
+410-279,GOOGLE-ROCK_MUL-Weekday-04,2826748-GOOGLE-ROCK_MUL-Weekday-04,"City - Stockland - CQU - Parkhurst",1,,4100005
+410-279,GOOGLE-ROCK_MUL-Weekday-04,2826749-GOOGLE-ROCK_MUL-Weekday-04,"City - Stockland - CQU - Parkhurst",1,,4100005
+410-279,GOOGLE-ROCK_MUL-Weekday-04,2826750-GOOGLE-ROCK_MUL-Weekday-04,"City - Stockland - CQU - Parkhurst",1,,4100005
+410-279,GOOGLE-ROCK_MUL-Weekday-04,2826751-GOOGLE-ROCK_MUL-Weekday-04,"City - Stockland - CQU - Parkhurst",1,,4100005
+410-279,GOOGLE-ROCK_MUL-Weekday-04,2826752-GOOGLE-ROCK_MUL-Weekday-04,"City - Stockland - CQU - Parkhurst",1,,4100005
+410-279,GOOGLE-ROCK_MUL-Weekday-04,2826753-GOOGLE-ROCK_MUL-Weekday-04,"City - Stockland - CQU - Parkhurst",1,,4100005
+411-279,GOOGLE-ROCK_MUL-Weekday-04,2826754-GOOGLE-ROCK_MUL-Weekday-04,"Lakes Creek - Frenchville - Stockland - Norman Gardens - CQU",0,,4110026
+411-279,GOOGLE-ROCK_MUL-Weekday-04,2826755-GOOGLE-ROCK_MUL-Weekday-04,"Lakes Creek - Frenchville - Stockland - Norman Gardens - CQU",0,,4110027
+411-279,GOOGLE-ROCK_MUL-Weekday-04,2826756-GOOGLE-ROCK_MUL-Weekday-04,"Lakes Creek - Frenchville - Stockland - Norman Gardens - CQU",0,,4110028
+411-279,GOOGLE-ROCK_MUL-Weekday-04,2826757-GOOGLE-ROCK_MUL-Weekday-04,"Lakes Creek - Frenchville - Stockland - Norman Gardens - CQU",0,,4110028
+411-279,GOOGLE-ROCK_MUL-Weekday-04,2826758-GOOGLE-ROCK_MUL-Weekday-04,"Lakes Creek - Frenchville - Stockland - Norman Gardens - CQU",0,,4110028
+411-279,GOOGLE-ROCK_MUL-Weekday-04,2826759-GOOGLE-ROCK_MUL-Weekday-04,"Lakes Creek - Frenchville - Stockland - Norman Gardens - CQU",0,,4110028
+411-279,GOOGLE-ROCK_MUL-Weekday-04,2826760-GOOGLE-ROCK_MUL-Weekday-04,"Lakes Creek - Frenchville - Stockland - Norman Gardens - CQU",0,,4110028
+411-279,GOOGLE-ROCK_MUL-Weekday-04,2826761-GOOGLE-ROCK_MUL-Weekday-04,"Lakes Creek - Frenchville - Stockland - Norman Gardens - CQU",0,,4110028
+411-279,GOOGLE-ROCK_MUL-Weekday-04,2826762-GOOGLE-ROCK_MUL-Weekday-04,"Lakes Creek - Frenchville - Stockland - Norman Gardens - CQU",0,,4110028
+411-279,GOOGLE-ROCK_MUL-Weekday-04,2826763-GOOGLE-ROCK_MUL-Weekday-04,"Lakes Creek - Frenchville - Stockland - Norman Gardens - CQU",0,,4110028
+411-279,GOOGLE-ROCK_MUL-Weekday-04,2826764-GOOGLE-ROCK_MUL-Weekday-04,"CQU - Norman Gardens - Stockland - Frenchville - Lakes Creek",1,,4110029
+411-279,GOOGLE-ROCK_MUL-Weekday-04,2826765-GOOGLE-ROCK_MUL-Weekday-04,"CQU - Norman Gardens - Stockland - Frenchville - Lakes Creek",1,,4110029
+411-279,GOOGLE-ROCK_MUL-Weekday-04,2826766-GOOGLE-ROCK_MUL-Weekday-04,"CQU - Norman Gardens - Stockland - Frenchville - Lakes Creek",1,,4110029
+411-279,GOOGLE-ROCK_MUL-Weekday-04,2826767-GOOGLE-ROCK_MUL-Weekday-04,"CQU - Norman Gardens - Stockland - Frenchville - Lakes Creek",1,,4110029
+411-279,GOOGLE-ROCK_MUL-Weekday-04,2826768-GOOGLE-ROCK_MUL-Weekday-04,"CQU - Norman Gardens - Stockland - Frenchville - Lakes Creek",1,,4110029
+411-279,GOOGLE-ROCK_MUL-Weekday-04,2826769-GOOGLE-ROCK_MUL-Weekday-04,"CQU - Norman Gardens - Stockland - Frenchville - Lakes Creek",1,,4110029
+411-279,GOOGLE-ROCK_MUL-Weekday-04,2826770-GOOGLE-ROCK_MUL-Weekday-04,"CQU - Norman Gardens - Stockland - Frenchville - Lakes Creek",1,,4110029
+411-279,GOOGLE-ROCK_MUL-Weekday-04,2826771-GOOGLE-ROCK_MUL-Weekday-04,"CQU - Norman Gardens - Stockland - Frenchville - Lakes Creek",1,,4110031
+411-279,GOOGLE-ROCK_MUL-Weekday-04,2826772-GOOGLE-ROCK_MUL-Weekday-04,"CQU - Norman Gardens - Stockland - Frenchville - Lakes Creek",1,,4110032
+411-279,GOOGLE-ROCK_MUL-Weekday-04,2826773-GOOGLE-ROCK_MUL-Weekday-04,"CQU - Norman Gardens - Stockland - Frenchville - Lakes Creek",1,,4110029
+411-279,GOOGLE-ROCK_MUL-Weekday-04,2826774-GOOGLE-ROCK_MUL-Weekday-04,"CQU - Norman Gardens - Stockland - Frenchville - Lakes Creek",1,,4110030
+401-279,GOOGLE-ROCK_MUL-Weekday-05,2826578-GOOGLE-ROCK_MUL-Weekday-05,"The Range -  Allenstown - City - Stockland - Glenmore School",0,,4010017
+401-279,GOOGLE-ROCK_MUL-Weekday-05,2826579-GOOGLE-ROCK_MUL-Weekday-05,"The Range -  Allenstown - City - Stockland - Glenmore School",0,,4010017
+401-279,GOOGLE-ROCK_MUL-Weekday-05,2826580-GOOGLE-ROCK_MUL-Weekday-05,"The Range -  Allenstown - City - Stockland - Glenmore School",0,,4010017
+401-279,GOOGLE-ROCK_MUL-Weekday-05,2826581-GOOGLE-ROCK_MUL-Weekday-05,"The Range -  Allenstown - City - Stockland - Glenmore School",0,,4010017
+401-279,GOOGLE-ROCK_MUL-Weekday-05,2826582-GOOGLE-ROCK_MUL-Weekday-05,"The Range -  Allenstown - City - Stockland - Glenmore School",0,,4010017
+401-279,GOOGLE-ROCK_MUL-Weekday-05,2826583-GOOGLE-ROCK_MUL-Weekday-05,"The Range -  Allenstown - City - Stockland - Glenmore School",0,,4010017
+401-279,GOOGLE-ROCK_MUL-Weekday-05,2826584-GOOGLE-ROCK_MUL-Weekday-05,"The Range -  Allenstown - City - Stockland - Glenmore School",0,,4010017
+401-279,GOOGLE-ROCK_MUL-Weekday-05,2826585-GOOGLE-ROCK_MUL-Weekday-05,"The Range -  Allenstown - City - Stockland - Glenmore School",0,,4010017
+401-279,GOOGLE-ROCK_MUL-Weekday-05,2826586-GOOGLE-ROCK_MUL-Weekday-05,"The Range -  Allenstown - City - Stockland - Glenmore School",0,,4010017
+401-279,GOOGLE-ROCK_MUL-Weekday-05,2826587-GOOGLE-ROCK_MUL-Weekday-05,"The Range -  Allenstown - City - Stockland - Glenmore School",0,,4010019
+401-279,GOOGLE-ROCK_MUL-Weekday-05,2826588-GOOGLE-ROCK_MUL-Weekday-05,"The Range -  Allenstown - City - Stockland - Glenmore School",0,,4010018
+401-279,GOOGLE-ROCK_MUL-Weekday-05,2826589-GOOGLE-ROCK_MUL-Weekday-05,"The Range -  Allenstown - City - Stockland - Glenmore School",0,,4010017
+401-279,GOOGLE-ROCK_MUL-Weekday-05,2826590-GOOGLE-ROCK_MUL-Weekday-05,"The Range -  Allenstown - City - Stockland - Glenmore School",0,,4010017
+401-279,GOOGLE-ROCK_MUL-Weekday-05,2826591-GOOGLE-ROCK_MUL-Weekday-05,"Glenmore Schools - Stockland - City - Allenstown - The Range",1,,4010020
+401-279,GOOGLE-ROCK_MUL-Weekday-05,2826592-GOOGLE-ROCK_MUL-Weekday-05,"Glenmore Schools - Stockland - City - Allenstown - The Range",1,,4010020
+401-279,GOOGLE-ROCK_MUL-Weekday-05,2826593-GOOGLE-ROCK_MUL-Weekday-05,"Glenmore Schools - Stockland - City - Allenstown - The Range",1,,4010020
+401-279,GOOGLE-ROCK_MUL-Weekday-05,2826594-GOOGLE-ROCK_MUL-Weekday-05,"Glenmore Schools - Stockland - City - Allenstown - The Range",1,,4010020
+401-279,GOOGLE-ROCK_MUL-Weekday-05,2826595-GOOGLE-ROCK_MUL-Weekday-05,"Glenmore Schools - Stockland - City - Allenstown - The Range",1,,4010020
+401-279,GOOGLE-ROCK_MUL-Weekday-05,2826596-GOOGLE-ROCK_MUL-Weekday-05,"Glenmore Schools - Stockland - City - Allenstown - The Range",1,,4010020
+401-279,GOOGLE-ROCK_MUL-Weekday-05,2826597-GOOGLE-ROCK_MUL-Weekday-05,"Glenmore Schools - Stockland - City - Allenstown - The Range",1,,4010020
+401-279,GOOGLE-ROCK_MUL-Weekday-05,2826598-GOOGLE-ROCK_MUL-Weekday-05,"Glenmore Schools - Stockland - City - Allenstown - The Range",1,,4010020
+401-279,GOOGLE-ROCK_MUL-Weekday-05,2826599-GOOGLE-ROCK_MUL-Weekday-05,"Glenmore Schools - Stockland - City - Allenstown - The Range",1,,4010022
+401-279,GOOGLE-ROCK_MUL-Weekday-05,2826600-GOOGLE-ROCK_MUL-Weekday-05,"Glenmore Schools - Stockland - City - Allenstown - The Range",1,,4010020
+401-279,GOOGLE-ROCK_MUL-Weekday-05,2826601-GOOGLE-ROCK_MUL-Weekday-05,"Glenmore Schools - Stockland - City - Allenstown - The Range",1,,4010020
+401-279,GOOGLE-ROCK_MUL-Weekday-05,2826602-GOOGLE-ROCK_MUL-Weekday-05,"Glenmore Schools - Stockland - City - Allenstown - The Range",1,,4010020
+401-279,GOOGLE-ROCK_MUL-Weekday-05,2826603-GOOGLE-ROCK_MUL-Weekday-05,"Glenmore Schools - Stockland - City - Allenstown - The Range",1,,4010021
+401-279,GOOGLE-ROCK_MUL-Weekday-05,2826604-GOOGLE-ROCK_MUL-Weekday-05,"The Range -  Allenstown - City - Stockland - Glenmore School",0,,4010017
+402-279,GOOGLE-ROCK_MUL-Weekday-05,2826613-GOOGLE-ROCK_MUL-Weekday-05,"Stockland Plaza - Frenchville -  Mt Archer - City",0,,4020015
+402-279,GOOGLE-ROCK_MUL-Weekday-05,2826614-GOOGLE-ROCK_MUL-Weekday-05,"Stockland Plaza - Frenchville -  Mt Archer - City",0,,4020015
+402-279,GOOGLE-ROCK_MUL-Weekday-05,2826615-GOOGLE-ROCK_MUL-Weekday-05,"Stockland Plaza - Frenchville -  Mt Archer - City",0,,4020015
+402-279,GOOGLE-ROCK_MUL-Weekday-05,2826616-GOOGLE-ROCK_MUL-Weekday-05,"Stockland Plaza - Frenchville -  Mt Archer - City",0,,4020015
+402-279,GOOGLE-ROCK_MUL-Weekday-05,2826617-GOOGLE-ROCK_MUL-Weekday-05,"Stockland Plaza - Frenchville -  Mt Archer - City",0,,4020015
+402-279,GOOGLE-ROCK_MUL-Weekday-05,2826618-GOOGLE-ROCK_MUL-Weekday-05,"Stockland Plaza - Frenchville -  Mt Archer - City",0,,4020015
+402-279,GOOGLE-ROCK_MUL-Weekday-05,2826619-GOOGLE-ROCK_MUL-Weekday-05,"Stockland Plaza - Frenchville -  Mt Archer - City",0,,4020015
+402-279,GOOGLE-ROCK_MUL-Weekday-05,2826620-GOOGLE-ROCK_MUL-Weekday-05,"Stockland Plaza - Frenchville -  Mt Archer - City",0,,4020015
+402-279,GOOGLE-ROCK_MUL-Weekday-05,2826621-GOOGLE-ROCK_MUL-Weekday-05,"Stockland Plaza - Frenchville -  Mt Archer - City",0,,4020015
+402-279,GOOGLE-ROCK_MUL-Weekday-05,2826622-GOOGLE-ROCK_MUL-Weekday-05,"Stockland Plaza - Frenchville -  Mt Archer - City",0,,4020015
+402-279,GOOGLE-ROCK_MUL-Weekday-05,2826623-GOOGLE-ROCK_MUL-Weekday-05,"Stockland Plaza - Frenchville -  Mt Archer - City",0,,4020017
+402-279,GOOGLE-ROCK_MUL-Weekday-05,2826624-GOOGLE-ROCK_MUL-Weekday-05,"Stockland Plaza - Frenchville -  Mt Archer - City",0,,4020016
+402-279,GOOGLE-ROCK_MUL-Weekday-05,2826625-GOOGLE-ROCK_MUL-Weekday-05,"City - Mt Archer - Frenchville - Stockland",1,,4020018
+402-279,GOOGLE-ROCK_MUL-Weekday-05,2826626-GOOGLE-ROCK_MUL-Weekday-05,"City - Mt Archer - Frenchville - Stockland",1,,4020019
+402-279,GOOGLE-ROCK_MUL-Weekday-05,2826627-GOOGLE-ROCK_MUL-Weekday-05,"City - Mt Archer - Frenchville - Stockland",1,,4020019
+402-279,GOOGLE-ROCK_MUL-Weekday-05,2826628-GOOGLE-ROCK_MUL-Weekday-05,"City - Mt Archer - Frenchville - Stockland",1,,4020019
+402-279,GOOGLE-ROCK_MUL-Weekday-05,2826629-GOOGLE-ROCK_MUL-Weekday-05,"City - Mt Archer - Frenchville - Stockland",1,,4020019
+402-279,GOOGLE-ROCK_MUL-Weekday-05,2826630-GOOGLE-ROCK_MUL-Weekday-05,"City - Mt Archer - Frenchville - Stockland",1,,4020019
+402-279,GOOGLE-ROCK_MUL-Weekday-05,2826631-GOOGLE-ROCK_MUL-Weekday-05,"City - Mt Archer - Frenchville - Stockland",1,,4020019
+402-279,GOOGLE-ROCK_MUL-Weekday-05,2826632-GOOGLE-ROCK_MUL-Weekday-05,"City - Mt Archer - Frenchville - Stockland",1,,4020019
+402-279,GOOGLE-ROCK_MUL-Weekday-05,2826633-GOOGLE-ROCK_MUL-Weekday-05,"City - Mt Archer - Frenchville - Stockland",1,,4020019
+402-279,GOOGLE-ROCK_MUL-Weekday-05,2826634-GOOGLE-ROCK_MUL-Weekday-05,"City - Mt Archer - Frenchville - Stockland",1,,4020019
+402-279,GOOGLE-ROCK_MUL-Weekday-05,2826635-GOOGLE-ROCK_MUL-Weekday-05,"City - Mt Archer - Frenchville - Stockland",1,,4020019
+403-279,GOOGLE-ROCK_MUL-Weekday-05,2826645-GOOGLE-ROCK_MUL-Weekday-05," Base Hospital - West Rockhampton - City - Stockland - CQU",0,,4030010
+403-279,GOOGLE-ROCK_MUL-Weekday-05,2826646-GOOGLE-ROCK_MUL-Weekday-05," Base Hospital - West Rockhampton - City - Stockland - CQU",0,,4030011
+403-279,GOOGLE-ROCK_MUL-Weekday-05,2826647-GOOGLE-ROCK_MUL-Weekday-05," Base Hospital - West Rockhampton - City - Stockland - CQU",0,,4030011
+403-279,GOOGLE-ROCK_MUL-Weekday-05,2826648-GOOGLE-ROCK_MUL-Weekday-05," Base Hospital - West Rockhampton - City - Stockland - CQU",0,,4030011
+403-279,GOOGLE-ROCK_MUL-Weekday-05,2826649-GOOGLE-ROCK_MUL-Weekday-05," Base Hospital - West Rockhampton - City - Stockland - CQU",0,,4030011
+403-279,GOOGLE-ROCK_MUL-Weekday-05,2826650-GOOGLE-ROCK_MUL-Weekday-05," Base Hospital - West Rockhampton - City - Stockland - CQU",0,,4030011
+403-279,GOOGLE-ROCK_MUL-Weekday-05,2826651-GOOGLE-ROCK_MUL-Weekday-05," Base Hospital - West Rockhampton - City - Stockland - CQU",0,,4030011
+403-279,GOOGLE-ROCK_MUL-Weekday-05,2826652-GOOGLE-ROCK_MUL-Weekday-05," Base Hospital - West Rockhampton - City - Stockland - CQU",0,,4030010
+404-279,GOOGLE-ROCK_MUL-Weekday-05,2826656-GOOGLE-ROCK_MUL-Weekday-05,"Botanic Gardens - TAFE - City - Stockland - Glenmore",0,,4040010
+404-279,GOOGLE-ROCK_MUL-Weekday-05,2826657-GOOGLE-ROCK_MUL-Weekday-05,"Botanic Gardens - TAFE - City - Stockland - Glenmore",0,,4040010
+404-279,GOOGLE-ROCK_MUL-Weekday-05,2826658-GOOGLE-ROCK_MUL-Weekday-05,"Botanic Gardens - TAFE - City - Stockland - Glenmore",0,,4040010
+404-279,GOOGLE-ROCK_MUL-Weekday-05,2826659-GOOGLE-ROCK_MUL-Weekday-05,"Botanic Gardens - TAFE - City - Stockland - Glenmore",0,,4040010
+404-279,GOOGLE-ROCK_MUL-Weekday-05,2826660-GOOGLE-ROCK_MUL-Weekday-05,"Botanic Gardens - TAFE - City - Stockland - Glenmore",0,,4040010
+404-279,GOOGLE-ROCK_MUL-Weekday-05,2826661-GOOGLE-ROCK_MUL-Weekday-05,"Botanic Gardens - TAFE - City - Stockland - Glenmore",0,,4040010
+404-279,GOOGLE-ROCK_MUL-Weekday-05,2826662-GOOGLE-ROCK_MUL-Weekday-05,"Botanic Gardens - TAFE - City - Stockland - Glenmore",0,,4040010
+404-279,GOOGLE-ROCK_MUL-Weekday-05,2826663-GOOGLE-ROCK_MUL-Weekday-05,"Botanic Gardens - TAFE - City - Stockland - Glenmore",0,,4040010
+404-279,GOOGLE-ROCK_MUL-Weekday-05,2826664-GOOGLE-ROCK_MUL-Weekday-05,"Botanic Gardens - TAFE - City - Stockland - Glenmore",0,,4040010
+404-279,GOOGLE-ROCK_MUL-Weekday-05,2826665-GOOGLE-ROCK_MUL-Weekday-05,"Botanic Gardens - TAFE - City - Stockland - Glenmore",0,,4040010
+404-279,GOOGLE-ROCK_MUL-Weekday-05,2826666-GOOGLE-ROCK_MUL-Weekday-05,"Botanic Gardens - TAFE - City - Stockland - Glenmore",0,,4040010
+404-279,GOOGLE-ROCK_MUL-Weekday-05,2826667-GOOGLE-ROCK_MUL-Weekday-05,"Botanic Gardens - TAFE - City - Stockland - Glenmore",0,,4040010
+404-279,GOOGLE-ROCK_MUL-Weekday-05,2826668-GOOGLE-ROCK_MUL-Weekday-05,"Glenmore - Stockland - City - TAFE - Botanic Gardens",1,,4040013
+404-279,GOOGLE-ROCK_MUL-Weekday-05,2826669-GOOGLE-ROCK_MUL-Weekday-05,"Glenmore - Stockland - City - TAFE - Botanic Gardens",1,,4040013
+404-279,GOOGLE-ROCK_MUL-Weekday-05,2826670-GOOGLE-ROCK_MUL-Weekday-05,"Glenmore - Stockland - City - TAFE - Botanic Gardens",1,,4040013
+404-279,GOOGLE-ROCK_MUL-Weekday-05,2826671-GOOGLE-ROCK_MUL-Weekday-05,"Glenmore - Stockland - City - TAFE - Botanic Gardens",1,,4040013
+404-279,GOOGLE-ROCK_MUL-Weekday-05,2826672-GOOGLE-ROCK_MUL-Weekday-05,"Glenmore - Stockland - City - TAFE - Botanic Gardens",1,,4040013
+404-279,GOOGLE-ROCK_MUL-Weekday-05,2826673-GOOGLE-ROCK_MUL-Weekday-05,"Glenmore - Stockland - City - TAFE - Botanic Gardens",1,,4040013
+404-279,GOOGLE-ROCK_MUL-Weekday-05,2826674-GOOGLE-ROCK_MUL-Weekday-05,"Glenmore - Stockland - City - TAFE - Botanic Gardens",1,,4040013
+404-279,GOOGLE-ROCK_MUL-Weekday-05,2826675-GOOGLE-ROCK_MUL-Weekday-05,"Glenmore - Stockland - City - TAFE - Botanic Gardens",1,,4040013
+404-279,GOOGLE-ROCK_MUL-Weekday-05,2826676-GOOGLE-ROCK_MUL-Weekday-05,"Glenmore - Stockland - City - TAFE - Botanic Gardens",1,,4040013
+404-279,GOOGLE-ROCK_MUL-Weekday-05,2826677-GOOGLE-ROCK_MUL-Weekday-05,"Glenmore - Stockland - City - TAFE - Botanic Gardens",1,,4040013
+404-279,GOOGLE-ROCK_MUL-Weekday-05,2826678-GOOGLE-ROCK_MUL-Weekday-05,"Glenmore - Stockland - City - TAFE - Botanic Gardens",1,,4040013
+404-279,GOOGLE-ROCK_MUL-Weekday-05,2826679-GOOGLE-ROCK_MUL-Weekday-05,"Glenmore - Stockland - City - TAFE - Botanic Gardens",1,,4040013
+404-279,GOOGLE-ROCK_MUL-Weekday-05,2826680-GOOGLE-ROCK_MUL-Weekday-05,"Glenmore - Stockland - City - TAFE - Botanic Gardens",1,,4040012
+404-279,GOOGLE-ROCK_MUL-Weekday-05,2826681-GOOGLE-ROCK_MUL-Weekday-05,"Botanic Gardens - TAFE - City - Stockland - Glenmore",0,,4040010
+404-279,GOOGLE-ROCK_MUL-Weekday-05,2826682-GOOGLE-ROCK_MUL-Weekday-05,"Glenmore - Stockland - City - TAFE - Botanic Gardens",1,,4040013
+404-279,GOOGLE-ROCK_MUL-Weekday-05,2826683-GOOGLE-ROCK_MUL-Weekday-05,"Glenmore - Stockland - City - TAFE - Botanic Gardens",1,,4040013
+404-279,GOOGLE-ROCK_MUL-Weekday-05,2826684-GOOGLE-ROCK_MUL-Weekday-05,"Botanic Gardens - TAFE - City - Stockland - Glenmore",0,,4040011
+405-279,GOOGLE-ROCK_MUL-Weekday-05,2826694-GOOGLE-ROCK_MUL-Weekday-05,"Depot Hill - Rockhampton City",0,,4050010
+405-279,GOOGLE-ROCK_MUL-Weekday-05,2826695-GOOGLE-ROCK_MUL-Weekday-05,"Depot Hill - Rockhampton City",0,,4050009
+405-279,GOOGLE-ROCK_MUL-Weekday-05,2826696-GOOGLE-ROCK_MUL-Weekday-05,"Depot Hill - Rockhampton City",0,,4050009
+405-279,GOOGLE-ROCK_MUL-Weekday-05,2826697-GOOGLE-ROCK_MUL-Weekday-05,"Depot Hill - Rockhampton City",0,,4050009
+405-279,GOOGLE-ROCK_MUL-Weekday-05,2826698-GOOGLE-ROCK_MUL-Weekday-05,"Depot Hill - Rockhampton City",0,,4050009
+405-279,GOOGLE-ROCK_MUL-Weekday-05,2826699-GOOGLE-ROCK_MUL-Weekday-05,"Rockhampton City - Depot Hill",1,,4050012
+405-279,GOOGLE-ROCK_MUL-Weekday-05,2826700-GOOGLE-ROCK_MUL-Weekday-05,"Rockhampton City - Depot Hill",1,,4050012
+405-279,GOOGLE-ROCK_MUL-Weekday-05,2826701-GOOGLE-ROCK_MUL-Weekday-05,"Rockhampton City - Depot Hill",1,,4050012
+405-279,GOOGLE-ROCK_MUL-Weekday-05,2826702-GOOGLE-ROCK_MUL-Weekday-05,"Rockhampton City - Depot Hill",1,,4050011
+406-279,GOOGLE-ROCK_MUL-Weekday-05,2826703-GOOGLE-ROCK_MUL-Weekday-05,"Lakes Creek - Elphinstone St - Stockland - City",0,,4060014
+406-279,GOOGLE-ROCK_MUL-Weekday-05,2826704-GOOGLE-ROCK_MUL-Weekday-05,"Lakes Creek - Elphinstone St - Stockland - City",0,,4060014
+406-279,GOOGLE-ROCK_MUL-Weekday-05,2826705-GOOGLE-ROCK_MUL-Weekday-05,"Lakes Creek - Elphinstone St - Stockland - City",0,,4060014
+406-279,GOOGLE-ROCK_MUL-Weekday-05,2826706-GOOGLE-ROCK_MUL-Weekday-05,"Lakes Creek - Elphinstone St - Stockland - City",0,,4060014
+406-279,GOOGLE-ROCK_MUL-Weekday-05,2826707-GOOGLE-ROCK_MUL-Weekday-05,"Lakes Creek - Elphinstone St - Stockland - City",0,,4060014
+406-279,GOOGLE-ROCK_MUL-Weekday-05,2826708-GOOGLE-ROCK_MUL-Weekday-05,"Lakes Creek - Elphinstone St - Stockland - City",0,,4060014
+406-279,GOOGLE-ROCK_MUL-Weekday-05,2826709-GOOGLE-ROCK_MUL-Weekday-05,"Lakes Creek - Elphinstone St - Stockland - City",0,,4060014
+406-279,GOOGLE-ROCK_MUL-Weekday-05,2826710-GOOGLE-ROCK_MUL-Weekday-05,"Lakes Creek - Elphinstone St - Stockland - City",0,,4060014
+406-279,GOOGLE-ROCK_MUL-Weekday-05,2826711-GOOGLE-ROCK_MUL-Weekday-05,"Lakes Creek - Elphinstone St - Stockland - City",0,,4060014
+406-279,GOOGLE-ROCK_MUL-Weekday-05,2826712-GOOGLE-ROCK_MUL-Weekday-05,"Lakes Creek - Elphinstone St - Stockland - City",0,,4060015
+406-279,GOOGLE-ROCK_MUL-Weekday-05,2826713-GOOGLE-ROCK_MUL-Weekday-05,"City - Stockland - Elphinstone St - Lakes Creek",1,,4060009
+406-279,GOOGLE-ROCK_MUL-Weekday-05,2826714-GOOGLE-ROCK_MUL-Weekday-05,"City - Stockland - Elphinstone St - Lakes Creek",1,,4060009
+406-279,GOOGLE-ROCK_MUL-Weekday-05,2826715-GOOGLE-ROCK_MUL-Weekday-05,"City - Stockland - Elphinstone St - Lakes Creek",1,,4060009
+406-279,GOOGLE-ROCK_MUL-Weekday-05,2826716-GOOGLE-ROCK_MUL-Weekday-05,"City - Stockland - Elphinstone St - Lakes Creek",1,,4060009
+406-279,GOOGLE-ROCK_MUL-Weekday-05,2826717-GOOGLE-ROCK_MUL-Weekday-05,"City - Stockland - Elphinstone St - Lakes Creek",1,,4060009
+406-279,GOOGLE-ROCK_MUL-Weekday-05,2826718-GOOGLE-ROCK_MUL-Weekday-05,"City - Stockland - Elphinstone St - Lakes Creek",1,,4060009
+406-279,GOOGLE-ROCK_MUL-Weekday-05,2826719-GOOGLE-ROCK_MUL-Weekday-05,"City - Stockland - Elphinstone St - Lakes Creek",1,,4060009
+406-279,GOOGLE-ROCK_MUL-Weekday-05,2826720-GOOGLE-ROCK_MUL-Weekday-05,"City - Stockland - Elphinstone St - Lakes Creek",1,,4060009
+406-279,GOOGLE-ROCK_MUL-Weekday-05,2826721-GOOGLE-ROCK_MUL-Weekday-05,"City - Stockland - Elphinstone St - Lakes Creek",1,,4060009
+406-279,GOOGLE-ROCK_MUL-Weekday-05,2826722-GOOGLE-ROCK_MUL-Weekday-05,"City - Stockland - Elphinstone St - Lakes Creek",1,,4060009
+407-279,GOOGLE-ROCK_MUL-Weekday-05,2826723-GOOGLE-ROCK_MUL-Weekday-05,"West Rockhampton - Base Hospital -  City - CQU",0,,4070015
+407-279,GOOGLE-ROCK_MUL-Weekday-05,2826724-GOOGLE-ROCK_MUL-Weekday-05,"West Rockhampton - Base Hospital -  City - CQU",0,,4070015
+407-279,GOOGLE-ROCK_MUL-Weekday-05,2826725-GOOGLE-ROCK_MUL-Weekday-05,"West Rockhampton - Base Hospital -  City - CQU",0,,4070015
+407-279,GOOGLE-ROCK_MUL-Weekday-05,2826726-GOOGLE-ROCK_MUL-Weekday-05,"West Rockhampton - Base Hospital -  City - CQU",0,,4070015
+407-279,GOOGLE-ROCK_MUL-Weekday-05,2826727-GOOGLE-ROCK_MUL-Weekday-05,"West Rockhampton - Base Hospital -  City - CQU",0,,4070015
+407-279,GOOGLE-ROCK_MUL-Weekday-05,2826728-GOOGLE-ROCK_MUL-Weekday-05,"West Rockhampton - Base Hospital -  City - CQU",0,,4070015
+407-279,GOOGLE-ROCK_MUL-Weekday-05,2826729-GOOGLE-ROCK_MUL-Weekday-05,"West Rockhampton - Base Hospital -  City - CQU",0,,4070016
+407-279,GOOGLE-ROCK_MUL-Weekday-05,2826730-GOOGLE-ROCK_MUL-Weekday-05,"West Rockhampton - Base Hospital -  City - CQU",0,,4070017
+410-279,GOOGLE-ROCK_MUL-Weekday-05,2826733-GOOGLE-ROCK_MUL-Weekday-05,"Parkhurst - CQU - Stockland - City",0,,4100004
+410-279,GOOGLE-ROCK_MUL-Weekday-05,2826734-GOOGLE-ROCK_MUL-Weekday-05,"Parkhurst - CQU - Stockland - City",0,,4100004
+410-279,GOOGLE-ROCK_MUL-Weekday-05,2826735-GOOGLE-ROCK_MUL-Weekday-05,"Parkhurst - CQU - Stockland - City",0,,4100004
+410-279,GOOGLE-ROCK_MUL-Weekday-05,2826736-GOOGLE-ROCK_MUL-Weekday-05,"Parkhurst - CQU - Stockland - City",0,,4100004
+410-279,GOOGLE-ROCK_MUL-Weekday-05,2826737-GOOGLE-ROCK_MUL-Weekday-05,"Parkhurst - CQU - Stockland - City",0,,4100004
+410-279,GOOGLE-ROCK_MUL-Weekday-05,2826738-GOOGLE-ROCK_MUL-Weekday-05,"Parkhurst - CQU - Stockland - City",0,,4100004
+410-279,GOOGLE-ROCK_MUL-Weekday-05,2826739-GOOGLE-ROCK_MUL-Weekday-05,"Parkhurst - CQU - Stockland - City",0,,4100004
+410-279,GOOGLE-ROCK_MUL-Weekday-05,2826740-GOOGLE-ROCK_MUL-Weekday-05,"Parkhurst - CQU - Stockland - City",0,,4100004
+410-279,GOOGLE-ROCK_MUL-Weekday-05,2826741-GOOGLE-ROCK_MUL-Weekday-05,"Parkhurst - CQU - Stockland - City",0,,4100004
+410-279,GOOGLE-ROCK_MUL-Weekday-05,2826742-GOOGLE-ROCK_MUL-Weekday-05,"Parkhurst - CQU - Stockland - City",0,,4100004
+410-279,GOOGLE-ROCK_MUL-Weekday-05,2826743-GOOGLE-ROCK_MUL-Weekday-05,"City - Stockland - CQU - Parkhurst",1,,4100005
+410-279,GOOGLE-ROCK_MUL-Weekday-05,2826744-GOOGLE-ROCK_MUL-Weekday-05,"City - Stockland - CQU - Parkhurst",1,,4100005
+410-279,GOOGLE-ROCK_MUL-Weekday-05,2826745-GOOGLE-ROCK_MUL-Weekday-05,"City - Stockland - CQU - Parkhurst",1,,4100005
+410-279,GOOGLE-ROCK_MUL-Weekday-05,2826746-GOOGLE-ROCK_MUL-Weekday-05,"City - Stockland - CQU - Parkhurst",1,,4100005
+410-279,GOOGLE-ROCK_MUL-Weekday-05,2826747-GOOGLE-ROCK_MUL-Weekday-05,"City - Stockland - CQU - Parkhurst",1,,4100005
+410-279,GOOGLE-ROCK_MUL-Weekday-05,2826748-GOOGLE-ROCK_MUL-Weekday-05,"City - Stockland - CQU - Parkhurst",1,,4100005
+410-279,GOOGLE-ROCK_MUL-Weekday-05,2826749-GOOGLE-ROCK_MUL-Weekday-05,"City - Stockland - CQU - Parkhurst",1,,4100005
+410-279,GOOGLE-ROCK_MUL-Weekday-05,2826750-GOOGLE-ROCK_MUL-Weekday-05,"City - Stockland - CQU - Parkhurst",1,,4100005
+410-279,GOOGLE-ROCK_MUL-Weekday-05,2826751-GOOGLE-ROCK_MUL-Weekday-05,"City - Stockland - CQU - Parkhurst",1,,4100005
+410-279,GOOGLE-ROCK_MUL-Weekday-05,2826752-GOOGLE-ROCK_MUL-Weekday-05,"City - Stockland - CQU - Parkhurst",1,,4100005
+410-279,GOOGLE-ROCK_MUL-Weekday-05,2826753-GOOGLE-ROCK_MUL-Weekday-05,"City - Stockland - CQU - Parkhurst",1,,4100005
+411-279,GOOGLE-ROCK_MUL-Weekday-05,2826775-GOOGLE-ROCK_MUL-Weekday-05,"Lakes Creek - Frenchville - Stockland - Norman Gardens - CQU",0,,4110026
+411-279,GOOGLE-ROCK_MUL-Weekday-05,2826776-GOOGLE-ROCK_MUL-Weekday-05,"Lakes Creek - Frenchville - Stockland - Norman Gardens - CQU",0,,4110027
+411-279,GOOGLE-ROCK_MUL-Weekday-05,2826777-GOOGLE-ROCK_MUL-Weekday-05,"Lakes Creek - Frenchville - Stockland - Norman Gardens - CQU",0,,4110028
+411-279,GOOGLE-ROCK_MUL-Weekday-05,2826778-GOOGLE-ROCK_MUL-Weekday-05,"Lakes Creek - Frenchville - Stockland - Norman Gardens - CQU",0,,4110028
+411-279,GOOGLE-ROCK_MUL-Weekday-05,2826779-GOOGLE-ROCK_MUL-Weekday-05,"Lakes Creek - Frenchville - Stockland - Norman Gardens - CQU",0,,4110028
+411-279,GOOGLE-ROCK_MUL-Weekday-05,2826780-GOOGLE-ROCK_MUL-Weekday-05,"Lakes Creek - Frenchville - Stockland - Norman Gardens - CQU",0,,4110028
+411-279,GOOGLE-ROCK_MUL-Weekday-05,2826781-GOOGLE-ROCK_MUL-Weekday-05,"Lakes Creek - Frenchville - Stockland - Norman Gardens - CQU",0,,4110028
+411-279,GOOGLE-ROCK_MUL-Weekday-05,2826782-GOOGLE-ROCK_MUL-Weekday-05,"Lakes Creek - Frenchville - Stockland - Norman Gardens - CQU",0,,4110028
+411-279,GOOGLE-ROCK_MUL-Weekday-05,2826783-GOOGLE-ROCK_MUL-Weekday-05,"Lakes Creek - Frenchville - Stockland - Norman Gardens - CQU",0,,4110028
+411-279,GOOGLE-ROCK_MUL-Weekday-05,2826784-GOOGLE-ROCK_MUL-Weekday-05,"Lakes Creek - Frenchville - Stockland - Norman Gardens - CQU",0,,4110028
+411-279,GOOGLE-ROCK_MUL-Weekday-05,2826785-GOOGLE-ROCK_MUL-Weekday-05,"CQU - Norman Gardens - Stockland - Frenchville - Lakes Creek",1,,4110029
+411-279,GOOGLE-ROCK_MUL-Weekday-05,2826786-GOOGLE-ROCK_MUL-Weekday-05,"CQU - Norman Gardens - Stockland - Frenchville - Lakes Creek",1,,4110029
+411-279,GOOGLE-ROCK_MUL-Weekday-05,2826787-GOOGLE-ROCK_MUL-Weekday-05,"CQU - Norman Gardens - Stockland - Frenchville - Lakes Creek",1,,4110029
+411-279,GOOGLE-ROCK_MUL-Weekday-05,2826788-GOOGLE-ROCK_MUL-Weekday-05,"CQU - Norman Gardens - Stockland - Frenchville - Lakes Creek",1,,4110029
+411-279,GOOGLE-ROCK_MUL-Weekday-05,2826789-GOOGLE-ROCK_MUL-Weekday-05,"CQU - Norman Gardens - Stockland - Frenchville - Lakes Creek",1,,4110029
+411-279,GOOGLE-ROCK_MUL-Weekday-05,2826790-GOOGLE-ROCK_MUL-Weekday-05,"CQU - Norman Gardens - Stockland - Frenchville - Lakes Creek",1,,4110029
+411-279,GOOGLE-ROCK_MUL-Weekday-05,2826791-GOOGLE-ROCK_MUL-Weekday-05,"CQU - Norman Gardens - Stockland - Frenchville - Lakes Creek",1,,4110029
+411-279,GOOGLE-ROCK_MUL-Weekday-05,2826792-GOOGLE-ROCK_MUL-Weekday-05,"CQU - Norman Gardens - Stockland - Frenchville - Lakes Creek",1,,4110041
+411-279,GOOGLE-ROCK_MUL-Weekday-05,2826793-GOOGLE-ROCK_MUL-Weekday-05,"CQU - Norman Gardens - Stockland - Frenchville - Lakes Creek",1,,4110032
+411-279,GOOGLE-ROCK_MUL-Weekday-05,2826794-GOOGLE-ROCK_MUL-Weekday-05,"CQU - Norman Gardens - Stockland - Frenchville - Lakes Creek",1,,4110029
+411-279,GOOGLE-ROCK_MUL-Weekday-05,2826795-GOOGLE-ROCK_MUL-Weekday-05,"CQU - Norman Gardens - Stockland - Frenchville - Lakes Creek",1,,4110030
+401-279,GOOGLE-ROCK_MUL-Saturday-02,2826605-GOOGLE-ROCK_MUL-Saturday-02,"The Range -  Allenstown - City - Stockland - Glenmore School",0,,4010017
+401-279,GOOGLE-ROCK_MUL-Saturday-02,2826606-GOOGLE-ROCK_MUL-Saturday-02,"The Range -  Allenstown - City - Stockland - Glenmore School",0,,4010017
+401-279,GOOGLE-ROCK_MUL-Saturday-02,2826607-GOOGLE-ROCK_MUL-Saturday-02,"The Range -  Allenstown - City - Stockland - Glenmore School",0,,4010017
+401-279,GOOGLE-ROCK_MUL-Saturday-02,2826608-GOOGLE-ROCK_MUL-Saturday-02,"The Range -  Allenstown - City - Stockland - Glenmore School",0,,4010017
+401-279,GOOGLE-ROCK_MUL-Saturday-02,2826609-GOOGLE-ROCK_MUL-Saturday-02,"Glenmore Schools - Stockland - City - Allenstown - The Range",1,,4010020
+401-279,GOOGLE-ROCK_MUL-Saturday-02,2826610-GOOGLE-ROCK_MUL-Saturday-02,"Glenmore Schools - Stockland - City - Allenstown - The Range",1,,4010020
+401-279,GOOGLE-ROCK_MUL-Saturday-02,2826611-GOOGLE-ROCK_MUL-Saturday-02,"Glenmore Schools - Stockland - City - Allenstown - The Range",1,,4010020
+401-279,GOOGLE-ROCK_MUL-Saturday-02,2826612-GOOGLE-ROCK_MUL-Saturday-02,"Glenmore Schools - Stockland - City - Allenstown - The Range",1,,4010020
+402-279,GOOGLE-ROCK_MUL-Saturday-02,2826636-GOOGLE-ROCK_MUL-Saturday-02,"Stockland Plaza - Frenchville -  Mt Archer - City",0,,4020015
+402-279,GOOGLE-ROCK_MUL-Saturday-02,2826637-GOOGLE-ROCK_MUL-Saturday-02,"Stockland Plaza - Frenchville -  Mt Archer - City",0,,4020015
+402-279,GOOGLE-ROCK_MUL-Saturday-02,2826638-GOOGLE-ROCK_MUL-Saturday-02,"Stockland Plaza - Frenchville -  Mt Archer - City",0,,4020015
+402-279,GOOGLE-ROCK_MUL-Saturday-02,2826639-GOOGLE-ROCK_MUL-Saturday-02,"Stockland Plaza - Frenchville -  Mt Archer - City",0,,4020015
+402-279,GOOGLE-ROCK_MUL-Saturday-02,2826640-GOOGLE-ROCK_MUL-Saturday-02,"Stockland Plaza - Frenchville -  Mt Archer - City",0,,4020015
+402-279,GOOGLE-ROCK_MUL-Saturday-02,2826641-GOOGLE-ROCK_MUL-Saturday-02,"City - Mt Archer - Frenchville - Stockland",1,,4020019
+402-279,GOOGLE-ROCK_MUL-Saturday-02,2826642-GOOGLE-ROCK_MUL-Saturday-02,"City - Mt Archer - Frenchville - Stockland",1,,4020019
+402-279,GOOGLE-ROCK_MUL-Saturday-02,2826643-GOOGLE-ROCK_MUL-Saturday-02,"City - Mt Archer - Frenchville - Stockland",1,,4020019
+402-279,GOOGLE-ROCK_MUL-Saturday-02,2826644-GOOGLE-ROCK_MUL-Saturday-02,"City - Mt Archer - Frenchville - Stockland",1,,4020019
+403-279,GOOGLE-ROCK_MUL-Saturday-02,2826653-GOOGLE-ROCK_MUL-Saturday-02," Base Hospital - West Rockhampton - City - Stockland - CQU",0,,4030014
+403-279,GOOGLE-ROCK_MUL-Saturday-02,2826654-GOOGLE-ROCK_MUL-Saturday-02," Base Hospital - West Rockhampton - City - Stockland - CQU",0,,4030014
+403-279,GOOGLE-ROCK_MUL-Saturday-02,2826655-GOOGLE-ROCK_MUL-Saturday-02," Base Hospital - West Rockhampton - City - Stockland - CQU",0,,4030015
+404-279,GOOGLE-ROCK_MUL-Saturday-02,2826685-GOOGLE-ROCK_MUL-Saturday-02,"Botanic Gardens - TAFE - City - Stockland - Glenmore",0,,4040010
+404-279,GOOGLE-ROCK_MUL-Saturday-02,2826686-GOOGLE-ROCK_MUL-Saturday-02,"Botanic Gardens - TAFE - City - Stockland - Glenmore",0,,4040010
+404-279,GOOGLE-ROCK_MUL-Saturday-02,2826687-GOOGLE-ROCK_MUL-Saturday-02,"Botanic Gardens - TAFE - City - Stockland - Glenmore",0,,4040010
+404-279,GOOGLE-ROCK_MUL-Saturday-02,2826688-GOOGLE-ROCK_MUL-Saturday-02,"Botanic Gardens - TAFE - City - Stockland - Glenmore",0,,4040010
+404-279,GOOGLE-ROCK_MUL-Saturday-02,2826689-GOOGLE-ROCK_MUL-Saturday-02,"Glenmore - Stockland - City - TAFE - Botanic Gardens",1,,4040013
+404-279,GOOGLE-ROCK_MUL-Saturday-02,2826690-GOOGLE-ROCK_MUL-Saturday-02,"Glenmore - Stockland - City - TAFE - Botanic Gardens",1,,4040013
+404-279,GOOGLE-ROCK_MUL-Saturday-02,2826691-GOOGLE-ROCK_MUL-Saturday-02,"Glenmore - Stockland - City - TAFE - Botanic Gardens",1,,4040013
+404-279,GOOGLE-ROCK_MUL-Saturday-02,2826692-GOOGLE-ROCK_MUL-Saturday-02,"Glenmore - Stockland - City - TAFE - Botanic Gardens",1,,4040017
+404-279,GOOGLE-ROCK_MUL-Saturday-02,2826693-GOOGLE-ROCK_MUL-Saturday-02,"Glenmore - Stockland - City - TAFE - Botanic Gardens",1,,4040013
+407-279,GOOGLE-ROCK_MUL-Saturday-02,2826731-GOOGLE-ROCK_MUL-Saturday-02,"West Rockhampton - Base Hospital -  City - CQU",0,,4070020
+407-279,GOOGLE-ROCK_MUL-Saturday-02,2826732-GOOGLE-ROCK_MUL-Saturday-02,"West Rockhampton - Base Hospital -  City - CQU",0,,4070020
