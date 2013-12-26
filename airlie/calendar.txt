@@ -1,0 +1,4 @@
+service_id,monday,tuesday,wednesday,thursday,friday,saturday,sunday,start_date,end_date
+GOOGLE-AI_1-Weekday-00,1,1,1,1,1,0,0,20130617,20131231
+GOOGLE-AI_1-Saturday-00,0,0,0,0,0,1,0,20130622,20131228
+GOOGLE-AI_1-Sunday-00,0,0,0,0,0,0,1,20130623,20131229

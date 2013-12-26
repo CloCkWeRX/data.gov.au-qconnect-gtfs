@@ -1,0 +1,6 @@
+service_id,date,exception_type
+GOOGLE-AI_1-Weekday-00,20131007,2
+GOOGLE-AI_1-Weekday-00,20131225,2
+GOOGLE-AI_1-Weekday-00,20131226,2
+GOOGLE-AI_1-Sunday-00,20131007,1
+GOOGLE-AI_1-Sunday-00,20131226,1

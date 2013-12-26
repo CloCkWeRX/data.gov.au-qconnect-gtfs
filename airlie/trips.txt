@@ -1,0 +1,185 @@
+route_id,service_id,trip_id,trip_headsign,direction_id,block_id,shape_id
+1-39,GOOGLE-AI_1-Weekday-00,1047777-GOOGLE-AI_1-Weekday-00,"Shute Harbour via Airlie Beach",0,255762,10067
+1-39,GOOGLE-AI_1-Weekday-00,1047778-GOOGLE-AI_1-Weekday-00,"Shute Harbour via Airlie Beach",0,255763,10065
+1-39,GOOGLE-AI_1-Weekday-00,1047779-GOOGLE-AI_1-Weekday-00,"Shute Harbour via Airlie Beach",0,255766,10111
+1-39,GOOGLE-AI_1-Weekday-00,1047780-GOOGLE-AI_1-Weekday-00,"Shute Harbour via Airlie Beach",0,255767,10072
+1-39,GOOGLE-AI_1-Weekday-00,1047781-GOOGLE-AI_1-Weekday-00,"Shute Harbour via Airlie Beach",0,255763,10066
+1-39,GOOGLE-AI_1-Weekday-00,1047782-GOOGLE-AI_1-Weekday-00,"Shute Harbour via Airlie Beach",0,255768,10106
+1-39,GOOGLE-AI_1-Weekday-00,1047783-GOOGLE-AI_1-Weekday-00,"Shute Harbour via Airlie Beach",0,255766,10066
+1-39,GOOGLE-AI_1-Weekday-00,1047784-GOOGLE-AI_1-Weekday-00,"Shute Harbour via Airlie Beach",0,255763,10073
+1-39,GOOGLE-AI_1-Weekday-00,1047785-GOOGLE-AI_1-Weekday-00,"Shute Harbour via Airlie Beach",0,255769,10112
+1-39,GOOGLE-AI_1-Weekday-00,1047786-GOOGLE-AI_1-Weekday-00,"Shute Harbour via Airlie Beach",0,255769,10073
+1-39,GOOGLE-AI_1-Weekday-00,1047787-GOOGLE-AI_1-Weekday-00,"Shute Harbour via Airlie Beach",0,255766,10073
+1-39,GOOGLE-AI_1-Weekday-00,1047788-GOOGLE-AI_1-Weekday-00,"Shute Harbour via Airlie Beach",0,255763,10072
+1-39,GOOGLE-AI_1-Weekday-00,1047789-GOOGLE-AI_1-Weekday-00,"Shute Harbour via Airlie Beach",0,255769,10066
+1-39,GOOGLE-AI_1-Weekday-00,1047790-GOOGLE-AI_1-Weekday-00,"Shute Harbour via Airlie Beach",0,255763,10073
+1-39,GOOGLE-AI_1-Weekday-00,1047791-GOOGLE-AI_1-Weekday-00,"Shute Harbour via Airlie Beach",0,255769,10073
+1-39,GOOGLE-AI_1-Weekday-00,1047792-GOOGLE-AI_1-Weekday-00,"Shute Harbour via Airlie Beach",0,255763,10073
+1-39,GOOGLE-AI_1-Weekday-00,1047793-GOOGLE-AI_1-Weekday-00,"Shute Harbour via Airlie Beach",0,255769,10073
+1-39,GOOGLE-AI_1-Weekday-00,1047794-GOOGLE-AI_1-Weekday-00,"Shute Harbour via Airlie Beach",0,255772,10073
+1-39,GOOGLE-AI_1-Weekday-00,1047795-GOOGLE-AI_1-Weekday-00,"Shute Harbour via Airlie Beach",0,255770,10106
+1-39,GOOGLE-AI_1-Weekday-00,1047796-GOOGLE-AI_1-Weekday-00,"Shute Harbour via Airlie Beach",0,255771,10108
+1-39,GOOGLE-AI_1-Weekday-00,1047797-GOOGLE-AI_1-Weekday-00,"Shute Harbour via Airlie Beach",0,255769,10072
+1-39,GOOGLE-AI_1-Weekday-00,1047798-GOOGLE-AI_1-Weekday-00,"Shute Harbour via Airlie Beach",0,255764,10072
+1-39,GOOGLE-AI_1-Weekday-00,1047799-GOOGLE-AI_1-Weekday-00,"Shute Harbour via Airlie Beach",0,255773,10108
+1-39,GOOGLE-AI_1-Weekday-00,1047800-GOOGLE-AI_1-Weekday-00,"Shute Harbour via Airlie Beach",0,255769,10073
+1-39,GOOGLE-AI_1-Weekday-00,1047801-GOOGLE-AI_1-Weekday-00,"Shute Harbour via Airlie Beach",0,255769,10073
+1-39,GOOGLE-AI_1-Weekday-00,1047802-GOOGLE-AI_1-Weekday-00,"Shute Harbour via Airlie Beach",0,255761,10073
+1-39,GOOGLE-AI_1-Weekday-00,1047803-GOOGLE-AI_1-Weekday-00,"Shute Harbour via Airlie Beach",0,255761,10106
+1-39,GOOGLE-AI_1-Weekday-00,1047804-GOOGLE-AI_1-Weekday-00,"Shute Harbour via Airlie Beach",0,255773,10076
+1-39,GOOGLE-AI_1-Weekday-00,1047805-GOOGLE-AI_1-Weekday-00,"Shute Harbour via Airlie Beach",0,255765,10075
+1-39,GOOGLE-AI_1-Weekday-00,1047806-GOOGLE-AI_1-Weekday-00,"Shute Harbour via Airlie Beach",0,255760,10107
+1-39,GOOGLE-AI_1-Weekday-00,1047807-GOOGLE-AI_1-Weekday-00,"Shute Harbour via Airlie Beach",0,255765,10069
+1-39,GOOGLE-AI_1-Weekday-00,1047808-GOOGLE-AI_1-Weekday-00,"Shute Harbour via Airlie Beach",0,255765,10069
+1-39,GOOGLE-AI_1-Weekday-00,1047809-GOOGLE-AI_1-Weekday-00,"Shute Harbour via Airlie Beach",0,255765,10069
+1-39,GOOGLE-AI_1-Weekday-00,1047810-GOOGLE-AI_1-Weekday-00,"Shute Harbour via Airlie Beach",0,255765,10069
+1-39,GOOGLE-AI_1-Weekday-00,1047811-GOOGLE-AI_1-Weekday-00,"Shute Harbour via Airlie Beach",0,255765,10069
+1-39,GOOGLE-AI_1-Weekday-00,1047812-GOOGLE-AI_1-Weekday-00,"Shute Harbour via Airlie Beach",0,255765,10069
+1-39,GOOGLE-AI_1-Weekday-00,1047814-GOOGLE-AI_1-Weekday-00,"Proserpine via Cannonvale",1,255762,10077
+1-39,GOOGLE-AI_1-Weekday-00,1047815-GOOGLE-AI_1-Weekday-00,"Proserpine via Cannonvale",1,255763,10079
+1-39,GOOGLE-AI_1-Weekday-00,1047816-GOOGLE-AI_1-Weekday-00,"Proserpine via Cannonvale",1,255766,10079
+1-39,GOOGLE-AI_1-Weekday-00,1047817-GOOGLE-AI_1-Weekday-00,"Proserpine via Cannonvale",1,255767,10082
+1-39,GOOGLE-AI_1-Weekday-00,1047818-GOOGLE-AI_1-Weekday-00,"Proserpine via Cannonvale",1,255767,10113
+1-39,GOOGLE-AI_1-Weekday-00,1047820-GOOGLE-AI_1-Weekday-00,"Proserpine via Cannonvale",1,255763,10079
+1-39,GOOGLE-AI_1-Weekday-00,1047821-GOOGLE-AI_1-Weekday-00,"Proserpine via Cannonvale",1,255768,10079
+1-39,GOOGLE-AI_1-Weekday-00,1047822-GOOGLE-AI_1-Weekday-00,"Proserpine via Cannonvale",1,255766,10082
+1-39,GOOGLE-AI_1-Weekday-00,1047823-GOOGLE-AI_1-Weekday-00,"Proserpine via Cannonvale",1,255763,10081
+1-39,GOOGLE-AI_1-Weekday-00,1047824-GOOGLE-AI_1-Weekday-00,"Proserpine via Cannonvale",1,255769,10082
+1-39,GOOGLE-AI_1-Weekday-00,1047825-GOOGLE-AI_1-Weekday-00,"Proserpine via Cannonvale",1,255766,10077
+1-39,GOOGLE-AI_1-Weekday-00,1047826-GOOGLE-AI_1-Weekday-00,"Proserpine via Cannonvale",1,255763,10082
+1-39,GOOGLE-AI_1-Weekday-00,1047827-GOOGLE-AI_1-Weekday-00,"Proserpine via Cannonvale",1,255769,10082
+1-39,GOOGLE-AI_1-Weekday-00,1047828-GOOGLE-AI_1-Weekday-00,"Proserpine via Cannonvale",1,255763,10082
+1-39,GOOGLE-AI_1-Weekday-00,1047829-GOOGLE-AI_1-Weekday-00,"Proserpine via Cannonvale",1,255770,10080
+1-39,GOOGLE-AI_1-Weekday-00,1047830-GOOGLE-AI_1-Weekday-00,"Proserpine via Cannonvale",1,255769,10082
+1-39,GOOGLE-AI_1-Weekday-00,1047831-GOOGLE-AI_1-Weekday-00,"Proserpine via Cannonvale",1,255763,10078
+1-39,GOOGLE-AI_1-Weekday-00,1047832-GOOGLE-AI_1-Weekday-00,"Proserpine via Cannonvale",1,255769,10081
+1-39,GOOGLE-AI_1-Weekday-00,1047833-GOOGLE-AI_1-Weekday-00,"Proserpine via Cannonvale",1,255771,10080
+1-39,GOOGLE-AI_1-Weekday-00,1047834-GOOGLE-AI_1-Weekday-00,"Proserpine via Cannonvale",1,255772,10080
+1-39,GOOGLE-AI_1-Weekday-00,1047835-GOOGLE-AI_1-Weekday-00,"Proserpine via Cannonvale",1,255769,10079
+1-39,GOOGLE-AI_1-Weekday-00,1047836-GOOGLE-AI_1-Weekday-00,"Proserpine via Cannonvale",1,255764,10081
+1-39,GOOGLE-AI_1-Weekday-00,1047837-GOOGLE-AI_1-Weekday-00,"Proserpine via Cannonvale",1,255773,10082
+1-39,GOOGLE-AI_1-Weekday-00,1047838-GOOGLE-AI_1-Weekday-00,"Proserpine via Cannonvale",1,255769,10079
+1-39,GOOGLE-AI_1-Weekday-00,1047839-GOOGLE-AI_1-Weekday-00,"Proserpine via Cannonvale",1,255769,10079
+1-39,GOOGLE-AI_1-Weekday-00,1047840-GOOGLE-AI_1-Weekday-00,"Proserpine via Cannonvale",1,255761,10079
+1-39,GOOGLE-AI_1-Weekday-00,1047841-GOOGLE-AI_1-Weekday-00,"Proserpine via Cannonvale",1,255761,10082
+1-39,GOOGLE-AI_1-Weekday-00,1047842-GOOGLE-AI_1-Weekday-00,"Proserpine via Cannonvale",1,255773,10077
+1-39,GOOGLE-AI_1-Weekday-00,1047843-GOOGLE-AI_1-Weekday-00,"Proserpine via Cannonvale",1,255765,10082
+1-39,GOOGLE-AI_1-Weekday-00,1047844-GOOGLE-AI_1-Weekday-00,"Proserpine via Cannonvale",1,255760,10083
+1-39,GOOGLE-AI_1-Weekday-00,1047845-GOOGLE-AI_1-Weekday-00,"Proserpine via Cannonvale",1,255765,10084
+1-39,GOOGLE-AI_1-Weekday-00,1047846-GOOGLE-AI_1-Weekday-00,"Proserpine via Cannonvale",1,255765,10084
+1-39,GOOGLE-AI_1-Weekday-00,1047847-GOOGLE-AI_1-Weekday-00,"Proserpine via Cannonvale",1,255765,10084
+1-39,GOOGLE-AI_1-Weekday-00,1047848-GOOGLE-AI_1-Weekday-00,"Proserpine via Cannonvale",1,255765,10084
+1-39,GOOGLE-AI_1-Weekday-00,1047849-GOOGLE-AI_1-Weekday-00,"Proserpine via Cannonvale",1,255765,10084
+1-39,GOOGLE-AI_1-Weekday-00,1047850-GOOGLE-AI_1-Weekday-00,"Proserpine via Cannonvale",1,255765,10084
+1-39,GOOGLE-AI_1-Saturday-00,1047851-GOOGLE-AI_1-Saturday-00,"Shute Harbour via Airlie Beach",0,255774,10086
+1-39,GOOGLE-AI_1-Saturday-00,1047852-GOOGLE-AI_1-Saturday-00,"Shute Harbour via Airlie Beach",0,255775,10087
+1-39,GOOGLE-AI_1-Saturday-00,1047853-GOOGLE-AI_1-Saturday-00,"Shute Harbour via Airlie Beach",0,255774,10073
+1-39,GOOGLE-AI_1-Saturday-00,1047854-GOOGLE-AI_1-Saturday-00,"Shute Harbour via Airlie Beach",0,255775,10073
+1-39,GOOGLE-AI_1-Saturday-00,1047855-GOOGLE-AI_1-Saturday-00,"Shute Harbour via Airlie Beach",0,255776,10085
+1-39,GOOGLE-AI_1-Saturday-00,1047856-GOOGLE-AI_1-Saturday-00,"Shute Harbour via Airlie Beach",0,255778,10106
+1-39,GOOGLE-AI_1-Saturday-00,1047857-GOOGLE-AI_1-Saturday-00,"Shute Harbour via Airlie Beach",0,255776,10073
+1-39,GOOGLE-AI_1-Saturday-00,1047858-GOOGLE-AI_1-Saturday-00,"Shute Harbour via Airlie Beach",0,255780,10072
+1-39,GOOGLE-AI_1-Saturday-00,1047859-GOOGLE-AI_1-Saturday-00,"Shute Harbour via Airlie Beach",0,255776,10066
+1-39,GOOGLE-AI_1-Saturday-00,1047860-GOOGLE-AI_1-Saturday-00,"Shute Harbour via Airlie Beach",0,255780,10073
+1-39,GOOGLE-AI_1-Saturday-00,1047861-GOOGLE-AI_1-Saturday-00,"Shute Harbour via Airlie Beach",0,255780,10073
+1-39,GOOGLE-AI_1-Saturday-00,1047862-GOOGLE-AI_1-Saturday-00,"Shute Harbour via Airlie Beach",0,255781,10073
+1-39,GOOGLE-AI_1-Saturday-00,1047863-GOOGLE-AI_1-Saturday-00,"Shute Harbour via Airlie Beach",0,255779,10072
+1-39,GOOGLE-AI_1-Saturday-00,1047864-GOOGLE-AI_1-Saturday-00,"Shute Harbour via Airlie Beach",0,255777,10072
+1-39,GOOGLE-AI_1-Saturday-00,1047865-GOOGLE-AI_1-Saturday-00,"Shute Harbour via Airlie Beach",0,255782,10108
+1-39,GOOGLE-AI_1-Saturday-00,1047866-GOOGLE-AI_1-Saturday-00,"Shute Harbour via Airlie Beach",0,255777,10073
+1-39,GOOGLE-AI_1-Saturday-00,1047867-GOOGLE-AI_1-Saturday-00,"Shute Harbour via Airlie Beach",0,255782,10073
+1-39,GOOGLE-AI_1-Saturday-00,1047868-GOOGLE-AI_1-Saturday-00,"Shute Harbour via Airlie Beach",0,255783,10073
+1-39,GOOGLE-AI_1-Saturday-00,1047869-GOOGLE-AI_1-Saturday-00,"Shute Harbour via Airlie Beach",0,255777,10085
+1-39,GOOGLE-AI_1-Saturday-00,1047870-GOOGLE-AI_1-Saturday-00,"Shute Harbour via Airlie Beach",0,255782,10072
+1-39,GOOGLE-AI_1-Saturday-00,1047871-GOOGLE-AI_1-Saturday-00,"Shute Harbour via Airlie Beach",0,255777,10066
+1-39,GOOGLE-AI_1-Saturday-00,1047872-GOOGLE-AI_1-Saturday-00,"Shute Harbour via Airlie Beach",0,255782,10066
+1-39,GOOGLE-AI_1-Saturday-00,1047873-GOOGLE-AI_1-Saturday-00,"Shute Harbour via Airlie Beach",0,255784,10107
+1-39,GOOGLE-AI_1-Saturday-00,1047874-GOOGLE-AI_1-Saturday-00,"Shute Harbour via Airlie Beach",0,255782,10069
+1-39,GOOGLE-AI_1-Saturday-00,1047875-GOOGLE-AI_1-Saturday-00,"Shute Harbour via Airlie Beach",0,255782,10069
+1-39,GOOGLE-AI_1-Saturday-00,1047876-GOOGLE-AI_1-Saturday-00,"Shute Harbour via Airlie Beach",0,255782,10069
+1-39,GOOGLE-AI_1-Saturday-00,1047877-GOOGLE-AI_1-Saturday-00,"Shute Harbour via Airlie Beach",0,255782,10069
+1-39,GOOGLE-AI_1-Saturday-00,1047878-GOOGLE-AI_1-Saturday-00,"Shute Harbour via Airlie Beach",0,255782,10069
+1-39,GOOGLE-AI_1-Saturday-00,1047879-GOOGLE-AI_1-Saturday-00,"Shute Harbour via Airlie Beach",0,255782,10069
+1-39,GOOGLE-AI_1-Saturday-00,1047880-GOOGLE-AI_1-Saturday-00,"Proserpine via Cannonvale",1,255774,10082
+1-39,GOOGLE-AI_1-Saturday-00,1047881-GOOGLE-AI_1-Saturday-00,"Proserpine via Cannonvale",1,255775,10079
+1-39,GOOGLE-AI_1-Saturday-00,1047882-GOOGLE-AI_1-Saturday-00,"Proserpine via Cannonvale",1,255774,10080
+1-39,GOOGLE-AI_1-Saturday-00,1047883-GOOGLE-AI_1-Saturday-00,"Proserpine via Cannonvale",1,255775,10079
+1-39,GOOGLE-AI_1-Saturday-00,1047884-GOOGLE-AI_1-Saturday-00,"Proserpine via Cannonvale",1,255776,10082
+1-39,GOOGLE-AI_1-Saturday-00,1047885-GOOGLE-AI_1-Saturday-00,"Proserpine via Cannonvale",1,255778,10081
+1-39,GOOGLE-AI_1-Saturday-00,1047886-GOOGLE-AI_1-Saturday-00,"Proserpine via Cannonvale",1,255776,10079
+1-39,GOOGLE-AI_1-Saturday-00,1047887-GOOGLE-AI_1-Saturday-00,"Proserpine via Cannonvale",1,255780,10082
+1-39,GOOGLE-AI_1-Saturday-00,1047888-GOOGLE-AI_1-Saturday-00,"Proserpine via Cannonvale",1,255780,10082
+1-39,GOOGLE-AI_1-Saturday-00,1047889-GOOGLE-AI_1-Saturday-00,"Proserpine via Cannonvale",1,255776,10081
+1-39,GOOGLE-AI_1-Saturday-00,1047890-GOOGLE-AI_1-Saturday-00,"Proserpine via Cannonvale",1,255779,10080
+1-39,GOOGLE-AI_1-Saturday-00,1047891-GOOGLE-AI_1-Saturday-00,"Proserpine via Cannonvale",1,255781,10082
+1-39,GOOGLE-AI_1-Saturday-00,1047892-GOOGLE-AI_1-Saturday-00,"Proserpine via Cannonvale",1,255777,10079
+1-39,GOOGLE-AI_1-Saturday-00,1047893-GOOGLE-AI_1-Saturday-00,"Proserpine via Cannonvale",1,255781,10081
+1-39,GOOGLE-AI_1-Saturday-00,1047894-GOOGLE-AI_1-Saturday-00,"Proserpine via Cannonvale",1,255777,10081
+1-39,GOOGLE-AI_1-Saturday-00,1047895-GOOGLE-AI_1-Saturday-00,"Proserpine via Cannonvale",1,255782,10082
+1-39,GOOGLE-AI_1-Saturday-00,1047896-GOOGLE-AI_1-Saturday-00,"Proserpine via Cannonvale",1,255782,10078
+1-39,GOOGLE-AI_1-Saturday-00,1047897-GOOGLE-AI_1-Saturday-00,"Proserpine via Cannonvale",1,255777,10082
+1-39,GOOGLE-AI_1-Saturday-00,1047898-GOOGLE-AI_1-Saturday-00,"Proserpine via Cannonvale",1,255782,10079
+1-39,GOOGLE-AI_1-Saturday-00,1047899-GOOGLE-AI_1-Saturday-00,"Proserpine via Cannonvale",1,255777,10077
+1-39,GOOGLE-AI_1-Saturday-00,1047900-GOOGLE-AI_1-Saturday-00,"Proserpine via Cannonvale",1,255782,10082
+1-39,GOOGLE-AI_1-Saturday-00,1047901-GOOGLE-AI_1-Saturday-00,"Proserpine via Cannonvale",1,255783,10081
+1-39,GOOGLE-AI_1-Saturday-00,1047902-GOOGLE-AI_1-Saturday-00,"Proserpine via Cannonvale",1,255784,10083
+1-39,GOOGLE-AI_1-Saturday-00,1047903-GOOGLE-AI_1-Saturday-00,"Proserpine via Cannonvale",1,255782,10084
+1-39,GOOGLE-AI_1-Saturday-00,1047904-GOOGLE-AI_1-Saturday-00,"Proserpine via Cannonvale",1,255782,10084
+1-39,GOOGLE-AI_1-Saturday-00,1047905-GOOGLE-AI_1-Saturday-00,"Proserpine via Cannonvale",1,255782,10084
+1-39,GOOGLE-AI_1-Saturday-00,1047906-GOOGLE-AI_1-Saturday-00,"Proserpine via Cannonvale",1,255782,10084
+1-39,GOOGLE-AI_1-Saturday-00,1047907-GOOGLE-AI_1-Saturday-00,"Proserpine via Cannonvale",1,255782,10084
+1-39,GOOGLE-AI_1-Saturday-00,1047908-GOOGLE-AI_1-Saturday-00,"Proserpine via Cannonvale",1,255782,10084
+1-39,GOOGLE-AI_1-Sunday-00,1047909-GOOGLE-AI_1-Sunday-00,"Shute Harbour via Airlie Beach",0,255796,10069
+1-39,GOOGLE-AI_1-Sunday-00,1047910-GOOGLE-AI_1-Sunday-00,"Shute Harbour via Airlie Beach",0,255796,10069
+1-39,GOOGLE-AI_1-Sunday-00,1047911-GOOGLE-AI_1-Sunday-00,"Shute Harbour via Airlie Beach",0,255796,10069
+1-39,GOOGLE-AI_1-Sunday-00,1047912-GOOGLE-AI_1-Sunday-00,"Shute Harbour via Airlie Beach",0,255796,10069
+1-39,GOOGLE-AI_1-Sunday-00,1047913-GOOGLE-AI_1-Sunday-00,"Shute Harbour via Airlie Beach",0,255796,10069
+1-39,GOOGLE-AI_1-Sunday-00,1047914-GOOGLE-AI_1-Sunday-00,"Proserpine via Cannonvale",1,255796,10084
+1-39,GOOGLE-AI_1-Sunday-00,1047915-GOOGLE-AI_1-Sunday-00,"Proserpine via Cannonvale",1,255796,10084
+1-39,GOOGLE-AI_1-Sunday-00,1047916-GOOGLE-AI_1-Sunday-00,"Proserpine via Cannonvale",1,255796,10084
+1-39,GOOGLE-AI_1-Sunday-00,1047917-GOOGLE-AI_1-Sunday-00,"Proserpine via Cannonvale",1,255796,10084
+1-39,GOOGLE-AI_1-Sunday-00,1047918-GOOGLE-AI_1-Sunday-00,"Proserpine via Cannonvale",1,255796,10084
+1-39,GOOGLE-AI_1-Sunday-00,1047919-GOOGLE-AI_1-Sunday-00,"Proserpine via Cannonvale",1,255796,10084
+1-39,GOOGLE-AI_1-Sunday-00,1047920-GOOGLE-AI_1-Sunday-00,"Shute Harbour via Airlie Beach",0,255785,10086
+1-39,GOOGLE-AI_1-Sunday-00,1047921-GOOGLE-AI_1-Sunday-00,"Shute Harbour via Airlie Beach",0,255786,10087
+1-39,GOOGLE-AI_1-Sunday-00,1047922-GOOGLE-AI_1-Sunday-00,"Shute Harbour via Airlie Beach",0,255785,10073
+1-39,GOOGLE-AI_1-Sunday-00,1047923-GOOGLE-AI_1-Sunday-00,"Shute Harbour via Airlie Beach",0,255788,10066
+1-39,GOOGLE-AI_1-Sunday-00,1047924-GOOGLE-AI_1-Sunday-00,"Shute Harbour via Airlie Beach",0,255786,10066
+1-39,GOOGLE-AI_1-Sunday-00,1047925-GOOGLE-AI_1-Sunday-00,"Shute Harbour via Airlie Beach",0,255789,10106
+1-39,GOOGLE-AI_1-Sunday-00,1047926-GOOGLE-AI_1-Sunday-00,"Shute Harbour via Airlie Beach",0,255790,10073
+1-39,GOOGLE-AI_1-Sunday-00,1047927-GOOGLE-AI_1-Sunday-00,"Shute Harbour via Airlie Beach",0,255787,10072
+1-39,GOOGLE-AI_1-Sunday-00,1047928-GOOGLE-AI_1-Sunday-00,"Shute Harbour via Airlie Beach",0,255789,10066
+1-39,GOOGLE-AI_1-Sunday-00,1047929-GOOGLE-AI_1-Sunday-00,"Shute Harbour via Airlie Beach",0,255790,10073
+1-39,GOOGLE-AI_1-Sunday-00,1047930-GOOGLE-AI_1-Sunday-00,"Shute Harbour via Airlie Beach",0,255787,10073
+1-39,GOOGLE-AI_1-Sunday-00,1047931-GOOGLE-AI_1-Sunday-00,"Shute Harbour via Airlie Beach",0,255790,10073
+1-39,GOOGLE-AI_1-Sunday-00,1047932-GOOGLE-AI_1-Sunday-00,"Shute Harbour via Airlie Beach",0,255792,10073
+1-39,GOOGLE-AI_1-Sunday-00,1047933-GOOGLE-AI_1-Sunday-00,"Shute Harbour via Airlie Beach",0,255791,10108
+1-39,GOOGLE-AI_1-Sunday-00,1047934-GOOGLE-AI_1-Sunday-00,"Shute Harbour via Airlie Beach",0,255790,10073
+1-39,GOOGLE-AI_1-Sunday-00,1047935-GOOGLE-AI_1-Sunday-00,"Shute Harbour via Airlie Beach",0,255792,10073
+1-39,GOOGLE-AI_1-Sunday-00,1047936-GOOGLE-AI_1-Sunday-00,"Shute Harbour via Airlie Beach",0,255794,10073
+1-39,GOOGLE-AI_1-Sunday-00,1047937-GOOGLE-AI_1-Sunday-00,"Shute Harbour via Airlie Beach",0,255790,10066
+1-39,GOOGLE-AI_1-Sunday-00,1047938-GOOGLE-AI_1-Sunday-00,"Shute Harbour via Airlie Beach",0,255793,10085
+1-39,GOOGLE-AI_1-Sunday-00,1047939-GOOGLE-AI_1-Sunday-00,"Shute Harbour via Airlie Beach",0,255790,10066
+1-39,GOOGLE-AI_1-Sunday-00,1047940-GOOGLE-AI_1-Sunday-00,"Shute Harbour via Airlie Beach",0,255795,10073
+1-39,GOOGLE-AI_1-Sunday-00,1047941-GOOGLE-AI_1-Sunday-00,"Shute Harbour via Airlie Beach",0,255796,10107
+1-39,GOOGLE-AI_1-Sunday-00,1047942-GOOGLE-AI_1-Sunday-00,"Proserpine via Cannonvale",1,255785,10079
+1-39,GOOGLE-AI_1-Sunday-00,1047943-GOOGLE-AI_1-Sunday-00,"Proserpine via Cannonvale",1,255786,10079
+1-39,GOOGLE-AI_1-Sunday-00,1047944-GOOGLE-AI_1-Sunday-00,"Proserpine via Cannonvale",1,255785,10080
+1-39,GOOGLE-AI_1-Sunday-00,1047945-GOOGLE-AI_1-Sunday-00,"Proserpine via Cannonvale",1,255788,10082
+1-39,GOOGLE-AI_1-Sunday-00,1047946-GOOGLE-AI_1-Sunday-00,"Proserpine via Cannonvale",1,255786,10081
+1-39,GOOGLE-AI_1-Sunday-00,1047947-GOOGLE-AI_1-Sunday-00,"Proserpine via Cannonvale",1,255789,10082
+1-39,GOOGLE-AI_1-Sunday-00,1047948-GOOGLE-AI_1-Sunday-00,"Proserpine via Cannonvale",1,255790,10079
+1-39,GOOGLE-AI_1-Sunday-00,1047949-GOOGLE-AI_1-Sunday-00,"Proserpine via Cannonvale",1,255787,10082
+1-39,GOOGLE-AI_1-Sunday-00,1047950-GOOGLE-AI_1-Sunday-00,"Proserpine via Cannonvale",1,255789,10082
+1-39,GOOGLE-AI_1-Sunday-00,1047951-GOOGLE-AI_1-Sunday-00,"Proserpine via Cannonvale",1,255790,10082
+1-39,GOOGLE-AI_1-Sunday-00,1047952-GOOGLE-AI_1-Sunday-00,"Proserpine via Cannonvale",1,255787,10080
+1-39,GOOGLE-AI_1-Sunday-00,1047953-GOOGLE-AI_1-Sunday-00,"Proserpine via Cannonvale",1,255790,10079
+1-39,GOOGLE-AI_1-Sunday-00,1047954-GOOGLE-AI_1-Sunday-00,"Proserpine via Cannonvale",1,255792,10082
+1-39,GOOGLE-AI_1-Sunday-00,1047955-GOOGLE-AI_1-Sunday-00,"Proserpine via Cannonvale",1,255791,10081
+1-39,GOOGLE-AI_1-Sunday-00,1047956-GOOGLE-AI_1-Sunday-00,"Proserpine via Cannonvale",1,255790,10082
+1-39,GOOGLE-AI_1-Sunday-00,1047957-GOOGLE-AI_1-Sunday-00,"Proserpine via Cannonvale",1,255792,10078
+1-39,GOOGLE-AI_1-Sunday-00,1047958-GOOGLE-AI_1-Sunday-00,"Proserpine via Cannonvale",1,255794,10082
+1-39,GOOGLE-AI_1-Sunday-00,1047959-GOOGLE-AI_1-Sunday-00,"Proserpine via Cannonvale",1,255790,10079
+1-39,GOOGLE-AI_1-Sunday-00,1047960-GOOGLE-AI_1-Sunday-00,"Proserpine via Cannonvale",1,255793,10077
+1-39,GOOGLE-AI_1-Sunday-00,1047961-GOOGLE-AI_1-Sunday-00,"Proserpine via Cannonvale",1,255790,10082
+1-39,GOOGLE-AI_1-Sunday-00,1047962-GOOGLE-AI_1-Sunday-00,"Proserpine via Cannonvale",1,255795,10082
