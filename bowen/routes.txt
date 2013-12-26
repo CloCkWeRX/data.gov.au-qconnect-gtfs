@@ -1,0 +1,5 @@
+route_id,route_short_name,route_long_name,route_desc,route_type,route_url
+BWN1-145,1,"Queens Beach",,3,
+BWN2-145,2,"Harbour Loop",,3,
+BWN3-145,3,"Rose Bay",,3,
+BWN4-145,4,"Town Loop",,3,

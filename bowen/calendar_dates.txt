@@ -1,0 +1,4 @@
+service_id,date,exception_type
+GOOGLE-BWN_MULT-Weekday-00,20131007,2
+GOOGLE-BWN_MULT-Weekday-00,20131225,2
+GOOGLE-BWN_MULT-Weekday-00,20131226,2
