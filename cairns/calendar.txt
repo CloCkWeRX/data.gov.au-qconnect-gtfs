@@ -1,0 +1,5 @@
+service_id,monday,tuesday,wednesday,thursday,friday,saturday,sunday,start_date,end_date
+GOOGLE-CAIR_MUL-Weekday-02,1,1,1,1,1,0,0,20130801,20131231
+GOOGLE-CAIR_MUL-Weekday-02-0000100,0,0,0,0,1,0,0,20130801,20131231
+GOOGLE-CAIR_MUL-Saturday-02,0,0,0,0,0,1,0,20130803,20131228
+GOOGLE-CAIR_MUL-Sunday-02,0,0,0,0,0,0,1,20130804,20131229

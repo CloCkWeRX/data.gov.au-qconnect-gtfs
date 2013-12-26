@@ -1,0 +1,1375 @@
+route_id,service_id,trip_id,trip_headsign,direction_id,block_id,shape_id
+110-275,GOOGLE-CAIR_MUL-Weekday-02,2662832-GOOGLE-CAIR_MUL-Weekday-02,Palm Cove to City,0,509148,1100008
+110-275,GOOGLE-CAIR_MUL-Weekday-02,2662833-GOOGLE-CAIR_MUL-Weekday-02,Palm Cove to City,0,509149,1100008
+110-275,GOOGLE-CAIR_MUL-Weekday-02,2662834-GOOGLE-CAIR_MUL-Weekday-02,Palm Cove to City,0,509150,1100008
+110-275,GOOGLE-CAIR_MUL-Weekday-02,2662835-GOOGLE-CAIR_MUL-Weekday-02,Palm Cove to City,0,509151,1100008
+110-275,GOOGLE-CAIR_MUL-Weekday-02,2662836-GOOGLE-CAIR_MUL-Weekday-02,Palm Cove to City,0,509152,1100008
+110-275,GOOGLE-CAIR_MUL-Weekday-02,2662837-GOOGLE-CAIR_MUL-Weekday-02,Palm Cove to City,0,509148,1100008
+110-275,GOOGLE-CAIR_MUL-Weekday-02,2662838-GOOGLE-CAIR_MUL-Weekday-02,Palm Cove to City,0,509149,1100008
+110-275,GOOGLE-CAIR_MUL-Weekday-02,2662839-GOOGLE-CAIR_MUL-Weekday-02,Palm Cove to City,0,509150,1100008
+110-275,GOOGLE-CAIR_MUL-Weekday-02,2662840-GOOGLE-CAIR_MUL-Weekday-02,Palm Cove to City,0,509151,1100008
+110-275,GOOGLE-CAIR_MUL-Weekday-02,2662841-GOOGLE-CAIR_MUL-Weekday-02,Palm Cove to City,0,509152,1100008
+110-275,GOOGLE-CAIR_MUL-Weekday-02,2662842-GOOGLE-CAIR_MUL-Weekday-02,Palm Cove to City,0,509148,1100008
+110-275,GOOGLE-CAIR_MUL-Weekday-02,2662843-GOOGLE-CAIR_MUL-Weekday-02,Palm Cove to City,0,509149,1100008
+110-275,GOOGLE-CAIR_MUL-Weekday-02,2662844-GOOGLE-CAIR_MUL-Weekday-02,Palm Cove to City,0,509150,1100008
+110-275,GOOGLE-CAIR_MUL-Weekday-02,2662845-GOOGLE-CAIR_MUL-Weekday-02,Palm Cove to City,0,509151,1100008
+110-275,GOOGLE-CAIR_MUL-Weekday-02,2662846-GOOGLE-CAIR_MUL-Weekday-02,Palm Cove to City,0,509152,1100008
+110-275,GOOGLE-CAIR_MUL-Weekday-02,2662847-GOOGLE-CAIR_MUL-Weekday-02,Palm Cove to City,0,509148,1100008
+110-275,GOOGLE-CAIR_MUL-Weekday-02,2662848-GOOGLE-CAIR_MUL-Weekday-02,Palm Cove to City,0,509149,1100008
+110-275,GOOGLE-CAIR_MUL-Weekday-02,2662849-GOOGLE-CAIR_MUL-Weekday-02,Palm Cove to City,0,509150,1100008
+110-275,GOOGLE-CAIR_MUL-Weekday-02,2662850-GOOGLE-CAIR_MUL-Weekday-02,Palm Cove to City,0,509151,1100008
+110-275,GOOGLE-CAIR_MUL-Weekday-02,2662851-GOOGLE-CAIR_MUL-Weekday-02,Palm Cove to City,0,509152,1100008
+110-275,GOOGLE-CAIR_MUL-Weekday-02,2662852-GOOGLE-CAIR_MUL-Weekday-02,Palm Cove to City,0,509148,1100008
+110-275,GOOGLE-CAIR_MUL-Weekday-02,2662853-GOOGLE-CAIR_MUL-Weekday-02,Palm Cove to City,0,509149,1100008
+110-275,GOOGLE-CAIR_MUL-Weekday-02,2662854-GOOGLE-CAIR_MUL-Weekday-02,Palm Cove to City,0,509150,1100008
+110-275,GOOGLE-CAIR_MUL-Weekday-02,2662855-GOOGLE-CAIR_MUL-Weekday-02,Palm Cove to City,0,509151,1100008
+110-275,GOOGLE-CAIR_MUL-Weekday-02,2662856-GOOGLE-CAIR_MUL-Weekday-02,Palm Cove to City,0,509152,1100008
+110-275,GOOGLE-CAIR_MUL-Weekday-02,2662857-GOOGLE-CAIR_MUL-Weekday-02,Palm Cove to City,0,509148,1100008
+110-275,GOOGLE-CAIR_MUL-Weekday-02,2662858-GOOGLE-CAIR_MUL-Weekday-02,Palm Cove to City,0,509150,1100008
+110-275,GOOGLE-CAIR_MUL-Weekday-02,2662859-GOOGLE-CAIR_MUL-Weekday-02,Palm Cove to City,0,509148,1100008
+110-275,GOOGLE-CAIR_MUL-Weekday-02,2662860-GOOGLE-CAIR_MUL-Weekday-02,Palm Cove to City,0,509150,1100008
+110-275,GOOGLE-CAIR_MUL-Weekday-02,2662861-GOOGLE-CAIR_MUL-Weekday-02,Palm Cove to City,0,509148,1100008
+110-275,GOOGLE-CAIR_MUL-Weekday-02,2662862-GOOGLE-CAIR_MUL-Weekday-02,City to Palm Cove via Clifton Beach,1,509148,1100013
+110-275,GOOGLE-CAIR_MUL-Weekday-02,2662863-GOOGLE-CAIR_MUL-Weekday-02,City to Palm Cove via Clifton Beach,1,509149,1100013
+110-275,GOOGLE-CAIR_MUL-Weekday-02,2662864-GOOGLE-CAIR_MUL-Weekday-02,City to Palm Cove via Clifton Beach,1,509150,1100013
+110-275,GOOGLE-CAIR_MUL-Weekday-02,2662865-GOOGLE-CAIR_MUL-Weekday-02,City to Palm Cove via Clifton Beach,1,509151,1100013
+110-275,GOOGLE-CAIR_MUL-Weekday-02,2662866-GOOGLE-CAIR_MUL-Weekday-02,City to Palm Cove via Clifton Beach,1,509152,1100013
+110-275,GOOGLE-CAIR_MUL-Weekday-02,2662867-GOOGLE-CAIR_MUL-Weekday-02,City to Palm Cove via Clifton Beach,1,509148,1100013
+110-275,GOOGLE-CAIR_MUL-Weekday-02,2662868-GOOGLE-CAIR_MUL-Weekday-02,City to Palm Cove via Clifton Beach,1,509149,1100013
+110-275,GOOGLE-CAIR_MUL-Weekday-02,2662869-GOOGLE-CAIR_MUL-Weekday-02,City to Palm Cove via Clifton Beach,1,509150,1100013
+110-275,GOOGLE-CAIR_MUL-Weekday-02,2662870-GOOGLE-CAIR_MUL-Weekday-02,City to Palm Cove via Clifton Beach,1,509151,1100013
+110-275,GOOGLE-CAIR_MUL-Weekday-02,2662871-GOOGLE-CAIR_MUL-Weekday-02,City to Palm Cove via Clifton Beach,1,509152,1100013
+110-275,GOOGLE-CAIR_MUL-Weekday-02,2662872-GOOGLE-CAIR_MUL-Weekday-02,City to Palm Cove via Clifton Beach,1,509148,1100013
+110-275,GOOGLE-CAIR_MUL-Weekday-02,2662873-GOOGLE-CAIR_MUL-Weekday-02,City to Palm Cove via Clifton Beach,1,509149,1100013
+110-275,GOOGLE-CAIR_MUL-Weekday-02,2662874-GOOGLE-CAIR_MUL-Weekday-02,City to Palm Cove via Clifton Beach,1,509150,1100013
+110-275,GOOGLE-CAIR_MUL-Weekday-02,2662875-GOOGLE-CAIR_MUL-Weekday-02,City to Palm Cove via Clifton Beach,1,509151,1100013
+110-275,GOOGLE-CAIR_MUL-Weekday-02,2662876-GOOGLE-CAIR_MUL-Weekday-02,City to Palm Cove via Clifton Beach,1,509152,1100013
+110-275,GOOGLE-CAIR_MUL-Weekday-02,2662877-GOOGLE-CAIR_MUL-Weekday-02,City to Palm Cove via Clifton Beach,1,509148,1100013
+110-275,GOOGLE-CAIR_MUL-Weekday-02,2662878-GOOGLE-CAIR_MUL-Weekday-02,City to Palm Cove via Clifton Beach,1,509149,1100013
+110-275,GOOGLE-CAIR_MUL-Weekday-02,2662879-GOOGLE-CAIR_MUL-Weekday-02,City to Palm Cove via Clifton Beach,1,509150,1100013
+110-275,GOOGLE-CAIR_MUL-Weekday-02,2662880-GOOGLE-CAIR_MUL-Weekday-02,City to Palm Cove via Clifton Beach,1,509151,1100013
+110-275,GOOGLE-CAIR_MUL-Weekday-02,2662881-GOOGLE-CAIR_MUL-Weekday-02,City to Palm Cove via Clifton Beach,1,509152,1100013
+110-275,GOOGLE-CAIR_MUL-Weekday-02,2662882-GOOGLE-CAIR_MUL-Weekday-02,City to Palm Cove via Clifton Beach,1,509148,1100013
+110-275,GOOGLE-CAIR_MUL-Weekday-02,2662883-GOOGLE-CAIR_MUL-Weekday-02,City to Palm Cove via Clifton Beach,1,509149,1100013
+110-275,GOOGLE-CAIR_MUL-Weekday-02,2662884-GOOGLE-CAIR_MUL-Weekday-02,City to Palm Cove via Clifton Beach,1,509150,1100013
+110-275,GOOGLE-CAIR_MUL-Weekday-02,2662885-GOOGLE-CAIR_MUL-Weekday-02,City to Palm Cove via Clifton Beach,1,509151,1100013
+110-275,GOOGLE-CAIR_MUL-Weekday-02,2662886-GOOGLE-CAIR_MUL-Weekday-02,City to Palm Cove via Clifton Beach,1,509148,1100013
+110-275,GOOGLE-CAIR_MUL-Weekday-02,2662887-GOOGLE-CAIR_MUL-Weekday-02,City to Palm Cove via Clifton Beach,1,509150,1100013
+110-275,GOOGLE-CAIR_MUL-Weekday-02,2662888-GOOGLE-CAIR_MUL-Weekday-02,City to Palm Cove via Clifton Beach,1,509148,1100013
+110-275,GOOGLE-CAIR_MUL-Weekday-02,2662889-GOOGLE-CAIR_MUL-Weekday-02,City to Palm Cove via Clifton Beach,1,509150,1100013
+110-275,GOOGLE-CAIR_MUL-Weekday-02,2662890-GOOGLE-CAIR_MUL-Weekday-02,City to Palm Cove via Clifton Beach,1,509148,1100013
+110N-275,GOOGLE-CAIR_MUL-Weekday-02-0000100,2662957-GOOGLE-CAIR_MUL-Weekday-02-0000100,City to Palm Cove (Late night service),1,509153,110N0007
+110N-275,GOOGLE-CAIR_MUL-Weekday-02-0000100,2662958-GOOGLE-CAIR_MUL-Weekday-02-0000100,City to Palm Cove (Late night service),1,509154,110N0007
+110N-275,GOOGLE-CAIR_MUL-Weekday-02-0000100,2662959-GOOGLE-CAIR_MUL-Weekday-02-0000100,City to Palm Cove (Late night service),1,509155,110N0007
+110N-275,GOOGLE-CAIR_MUL-Weekday-02-0000100,2662960-GOOGLE-CAIR_MUL-Weekday-02-0000100,City to Palm Cove (Late night service),1,509156,110N0007
+110N-275,GOOGLE-CAIR_MUL-Weekday-02-0000100,2662961-GOOGLE-CAIR_MUL-Weekday-02-0000100,City to Palm Cove (Late night service),1,509157,110N0007
+110N-275,GOOGLE-CAIR_MUL-Weekday-02-0000100,2662962-GOOGLE-CAIR_MUL-Weekday-02-0000100,Palm Cove to City (Late night service),0,509158,110N0006
+110N-275,GOOGLE-CAIR_MUL-Weekday-02-0000100,2662963-GOOGLE-CAIR_MUL-Weekday-02-0000100,Palm Cove to City (Late night service),0,509159,110N0006
+110N-275,GOOGLE-CAIR_MUL-Weekday-02-0000100,2662964-GOOGLE-CAIR_MUL-Weekday-02-0000100,Palm Cove to City (Late night service),0,509160,110N0006
+110N-275,GOOGLE-CAIR_MUL-Weekday-02-0000100,2662965-GOOGLE-CAIR_MUL-Weekday-02-0000100,Palm Cove to City (Late night service),0,509161,110N0006
+111-275,GOOGLE-CAIR_MUL-Weekday-02,2662975-GOOGLE-CAIR_MUL-Weekday-02,Kewarra Beach to City,0,,1110007
+111-275,GOOGLE-CAIR_MUL-Weekday-02,2662976-GOOGLE-CAIR_MUL-Weekday-02,Kewarra Beach to City,0,,1110007
+111-275,GOOGLE-CAIR_MUL-Weekday-02,2662977-GOOGLE-CAIR_MUL-Weekday-02,Kewarra Beach to City,0,,1110007
+111-275,GOOGLE-CAIR_MUL-Weekday-02,2662978-GOOGLE-CAIR_MUL-Weekday-02,Kewarra Beach to City,0,,1110007
+111-275,GOOGLE-CAIR_MUL-Weekday-02,2662979-GOOGLE-CAIR_MUL-Weekday-02,Kewarra Beach to City,0,,1110007
+111-275,GOOGLE-CAIR_MUL-Weekday-02,2662980-GOOGLE-CAIR_MUL-Weekday-02,Kewarra Beach to City,0,,1110007
+111-275,GOOGLE-CAIR_MUL-Weekday-02,2662981-GOOGLE-CAIR_MUL-Weekday-02,Kewarra Beach to City,0,,1110007
+111-275,GOOGLE-CAIR_MUL-Weekday-02,2662982-GOOGLE-CAIR_MUL-Weekday-02,Kewarra Beach to City,0,,1110007
+111-275,GOOGLE-CAIR_MUL-Weekday-02,2662983-GOOGLE-CAIR_MUL-Weekday-02,Kewarra Beach to City,0,,1110007
+111-275,GOOGLE-CAIR_MUL-Weekday-02,2662984-GOOGLE-CAIR_MUL-Weekday-02,Kewarra Beach to City,0,,1110007
+111-275,GOOGLE-CAIR_MUL-Weekday-02,2662985-GOOGLE-CAIR_MUL-Weekday-02,Kewarra Beach to City,0,,1110007
+111-275,GOOGLE-CAIR_MUL-Weekday-02,2662986-GOOGLE-CAIR_MUL-Weekday-02,Kewarra Beach to City,0,,1110007
+111-275,GOOGLE-CAIR_MUL-Weekday-02,2662987-GOOGLE-CAIR_MUL-Weekday-02,Kewarra Beach to City,0,,1110007
+111-275,GOOGLE-CAIR_MUL-Weekday-02,2662988-GOOGLE-CAIR_MUL-Weekday-02,Kewarra Beach to City,0,,1110007
+111-275,GOOGLE-CAIR_MUL-Weekday-02,2662989-GOOGLE-CAIR_MUL-Weekday-02,Kewarra Beach to City,0,,1110007
+111-275,GOOGLE-CAIR_MUL-Weekday-02,2662990-GOOGLE-CAIR_MUL-Weekday-02,Kewarra Beach to City,0,,1110007
+111-275,GOOGLE-CAIR_MUL-Weekday-02,2662991-GOOGLE-CAIR_MUL-Weekday-02,Kewarra Beach to City,0,,1110007
+111-275,GOOGLE-CAIR_MUL-Weekday-02,2662992-GOOGLE-CAIR_MUL-Weekday-02,Kewarra Beach to City,0,,1110007
+111-275,GOOGLE-CAIR_MUL-Weekday-02,2662993-GOOGLE-CAIR_MUL-Weekday-02,Kewarra Beach to City,0,,1110007
+111-275,GOOGLE-CAIR_MUL-Weekday-02,2662994-GOOGLE-CAIR_MUL-Weekday-02,Kewarra Beach to City,0,,1110007
+111-275,GOOGLE-CAIR_MUL-Weekday-02,2662995-GOOGLE-CAIR_MUL-Weekday-02,Kewarra Beach to City,0,,1110007
+111-275,GOOGLE-CAIR_MUL-Weekday-02,2662996-GOOGLE-CAIR_MUL-Weekday-02,Kewarra Beach to City,0,,1110007
+111-275,GOOGLE-CAIR_MUL-Weekday-02,2662997-GOOGLE-CAIR_MUL-Weekday-02,Kewarra Beach to City,0,,1110007
+111-275,GOOGLE-CAIR_MUL-Weekday-02,2662998-GOOGLE-CAIR_MUL-Weekday-02,Kewarra Beach to City,0,,1110007
+111-275,GOOGLE-CAIR_MUL-Weekday-02,2662999-GOOGLE-CAIR_MUL-Weekday-02,Kewarra Beach to City,0,,1110007
+111-275,GOOGLE-CAIR_MUL-Weekday-02,2663000-GOOGLE-CAIR_MUL-Weekday-02,Kewarra Beach to City,0,,1110007
+111-275,GOOGLE-CAIR_MUL-Weekday-02,2663001-GOOGLE-CAIR_MUL-Weekday-02,Kewarra Beach to City,0,,1110007
+111-275,GOOGLE-CAIR_MUL-Weekday-02,2663002-GOOGLE-CAIR_MUL-Weekday-02,Kewarra Beach to City,0,,1110007
+111-275,GOOGLE-CAIR_MUL-Weekday-02,2663003-GOOGLE-CAIR_MUL-Weekday-02,Kewarra Beach to City,0,,1110007
+111-275,GOOGLE-CAIR_MUL-Weekday-02,2663004-GOOGLE-CAIR_MUL-Weekday-02,City to Kewarra Beach via Trinity Beach,1,,1110014
+111-275,GOOGLE-CAIR_MUL-Weekday-02,2663005-GOOGLE-CAIR_MUL-Weekday-02,City to Kewarra Beach via Trinity Beach,1,,1110014
+111-275,GOOGLE-CAIR_MUL-Weekday-02,2663006-GOOGLE-CAIR_MUL-Weekday-02,City to Kewarra Beach via Trinity Beach,1,,1110014
+111-275,GOOGLE-CAIR_MUL-Weekday-02,2663007-GOOGLE-CAIR_MUL-Weekday-02,City to Kewarra Beach via Trinity Beach,1,,1110014
+111-275,GOOGLE-CAIR_MUL-Weekday-02,2663008-GOOGLE-CAIR_MUL-Weekday-02,City to Kewarra Beach via Trinity Beach,1,,1110014
+111-275,GOOGLE-CAIR_MUL-Weekday-02,2663009-GOOGLE-CAIR_MUL-Weekday-02,City to Kewarra Beach via Trinity Beach,1,,1110014
+111-275,GOOGLE-CAIR_MUL-Weekday-02,2663010-GOOGLE-CAIR_MUL-Weekday-02,City to Kewarra Beach via Trinity Beach,1,,1110014
+111-275,GOOGLE-CAIR_MUL-Weekday-02,2663011-GOOGLE-CAIR_MUL-Weekday-02,City to Kewarra Beach via Trinity Beach,1,,1110014
+111-275,GOOGLE-CAIR_MUL-Weekday-02,2663012-GOOGLE-CAIR_MUL-Weekday-02,City to Kewarra Beach via Trinity Beach,1,,1110014
+111-275,GOOGLE-CAIR_MUL-Weekday-02,2663013-GOOGLE-CAIR_MUL-Weekday-02,City to Kewarra Beach via Trinity Beach,1,,1110014
+111-275,GOOGLE-CAIR_MUL-Weekday-02,2663014-GOOGLE-CAIR_MUL-Weekday-02,City to Kewarra Beach via Trinity Beach,1,,1110014
+111-275,GOOGLE-CAIR_MUL-Weekday-02,2663015-GOOGLE-CAIR_MUL-Weekday-02,City to Kewarra Beach via Trinity Beach,1,,1110014
+111-275,GOOGLE-CAIR_MUL-Weekday-02,2663016-GOOGLE-CAIR_MUL-Weekday-02,City to Kewarra Beach via Trinity Beach,1,,1110014
+111-275,GOOGLE-CAIR_MUL-Weekday-02,2663017-GOOGLE-CAIR_MUL-Weekday-02,City to Kewarra Beach via Trinity Beach,1,,1110014
+111-275,GOOGLE-CAIR_MUL-Weekday-02,2663018-GOOGLE-CAIR_MUL-Weekday-02,City to Kewarra Beach via Trinity Beach,1,,1110014
+111-275,GOOGLE-CAIR_MUL-Weekday-02,2663019-GOOGLE-CAIR_MUL-Weekday-02,City to Kewarra Beach via Trinity Beach,1,,1110014
+111-275,GOOGLE-CAIR_MUL-Weekday-02,2663020-GOOGLE-CAIR_MUL-Weekday-02,City to Kewarra Beach via Trinity Beach,1,,1110014
+111-275,GOOGLE-CAIR_MUL-Weekday-02,2663021-GOOGLE-CAIR_MUL-Weekday-02,City to Kewarra Beach via Trinity Beach,1,,1110014
+111-275,GOOGLE-CAIR_MUL-Weekday-02,2663022-GOOGLE-CAIR_MUL-Weekday-02,City to Kewarra Beach via Trinity Beach,1,,1110014
+111-275,GOOGLE-CAIR_MUL-Weekday-02,2663023-GOOGLE-CAIR_MUL-Weekday-02,City to Kewarra Beach via Trinity Beach,1,,1110014
+111-275,GOOGLE-CAIR_MUL-Weekday-02,2663024-GOOGLE-CAIR_MUL-Weekday-02,City to Kewarra Beach via Trinity Beach,1,,1110014
+111-275,GOOGLE-CAIR_MUL-Weekday-02,2663025-GOOGLE-CAIR_MUL-Weekday-02,City to Kewarra Beach via Trinity Beach,1,,1110014
+111-275,GOOGLE-CAIR_MUL-Weekday-02,2663026-GOOGLE-CAIR_MUL-Weekday-02,City to Kewarra Beach via Trinity Beach,1,,1110014
+111-275,GOOGLE-CAIR_MUL-Weekday-02,2663027-GOOGLE-CAIR_MUL-Weekday-02,City to Kewarra Beach via Trinity Beach,1,,1110014
+111-275,GOOGLE-CAIR_MUL-Weekday-02,2663028-GOOGLE-CAIR_MUL-Weekday-02,City to Kewarra Beach via Trinity Beach,1,,1110014
+111-275,GOOGLE-CAIR_MUL-Weekday-02,2663029-GOOGLE-CAIR_MUL-Weekday-02,City to Kewarra Beach via Trinity Beach,1,,1110014
+111-275,GOOGLE-CAIR_MUL-Weekday-02,2663030-GOOGLE-CAIR_MUL-Weekday-02,City to Kewarra Beach via Trinity Beach,1,,1110014
+111-275,GOOGLE-CAIR_MUL-Weekday-02,2663031-GOOGLE-CAIR_MUL-Weekday-02,City to Kewarra Beach via Trinity Beach,1,,1110014
+111-275,GOOGLE-CAIR_MUL-Weekday-02,2663032-GOOGLE-CAIR_MUL-Weekday-02,City to Kewarra Beach via Trinity Beach,1,,1110014
+112-275,GOOGLE-CAIR_MUL-Weekday-02,2663101-GOOGLE-CAIR_MUL-Weekday-02,Smithfield to Yorkeys Knob and return,1,,1120010
+112-275,GOOGLE-CAIR_MUL-Weekday-02,2663102-GOOGLE-CAIR_MUL-Weekday-02,Smithfield to Yorkeys Knob and return,1,,1120010
+112-275,GOOGLE-CAIR_MUL-Weekday-02,2663103-GOOGLE-CAIR_MUL-Weekday-02,Smithfield to Yorkeys Knob and return,1,,1120010
+112-275,GOOGLE-CAIR_MUL-Weekday-02,2663104-GOOGLE-CAIR_MUL-Weekday-02,Smithfield to Yorkeys Knob and return,1,,1120010
+112-275,GOOGLE-CAIR_MUL-Weekday-02,2663105-GOOGLE-CAIR_MUL-Weekday-02,Smithfield to Yorkeys Knob and return,1,,1120010
+112-275,GOOGLE-CAIR_MUL-Weekday-02,2663106-GOOGLE-CAIR_MUL-Weekday-02,Smithfield to Yorkeys Knob and return,1,,1120010
+112-275,GOOGLE-CAIR_MUL-Weekday-02,2663107-GOOGLE-CAIR_MUL-Weekday-02,Smithfield to Yorkeys Knob and return,1,,1120010
+112-275,GOOGLE-CAIR_MUL-Weekday-02,2663108-GOOGLE-CAIR_MUL-Weekday-02,Smithfield to Yorkeys Knob and return,1,,1120010
+112-275,GOOGLE-CAIR_MUL-Weekday-02,2663109-GOOGLE-CAIR_MUL-Weekday-02,Smithfield to Yorkeys Knob and return,1,,1120010
+112-275,GOOGLE-CAIR_MUL-Weekday-02,2663110-GOOGLE-CAIR_MUL-Weekday-02,Smithfield to Yorkeys Knob and return,1,,1120010
+112-275,GOOGLE-CAIR_MUL-Weekday-02,2663111-GOOGLE-CAIR_MUL-Weekday-02,Smithfield to Yorkeys Knob and return,1,,1120010
+112-275,GOOGLE-CAIR_MUL-Weekday-02,2663112-GOOGLE-CAIR_MUL-Weekday-02,Smithfield to Yorkeys Knob and return,1,,1120010
+112-275,GOOGLE-CAIR_MUL-Weekday-02,2663113-GOOGLE-CAIR_MUL-Weekday-02,Smithfield to Yorkeys Knob and return,1,,1120010
+112-275,GOOGLE-CAIR_MUL-Weekday-02,2663114-GOOGLE-CAIR_MUL-Weekday-02,Smithfield to Yorkeys Knob and return,1,,1120010
+112-275,GOOGLE-CAIR_MUL-Weekday-02,2663115-GOOGLE-CAIR_MUL-Weekday-02,Smithfield to Yorkeys Knob and return,1,,1120010
+113-275,GOOGLE-CAIR_MUL-Weekday-02,2663137-GOOGLE-CAIR_MUL-Weekday-02,Yorkeys Knob to City (express),0,,1130014
+113-275,GOOGLE-CAIR_MUL-Weekday-02,2663138-GOOGLE-CAIR_MUL-Weekday-02,Yorkeys Knob to City (express),0,,1130014
+113-275,GOOGLE-CAIR_MUL-Weekday-02,2663139-GOOGLE-CAIR_MUL-Weekday-02,City to Yorkeys Knob (express),1,,1130016
+113-275,GOOGLE-CAIR_MUL-Weekday-02,2663140-GOOGLE-CAIR_MUL-Weekday-02,City to Yorkeys Knob (express),1,,1130016
+113-275,GOOGLE-CAIR_MUL-Weekday-02,2663141-GOOGLE-CAIR_MUL-Weekday-02,City to Yorkeys Knob (express),1,,1130016
+113-275,GOOGLE-CAIR_MUL-Weekday-02,2663142-GOOGLE-CAIR_MUL-Weekday-02,Yorkeys Knob to City (express),0,,1130014
+120-275,GOOGLE-CAIR_MUL-Weekday-02,2663149-GOOGLE-CAIR_MUL-Weekday-02,Smithfield to City via Machans Beach and Holloways Beach,0,,1200005
+120-275,GOOGLE-CAIR_MUL-Weekday-02,2663150-GOOGLE-CAIR_MUL-Weekday-02,Smithfield to City via Machans Beach and Holloways Beach,0,,1200005
+120-275,GOOGLE-CAIR_MUL-Weekday-02,2663151-GOOGLE-CAIR_MUL-Weekday-02,Smithfield to City via Machans Beach and Holloways Beach,0,,1200005
+120-275,GOOGLE-CAIR_MUL-Weekday-02,2663152-GOOGLE-CAIR_MUL-Weekday-02,Smithfield to City via Machans Beach and Holloways Beach,0,,1200005
+120-275,GOOGLE-CAIR_MUL-Weekday-02,2663153-GOOGLE-CAIR_MUL-Weekday-02,Smithfield to City via Machans Beach and Holloways Beach,0,,1200005
+120-275,GOOGLE-CAIR_MUL-Weekday-02,2663154-GOOGLE-CAIR_MUL-Weekday-02,Smithfield to City via Machans Beach and Holloways Beach,0,,1200005
+120-275,GOOGLE-CAIR_MUL-Weekday-02,2663155-GOOGLE-CAIR_MUL-Weekday-02,Smithfield to City via Machans Beach and Holloways Beach,0,,1200005
+120-275,GOOGLE-CAIR_MUL-Weekday-02,2663156-GOOGLE-CAIR_MUL-Weekday-02,Smithfield to City via Machans Beach and Holloways Beach,0,,1200005
+120-275,GOOGLE-CAIR_MUL-Weekday-02,2663157-GOOGLE-CAIR_MUL-Weekday-02,Smithfield to City via Machans Beach and Holloways Beach,0,,1200005
+120-275,GOOGLE-CAIR_MUL-Weekday-02,2663158-GOOGLE-CAIR_MUL-Weekday-02,Smithfield to City via Machans Beach and Holloways Beach,0,,1200005
+120-275,GOOGLE-CAIR_MUL-Weekday-02,2663159-GOOGLE-CAIR_MUL-Weekday-02,Smithfield to City via Machans Beach and Holloways Beach,0,,1200005
+120-275,GOOGLE-CAIR_MUL-Weekday-02,2663160-GOOGLE-CAIR_MUL-Weekday-02,Smithfield to City via Machans Beach and Holloways Beach,0,,1200005
+120-275,GOOGLE-CAIR_MUL-Weekday-02,2663161-GOOGLE-CAIR_MUL-Weekday-02,Smithfield to City via Machans Beach and Holloways Beach,0,,1200005
+120-275,GOOGLE-CAIR_MUL-Weekday-02,2663162-GOOGLE-CAIR_MUL-Weekday-02,Smithfield to City via Machans Beach and Holloways Beach,0,,1200005
+120-275,GOOGLE-CAIR_MUL-Weekday-02,2663163-GOOGLE-CAIR_MUL-Weekday-02,Smithfield to City via Machans Beach and Holloways Beach,0,,1200005
+120-275,GOOGLE-CAIR_MUL-Weekday-02,2663164-GOOGLE-CAIR_MUL-Weekday-02,Smithfield to City via Machans Beach and Holloways Beach,0,,1200005
+120-275,GOOGLE-CAIR_MUL-Weekday-02,2663165-GOOGLE-CAIR_MUL-Weekday-02,Smithfield to City via Machans Beach and Holloways Beach,0,,1200005
+120-275,GOOGLE-CAIR_MUL-Weekday-02,2663166-GOOGLE-CAIR_MUL-Weekday-02,Smithfield to City via Holloways Beach and Machans Beach,1,,1200007
+120-275,GOOGLE-CAIR_MUL-Weekday-02,2663167-GOOGLE-CAIR_MUL-Weekday-02,Smithfield to City via Holloways Beach and Machans Beach,1,,1200007
+120-275,GOOGLE-CAIR_MUL-Weekday-02,2663168-GOOGLE-CAIR_MUL-Weekday-02,Smithfield to City via Holloways Beach and Machans Beach,1,,1200007
+120-275,GOOGLE-CAIR_MUL-Weekday-02,2663169-GOOGLE-CAIR_MUL-Weekday-02,Smithfield to City via Holloways Beach and Machans Beach,1,,1200007
+120-275,GOOGLE-CAIR_MUL-Weekday-02,2663170-GOOGLE-CAIR_MUL-Weekday-02,Smithfield to City via Holloways Beach and Machans Beach,1,,1200007
+120-275,GOOGLE-CAIR_MUL-Weekday-02,2663171-GOOGLE-CAIR_MUL-Weekday-02,Smithfield to City via Holloways Beach and Machans Beach,1,,1200007
+120-275,GOOGLE-CAIR_MUL-Weekday-02,2663172-GOOGLE-CAIR_MUL-Weekday-02,Smithfield to City via Holloways Beach and Machans Beach,1,,1200007
+120-275,GOOGLE-CAIR_MUL-Weekday-02,2663173-GOOGLE-CAIR_MUL-Weekday-02,Smithfield to City via Holloways Beach and Machans Beach,1,,1200007
+120-275,GOOGLE-CAIR_MUL-Weekday-02,2663174-GOOGLE-CAIR_MUL-Weekday-02,Smithfield to City via Holloways Beach and Machans Beach,1,,1200007
+120-275,GOOGLE-CAIR_MUL-Weekday-02,2663175-GOOGLE-CAIR_MUL-Weekday-02,Smithfield to City via Holloways Beach and Machans Beach,1,,1200007
+120-275,GOOGLE-CAIR_MUL-Weekday-02,2663176-GOOGLE-CAIR_MUL-Weekday-02,Smithfield to City via Holloways Beach and Machans Beach,1,,1200007
+120-275,GOOGLE-CAIR_MUL-Weekday-02,2663177-GOOGLE-CAIR_MUL-Weekday-02,Smithfield to City via Holloways Beach and Machans Beach,1,,1200007
+120-275,GOOGLE-CAIR_MUL-Weekday-02,2663178-GOOGLE-CAIR_MUL-Weekday-02,Smithfield to City via Holloways Beach and Machans Beach,1,,1200007
+120-275,GOOGLE-CAIR_MUL-Weekday-02,2663179-GOOGLE-CAIR_MUL-Weekday-02,Smithfield to City via Holloways Beach and Machans Beach,1,,1200007
+120-275,GOOGLE-CAIR_MUL-Weekday-02,2663180-GOOGLE-CAIR_MUL-Weekday-02,Smithfield to City via Holloways Beach and Machans Beach,1,,1200007
+120N-275,GOOGLE-CAIR_MUL-Weekday-02,2663224-GOOGLE-CAIR_MUL-Weekday-02,Yorkeys Knob via Holloways Beach and Machans Beach,1,509171,120N0004
+120N-275,GOOGLE-CAIR_MUL-Weekday-02,2663225-GOOGLE-CAIR_MUL-Weekday-02,Yorkeys Knob via Holloways Beach and Machans Beach,1,509172,120N0004
+121-275,GOOGLE-CAIR_MUL-Weekday-02,2663228-GOOGLE-CAIR_MUL-Weekday-02,Redlynch to City via Stratford,0,,1210010
+121-275,GOOGLE-CAIR_MUL-Weekday-02,2663229-GOOGLE-CAIR_MUL-Weekday-02,Redlynch to City via Stratford,0,,1210010
+121-275,GOOGLE-CAIR_MUL-Weekday-02,2663230-GOOGLE-CAIR_MUL-Weekday-02,Redlynch to City via Stratford,0,,1210010
+121-275,GOOGLE-CAIR_MUL-Weekday-02,2663231-GOOGLE-CAIR_MUL-Weekday-02,Redlynch to City via Stratford,0,,1210010
+121-275,GOOGLE-CAIR_MUL-Weekday-02,2663232-GOOGLE-CAIR_MUL-Weekday-02,Redlynch to City via Stratford,0,,1210010
+121-275,GOOGLE-CAIR_MUL-Weekday-02,2663233-GOOGLE-CAIR_MUL-Weekday-02,Redlynch to City via Stratford,0,,1210010
+121-275,GOOGLE-CAIR_MUL-Weekday-02,2663234-GOOGLE-CAIR_MUL-Weekday-02,Redlynch to City via Stratford,0,,1210010
+121-275,GOOGLE-CAIR_MUL-Weekday-02,2663235-GOOGLE-CAIR_MUL-Weekday-02,Redlynch to City via Stratford,0,,1210010
+121-275,GOOGLE-CAIR_MUL-Weekday-02,2663236-GOOGLE-CAIR_MUL-Weekday-02,Redlynch to City via Stratford,0,,1210010
+121-275,GOOGLE-CAIR_MUL-Weekday-02,2663237-GOOGLE-CAIR_MUL-Weekday-02,Redlynch to City via Stratford,0,,1210010
+121-275,GOOGLE-CAIR_MUL-Weekday-02,2663238-GOOGLE-CAIR_MUL-Weekday-02,Redlynch to City via Stratford,0,,1210010
+121-275,GOOGLE-CAIR_MUL-Weekday-02,2663239-GOOGLE-CAIR_MUL-Weekday-02,Redlynch to City via Stratford,0,,1210010
+121-275,GOOGLE-CAIR_MUL-Weekday-02,2663240-GOOGLE-CAIR_MUL-Weekday-02,Redlynch to City via Stratford,0,,1210010
+121-275,GOOGLE-CAIR_MUL-Weekday-02,2663241-GOOGLE-CAIR_MUL-Weekday-02,Redlynch to City via Stratford,0,,1210010
+121-275,GOOGLE-CAIR_MUL-Weekday-02,2663242-GOOGLE-CAIR_MUL-Weekday-02,Redlynch to City via Stratford,0,,1210010
+121-275,GOOGLE-CAIR_MUL-Weekday-02,2663243-GOOGLE-CAIR_MUL-Weekday-02,Redlynch to City via Stratford,0,,1210010
+121-275,GOOGLE-CAIR_MUL-Weekday-02,2663244-GOOGLE-CAIR_MUL-Weekday-02,Redlynch to City via Stratford,0,,1210010
+121-275,GOOGLE-CAIR_MUL-Weekday-02,2663245-GOOGLE-CAIR_MUL-Weekday-02,City to Redlynch via Stratford (connects to route 122),1,,1210011
+121-275,GOOGLE-CAIR_MUL-Weekday-02,2663246-GOOGLE-CAIR_MUL-Weekday-02,City to Redlynch via Stratford (connects to route 122),1,,1210011
+121-275,GOOGLE-CAIR_MUL-Weekday-02,2663247-GOOGLE-CAIR_MUL-Weekday-02,City to Redlynch via Stratford (connects to route 122),1,,1210011
+121-275,GOOGLE-CAIR_MUL-Weekday-02,2663248-GOOGLE-CAIR_MUL-Weekday-02,City to Redlynch via Stratford (connects to route 122),1,,1210011
+121-275,GOOGLE-CAIR_MUL-Weekday-02,2663249-GOOGLE-CAIR_MUL-Weekday-02,City to Redlynch via Stratford (connects to route 122),1,,1210011
+121-275,GOOGLE-CAIR_MUL-Weekday-02,2663250-GOOGLE-CAIR_MUL-Weekday-02,City to Redlynch via Stratford (connects to route 122),1,,1210011
+121-275,GOOGLE-CAIR_MUL-Weekday-02,2663251-GOOGLE-CAIR_MUL-Weekday-02,City to Redlynch via Stratford (connects to route 122),1,,1210011
+121-275,GOOGLE-CAIR_MUL-Weekday-02,2663252-GOOGLE-CAIR_MUL-Weekday-02,City to Redlynch via Stratford (connects to route 122),1,,1210011
+121-275,GOOGLE-CAIR_MUL-Weekday-02,2663253-GOOGLE-CAIR_MUL-Weekday-02,City to Redlynch via Stratford (connects to route 122),1,,1210011
+121-275,GOOGLE-CAIR_MUL-Weekday-02,2663254-GOOGLE-CAIR_MUL-Weekday-02,City to Redlynch via Stratford (connects to route 122),1,,1210011
+121-275,GOOGLE-CAIR_MUL-Weekday-02,2663255-GOOGLE-CAIR_MUL-Weekday-02,City to Redlynch via Stratford (connects to route 122),1,,1210011
+121-275,GOOGLE-CAIR_MUL-Weekday-02,2663256-GOOGLE-CAIR_MUL-Weekday-02,City to Redlynch via Stratford (connects to route 122),1,,1210011
+121-275,GOOGLE-CAIR_MUL-Weekday-02,2663257-GOOGLE-CAIR_MUL-Weekday-02,City to Redlynch via Stratford (connects to route 122),1,,1210011
+121-275,GOOGLE-CAIR_MUL-Weekday-02,2663258-GOOGLE-CAIR_MUL-Weekday-02,City to Redlynch via Stratford (connects to route 122),1,,1210011
+121-275,GOOGLE-CAIR_MUL-Weekday-02,2663259-GOOGLE-CAIR_MUL-Weekday-02,City to Redlynch via Stratford (connects to route 122),1,,1210011
+121-275,GOOGLE-CAIR_MUL-Weekday-02,2663260-GOOGLE-CAIR_MUL-Weekday-02,City to Redlynch via Stratford (connects to route 122),1,,1210011
+121-275,GOOGLE-CAIR_MUL-Weekday-02,2663261-GOOGLE-CAIR_MUL-Weekday-02,City to Redlynch via Stratford (connects to route 122),1,,1210011
+122-275,GOOGLE-CAIR_MUL-Weekday-02,2663306-GOOGLE-CAIR_MUL-Weekday-02,JCU to Redlynch via Caravonica (connects to route 121),1,,1220011
+122-275,GOOGLE-CAIR_MUL-Weekday-02,2663307-GOOGLE-CAIR_MUL-Weekday-02,JCU to Redlynch via Caravonica (connects to route 121),1,,1220011
+122-275,GOOGLE-CAIR_MUL-Weekday-02,2663308-GOOGLE-CAIR_MUL-Weekday-02,JCU to Redlynch via Caravonica (connects to route 121),1,,1220011
+122-275,GOOGLE-CAIR_MUL-Weekday-02,2663309-GOOGLE-CAIR_MUL-Weekday-02,JCU to Redlynch via Caravonica (connects to route 121),1,,1220011
+122-275,GOOGLE-CAIR_MUL-Weekday-02,2663310-GOOGLE-CAIR_MUL-Weekday-02,JCU to Redlynch via Caravonica (connects to route 121),1,,1220011
+122-275,GOOGLE-CAIR_MUL-Weekday-02,2663311-GOOGLE-CAIR_MUL-Weekday-02,JCU to Redlynch via Caravonica (connects to route 121),1,,1220011
+122-275,GOOGLE-CAIR_MUL-Weekday-02,2663312-GOOGLE-CAIR_MUL-Weekday-02,JCU to Redlynch via Caravonica (connects to route 121),1,,1220011
+122-275,GOOGLE-CAIR_MUL-Weekday-02,2663313-GOOGLE-CAIR_MUL-Weekday-02,JCU to Redlynch via Caravonica (connects to route 121),1,,1220011
+122-275,GOOGLE-CAIR_MUL-Weekday-02,2663314-GOOGLE-CAIR_MUL-Weekday-02,JCU to Redlynch via Caravonica (connects to route 121),1,,1220011
+122-275,GOOGLE-CAIR_MUL-Weekday-02,2663315-GOOGLE-CAIR_MUL-Weekday-02,JCU to Redlynch via Caravonica (connects to route 121),1,,1220011
+122-275,GOOGLE-CAIR_MUL-Weekday-02,2663316-GOOGLE-CAIR_MUL-Weekday-02,JCU to Redlynch via Caravonica (connects to route 121),1,,1220011
+122-275,GOOGLE-CAIR_MUL-Weekday-02,2663317-GOOGLE-CAIR_MUL-Weekday-02,JCU to Redlynch via Caravonica (connects to route 121),1,,1220011
+122-275,GOOGLE-CAIR_MUL-Weekday-02,2663318-GOOGLE-CAIR_MUL-Weekday-02,JCU to Redlynch via Caravonica (connects to route 121),1,,1220011
+122-275,GOOGLE-CAIR_MUL-Weekday-02,2663319-GOOGLE-CAIR_MUL-Weekday-02,JCU to Redlynch via Caravonica (connects to route 121),1,,1220011
+122-275,GOOGLE-CAIR_MUL-Weekday-02,2663320-GOOGLE-CAIR_MUL-Weekday-02,JCU to Redlynch via Caravonica (connects to route 121),1,,1220011
+122-275,GOOGLE-CAIR_MUL-Weekday-02,2663321-GOOGLE-CAIR_MUL-Weekday-02,JCU to Redlynch via Caravonica (connects to route 121),1,,1220011
+122-275,GOOGLE-CAIR_MUL-Weekday-02,2663322-GOOGLE-CAIR_MUL-Weekday-02,JCU to Redlynch via Caravonica (connects to route 121),1,,1220011
+122-275,GOOGLE-CAIR_MUL-Weekday-02,2663323-GOOGLE-CAIR_MUL-Weekday-02,Redlynch to JCU via Caravonica,0,,1220010
+122-275,GOOGLE-CAIR_MUL-Weekday-02,2663324-GOOGLE-CAIR_MUL-Weekday-02,Redlynch to JCU via Caravonica,0,,1220010
+122-275,GOOGLE-CAIR_MUL-Weekday-02,2663325-GOOGLE-CAIR_MUL-Weekday-02,Redlynch to JCU via Caravonica,0,,1220010
+122-275,GOOGLE-CAIR_MUL-Weekday-02,2663326-GOOGLE-CAIR_MUL-Weekday-02,Redlynch to JCU via Caravonica,0,,1220010
+122-275,GOOGLE-CAIR_MUL-Weekday-02,2663327-GOOGLE-CAIR_MUL-Weekday-02,Redlynch to JCU via Caravonica,0,,1220010
+122-275,GOOGLE-CAIR_MUL-Weekday-02,2663328-GOOGLE-CAIR_MUL-Weekday-02,Redlynch to JCU via Caravonica,0,,1220010
+122-275,GOOGLE-CAIR_MUL-Weekday-02,2663329-GOOGLE-CAIR_MUL-Weekday-02,Redlynch to JCU via Caravonica,0,,1220010
+122-275,GOOGLE-CAIR_MUL-Weekday-02,2663330-GOOGLE-CAIR_MUL-Weekday-02,Redlynch to JCU via Caravonica,0,,1220010
+122-275,GOOGLE-CAIR_MUL-Weekday-02,2663331-GOOGLE-CAIR_MUL-Weekday-02,Redlynch to JCU via Caravonica,0,,1220010
+122-275,GOOGLE-CAIR_MUL-Weekday-02,2663332-GOOGLE-CAIR_MUL-Weekday-02,Redlynch to JCU via Caravonica,0,,1220010
+122-275,GOOGLE-CAIR_MUL-Weekday-02,2663333-GOOGLE-CAIR_MUL-Weekday-02,Redlynch to JCU via Caravonica,0,,1220010
+122-275,GOOGLE-CAIR_MUL-Weekday-02,2663334-GOOGLE-CAIR_MUL-Weekday-02,Redlynch to JCU via Caravonica,0,,1220010
+122-275,GOOGLE-CAIR_MUL-Weekday-02,2663335-GOOGLE-CAIR_MUL-Weekday-02,Redlynch to JCU via Caravonica,0,,1220010
+122-275,GOOGLE-CAIR_MUL-Weekday-02,2663336-GOOGLE-CAIR_MUL-Weekday-02,Redlynch to JCU via Caravonica,0,,1220010
+122-275,GOOGLE-CAIR_MUL-Weekday-02,2663337-GOOGLE-CAIR_MUL-Weekday-02,Redlynch to JCU via Caravonica,0,,1220010
+122-275,GOOGLE-CAIR_MUL-Weekday-02,2663338-GOOGLE-CAIR_MUL-Weekday-02,Redlynch to JCU via Caravonica,0,,1220010
+123-275,GOOGLE-CAIR_MUL-Weekday-02,2663383-GOOGLE-CAIR_MUL-Weekday-02,JCU to City via Brinsmead and Raintrees,0,,1230055
+123-275,GOOGLE-CAIR_MUL-Weekday-02,2663384-GOOGLE-CAIR_MUL-Weekday-02,JCU to City via Brinsmead and Raintrees,0,,1230055
+123-275,GOOGLE-CAIR_MUL-Weekday-02,2663385-GOOGLE-CAIR_MUL-Weekday-02,JCU to City via Brinsmead and Raintrees,0,,1230053
+123-275,GOOGLE-CAIR_MUL-Weekday-02,2663386-GOOGLE-CAIR_MUL-Weekday-02,JCU to City via Brinsmead and Raintrees,0,,1230053
+123-275,GOOGLE-CAIR_MUL-Weekday-02,2663387-GOOGLE-CAIR_MUL-Weekday-02,JCU to City via Brinsmead and Raintrees,0,,1230053
+123-275,GOOGLE-CAIR_MUL-Weekday-02,2663388-GOOGLE-CAIR_MUL-Weekday-02,JCU to City via Brinsmead and Raintrees,0,,1230053
+123-275,GOOGLE-CAIR_MUL-Weekday-02,2663389-GOOGLE-CAIR_MUL-Weekday-02,JCU to City via Brinsmead and Raintrees,0,,1230053
+123-275,GOOGLE-CAIR_MUL-Weekday-02,2663390-GOOGLE-CAIR_MUL-Weekday-02,JCU to City via Brinsmead and Raintrees,0,,1230053
+123-275,GOOGLE-CAIR_MUL-Weekday-02,2663391-GOOGLE-CAIR_MUL-Weekday-02,JCU to City via Brinsmead and Raintrees,0,,1230053
+123-275,GOOGLE-CAIR_MUL-Weekday-02,2663392-GOOGLE-CAIR_MUL-Weekday-02,JCU to City via Brinsmead and Raintrees,0,,1230053
+123-275,GOOGLE-CAIR_MUL-Weekday-02,2663393-GOOGLE-CAIR_MUL-Weekday-02,JCU to City via Brinsmead and Raintrees,0,,1230053
+123-275,GOOGLE-CAIR_MUL-Weekday-02,2663394-GOOGLE-CAIR_MUL-Weekday-02,JCU to City via Brinsmead and Raintrees,0,,1230053
+123-275,GOOGLE-CAIR_MUL-Weekday-02,2663395-GOOGLE-CAIR_MUL-Weekday-02,JCU to City via Brinsmead and Raintrees,0,,1230053
+123-275,GOOGLE-CAIR_MUL-Weekday-02,2663396-GOOGLE-CAIR_MUL-Weekday-02,JCU to City via Brinsmead and Raintrees,0,,1230053
+123-275,GOOGLE-CAIR_MUL-Weekday-02,2663397-GOOGLE-CAIR_MUL-Weekday-02,JCU to City via Brinsmead and Raintrees,0,,1230048
+123-275,GOOGLE-CAIR_MUL-Weekday-02,2663398-GOOGLE-CAIR_MUL-Weekday-02,JCU to City via Brinsmead and Raintrees,0,,1230048
+123-275,GOOGLE-CAIR_MUL-Weekday-02,2663399-GOOGLE-CAIR_MUL-Weekday-02,JCU to City via Brinsmead and Raintrees,0,,1230048
+123-275,GOOGLE-CAIR_MUL-Weekday-02,2663400-GOOGLE-CAIR_MUL-Weekday-02,JCU to City via Brinsmead and Raintrees,0,,1230048
+123-275,GOOGLE-CAIR_MUL-Weekday-02,2663401-GOOGLE-CAIR_MUL-Weekday-02,JCU to City via Brinsmead and Raintrees,0,,1230048
+123-275,GOOGLE-CAIR_MUL-Weekday-02,2663402-GOOGLE-CAIR_MUL-Weekday-02,JCU to City via Brinsmead and Raintrees,0,,1230048
+123-275,GOOGLE-CAIR_MUL-Weekday-02,2663403-GOOGLE-CAIR_MUL-Weekday-02,JCU to City via Brinsmead and Raintrees,0,,1230048
+123-275,GOOGLE-CAIR_MUL-Weekday-02,2663404-GOOGLE-CAIR_MUL-Weekday-02,JCU to City via Brinsmead and Raintrees,0,,1230048
+123-275,GOOGLE-CAIR_MUL-Weekday-02,2663405-GOOGLE-CAIR_MUL-Weekday-02,JCU to City via Brinsmead and Raintrees,0,,1230048
+123-275,GOOGLE-CAIR_MUL-Weekday-02,2663406-GOOGLE-CAIR_MUL-Weekday-02,JCU to City via Brinsmead and Raintrees,0,,1230048
+123-275,GOOGLE-CAIR_MUL-Weekday-02,2663407-GOOGLE-CAIR_MUL-Weekday-02,JCU to City via Brinsmead and Raintrees,0,,1230048
+123-275,GOOGLE-CAIR_MUL-Weekday-02,2663408-GOOGLE-CAIR_MUL-Weekday-02,JCU to City via Brinsmead and Raintrees,0,,1230048
+123-275,GOOGLE-CAIR_MUL-Weekday-02,2663409-GOOGLE-CAIR_MUL-Weekday-02,JCU to City via Brinsmead and Raintrees,0,,1230054
+123-275,GOOGLE-CAIR_MUL-Weekday-02,2663410-GOOGLE-CAIR_MUL-Weekday-02,JCU to City via Brinsmead and Raintrees,0,,1230054
+123-275,GOOGLE-CAIR_MUL-Weekday-02,2663411-GOOGLE-CAIR_MUL-Weekday-02,JCU to City via Brinsmead and Raintrees,0,,1230054
+123-275,GOOGLE-CAIR_MUL-Weekday-02,2663412-GOOGLE-CAIR_MUL-Weekday-02,JCU to City via Brinsmead and Raintrees,0,,1230054
+123-275,GOOGLE-CAIR_MUL-Weekday-02,2663413-GOOGLE-CAIR_MUL-Weekday-02,City to JCU via Raintrees and Brinsmead,1,,1230056
+123-275,GOOGLE-CAIR_MUL-Weekday-02,2663414-GOOGLE-CAIR_MUL-Weekday-02,City to JCU via Raintrees and Brinsmead,1,,1230058
+123-275,GOOGLE-CAIR_MUL-Weekday-02,2663415-GOOGLE-CAIR_MUL-Weekday-02,City to JCU via Raintrees and Brinsmead,1,,1230056
+123-275,GOOGLE-CAIR_MUL-Weekday-02,2663416-GOOGLE-CAIR_MUL-Weekday-02,City to JCU via Raintrees and Brinsmead,1,,1230058
+123-275,GOOGLE-CAIR_MUL-Weekday-02,2663417-GOOGLE-CAIR_MUL-Weekday-02,City to JCU via Raintrees and Brinsmead,1,,1230056
+123-275,GOOGLE-CAIR_MUL-Weekday-02,2663418-GOOGLE-CAIR_MUL-Weekday-02,City to JCU via Raintrees and Brinsmead,1,,1230058
+123-275,GOOGLE-CAIR_MUL-Weekday-02,2663419-GOOGLE-CAIR_MUL-Weekday-02,City to JCU via Raintrees and Brinsmead,1,,1230056
+123-275,GOOGLE-CAIR_MUL-Weekday-02,2663420-GOOGLE-CAIR_MUL-Weekday-02,City to JCU via Raintrees and Brinsmead,1,,1230058
+123-275,GOOGLE-CAIR_MUL-Weekday-02,2663421-GOOGLE-CAIR_MUL-Weekday-02,City to JCU via Raintrees and Brinsmead,1,,1230056
+123-275,GOOGLE-CAIR_MUL-Weekday-02,2663422-GOOGLE-CAIR_MUL-Weekday-02,City to JCU via Raintrees and Brinsmead,1,,1230058
+123-275,GOOGLE-CAIR_MUL-Weekday-02,2663423-GOOGLE-CAIR_MUL-Weekday-02,City to JCU via Raintrees and Brinsmead,1,,1230056
+123-275,GOOGLE-CAIR_MUL-Weekday-02,2663424-GOOGLE-CAIR_MUL-Weekday-02,City to JCU via Raintrees and Brinsmead,1,,1230058
+123-275,GOOGLE-CAIR_MUL-Weekday-02,2663425-GOOGLE-CAIR_MUL-Weekday-02,City to JCU via Raintrees and Brinsmead,1,,1230056
+123-275,GOOGLE-CAIR_MUL-Weekday-02,2663426-GOOGLE-CAIR_MUL-Weekday-02,City to JCU via Raintrees and Brinsmead,1,,1230058
+123-275,GOOGLE-CAIR_MUL-Weekday-02,2663427-GOOGLE-CAIR_MUL-Weekday-02,City to JCU via Raintrees and Brinsmead,1,,1230056
+123-275,GOOGLE-CAIR_MUL-Weekday-02,2663428-GOOGLE-CAIR_MUL-Weekday-02,City to JCU via Raintrees and Brinsmead,1,,1230058
+123-275,GOOGLE-CAIR_MUL-Weekday-02,2663429-GOOGLE-CAIR_MUL-Weekday-02,City to JCU via Raintrees and Brinsmead,1,,1230056
+123-275,GOOGLE-CAIR_MUL-Weekday-02,2663430-GOOGLE-CAIR_MUL-Weekday-02,City to JCU via Raintrees and Brinsmead,1,,1230058
+123-275,GOOGLE-CAIR_MUL-Weekday-02,2663431-GOOGLE-CAIR_MUL-Weekday-02,City to JCU via Raintrees and Brinsmead,1,,1230056
+123-275,GOOGLE-CAIR_MUL-Weekday-02,2663432-GOOGLE-CAIR_MUL-Weekday-02,City to JCU via Raintrees and Brinsmead,1,,1230058
+123-275,GOOGLE-CAIR_MUL-Weekday-02,2663433-GOOGLE-CAIR_MUL-Weekday-02,City to JCU via Raintrees and Brinsmead,1,,1230056
+123-275,GOOGLE-CAIR_MUL-Weekday-02,2663434-GOOGLE-CAIR_MUL-Weekday-02,City to JCU via Raintrees and Brinsmead,1,,1230058
+123-275,GOOGLE-CAIR_MUL-Weekday-02,2663435-GOOGLE-CAIR_MUL-Weekday-02,City to JCU via Raintrees and Brinsmead,1,,1230056
+123-275,GOOGLE-CAIR_MUL-Weekday-02,2663436-GOOGLE-CAIR_MUL-Weekday-02,City to JCU via Raintrees and Brinsmead,1,,1230058
+123-275,GOOGLE-CAIR_MUL-Weekday-02,2663437-GOOGLE-CAIR_MUL-Weekday-02,City to JCU via Raintrees and Brinsmead,1,,1230056
+123-275,GOOGLE-CAIR_MUL-Weekday-02,2663438-GOOGLE-CAIR_MUL-Weekday-02,City to JCU via Raintrees and Brinsmead,1,,1230057
+123-275,GOOGLE-CAIR_MUL-Weekday-02,2663439-GOOGLE-CAIR_MUL-Weekday-02,City to JCU via Raintrees and Brinsmead,1,,1230057
+123-275,GOOGLE-CAIR_MUL-Weekday-02,2663440-GOOGLE-CAIR_MUL-Weekday-02,City to JCU via Raintrees and Brinsmead,1,,1230057
+123-275,GOOGLE-CAIR_MUL-Weekday-02,2663441-GOOGLE-CAIR_MUL-Weekday-02,City to JCU via Raintrees and Brinsmead,1,,1230057
+123-275,GOOGLE-CAIR_MUL-Weekday-02,2663442-GOOGLE-CAIR_MUL-Weekday-02,City to JCU via Raintrees and Brinsmead,1,,1230057
+130-275,GOOGLE-CAIR_MUL-Weekday-02,2663498-GOOGLE-CAIR_MUL-Weekday-02,Raintrees to City via Edge Hill,0,,1300012
+130-275,GOOGLE-CAIR_MUL-Weekday-02,2663499-GOOGLE-CAIR_MUL-Weekday-02,Raintrees to City via Edge Hill,0,,1300012
+130-275,GOOGLE-CAIR_MUL-Weekday-02,2663500-GOOGLE-CAIR_MUL-Weekday-02,Raintrees to City via Edge Hill,0,,1300012
+130-275,GOOGLE-CAIR_MUL-Weekday-02,2663501-GOOGLE-CAIR_MUL-Weekday-02,Raintrees to City via Edge Hill,0,,1300012
+130-275,GOOGLE-CAIR_MUL-Weekday-02,2663502-GOOGLE-CAIR_MUL-Weekday-02,Raintrees to City via Edge Hill,0,,1300012
+130-275,GOOGLE-CAIR_MUL-Weekday-02,2663503-GOOGLE-CAIR_MUL-Weekday-02,Raintrees to City via Edge Hill,0,,1300012
+130-275,GOOGLE-CAIR_MUL-Weekday-02,2663504-GOOGLE-CAIR_MUL-Weekday-02,Raintrees to City via Edge Hill,0,,1300012
+130-275,GOOGLE-CAIR_MUL-Weekday-02,2663505-GOOGLE-CAIR_MUL-Weekday-02,Raintrees to City via Edge Hill,0,,1300012
+130-275,GOOGLE-CAIR_MUL-Weekday-02,2663506-GOOGLE-CAIR_MUL-Weekday-02,Raintrees to City via Edge Hill,0,,1300012
+130-275,GOOGLE-CAIR_MUL-Weekday-02,2663507-GOOGLE-CAIR_MUL-Weekday-02,Raintrees to City via Edge Hill,0,,1300012
+130-275,GOOGLE-CAIR_MUL-Weekday-02,2663508-GOOGLE-CAIR_MUL-Weekday-02,Raintrees to City via Edge Hill,0,,1300012
+130-275,GOOGLE-CAIR_MUL-Weekday-02,2663509-GOOGLE-CAIR_MUL-Weekday-02,Raintrees to City via Edge Hill,0,,1300012
+130-275,GOOGLE-CAIR_MUL-Weekday-02,2663510-GOOGLE-CAIR_MUL-Weekday-02,Raintrees to City via Edge Hill,0,,1300012
+130-275,GOOGLE-CAIR_MUL-Weekday-02,2663511-GOOGLE-CAIR_MUL-Weekday-02,Raintrees to City via Edge Hill,0,,1300012
+130-275,GOOGLE-CAIR_MUL-Weekday-02,2663512-GOOGLE-CAIR_MUL-Weekday-02,Raintrees to City via Edge Hill,0,,1300012
+130-275,GOOGLE-CAIR_MUL-Weekday-02,2663513-GOOGLE-CAIR_MUL-Weekday-02,Raintrees to City via Edge Hill,0,,1300012
+130-275,GOOGLE-CAIR_MUL-Weekday-02,2663514-GOOGLE-CAIR_MUL-Weekday-02,City to Raintrees via Edge Hill,1,,1300014
+130-275,GOOGLE-CAIR_MUL-Weekday-02,2663515-GOOGLE-CAIR_MUL-Weekday-02,City to Raintrees via Edge Hill,1,,1300014
+130-275,GOOGLE-CAIR_MUL-Weekday-02,2663516-GOOGLE-CAIR_MUL-Weekday-02,City to Raintrees via Edge Hill,1,,1300014
+130-275,GOOGLE-CAIR_MUL-Weekday-02,2663517-GOOGLE-CAIR_MUL-Weekday-02,City to Raintrees via Edge Hill,1,,1300014
+130-275,GOOGLE-CAIR_MUL-Weekday-02,2663518-GOOGLE-CAIR_MUL-Weekday-02,City to Raintrees via Edge Hill,1,,1300014
+130-275,GOOGLE-CAIR_MUL-Weekday-02,2663519-GOOGLE-CAIR_MUL-Weekday-02,City to Raintrees via Edge Hill,1,,1300014
+130-275,GOOGLE-CAIR_MUL-Weekday-02,2663520-GOOGLE-CAIR_MUL-Weekday-02,City to Raintrees via Edge Hill,1,,1300014
+130-275,GOOGLE-CAIR_MUL-Weekday-02,2663521-GOOGLE-CAIR_MUL-Weekday-02,City to Raintrees via Edge Hill,1,,1300014
+130-275,GOOGLE-CAIR_MUL-Weekday-02,2663522-GOOGLE-CAIR_MUL-Weekday-02,City to Raintrees via Edge Hill,1,,1300014
+130-275,GOOGLE-CAIR_MUL-Weekday-02,2663523-GOOGLE-CAIR_MUL-Weekday-02,City to Raintrees via Edge Hill,1,,1300014
+130-275,GOOGLE-CAIR_MUL-Weekday-02,2663524-GOOGLE-CAIR_MUL-Weekday-02,City to Raintrees via Edge Hill,1,,1300014
+130-275,GOOGLE-CAIR_MUL-Weekday-02,2663525-GOOGLE-CAIR_MUL-Weekday-02,City to Raintrees via Edge Hill,1,,1300014
+130-275,GOOGLE-CAIR_MUL-Weekday-02,2663526-GOOGLE-CAIR_MUL-Weekday-02,City to Raintrees via Edge Hill,1,,1300014
+130-275,GOOGLE-CAIR_MUL-Weekday-02,2663527-GOOGLE-CAIR_MUL-Weekday-02,City to Raintrees via Edge Hill,1,,1300014
+130-275,GOOGLE-CAIR_MUL-Weekday-02,2663528-GOOGLE-CAIR_MUL-Weekday-02,City to Raintrees via Edge Hill,1,,1300014
+130-275,GOOGLE-CAIR_MUL-Weekday-02,2663529-GOOGLE-CAIR_MUL-Weekday-02,City to Raintrees via Edge Hill,1,,1300014
+130-275,GOOGLE-CAIR_MUL-Weekday-02,2663530-GOOGLE-CAIR_MUL-Weekday-02,City to Raintrees via Edge Hill,1,,1300014
+131-275,GOOGLE-CAIR_MUL-Weekday-02,2663571-GOOGLE-CAIR_MUL-Weekday-02,Raintrees to City via Whitfield,0,,1310007
+131-275,GOOGLE-CAIR_MUL-Weekday-02,2663572-GOOGLE-CAIR_MUL-Weekday-02,Raintrees to City via Whitfield,0,,1310007
+131-275,GOOGLE-CAIR_MUL-Weekday-02,2663573-GOOGLE-CAIR_MUL-Weekday-02,Raintrees to City via Whitfield,0,,1310007
+131-275,GOOGLE-CAIR_MUL-Weekday-02,2663574-GOOGLE-CAIR_MUL-Weekday-02,Raintrees to City via Whitfield,0,,1310007
+131-275,GOOGLE-CAIR_MUL-Weekday-02,2663575-GOOGLE-CAIR_MUL-Weekday-02,Raintrees to City via Whitfield,0,,1310007
+131-275,GOOGLE-CAIR_MUL-Weekday-02,2663576-GOOGLE-CAIR_MUL-Weekday-02,Raintrees to City via Whitfield,0,,1310007
+131-275,GOOGLE-CAIR_MUL-Weekday-02,2663577-GOOGLE-CAIR_MUL-Weekday-02,Raintrees to City via Whitfield,0,,1310007
+131-275,GOOGLE-CAIR_MUL-Weekday-02,2663578-GOOGLE-CAIR_MUL-Weekday-02,Raintrees to City via Whitfield,0,,1310007
+131-275,GOOGLE-CAIR_MUL-Weekday-02,2663579-GOOGLE-CAIR_MUL-Weekday-02,Raintrees to City via Whitfield,0,,1310007
+131-275,GOOGLE-CAIR_MUL-Weekday-02,2663580-GOOGLE-CAIR_MUL-Weekday-02,Raintrees to City via Whitfield,0,,1310007
+131-275,GOOGLE-CAIR_MUL-Weekday-02,2663581-GOOGLE-CAIR_MUL-Weekday-02,Raintrees to City via Whitfield,0,,1310007
+131-275,GOOGLE-CAIR_MUL-Weekday-02,2663582-GOOGLE-CAIR_MUL-Weekday-02,Raintrees to City via Whitfield,0,,1310007
+131-275,GOOGLE-CAIR_MUL-Weekday-02,2663583-GOOGLE-CAIR_MUL-Weekday-02,Raintrees to City via Whitfield,0,,1310007
+131-275,GOOGLE-CAIR_MUL-Weekday-02,2663584-GOOGLE-CAIR_MUL-Weekday-02,Raintrees to City via Whitfield,0,,1310007
+131-275,GOOGLE-CAIR_MUL-Weekday-02,2663585-GOOGLE-CAIR_MUL-Weekday-02,Raintrees to City via Whitfield,0,,1310007
+131-275,GOOGLE-CAIR_MUL-Weekday-02,2663586-GOOGLE-CAIR_MUL-Weekday-02,Raintrees to City via Whitfield,0,,1310007
+131-275,GOOGLE-CAIR_MUL-Weekday-02,2663587-GOOGLE-CAIR_MUL-Weekday-02,City to Raintrees via Whitfield,1,,1310012
+131-275,GOOGLE-CAIR_MUL-Weekday-02,2663588-GOOGLE-CAIR_MUL-Weekday-02,City to Raintrees via Whitfield,1,,1310012
+131-275,GOOGLE-CAIR_MUL-Weekday-02,2663589-GOOGLE-CAIR_MUL-Weekday-02,City to Raintrees via Whitfield,1,,1310012
+131-275,GOOGLE-CAIR_MUL-Weekday-02,2663590-GOOGLE-CAIR_MUL-Weekday-02,City to Raintrees via Whitfield,1,,1310012
+131-275,GOOGLE-CAIR_MUL-Weekday-02,2663591-GOOGLE-CAIR_MUL-Weekday-02,City to Raintrees via Whitfield,1,,1310012
+131-275,GOOGLE-CAIR_MUL-Weekday-02,2663592-GOOGLE-CAIR_MUL-Weekday-02,City to Raintrees via Whitfield,1,,1310012
+131-275,GOOGLE-CAIR_MUL-Weekday-02,2663593-GOOGLE-CAIR_MUL-Weekday-02,City to Raintrees via Whitfield,1,,1310012
+131-275,GOOGLE-CAIR_MUL-Weekday-02,2663594-GOOGLE-CAIR_MUL-Weekday-02,City to Raintrees via Whitfield,1,,1310012
+131-275,GOOGLE-CAIR_MUL-Weekday-02,2663595-GOOGLE-CAIR_MUL-Weekday-02,City to Raintrees via Whitfield,1,,1310012
+131-275,GOOGLE-CAIR_MUL-Weekday-02,2663596-GOOGLE-CAIR_MUL-Weekday-02,City to Raintrees via Whitfield,1,,1310012
+131-275,GOOGLE-CAIR_MUL-Weekday-02,2663597-GOOGLE-CAIR_MUL-Weekday-02,City to Raintrees via Whitfield,1,,1310012
+131-275,GOOGLE-CAIR_MUL-Weekday-02,2663598-GOOGLE-CAIR_MUL-Weekday-02,City to Raintrees via Whitfield,1,,1310012
+131-275,GOOGLE-CAIR_MUL-Weekday-02,2663599-GOOGLE-CAIR_MUL-Weekday-02,City to Raintrees via Whitfield,1,,1310012
+131-275,GOOGLE-CAIR_MUL-Weekday-02,2663600-GOOGLE-CAIR_MUL-Weekday-02,City to Raintrees via Whitfield,1,,1310012
+131-275,GOOGLE-CAIR_MUL-Weekday-02,2663601-GOOGLE-CAIR_MUL-Weekday-02,City to Raintrees via Whitfield,1,,1310012
+131-275,GOOGLE-CAIR_MUL-Weekday-02,2663602-GOOGLE-CAIR_MUL-Weekday-02,City to Raintrees via Whitfield,1,,1310012
+131N-275,GOOGLE-CAIR_MUL-Weekday-02,2663645-GOOGLE-CAIR_MUL-Weekday-02,City to Raintrees via Edge Hill and Whitfield,1,509175,131N0006
+133-275,GOOGLE-CAIR_MUL-Weekday-02,2663648-GOOGLE-CAIR_MUL-Weekday-02,"City to Earlville via Bungalow, Mooroobool",1,,1330017
+133-275,GOOGLE-CAIR_MUL-Weekday-02,2663649-GOOGLE-CAIR_MUL-Weekday-02,"Earlville to City via Mooroobool, Bungalow",0,,1330015
+133-275,GOOGLE-CAIR_MUL-Weekday-02,2663650-GOOGLE-CAIR_MUL-Weekday-02,"Earlville to City via Mooroobool, Bungalow",0,,1330015
+133-275,GOOGLE-CAIR_MUL-Weekday-02,2663651-GOOGLE-CAIR_MUL-Weekday-02,"Earlville to City via Mooroobool, Bungalow",0,,1330015
+133-275,GOOGLE-CAIR_MUL-Weekday-02,2663652-GOOGLE-CAIR_MUL-Weekday-02,"Earlville to City via Mooroobool, Bungalow",0,,1330015
+133-275,GOOGLE-CAIR_MUL-Weekday-02,2663653-GOOGLE-CAIR_MUL-Weekday-02,"Earlville to City via Mooroobool, Bungalow",0,,1330015
+133-275,GOOGLE-CAIR_MUL-Weekday-02,2663654-GOOGLE-CAIR_MUL-Weekday-02,"Earlville to City via Mooroobool, Bungalow",0,,1330015
+133-275,GOOGLE-CAIR_MUL-Weekday-02,2663655-GOOGLE-CAIR_MUL-Weekday-02,"Earlville to City via Mooroobool, Bungalow",0,,1330015
+133-275,GOOGLE-CAIR_MUL-Weekday-02,2663656-GOOGLE-CAIR_MUL-Weekday-02,"Earlville to City via Mooroobool, Bungalow",0,,1330015
+133-275,GOOGLE-CAIR_MUL-Weekday-02,2663657-GOOGLE-CAIR_MUL-Weekday-02,"Earlville to City via Mooroobool, Bungalow",0,,1330015
+133-275,GOOGLE-CAIR_MUL-Weekday-02,2663658-GOOGLE-CAIR_MUL-Weekday-02,"Earlville to City via Mooroobool, Bungalow",0,,1330015
+133-275,GOOGLE-CAIR_MUL-Weekday-02,2663659-GOOGLE-CAIR_MUL-Weekday-02,"Earlville to City via Mooroobool, Bungalow",0,,1330015
+133-275,GOOGLE-CAIR_MUL-Weekday-02,2663660-GOOGLE-CAIR_MUL-Weekday-02,"Earlville to City via Mooroobool, Bungalow",0,,1330015
+133-275,GOOGLE-CAIR_MUL-Weekday-02,2663661-GOOGLE-CAIR_MUL-Weekday-02,"Earlville to City via Mooroobool, Bungalow",0,,1330015
+133-275,GOOGLE-CAIR_MUL-Weekday-02,2663662-GOOGLE-CAIR_MUL-Weekday-02,"Earlville to City via Mooroobool, Bungalow",0,,1330015
+133-275,GOOGLE-CAIR_MUL-Weekday-02,2663663-GOOGLE-CAIR_MUL-Weekday-02,"Earlville to City via Mooroobool, Bungalow",0,,1330015
+133-275,GOOGLE-CAIR_MUL-Weekday-02,2663664-GOOGLE-CAIR_MUL-Weekday-02,"Earlville to City via Mooroobool, Bungalow",0,,1330015
+133-275,GOOGLE-CAIR_MUL-Weekday-02,2663665-GOOGLE-CAIR_MUL-Weekday-02,"Earlville to City via Mooroobool, Bungalow",0,,1330015
+133-275,GOOGLE-CAIR_MUL-Weekday-02,2663666-GOOGLE-CAIR_MUL-Weekday-02,"Earlville to City via Mooroobool, Bungalow",0,,1330015
+133-275,GOOGLE-CAIR_MUL-Weekday-02,2663667-GOOGLE-CAIR_MUL-Weekday-02,"City to Earlville via Bungalow, Mooroobool",1,,1330018
+133-275,GOOGLE-CAIR_MUL-Weekday-02,2663668-GOOGLE-CAIR_MUL-Weekday-02,"City to Earlville via Bungalow, Mooroobool",1,,1330018
+133-275,GOOGLE-CAIR_MUL-Weekday-02,2663669-GOOGLE-CAIR_MUL-Weekday-02,"City to Earlville via Bungalow, Mooroobool",1,,1330018
+133-275,GOOGLE-CAIR_MUL-Weekday-02,2663670-GOOGLE-CAIR_MUL-Weekday-02,"City to Earlville via Bungalow, Mooroobool",1,,1330018
+133-275,GOOGLE-CAIR_MUL-Weekday-02,2663671-GOOGLE-CAIR_MUL-Weekday-02,"City to Earlville via Bungalow, Mooroobool",1,,1330018
+133-275,GOOGLE-CAIR_MUL-Weekday-02,2663672-GOOGLE-CAIR_MUL-Weekday-02,"City to Earlville via Bungalow, Mooroobool",1,,1330018
+133-275,GOOGLE-CAIR_MUL-Weekday-02,2663673-GOOGLE-CAIR_MUL-Weekday-02,"City to Earlville via Bungalow, Mooroobool",1,,1330018
+133-275,GOOGLE-CAIR_MUL-Weekday-02,2663674-GOOGLE-CAIR_MUL-Weekday-02,"City to Earlville via Bungalow, Mooroobool",1,,1330018
+133-275,GOOGLE-CAIR_MUL-Weekday-02,2663675-GOOGLE-CAIR_MUL-Weekday-02,"City to Earlville via Bungalow, Mooroobool",1,,1330018
+133-275,GOOGLE-CAIR_MUL-Weekday-02,2663676-GOOGLE-CAIR_MUL-Weekday-02,"City to Earlville via Bungalow, Mooroobool",1,,1330018
+133-275,GOOGLE-CAIR_MUL-Weekday-02,2663677-GOOGLE-CAIR_MUL-Weekday-02,"City to Earlville via Bungalow, Mooroobool",1,,1330018
+133-275,GOOGLE-CAIR_MUL-Weekday-02,2663678-GOOGLE-CAIR_MUL-Weekday-02,"City to Earlville via Bungalow, Mooroobool",1,,1330018
+133-275,GOOGLE-CAIR_MUL-Weekday-02,2663679-GOOGLE-CAIR_MUL-Weekday-02,"City to Earlville via Bungalow, Mooroobool",1,,1330018
+133-275,GOOGLE-CAIR_MUL-Weekday-02,2663680-GOOGLE-CAIR_MUL-Weekday-02,"City to Earlville via Bungalow, Mooroobool",1,,1330018
+133-275,GOOGLE-CAIR_MUL-Weekday-02,2663681-GOOGLE-CAIR_MUL-Weekday-02,"City to Earlville via Bungalow, Mooroobool",1,,1330018
+133-275,GOOGLE-CAIR_MUL-Weekday-02,2663682-GOOGLE-CAIR_MUL-Weekday-02,"City to Earlville via Bungalow, Mooroobool",1,,1330018
+133-275,GOOGLE-CAIR_MUL-Weekday-02,2663683-GOOGLE-CAIR_MUL-Weekday-02,"City to Earlville via Bungalow, Mooroobool",1,,1330018
+140-275,GOOGLE-CAIR_MUL-Weekday-02,2663732-GOOGLE-CAIR_MUL-Weekday-02,Edmonton to City via Bentley Park,0,,1400015
+140-275,GOOGLE-CAIR_MUL-Weekday-02,2663733-GOOGLE-CAIR_MUL-Weekday-02,Edmonton to City via Bentley Park,0,,1400015
+140-275,GOOGLE-CAIR_MUL-Weekday-02,2663734-GOOGLE-CAIR_MUL-Weekday-02,Edmonton to City via Bentley Park,0,,1400015
+140-275,GOOGLE-CAIR_MUL-Weekday-02,2663735-GOOGLE-CAIR_MUL-Weekday-02,Edmonton to City via Bentley Park,0,,1400015
+140-275,GOOGLE-CAIR_MUL-Weekday-02,2663736-GOOGLE-CAIR_MUL-Weekday-02,Edmonton to City via Bentley Park,0,,1400015
+140-275,GOOGLE-CAIR_MUL-Weekday-02,2663737-GOOGLE-CAIR_MUL-Weekday-02,Edmonton to City via Bentley Park,0,,1400015
+140-275,GOOGLE-CAIR_MUL-Weekday-02,2663738-GOOGLE-CAIR_MUL-Weekday-02,Edmonton to City via Bentley Park,0,,1400015
+140-275,GOOGLE-CAIR_MUL-Weekday-02,2663739-GOOGLE-CAIR_MUL-Weekday-02,Edmonton to City via Bentley Park,0,,1400015
+140-275,GOOGLE-CAIR_MUL-Weekday-02,2663740-GOOGLE-CAIR_MUL-Weekday-02,Edmonton to City via Bentley Park,0,,1400015
+140-275,GOOGLE-CAIR_MUL-Weekday-02,2663741-GOOGLE-CAIR_MUL-Weekday-02,Edmonton to City via Bentley Park,0,,1400015
+140-275,GOOGLE-CAIR_MUL-Weekday-02,2663742-GOOGLE-CAIR_MUL-Weekday-02,Edmonton to City via Bentley Park,0,,1400015
+140-275,GOOGLE-CAIR_MUL-Weekday-02,2663743-GOOGLE-CAIR_MUL-Weekday-02,Edmonton to City via Bentley Park,0,,1400015
+140-275,GOOGLE-CAIR_MUL-Weekday-02,2663744-GOOGLE-CAIR_MUL-Weekday-02,Edmonton to City via Bentley Park,0,,1400015
+140-275,GOOGLE-CAIR_MUL-Weekday-02,2663745-GOOGLE-CAIR_MUL-Weekday-02,Edmonton to City via Bentley Park,0,,1400015
+140-275,GOOGLE-CAIR_MUL-Weekday-02,2663746-GOOGLE-CAIR_MUL-Weekday-02,Edmonton to City via Bentley Park,0,,1400015
+140-275,GOOGLE-CAIR_MUL-Weekday-02,2663747-GOOGLE-CAIR_MUL-Weekday-02,Edmonton to City via Bentley Park,0,,1400015
+140-275,GOOGLE-CAIR_MUL-Weekday-02,2663748-GOOGLE-CAIR_MUL-Weekday-02,Edmonton to City via Bentley Park,0,,1400015
+140-275,GOOGLE-CAIR_MUL-Weekday-02,2663749-GOOGLE-CAIR_MUL-Weekday-02,Edmonton to City via Bentley Park,0,,1400015
+140-275,GOOGLE-CAIR_MUL-Weekday-02,2663750-GOOGLE-CAIR_MUL-Weekday-02,Edmonton to City via Bentley Park,0,,1400015
+140-275,GOOGLE-CAIR_MUL-Weekday-02,2663751-GOOGLE-CAIR_MUL-Weekday-02,Edmonton to City via Bentley Park,0,,1400015
+140-275,GOOGLE-CAIR_MUL-Weekday-02,2663752-GOOGLE-CAIR_MUL-Weekday-02,Edmonton to City via Bentley Park,0,,1400015
+140-275,GOOGLE-CAIR_MUL-Weekday-02,2663753-GOOGLE-CAIR_MUL-Weekday-02,City to Edmonton via Bentley Park,1,,1400017
+140-275,GOOGLE-CAIR_MUL-Weekday-02,2663754-GOOGLE-CAIR_MUL-Weekday-02,City to Edmonton via Bentley Park,1,,1400017
+140-275,GOOGLE-CAIR_MUL-Weekday-02,2663755-GOOGLE-CAIR_MUL-Weekday-02,City to Edmonton via Bentley Park,1,,1400017
+140-275,GOOGLE-CAIR_MUL-Weekday-02,2663756-GOOGLE-CAIR_MUL-Weekday-02,City to Edmonton via Bentley Park,1,,1400017
+140-275,GOOGLE-CAIR_MUL-Weekday-02,2663757-GOOGLE-CAIR_MUL-Weekday-02,City to Edmonton via Bentley Park,1,,1400017
+140-275,GOOGLE-CAIR_MUL-Weekday-02,2663758-GOOGLE-CAIR_MUL-Weekday-02,City to Edmonton via Bentley Park,1,,1400017
+140-275,GOOGLE-CAIR_MUL-Weekday-02,2663759-GOOGLE-CAIR_MUL-Weekday-02,City to Edmonton via Bentley Park,1,,1400017
+140-275,GOOGLE-CAIR_MUL-Weekday-02,2663760-GOOGLE-CAIR_MUL-Weekday-02,City to Edmonton via Bentley Park,1,,1400017
+140-275,GOOGLE-CAIR_MUL-Weekday-02,2663761-GOOGLE-CAIR_MUL-Weekday-02,City to Edmonton via Bentley Park,1,,1400017
+140-275,GOOGLE-CAIR_MUL-Weekday-02,2663762-GOOGLE-CAIR_MUL-Weekday-02,City to Edmonton via Bentley Park,1,,1400017
+140-275,GOOGLE-CAIR_MUL-Weekday-02,2663763-GOOGLE-CAIR_MUL-Weekday-02,City to Edmonton via Bentley Park,1,,1400017
+140-275,GOOGLE-CAIR_MUL-Weekday-02,2663764-GOOGLE-CAIR_MUL-Weekday-02,City to Edmonton via Bentley Park,1,,1400017
+140-275,GOOGLE-CAIR_MUL-Weekday-02,2663765-GOOGLE-CAIR_MUL-Weekday-02,City to Edmonton via Bentley Park,1,,1400017
+140-275,GOOGLE-CAIR_MUL-Weekday-02,2663766-GOOGLE-CAIR_MUL-Weekday-02,City to Edmonton via Bentley Park,1,,1400017
+140-275,GOOGLE-CAIR_MUL-Weekday-02,2663767-GOOGLE-CAIR_MUL-Weekday-02,City to Edmonton via Bentley Park,1,,1400017
+140-275,GOOGLE-CAIR_MUL-Weekday-02,2663768-GOOGLE-CAIR_MUL-Weekday-02,City to Edmonton via Bentley Park,1,,1400017
+140-275,GOOGLE-CAIR_MUL-Weekday-02,2663769-GOOGLE-CAIR_MUL-Weekday-02,City to Edmonton via Bentley Park,1,,1400017
+140-275,GOOGLE-CAIR_MUL-Weekday-02,2663770-GOOGLE-CAIR_MUL-Weekday-02,City to Edmonton via Bentley Park,1,,1400017
+140-275,GOOGLE-CAIR_MUL-Weekday-02,2663771-GOOGLE-CAIR_MUL-Weekday-02,City to Edmonton via Bentley Park,1,,1400017
+140N-275,GOOGLE-CAIR_MUL-Weekday-02-0000100,2663796-GOOGLE-CAIR_MUL-Weekday-02-0000100,City to Edmonton (Late night service),1,509179,140N0004
+140N-275,GOOGLE-CAIR_MUL-Weekday-02-0000100,2663797-GOOGLE-CAIR_MUL-Weekday-02-0000100,City to Edmonton (Late night service),1,509180,140N0004
+140N-275,GOOGLE-CAIR_MUL-Weekday-02-0000100,2663798-GOOGLE-CAIR_MUL-Weekday-02-0000100,City to Edmonton (Late night service),1,509181,140N0004
+140N-275,GOOGLE-CAIR_MUL-Weekday-02-0000100,2663799-GOOGLE-CAIR_MUL-Weekday-02-0000100,City to Edmonton (Late night service),1,509178,140N0004
+140N-275,GOOGLE-CAIR_MUL-Weekday-02-0000100,2663800-GOOGLE-CAIR_MUL-Weekday-02-0000100,City to Edmonton (Late night service),1,509182,140N0004
+141-275,GOOGLE-CAIR_MUL-Weekday-02,2663806-GOOGLE-CAIR_MUL-Weekday-02,Woree to City,0,,1410001
+141-275,GOOGLE-CAIR_MUL-Weekday-02,2663807-GOOGLE-CAIR_MUL-Weekday-02,Woree to City,0,,1410001
+141-275,GOOGLE-CAIR_MUL-Weekday-02,2663808-GOOGLE-CAIR_MUL-Weekday-02,Woree to City,0,,1410001
+141-275,GOOGLE-CAIR_MUL-Weekday-02,2663809-GOOGLE-CAIR_MUL-Weekday-02,Woree to City,0,,1410001
+141-275,GOOGLE-CAIR_MUL-Weekday-02,2663810-GOOGLE-CAIR_MUL-Weekday-02,Woree to City,0,,1410001
+141-275,GOOGLE-CAIR_MUL-Weekday-02,2663811-GOOGLE-CAIR_MUL-Weekday-02,Woree to City,0,,1410001
+141-275,GOOGLE-CAIR_MUL-Weekday-02,2663812-GOOGLE-CAIR_MUL-Weekday-02,Woree to City,0,,1410001
+141-275,GOOGLE-CAIR_MUL-Weekday-02,2663813-GOOGLE-CAIR_MUL-Weekday-02,Woree to City,0,,1410001
+141-275,GOOGLE-CAIR_MUL-Weekday-02,2663814-GOOGLE-CAIR_MUL-Weekday-02,Woree to City,0,,1410001
+141-275,GOOGLE-CAIR_MUL-Weekday-02,2663815-GOOGLE-CAIR_MUL-Weekday-02,Woree to City,0,,1410001
+141-275,GOOGLE-CAIR_MUL-Weekday-02,2663816-GOOGLE-CAIR_MUL-Weekday-02,Woree to City,0,,1410001
+141-275,GOOGLE-CAIR_MUL-Weekday-02,2663817-GOOGLE-CAIR_MUL-Weekday-02,Woree to City,0,,1410001
+141-275,GOOGLE-CAIR_MUL-Weekday-02,2663818-GOOGLE-CAIR_MUL-Weekday-02,Woree to City,0,,1410001
+141-275,GOOGLE-CAIR_MUL-Weekday-02,2663819-GOOGLE-CAIR_MUL-Weekday-02,Woree to City,0,,1410001
+141-275,GOOGLE-CAIR_MUL-Weekday-02,2663820-GOOGLE-CAIR_MUL-Weekday-02,Woree to City,0,,1410001
+141-275,GOOGLE-CAIR_MUL-Weekday-02,2663821-GOOGLE-CAIR_MUL-Weekday-02,Woree to City,0,,1410001
+141-275,GOOGLE-CAIR_MUL-Weekday-02,2663822-GOOGLE-CAIR_MUL-Weekday-02,Woree to City,0,,1410001
+141-275,GOOGLE-CAIR_MUL-Weekday-02,2663823-GOOGLE-CAIR_MUL-Weekday-02,Woree to City,0,,1410001
+141-275,GOOGLE-CAIR_MUL-Weekday-02,2663824-GOOGLE-CAIR_MUL-Weekday-02,Woree to City,0,,1410001
+141-275,GOOGLE-CAIR_MUL-Weekday-02,2663825-GOOGLE-CAIR_MUL-Weekday-02,Woree to City,0,,1410001
+141-275,GOOGLE-CAIR_MUL-Weekday-02,2663826-GOOGLE-CAIR_MUL-Weekday-02,Woree to City,0,,1410001
+141-275,GOOGLE-CAIR_MUL-Weekday-02,2663827-GOOGLE-CAIR_MUL-Weekday-02,Woree to City,0,,1410001
+141-275,GOOGLE-CAIR_MUL-Weekday-02,2663828-GOOGLE-CAIR_MUL-Weekday-02,Woree to City,0,,1410001
+141-275,GOOGLE-CAIR_MUL-Weekday-02,2663829-GOOGLE-CAIR_MUL-Weekday-02,Woree to City,0,,1410001
+141-275,GOOGLE-CAIR_MUL-Weekday-02,2663830-GOOGLE-CAIR_MUL-Weekday-02,City to Woree,1,,1410015
+141-275,GOOGLE-CAIR_MUL-Weekday-02,2663831-GOOGLE-CAIR_MUL-Weekday-02,City to Woree,1,,1410015
+141-275,GOOGLE-CAIR_MUL-Weekday-02,2663832-GOOGLE-CAIR_MUL-Weekday-02,City to Woree,1,,1410015
+141-275,GOOGLE-CAIR_MUL-Weekday-02,2663833-GOOGLE-CAIR_MUL-Weekday-02,City to Woree,1,,1410015
+141-275,GOOGLE-CAIR_MUL-Weekday-02,2663834-GOOGLE-CAIR_MUL-Weekday-02,City to Woree,1,,1410015
+141-275,GOOGLE-CAIR_MUL-Weekday-02,2663835-GOOGLE-CAIR_MUL-Weekday-02,City to Woree,1,,1410015
+141-275,GOOGLE-CAIR_MUL-Weekday-02,2663836-GOOGLE-CAIR_MUL-Weekday-02,City to Woree,1,,1410015
+141-275,GOOGLE-CAIR_MUL-Weekday-02,2663837-GOOGLE-CAIR_MUL-Weekday-02,City to Woree,1,,1410015
+141-275,GOOGLE-CAIR_MUL-Weekday-02,2663838-GOOGLE-CAIR_MUL-Weekday-02,City to Woree,1,,1410015
+141-275,GOOGLE-CAIR_MUL-Weekday-02,2663839-GOOGLE-CAIR_MUL-Weekday-02,City to Woree,1,,1410015
+141-275,GOOGLE-CAIR_MUL-Weekday-02,2663840-GOOGLE-CAIR_MUL-Weekday-02,City to Woree,1,,1410015
+141-275,GOOGLE-CAIR_MUL-Weekday-02,2663841-GOOGLE-CAIR_MUL-Weekday-02,City to Woree,1,,1410015
+141-275,GOOGLE-CAIR_MUL-Weekday-02,2663842-GOOGLE-CAIR_MUL-Weekday-02,City to Woree,1,,1410015
+141-275,GOOGLE-CAIR_MUL-Weekday-02,2663843-GOOGLE-CAIR_MUL-Weekday-02,City to Woree,1,,1410015
+141-275,GOOGLE-CAIR_MUL-Weekday-02,2663844-GOOGLE-CAIR_MUL-Weekday-02,City to Woree,1,,1410015
+141-275,GOOGLE-CAIR_MUL-Weekday-02,2663845-GOOGLE-CAIR_MUL-Weekday-02,City to Woree,1,,1410015
+141-275,GOOGLE-CAIR_MUL-Weekday-02,2663846-GOOGLE-CAIR_MUL-Weekday-02,City to Woree,1,,1410015
+141-275,GOOGLE-CAIR_MUL-Weekday-02,2663847-GOOGLE-CAIR_MUL-Weekday-02,City to Woree,1,,1410015
+141-275,GOOGLE-CAIR_MUL-Weekday-02,2663848-GOOGLE-CAIR_MUL-Weekday-02,City to Woree,1,,1410015
+141-275,GOOGLE-CAIR_MUL-Weekday-02,2663849-GOOGLE-CAIR_MUL-Weekday-02,City to Woree,1,,1410015
+141-275,GOOGLE-CAIR_MUL-Weekday-02,2663850-GOOGLE-CAIR_MUL-Weekday-02,City to Woree,1,,1410015
+141-275,GOOGLE-CAIR_MUL-Weekday-02,2663851-GOOGLE-CAIR_MUL-Weekday-02,City to Woree,1,,1410015
+141-275,GOOGLE-CAIR_MUL-Weekday-02,2663852-GOOGLE-CAIR_MUL-Weekday-02,City to Woree,1,,1410015
+142-275,GOOGLE-CAIR_MUL-Weekday-02,2663879-GOOGLE-CAIR_MUL-Weekday-02,City to Edmonton via Timberlea,1,,1420012
+142-275,GOOGLE-CAIR_MUL-Weekday-02,2663880-GOOGLE-CAIR_MUL-Weekday-02,City to Edmonton via Timberlea,1,,1420012
+142-275,GOOGLE-CAIR_MUL-Weekday-02,2663881-GOOGLE-CAIR_MUL-Weekday-02,City to Edmonton via Timberlea,1,,1420012
+142-275,GOOGLE-CAIR_MUL-Weekday-02,2663882-GOOGLE-CAIR_MUL-Weekday-02,City to Edmonton via Timberlea,1,,1420012
+142-275,GOOGLE-CAIR_MUL-Weekday-02,2663883-GOOGLE-CAIR_MUL-Weekday-02,City to Edmonton via Timberlea,1,,1420012
+142-275,GOOGLE-CAIR_MUL-Weekday-02,2663884-GOOGLE-CAIR_MUL-Weekday-02,City to Edmonton via Timberlea,1,,1420012
+142-275,GOOGLE-CAIR_MUL-Weekday-02,2663885-GOOGLE-CAIR_MUL-Weekday-02,City to Edmonton via Timberlea,1,,1420012
+142-275,GOOGLE-CAIR_MUL-Weekday-02,2663886-GOOGLE-CAIR_MUL-Weekday-02,City to Edmonton via Timberlea,1,,1420012
+142-275,GOOGLE-CAIR_MUL-Weekday-02,2663887-GOOGLE-CAIR_MUL-Weekday-02,City to Edmonton via Timberlea,1,,1420012
+142-275,GOOGLE-CAIR_MUL-Weekday-02,2663888-GOOGLE-CAIR_MUL-Weekday-02,City to Edmonton via Timberlea,1,,1420012
+142-275,GOOGLE-CAIR_MUL-Weekday-02,2663889-GOOGLE-CAIR_MUL-Weekday-02,City to Edmonton via Timberlea,1,,1420012
+142-275,GOOGLE-CAIR_MUL-Weekday-02,2663890-GOOGLE-CAIR_MUL-Weekday-02,City to Edmonton via Timberlea,1,,1420012
+142-275,GOOGLE-CAIR_MUL-Weekday-02,2663891-GOOGLE-CAIR_MUL-Weekday-02,City to Edmonton via Timberlea,1,,1420012
+142-275,GOOGLE-CAIR_MUL-Weekday-02,2663892-GOOGLE-CAIR_MUL-Weekday-02,City to Edmonton via Timberlea,1,,1420012
+142-275,GOOGLE-CAIR_MUL-Weekday-02,2663893-GOOGLE-CAIR_MUL-Weekday-02,City to Edmonton via Timberlea,1,,1420012
+142-275,GOOGLE-CAIR_MUL-Weekday-02,2663894-GOOGLE-CAIR_MUL-Weekday-02,City to Edmonton via Timberlea,1,,1420012
+142-275,GOOGLE-CAIR_MUL-Weekday-02,2663895-GOOGLE-CAIR_MUL-Weekday-02,City to Edmonton via Timberlea,1,,1420012
+142-275,GOOGLE-CAIR_MUL-Weekday-02,2663896-GOOGLE-CAIR_MUL-Weekday-02,City to Edmonton via Timberlea,1,,1420012
+142-275,GOOGLE-CAIR_MUL-Weekday-02,2663897-GOOGLE-CAIR_MUL-Weekday-02,City to Edmonton via Timberlea,1,,1420012
+142-275,GOOGLE-CAIR_MUL-Weekday-02,2663898-GOOGLE-CAIR_MUL-Weekday-02,City to Edmonton via Timberlea,1,,1420012
+142-275,GOOGLE-CAIR_MUL-Weekday-02,2663899-GOOGLE-CAIR_MUL-Weekday-02,City to Edmonton via Timberlea,1,,1420012
+142-275,GOOGLE-CAIR_MUL-Weekday-02,2663900-GOOGLE-CAIR_MUL-Weekday-02,Edmonton to City via Timberlea,0,,1420011
+142-275,GOOGLE-CAIR_MUL-Weekday-02,2663901-GOOGLE-CAIR_MUL-Weekday-02,Edmonton to City via Timberlea,0,,1420011
+142-275,GOOGLE-CAIR_MUL-Weekday-02,2663902-GOOGLE-CAIR_MUL-Weekday-02,Edmonton to City via Timberlea,0,,1420011
+142-275,GOOGLE-CAIR_MUL-Weekday-02,2663903-GOOGLE-CAIR_MUL-Weekday-02,Edmonton to City via Timberlea,0,,1420011
+142-275,GOOGLE-CAIR_MUL-Weekday-02,2663904-GOOGLE-CAIR_MUL-Weekday-02,Edmonton to City via Timberlea,0,,1420011
+142-275,GOOGLE-CAIR_MUL-Weekday-02,2663905-GOOGLE-CAIR_MUL-Weekday-02,Edmonton to City via Timberlea,0,,1420011
+142-275,GOOGLE-CAIR_MUL-Weekday-02,2663906-GOOGLE-CAIR_MUL-Weekday-02,Edmonton to City via Timberlea,0,,1420011
+142-275,GOOGLE-CAIR_MUL-Weekday-02,2663907-GOOGLE-CAIR_MUL-Weekday-02,Edmonton to City via Timberlea,0,,1420011
+142-275,GOOGLE-CAIR_MUL-Weekday-02,2663908-GOOGLE-CAIR_MUL-Weekday-02,Edmonton to City via Timberlea,0,,1420011
+142-275,GOOGLE-CAIR_MUL-Weekday-02,2663909-GOOGLE-CAIR_MUL-Weekday-02,Edmonton to City via Timberlea,0,,1420011
+142-275,GOOGLE-CAIR_MUL-Weekday-02,2663910-GOOGLE-CAIR_MUL-Weekday-02,Edmonton to City via Timberlea,0,,1420011
+142-275,GOOGLE-CAIR_MUL-Weekday-02,2663911-GOOGLE-CAIR_MUL-Weekday-02,Edmonton to City via Timberlea,0,,1420011
+142-275,GOOGLE-CAIR_MUL-Weekday-02,2663912-GOOGLE-CAIR_MUL-Weekday-02,Edmonton to City via Timberlea,0,,1420011
+142-275,GOOGLE-CAIR_MUL-Weekday-02,2663913-GOOGLE-CAIR_MUL-Weekday-02,Edmonton to City via Timberlea,0,,1420011
+142-275,GOOGLE-CAIR_MUL-Weekday-02,2663914-GOOGLE-CAIR_MUL-Weekday-02,Edmonton to City via Timberlea,0,,1420011
+142-275,GOOGLE-CAIR_MUL-Weekday-02,2663915-GOOGLE-CAIR_MUL-Weekday-02,Edmonton to City via Timberlea,0,,1420011
+142-275,GOOGLE-CAIR_MUL-Weekday-02,2663916-GOOGLE-CAIR_MUL-Weekday-02,Edmonton to City via Timberlea,0,,1420011
+142-275,GOOGLE-CAIR_MUL-Weekday-02,2663917-GOOGLE-CAIR_MUL-Weekday-02,Edmonton to City via Timberlea,0,,1420011
+142-275,GOOGLE-CAIR_MUL-Weekday-02,2663918-GOOGLE-CAIR_MUL-Weekday-02,Edmonton to City via Timberlea,0,,1420011
+142-275,GOOGLE-CAIR_MUL-Weekday-02,2663919-GOOGLE-CAIR_MUL-Weekday-02,Edmonton to City via Timberlea,0,,1420011
+142-275,GOOGLE-CAIR_MUL-Weekday-02,2663920-GOOGLE-CAIR_MUL-Weekday-02,Edmonton to City via Timberlea,0,,1420011
+143-275,GOOGLE-CAIR_MUL-Weekday-02,2663953-GOOGLE-CAIR_MUL-Weekday-02,Mt Sheridan Plaza to City via White Rock,0,,1430021
+143-275,GOOGLE-CAIR_MUL-Weekday-02,2663954-GOOGLE-CAIR_MUL-Weekday-02,Mt Sheridan Plaza to City via White Rock,0,,1430021
+143-275,GOOGLE-CAIR_MUL-Weekday-02,2663955-GOOGLE-CAIR_MUL-Weekday-02,Mt Sheridan Plaza to City via White Rock,0,,1430021
+143-275,GOOGLE-CAIR_MUL-Weekday-02,2663956-GOOGLE-CAIR_MUL-Weekday-02,Mt Sheridan Plaza to City via White Rock,0,,1430021
+143-275,GOOGLE-CAIR_MUL-Weekday-02,2663957-GOOGLE-CAIR_MUL-Weekday-02,Mt Sheridan Plaza to City via White Rock,0,,1430021
+143-275,GOOGLE-CAIR_MUL-Weekday-02,2663958-GOOGLE-CAIR_MUL-Weekday-02,Mt Sheridan Plaza to City via White Rock,0,,1430021
+143-275,GOOGLE-CAIR_MUL-Weekday-02,2663959-GOOGLE-CAIR_MUL-Weekday-02,Mt Sheridan Plaza to City via White Rock,0,,1430021
+143-275,GOOGLE-CAIR_MUL-Weekday-02,2663960-GOOGLE-CAIR_MUL-Weekday-02,Mt Sheridan Plaza to City via White Rock,0,,1430021
+143-275,GOOGLE-CAIR_MUL-Weekday-02,2663961-GOOGLE-CAIR_MUL-Weekday-02,Mt Sheridan Plaza to City via White Rock,0,,1430021
+143-275,GOOGLE-CAIR_MUL-Weekday-02,2663962-GOOGLE-CAIR_MUL-Weekday-02,Mt Sheridan Plaza to City via White Rock,0,,1430021
+143-275,GOOGLE-CAIR_MUL-Weekday-02,2663963-GOOGLE-CAIR_MUL-Weekday-02,Mt Sheridan Plaza to City via White Rock,0,,1430021
+143-275,GOOGLE-CAIR_MUL-Weekday-02,2663964-GOOGLE-CAIR_MUL-Weekday-02,Mt Sheridan Plaza to City via White Rock,0,,1430021
+143-275,GOOGLE-CAIR_MUL-Weekday-02,2663965-GOOGLE-CAIR_MUL-Weekday-02,Mt Sheridan Plaza to City via White Rock,0,,1430021
+143-275,GOOGLE-CAIR_MUL-Weekday-02,2663966-GOOGLE-CAIR_MUL-Weekday-02,Mt Sheridan Plaza to City via White Rock,0,,1430021
+143-275,GOOGLE-CAIR_MUL-Weekday-02,2663967-GOOGLE-CAIR_MUL-Weekday-02,Mt Sheridan Plaza to City via White Rock,0,,1430021
+143-275,GOOGLE-CAIR_MUL-Weekday-02,2663968-GOOGLE-CAIR_MUL-Weekday-02,Mt Sheridan Plaza to City via White Rock,0,,1430021
+143-275,GOOGLE-CAIR_MUL-Weekday-02,2663969-GOOGLE-CAIR_MUL-Weekday-02,Mt Sheridan Plaza to City via White Rock,0,,1430021
+143-275,GOOGLE-CAIR_MUL-Weekday-02,2663970-GOOGLE-CAIR_MUL-Weekday-02,Mt Sheridan Plaza to City via White Rock,0,,1430021
+143-275,GOOGLE-CAIR_MUL-Weekday-02,2663971-GOOGLE-CAIR_MUL-Weekday-02,Mt Sheridan Plaza to City via White Rock,0,,1430021
+143-275,GOOGLE-CAIR_MUL-Weekday-02,2663972-GOOGLE-CAIR_MUL-Weekday-02,Mt Sheridan Plaza to City via White Rock,0,,1430021
+143-275,GOOGLE-CAIR_MUL-Weekday-02,2663973-GOOGLE-CAIR_MUL-Weekday-02,Mt Sheridan Plaza to City via White Rock,0,,1430021
+143-275,GOOGLE-CAIR_MUL-Weekday-02,2663974-GOOGLE-CAIR_MUL-Weekday-02,Mt Sheridan Plaza to City via White Rock,0,,1430021
+143-275,GOOGLE-CAIR_MUL-Weekday-02,2663975-GOOGLE-CAIR_MUL-Weekday-02,Mt Sheridan Plaza to City via White Rock,0,,1430021
+143-275,GOOGLE-CAIR_MUL-Weekday-02,2663976-GOOGLE-CAIR_MUL-Weekday-02,Mt Sheridan Plaza to City via White Rock,0,,1430021
+143-275,GOOGLE-CAIR_MUL-Weekday-02,2663977-GOOGLE-CAIR_MUL-Weekday-02,Mt Sheridan Plaza to City via White Rock,0,,1430021
+143-275,GOOGLE-CAIR_MUL-Weekday-02,2663978-GOOGLE-CAIR_MUL-Weekday-02,City to Mt Sheridan Plaza via White Rock,1,,1430022
+143-275,GOOGLE-CAIR_MUL-Weekday-02,2663979-GOOGLE-CAIR_MUL-Weekday-02,City to Mt Sheridan Plaza via White Rock,1,,1430022
+143-275,GOOGLE-CAIR_MUL-Weekday-02,2663980-GOOGLE-CAIR_MUL-Weekday-02,City to Mt Sheridan Plaza via White Rock,1,,1430022
+143-275,GOOGLE-CAIR_MUL-Weekday-02,2663981-GOOGLE-CAIR_MUL-Weekday-02,City to Mt Sheridan Plaza via White Rock,1,,1430022
+143-275,GOOGLE-CAIR_MUL-Weekday-02,2663982-GOOGLE-CAIR_MUL-Weekday-02,City to Mt Sheridan Plaza via White Rock,1,,1430022
+143-275,GOOGLE-CAIR_MUL-Weekday-02,2663983-GOOGLE-CAIR_MUL-Weekday-02,City to Mt Sheridan Plaza via White Rock,1,,1430022
+143-275,GOOGLE-CAIR_MUL-Weekday-02,2663984-GOOGLE-CAIR_MUL-Weekday-02,City to Mt Sheridan Plaza via White Rock,1,,1430022
+143-275,GOOGLE-CAIR_MUL-Weekday-02,2663985-GOOGLE-CAIR_MUL-Weekday-02,City to Mt Sheridan Plaza via White Rock,1,,1430022
+143-275,GOOGLE-CAIR_MUL-Weekday-02,2663986-GOOGLE-CAIR_MUL-Weekday-02,City to Mt Sheridan Plaza via White Rock,1,,1430022
+143-275,GOOGLE-CAIR_MUL-Weekday-02,2663987-GOOGLE-CAIR_MUL-Weekday-02,City to Mt Sheridan Plaza via White Rock,1,,1430022
+143-275,GOOGLE-CAIR_MUL-Weekday-02,2663988-GOOGLE-CAIR_MUL-Weekday-02,City to Mt Sheridan Plaza via White Rock,1,,1430022
+143-275,GOOGLE-CAIR_MUL-Weekday-02,2663989-GOOGLE-CAIR_MUL-Weekday-02,City to Mt Sheridan Plaza via White Rock,1,,1430022
+143-275,GOOGLE-CAIR_MUL-Weekday-02,2663990-GOOGLE-CAIR_MUL-Weekday-02,City to Mt Sheridan Plaza via White Rock,1,,1430022
+143-275,GOOGLE-CAIR_MUL-Weekday-02,2663991-GOOGLE-CAIR_MUL-Weekday-02,City to Mt Sheridan Plaza via White Rock,1,,1430022
+143-275,GOOGLE-CAIR_MUL-Weekday-02,2663992-GOOGLE-CAIR_MUL-Weekday-02,City to Mt Sheridan Plaza via White Rock,1,,1430022
+143-275,GOOGLE-CAIR_MUL-Weekday-02,2663993-GOOGLE-CAIR_MUL-Weekday-02,City to Mt Sheridan Plaza via White Rock,1,,1430022
+143-275,GOOGLE-CAIR_MUL-Weekday-02,2663994-GOOGLE-CAIR_MUL-Weekday-02,City to Mt Sheridan Plaza via White Rock,1,,1430022
+143-275,GOOGLE-CAIR_MUL-Weekday-02,2663995-GOOGLE-CAIR_MUL-Weekday-02,City to Mt Sheridan Plaza via White Rock,1,,1430022
+143-275,GOOGLE-CAIR_MUL-Weekday-02,2663996-GOOGLE-CAIR_MUL-Weekday-02,City to Mt Sheridan Plaza via White Rock,1,,1430022
+143-275,GOOGLE-CAIR_MUL-Weekday-02,2663997-GOOGLE-CAIR_MUL-Weekday-02,City to Mt Sheridan Plaza via White Rock,1,,1430022
+143-275,GOOGLE-CAIR_MUL-Weekday-02,2663998-GOOGLE-CAIR_MUL-Weekday-02,City to Mt Sheridan Plaza via White Rock,1,,1430022
+143-275,GOOGLE-CAIR_MUL-Weekday-02,2663999-GOOGLE-CAIR_MUL-Weekday-02,City to Mt Sheridan Plaza via White Rock,1,,1430022
+143-275,GOOGLE-CAIR_MUL-Weekday-02,2664000-GOOGLE-CAIR_MUL-Weekday-02,City to Mt Sheridan Plaza via White Rock,1,,1430022
+143W-275,GOOGLE-CAIR_MUL-Weekday-02,2664028-GOOGLE-CAIR_MUL-Weekday-02,Mt Sheridan Plaza to City via White Rock and Woree,0,509188,143W0009
+143W-275,GOOGLE-CAIR_MUL-Weekday-02,2664029-GOOGLE-CAIR_MUL-Weekday-02,Mt Sheridan Plaza to City via White Rock and Woree,0,509189,143W0009
+143W-275,GOOGLE-CAIR_MUL-Weekday-02,2664030-GOOGLE-CAIR_MUL-Weekday-02,Mt Sheridan Plaza to City via White Rock and Woree,0,509190,143W0009
+143W-275,GOOGLE-CAIR_MUL-Weekday-02,2664031-GOOGLE-CAIR_MUL-Weekday-02,Mt Sheridan Plaza to City via White Rock and Woree,0,509191,143W0009
+143W-275,GOOGLE-CAIR_MUL-Weekday-02,2664032-GOOGLE-CAIR_MUL-Weekday-02,City to  Mt Sheridan Plaza via Woree and White Rock,1,509192,143W0010
+143W-275,GOOGLE-CAIR_MUL-Weekday-02,2664033-GOOGLE-CAIR_MUL-Weekday-02,City to  Mt Sheridan Plaza via Woree and White Rock,1,509193,143W0010
+143W-275,GOOGLE-CAIR_MUL-Weekday-02,2664034-GOOGLE-CAIR_MUL-Weekday-02,City to  Mt Sheridan Plaza via Woree and White Rock,1,509194,143W0010
+143W-275,GOOGLE-CAIR_MUL-Weekday-02,2664035-GOOGLE-CAIR_MUL-Weekday-02,City to  Mt Sheridan Plaza via Woree and White Rock,1,509195,143W0010
+143W-275,GOOGLE-CAIR_MUL-Weekday-02,2664036-GOOGLE-CAIR_MUL-Weekday-02,City to  Mt Sheridan Plaza via Woree and White Rock,1,509196,143W0010
+150-275,GOOGLE-CAIR_MUL-Weekday-02,2664076-GOOGLE-CAIR_MUL-Weekday-02,Gordonvale to City,0,,1500014
+150-275,GOOGLE-CAIR_MUL-Weekday-02,2664077-GOOGLE-CAIR_MUL-Weekday-02,Gordonvale to City,0,,1500014
+150-275,GOOGLE-CAIR_MUL-Weekday-02,2664078-GOOGLE-CAIR_MUL-Weekday-02,Gordonvale to City,0,,1500014
+150-275,GOOGLE-CAIR_MUL-Weekday-02,2664079-GOOGLE-CAIR_MUL-Weekday-02,Gordonvale to City,0,,1500014
+150-275,GOOGLE-CAIR_MUL-Weekday-02,2664080-GOOGLE-CAIR_MUL-Weekday-02,Gordonvale to City,0,,1500014
+150-275,GOOGLE-CAIR_MUL-Weekday-02,2664081-GOOGLE-CAIR_MUL-Weekday-02,Gordonvale to City,0,,1500014
+150-275,GOOGLE-CAIR_MUL-Weekday-02,2664082-GOOGLE-CAIR_MUL-Weekday-02,Gordonvale to City,0,,1500014
+150-275,GOOGLE-CAIR_MUL-Weekday-02,2664083-GOOGLE-CAIR_MUL-Weekday-02,Gordonvale to City,0,,1500014
+150-275,GOOGLE-CAIR_MUL-Weekday-02,2664084-GOOGLE-CAIR_MUL-Weekday-02,Gordonvale to City,0,,1500014
+150-275,GOOGLE-CAIR_MUL-Weekday-02,2664085-GOOGLE-CAIR_MUL-Weekday-02,Gordonvale to City,0,,1500014
+150-275,GOOGLE-CAIR_MUL-Weekday-02,2664086-GOOGLE-CAIR_MUL-Weekday-02,Gordonvale to City,0,,1500014
+150-275,GOOGLE-CAIR_MUL-Weekday-02,2664087-GOOGLE-CAIR_MUL-Weekday-02,Gordonvale to City,0,,1500014
+150-275,GOOGLE-CAIR_MUL-Weekday-02,2664088-GOOGLE-CAIR_MUL-Weekday-02,Gordonvale to City,0,,1500014
+150-275,GOOGLE-CAIR_MUL-Weekday-02,2664089-GOOGLE-CAIR_MUL-Weekday-02,Gordonvale to City,0,,1500014
+150-275,GOOGLE-CAIR_MUL-Weekday-02,2664090-GOOGLE-CAIR_MUL-Weekday-02,City to Gordonvale,1,,1500016
+150-275,GOOGLE-CAIR_MUL-Weekday-02,2664091-GOOGLE-CAIR_MUL-Weekday-02,City to Gordonvale,1,,1500016
+150-275,GOOGLE-CAIR_MUL-Weekday-02,2664092-GOOGLE-CAIR_MUL-Weekday-02,City to Gordonvale,1,,1500016
+150-275,GOOGLE-CAIR_MUL-Weekday-02,2664093-GOOGLE-CAIR_MUL-Weekday-02,City to Gordonvale,1,,1500016
+150-275,GOOGLE-CAIR_MUL-Weekday-02,2664094-GOOGLE-CAIR_MUL-Weekday-02,City to Gordonvale,1,,1500016
+150-275,GOOGLE-CAIR_MUL-Weekday-02,2664095-GOOGLE-CAIR_MUL-Weekday-02,City to Gordonvale,1,,1500016
+150-275,GOOGLE-CAIR_MUL-Weekday-02,2664096-GOOGLE-CAIR_MUL-Weekday-02,City to Gordonvale,1,,1500016
+150-275,GOOGLE-CAIR_MUL-Weekday-02,2664097-GOOGLE-CAIR_MUL-Weekday-02,City to Gordonvale,1,,1500016
+150-275,GOOGLE-CAIR_MUL-Weekday-02,2664098-GOOGLE-CAIR_MUL-Weekday-02,City to Gordonvale,1,,1500016
+150-275,GOOGLE-CAIR_MUL-Weekday-02,2664099-GOOGLE-CAIR_MUL-Weekday-02,City to Gordonvale,1,,1500016
+150-275,GOOGLE-CAIR_MUL-Weekday-02,2664100-GOOGLE-CAIR_MUL-Weekday-02,City to Gordonvale,1,,1500016
+150-275,GOOGLE-CAIR_MUL-Weekday-02,2664101-GOOGLE-CAIR_MUL-Weekday-02,City to Gordonvale,1,,1500016
+150-275,GOOGLE-CAIR_MUL-Weekday-02,2664102-GOOGLE-CAIR_MUL-Weekday-02,City to Gordonvale,1,,1500016
+150E-275,GOOGLE-CAIR_MUL-Weekday-02,2664125-GOOGLE-CAIR_MUL-Weekday-02,Gordonvale to City via Edmonton,0,509236,150E0004
+150E-275,GOOGLE-CAIR_MUL-Weekday-02,2664126-GOOGLE-CAIR_MUL-Weekday-02,Gordonvale to City via Edmonton,0,509237,150E0004
+150E-275,GOOGLE-CAIR_MUL-Weekday-02,2664127-GOOGLE-CAIR_MUL-Weekday-02,Gordonvale to City via Edmonton,0,509238,150E0004
+150E-275,GOOGLE-CAIR_MUL-Weekday-02,2664128-GOOGLE-CAIR_MUL-Weekday-02,Gordonvale to City via Edmonton,0,509239,150E0004
+150E-275,GOOGLE-CAIR_MUL-Weekday-02,2664129-GOOGLE-CAIR_MUL-Weekday-02,City to Gordonvale via Edmonton,1,509240,150E0006
+150E-275,GOOGLE-CAIR_MUL-Weekday-02,2664130-GOOGLE-CAIR_MUL-Weekday-02,City to Gordonvale via Edmonton,1,509241,150E0006
+150E-275,GOOGLE-CAIR_MUL-Weekday-02,2664131-GOOGLE-CAIR_MUL-Weekday-02,City to Gordonvale via Edmonton,1,509242,150E0006
+150E-275,GOOGLE-CAIR_MUL-Weekday-02,2664132-GOOGLE-CAIR_MUL-Weekday-02,City to Gordonvale via Edmonton,1,509243,150E0006
+110-275,GOOGLE-CAIR_MUL-Saturday-02,2662891-GOOGLE-CAIR_MUL-Saturday-02,Palm Cove to City,0,,150E0006
+110-275,GOOGLE-CAIR_MUL-Saturday-02,2662892-GOOGLE-CAIR_MUL-Saturday-02,Palm Cove to City,0,,150E0006
+110-275,GOOGLE-CAIR_MUL-Saturday-02,2662893-GOOGLE-CAIR_MUL-Saturday-02,Palm Cove to City,0,,150E0006
+110-275,GOOGLE-CAIR_MUL-Saturday-02,2662894-GOOGLE-CAIR_MUL-Saturday-02,Palm Cove to City,0,,150E0006
+110-275,GOOGLE-CAIR_MUL-Saturday-02,2662895-GOOGLE-CAIR_MUL-Saturday-02,Palm Cove to City,0,,150E0006
+110-275,GOOGLE-CAIR_MUL-Saturday-02,2662896-GOOGLE-CAIR_MUL-Saturday-02,Palm Cove to City,0,,150E0004
+110-275,GOOGLE-CAIR_MUL-Saturday-02,2662897-GOOGLE-CAIR_MUL-Saturday-02,Palm Cove to City,0,,150E0004
+110-275,GOOGLE-CAIR_MUL-Saturday-02,2662898-GOOGLE-CAIR_MUL-Saturday-02,Palm Cove to City,0,,150E0004
+110-275,GOOGLE-CAIR_MUL-Saturday-02,2662899-GOOGLE-CAIR_MUL-Saturday-02,Palm Cove to City,0,,150E0004
+110-275,GOOGLE-CAIR_MUL-Saturday-02,2662900-GOOGLE-CAIR_MUL-Saturday-02,Palm Cove to City,0,,150E0004
+110-275,GOOGLE-CAIR_MUL-Saturday-02,2662901-GOOGLE-CAIR_MUL-Saturday-02,Palm Cove to City,0,,150E0004
+110-275,GOOGLE-CAIR_MUL-Saturday-02,2662902-GOOGLE-CAIR_MUL-Saturday-02,Palm Cove to City,0,,150E0004
+110-275,GOOGLE-CAIR_MUL-Saturday-02,2662903-GOOGLE-CAIR_MUL-Saturday-02,Palm Cove to City,0,,150E0004
+110-275,GOOGLE-CAIR_MUL-Saturday-02,2662904-GOOGLE-CAIR_MUL-Saturday-02,Palm Cove to City,0,,150E0004
+110-275,GOOGLE-CAIR_MUL-Saturday-02,2662905-GOOGLE-CAIR_MUL-Saturday-02,Palm Cove to City,0,,150E0004
+110-275,GOOGLE-CAIR_MUL-Saturday-02,2662906-GOOGLE-CAIR_MUL-Saturday-02,Palm Cove to City,0,,150E0004
+110-275,GOOGLE-CAIR_MUL-Saturday-02,2662907-GOOGLE-CAIR_MUL-Saturday-02,Palm Cove to City,0,,150E0004
+110-275,GOOGLE-CAIR_MUL-Saturday-02,2662908-GOOGLE-CAIR_MUL-Saturday-02,City to Palm Cove via Clifton Beach,1,,150E0004
+110-275,GOOGLE-CAIR_MUL-Saturday-02,2662909-GOOGLE-CAIR_MUL-Saturday-02,City to Palm Cove via Clifton Beach,1,,150E0004
+110-275,GOOGLE-CAIR_MUL-Saturday-02,2662910-GOOGLE-CAIR_MUL-Saturday-02,City to Palm Cove via Clifton Beach,1,,150E0004
+110-275,GOOGLE-CAIR_MUL-Saturday-02,2662911-GOOGLE-CAIR_MUL-Saturday-02,City to Palm Cove via Clifton Beach,1,,150E0004
+110-275,GOOGLE-CAIR_MUL-Saturday-02,2662912-GOOGLE-CAIR_MUL-Saturday-02,City to Palm Cove via Clifton Beach,1,,150E0004
+110-275,GOOGLE-CAIR_MUL-Saturday-02,2662913-GOOGLE-CAIR_MUL-Saturday-02,City to Palm Cove via Clifton Beach,1,,150E0004
+110-275,GOOGLE-CAIR_MUL-Saturday-02,2662914-GOOGLE-CAIR_MUL-Saturday-02,City to Palm Cove via Clifton Beach,1,,150E0004
+110-275,GOOGLE-CAIR_MUL-Saturday-02,2662915-GOOGLE-CAIR_MUL-Saturday-02,City to Palm Cove via Clifton Beach,1,,150E0006
+110-275,GOOGLE-CAIR_MUL-Saturday-02,2662916-GOOGLE-CAIR_MUL-Saturday-02,City to Palm Cove via Clifton Beach,1,,150E0006
+110-275,GOOGLE-CAIR_MUL-Saturday-02,2662917-GOOGLE-CAIR_MUL-Saturday-02,City to Palm Cove via Clifton Beach,1,,150E0006
+110-275,GOOGLE-CAIR_MUL-Saturday-02,2662918-GOOGLE-CAIR_MUL-Saturday-02,City to Palm Cove via Clifton Beach,1,,150E0006
+110-275,GOOGLE-CAIR_MUL-Saturday-02,2662919-GOOGLE-CAIR_MUL-Saturday-02,City to Palm Cove via Clifton Beach,1,,150E0006
+110-275,GOOGLE-CAIR_MUL-Saturday-02,2662920-GOOGLE-CAIR_MUL-Saturday-02,City to Palm Cove via Clifton Beach,1,,150E0006
+110-275,GOOGLE-CAIR_MUL-Saturday-02,2662921-GOOGLE-CAIR_MUL-Saturday-02,City to Palm Cove via Clifton Beach,1,,150E0006
+110-275,GOOGLE-CAIR_MUL-Saturday-02,2662922-GOOGLE-CAIR_MUL-Saturday-02,City to Palm Cove via Clifton Beach,1,,150E0006
+110-275,GOOGLE-CAIR_MUL-Saturday-02,2662923-GOOGLE-CAIR_MUL-Saturday-02,City to Palm Cove via Clifton Beach,1,,150E0006
+110-275,GOOGLE-CAIR_MUL-Saturday-02,2662924-GOOGLE-CAIR_MUL-Saturday-02,City to Palm Cove via Clifton Beach,1,,150E0006
+110N-275,GOOGLE-CAIR_MUL-Saturday-02,2662966-GOOGLE-CAIR_MUL-Saturday-02,City to Palm Cove (Late night service),1,509162,150E0006
+110N-275,GOOGLE-CAIR_MUL-Saturday-02,2662967-GOOGLE-CAIR_MUL-Saturday-02,City to Palm Cove (Late night service),1,509163,150E0006
+110N-275,GOOGLE-CAIR_MUL-Saturday-02,2662968-GOOGLE-CAIR_MUL-Saturday-02,City to Palm Cove (Late night service),1,509164,150E0006
+110N-275,GOOGLE-CAIR_MUL-Saturday-02,2662969-GOOGLE-CAIR_MUL-Saturday-02,City to Palm Cove (Late night service),1,509165,150E0006
+110N-275,GOOGLE-CAIR_MUL-Saturday-02,2662970-GOOGLE-CAIR_MUL-Saturday-02,City to Palm Cove (Late night service),1,509166,110N0007
+110N-275,GOOGLE-CAIR_MUL-Saturday-02,2662971-GOOGLE-CAIR_MUL-Saturday-02,Palm Cove to City (Late night service),0,509167,110N0006
+110N-275,GOOGLE-CAIR_MUL-Saturday-02,2662972-GOOGLE-CAIR_MUL-Saturday-02,Palm Cove to City (Late night service),0,509168,110N0006
+110N-275,GOOGLE-CAIR_MUL-Saturday-02,2662973-GOOGLE-CAIR_MUL-Saturday-02,Palm Cove to City (Late night service),0,509170,110N0006
+110N-275,GOOGLE-CAIR_MUL-Saturday-02,2662974-GOOGLE-CAIR_MUL-Saturday-02,Palm Cove to City (Late night service),0,509169,110N0006
+111-275,GOOGLE-CAIR_MUL-Saturday-02,2663033-GOOGLE-CAIR_MUL-Saturday-02,Kewarra Beach to City,0,,1110007
+111-275,GOOGLE-CAIR_MUL-Saturday-02,2663034-GOOGLE-CAIR_MUL-Saturday-02,Kewarra Beach to City,0,,1110007
+111-275,GOOGLE-CAIR_MUL-Saturday-02,2663035-GOOGLE-CAIR_MUL-Saturday-02,Kewarra Beach to City,0,,1110007
+111-275,GOOGLE-CAIR_MUL-Saturday-02,2663036-GOOGLE-CAIR_MUL-Saturday-02,Kewarra Beach to City,0,,1110007
+111-275,GOOGLE-CAIR_MUL-Saturday-02,2663037-GOOGLE-CAIR_MUL-Saturday-02,Kewarra Beach to City,0,,1110007
+111-275,GOOGLE-CAIR_MUL-Saturday-02,2663038-GOOGLE-CAIR_MUL-Saturday-02,Kewarra Beach to City,0,,1110007
+111-275,GOOGLE-CAIR_MUL-Saturday-02,2663039-GOOGLE-CAIR_MUL-Saturday-02,Kewarra Beach to City,0,,1110007
+111-275,GOOGLE-CAIR_MUL-Saturday-02,2663040-GOOGLE-CAIR_MUL-Saturday-02,Kewarra Beach to City,0,,1110007
+111-275,GOOGLE-CAIR_MUL-Saturday-02,2663041-GOOGLE-CAIR_MUL-Saturday-02,Kewarra Beach to City,0,,1110007
+111-275,GOOGLE-CAIR_MUL-Saturday-02,2663042-GOOGLE-CAIR_MUL-Saturday-02,Kewarra Beach to City,0,,1110007
+111-275,GOOGLE-CAIR_MUL-Saturday-02,2663043-GOOGLE-CAIR_MUL-Saturday-02,Kewarra Beach to City,0,,1110007
+111-275,GOOGLE-CAIR_MUL-Saturday-02,2663044-GOOGLE-CAIR_MUL-Saturday-02,Kewarra Beach to City,0,,1110007
+111-275,GOOGLE-CAIR_MUL-Saturday-02,2663045-GOOGLE-CAIR_MUL-Saturday-02,Kewarra Beach to City,0,,1110007
+111-275,GOOGLE-CAIR_MUL-Saturday-02,2663046-GOOGLE-CAIR_MUL-Saturday-02,Kewarra Beach to City,0,,1110007
+111-275,GOOGLE-CAIR_MUL-Saturday-02,2663047-GOOGLE-CAIR_MUL-Saturday-02,Kewarra Beach to City,0,,1110007
+111-275,GOOGLE-CAIR_MUL-Saturday-02,2663048-GOOGLE-CAIR_MUL-Saturday-02,Kewarra Beach to City,0,,1110007
+111-275,GOOGLE-CAIR_MUL-Saturday-02,2663049-GOOGLE-CAIR_MUL-Saturday-02,Kewarra Beach to City,0,,1110007
+111-275,GOOGLE-CAIR_MUL-Saturday-02,2663050-GOOGLE-CAIR_MUL-Saturday-02,Kewarra Beach to City,0,,1110007
+111-275,GOOGLE-CAIR_MUL-Saturday-02,2663051-GOOGLE-CAIR_MUL-Saturday-02,City to Kewarra Beach via Trinity Beach,1,,1110014
+111-275,GOOGLE-CAIR_MUL-Saturday-02,2663052-GOOGLE-CAIR_MUL-Saturday-02,City to Kewarra Beach via Trinity Beach,1,,1110014
+111-275,GOOGLE-CAIR_MUL-Saturday-02,2663053-GOOGLE-CAIR_MUL-Saturday-02,City to Kewarra Beach via Trinity Beach,1,,1110014
+111-275,GOOGLE-CAIR_MUL-Saturday-02,2663054-GOOGLE-CAIR_MUL-Saturday-02,City to Kewarra Beach via Trinity Beach,1,,1110014
+111-275,GOOGLE-CAIR_MUL-Saturday-02,2663055-GOOGLE-CAIR_MUL-Saturday-02,City to Kewarra Beach via Trinity Beach,1,,1110014
+111-275,GOOGLE-CAIR_MUL-Saturday-02,2663056-GOOGLE-CAIR_MUL-Saturday-02,City to Kewarra Beach via Trinity Beach,1,,1110014
+111-275,GOOGLE-CAIR_MUL-Saturday-02,2663057-GOOGLE-CAIR_MUL-Saturday-02,City to Kewarra Beach via Trinity Beach,1,,1110014
+111-275,GOOGLE-CAIR_MUL-Saturday-02,2663058-GOOGLE-CAIR_MUL-Saturday-02,City to Kewarra Beach via Trinity Beach,1,,1110014
+111-275,GOOGLE-CAIR_MUL-Saturday-02,2663059-GOOGLE-CAIR_MUL-Saturday-02,City to Kewarra Beach via Trinity Beach,1,,1110014
+111-275,GOOGLE-CAIR_MUL-Saturday-02,2663060-GOOGLE-CAIR_MUL-Saturday-02,City to Kewarra Beach via Trinity Beach,1,,1110014
+111-275,GOOGLE-CAIR_MUL-Saturday-02,2663061-GOOGLE-CAIR_MUL-Saturday-02,City to Kewarra Beach via Trinity Beach,1,,1110014
+111-275,GOOGLE-CAIR_MUL-Saturday-02,2663062-GOOGLE-CAIR_MUL-Saturday-02,City to Kewarra Beach via Trinity Beach,1,,1110014
+111-275,GOOGLE-CAIR_MUL-Saturday-02,2663063-GOOGLE-CAIR_MUL-Saturday-02,City to Kewarra Beach via Trinity Beach,1,,1110014
+111-275,GOOGLE-CAIR_MUL-Saturday-02,2663064-GOOGLE-CAIR_MUL-Saturday-02,City to Kewarra Beach via Trinity Beach,1,,1110014
+111-275,GOOGLE-CAIR_MUL-Saturday-02,2663065-GOOGLE-CAIR_MUL-Saturday-02,City to Kewarra Beach via Trinity Beach,1,,1110014
+111-275,GOOGLE-CAIR_MUL-Saturday-02,2663066-GOOGLE-CAIR_MUL-Saturday-02,City to Kewarra Beach via Trinity Beach,1,,1110014
+111-275,GOOGLE-CAIR_MUL-Saturday-02,2663067-GOOGLE-CAIR_MUL-Saturday-02,City to Kewarra Beach via Trinity Beach,1,,1110014
+112-275,GOOGLE-CAIR_MUL-Saturday-02,2663116-GOOGLE-CAIR_MUL-Saturday-02,Smithfield to Yorkeys Knob and return,1,,1120010
+112-275,GOOGLE-CAIR_MUL-Saturday-02,2663117-GOOGLE-CAIR_MUL-Saturday-02,Smithfield to Yorkeys Knob and return,1,,1120010
+112-275,GOOGLE-CAIR_MUL-Saturday-02,2663118-GOOGLE-CAIR_MUL-Saturday-02,Smithfield to Yorkeys Knob and return,1,,1120010
+112-275,GOOGLE-CAIR_MUL-Saturday-02,2663119-GOOGLE-CAIR_MUL-Saturday-02,Smithfield to Yorkeys Knob and return,1,,1120010
+112-275,GOOGLE-CAIR_MUL-Saturday-02,2663120-GOOGLE-CAIR_MUL-Saturday-02,Smithfield to Yorkeys Knob and return,1,,1120010
+112-275,GOOGLE-CAIR_MUL-Saturday-02,2663121-GOOGLE-CAIR_MUL-Saturday-02,Smithfield to Yorkeys Knob and return,1,,1120010
+112-275,GOOGLE-CAIR_MUL-Saturday-02,2663122-GOOGLE-CAIR_MUL-Saturday-02,Smithfield to Yorkeys Knob and return,1,,1120010
+112-275,GOOGLE-CAIR_MUL-Saturday-02,2663123-GOOGLE-CAIR_MUL-Saturday-02,Smithfield to Yorkeys Knob and return,1,,1120010
+112-275,GOOGLE-CAIR_MUL-Saturday-02,2663124-GOOGLE-CAIR_MUL-Saturday-02,Smithfield to Yorkeys Knob and return,1,,1120010
+112-275,GOOGLE-CAIR_MUL-Saturday-02,2663125-GOOGLE-CAIR_MUL-Saturday-02,Smithfield to Yorkeys Knob and return,1,,1120010
+112-275,GOOGLE-CAIR_MUL-Saturday-02,2663126-GOOGLE-CAIR_MUL-Saturday-02,Smithfield to Yorkeys Knob and return,1,,1120010
+112-275,GOOGLE-CAIR_MUL-Saturday-02,2663127-GOOGLE-CAIR_MUL-Saturday-02,Smithfield to Yorkeys Knob and return,1,,1120010
+113-275,GOOGLE-CAIR_MUL-Saturday-02,2663143-GOOGLE-CAIR_MUL-Saturday-02,Yorkeys Knob to City (express),0,,1130014
+113-275,GOOGLE-CAIR_MUL-Saturday-02,2663144-GOOGLE-CAIR_MUL-Saturday-02,Yorkeys Knob to City (express),0,,1130014
+113-275,GOOGLE-CAIR_MUL-Saturday-02,2663145-GOOGLE-CAIR_MUL-Saturday-02,City to Yorkeys Knob (express),1,,1130016
+113-275,GOOGLE-CAIR_MUL-Saturday-02,2663146-GOOGLE-CAIR_MUL-Saturday-02,City to Yorkeys Knob (express),1,,1130016
+113-275,GOOGLE-CAIR_MUL-Saturday-02,2663147-GOOGLE-CAIR_MUL-Saturday-02,City to Yorkeys Knob (express),1,,1130016
+113-275,GOOGLE-CAIR_MUL-Saturday-02,2663148-GOOGLE-CAIR_MUL-Saturday-02,Yorkeys Knob to City (express),0,,1130014
+120-275,GOOGLE-CAIR_MUL-Saturday-02,2663181-GOOGLE-CAIR_MUL-Saturday-02,Smithfield to City via Machans Beach and Holloways Beach,0,,1200005
+120-275,GOOGLE-CAIR_MUL-Saturday-02,2663182-GOOGLE-CAIR_MUL-Saturday-02,Smithfield to City via Machans Beach and Holloways Beach,0,,1200005
+120-275,GOOGLE-CAIR_MUL-Saturday-02,2663183-GOOGLE-CAIR_MUL-Saturday-02,Smithfield to City via Machans Beach and Holloways Beach,0,,1200005
+120-275,GOOGLE-CAIR_MUL-Saturday-02,2663184-GOOGLE-CAIR_MUL-Saturday-02,Smithfield to City via Machans Beach and Holloways Beach,0,,1200005
+120-275,GOOGLE-CAIR_MUL-Saturday-02,2663185-GOOGLE-CAIR_MUL-Saturday-02,Smithfield to City via Machans Beach and Holloways Beach,0,,1200005
+120-275,GOOGLE-CAIR_MUL-Saturday-02,2663186-GOOGLE-CAIR_MUL-Saturday-02,Smithfield to City via Machans Beach and Holloways Beach,0,,1200005
+120-275,GOOGLE-CAIR_MUL-Saturday-02,2663187-GOOGLE-CAIR_MUL-Saturday-02,Smithfield to City via Machans Beach and Holloways Beach,0,,1200005
+120-275,GOOGLE-CAIR_MUL-Saturday-02,2663188-GOOGLE-CAIR_MUL-Saturday-02,Smithfield to City via Machans Beach and Holloways Beach,0,,1200005
+120-275,GOOGLE-CAIR_MUL-Saturday-02,2663189-GOOGLE-CAIR_MUL-Saturday-02,Smithfield to City via Machans Beach and Holloways Beach,0,,1200005
+120-275,GOOGLE-CAIR_MUL-Saturday-02,2663190-GOOGLE-CAIR_MUL-Saturday-02,Smithfield to City via Machans Beach and Holloways Beach,0,,1200005
+120-275,GOOGLE-CAIR_MUL-Saturday-02,2663191-GOOGLE-CAIR_MUL-Saturday-02,Smithfield to City via Machans Beach and Holloways Beach,0,,1200005
+120-275,GOOGLE-CAIR_MUL-Saturday-02,2663192-GOOGLE-CAIR_MUL-Saturday-02,Smithfield to City via Machans Beach and Holloways Beach,0,,1200005
+120-275,GOOGLE-CAIR_MUL-Saturday-02,2663193-GOOGLE-CAIR_MUL-Saturday-02,Smithfield to City via Machans Beach and Holloways Beach,0,,1200005
+120-275,GOOGLE-CAIR_MUL-Saturday-02,2663194-GOOGLE-CAIR_MUL-Saturday-02,Smithfield to City via Machans Beach and Holloways Beach,0,,1200005
+120-275,GOOGLE-CAIR_MUL-Saturday-02,2663195-GOOGLE-CAIR_MUL-Saturday-02,Smithfield to City via Holloways Beach and Machans Beach,1,,1200007
+120-275,GOOGLE-CAIR_MUL-Saturday-02,2663196-GOOGLE-CAIR_MUL-Saturday-02,Smithfield to City via Holloways Beach and Machans Beach,1,,1200007
+120-275,GOOGLE-CAIR_MUL-Saturday-02,2663197-GOOGLE-CAIR_MUL-Saturday-02,Smithfield to City via Holloways Beach and Machans Beach,1,,1200007
+120-275,GOOGLE-CAIR_MUL-Saturday-02,2663198-GOOGLE-CAIR_MUL-Saturday-02,Smithfield to City via Holloways Beach and Machans Beach,1,,1200007
+120-275,GOOGLE-CAIR_MUL-Saturday-02,2663199-GOOGLE-CAIR_MUL-Saturday-02,Smithfield to City via Holloways Beach and Machans Beach,1,,1200007
+120-275,GOOGLE-CAIR_MUL-Saturday-02,2663200-GOOGLE-CAIR_MUL-Saturday-02,Smithfield to City via Holloways Beach and Machans Beach,1,,1200007
+120-275,GOOGLE-CAIR_MUL-Saturday-02,2663201-GOOGLE-CAIR_MUL-Saturday-02,Smithfield to City via Holloways Beach and Machans Beach,1,,1200007
+120-275,GOOGLE-CAIR_MUL-Saturday-02,2663202-GOOGLE-CAIR_MUL-Saturday-02,Smithfield to City via Holloways Beach and Machans Beach,1,,1200007
+120-275,GOOGLE-CAIR_MUL-Saturday-02,2663203-GOOGLE-CAIR_MUL-Saturday-02,Smithfield to City via Holloways Beach and Machans Beach,1,,1200007
+120-275,GOOGLE-CAIR_MUL-Saturday-02,2663204-GOOGLE-CAIR_MUL-Saturday-02,Smithfield to City via Holloways Beach and Machans Beach,1,,1200007
+120-275,GOOGLE-CAIR_MUL-Saturday-02,2663205-GOOGLE-CAIR_MUL-Saturday-02,Smithfield to City via Holloways Beach and Machans Beach,1,,1200007
+120-275,GOOGLE-CAIR_MUL-Saturday-02,2663206-GOOGLE-CAIR_MUL-Saturday-02,Smithfield to City via Holloways Beach and Machans Beach,1,,1200007
+120-275,GOOGLE-CAIR_MUL-Saturday-02,2663207-GOOGLE-CAIR_MUL-Saturday-02,Smithfield to City via Holloways Beach and Machans Beach,1,,1200007
+120N-275,GOOGLE-CAIR_MUL-Saturday-02,2663226-GOOGLE-CAIR_MUL-Saturday-02,Yorkeys Knob via Holloways Beach and Machans Beach,1,509173,120N0004
+120N-275,GOOGLE-CAIR_MUL-Saturday-02,2663227-GOOGLE-CAIR_MUL-Saturday-02,Yorkeys Knob via Holloways Beach and Machans Beach,1,509174,120N0004
+121-275,GOOGLE-CAIR_MUL-Saturday-02,2663262-GOOGLE-CAIR_MUL-Saturday-02,Redlynch to City via Stratford,0,,1210010
+121-275,GOOGLE-CAIR_MUL-Saturday-02,2663263-GOOGLE-CAIR_MUL-Saturday-02,Redlynch to City via Stratford,0,,1210010
+121-275,GOOGLE-CAIR_MUL-Saturday-02,2663264-GOOGLE-CAIR_MUL-Saturday-02,Redlynch to City via Stratford,0,,1210010
+121-275,GOOGLE-CAIR_MUL-Saturday-02,2663265-GOOGLE-CAIR_MUL-Saturday-02,Redlynch to City via Stratford,0,,1210010
+121-275,GOOGLE-CAIR_MUL-Saturday-02,2663266-GOOGLE-CAIR_MUL-Saturday-02,Redlynch to City via Stratford,0,,1210010
+121-275,GOOGLE-CAIR_MUL-Saturday-02,2663267-GOOGLE-CAIR_MUL-Saturday-02,Redlynch to City via Stratford,0,,1210010
+121-275,GOOGLE-CAIR_MUL-Saturday-02,2663268-GOOGLE-CAIR_MUL-Saturday-02,Redlynch to City via Stratford,0,,1210010
+121-275,GOOGLE-CAIR_MUL-Saturday-02,2663269-GOOGLE-CAIR_MUL-Saturday-02,Redlynch to City via Stratford,0,,1210010
+121-275,GOOGLE-CAIR_MUL-Saturday-02,2663270-GOOGLE-CAIR_MUL-Saturday-02,Redlynch to City via Stratford,0,,1210010
+121-275,GOOGLE-CAIR_MUL-Saturday-02,2663271-GOOGLE-CAIR_MUL-Saturday-02,Redlynch to City via Stratford,0,,1210010
+121-275,GOOGLE-CAIR_MUL-Saturday-02,2663272-GOOGLE-CAIR_MUL-Saturday-02,Redlynch to City via Stratford,0,,1210010
+121-275,GOOGLE-CAIR_MUL-Saturday-02,2663273-GOOGLE-CAIR_MUL-Saturday-02,Redlynch to City via Stratford,0,,1210010
+121-275,GOOGLE-CAIR_MUL-Saturday-02,2663274-GOOGLE-CAIR_MUL-Saturday-02,Redlynch to City via Stratford,0,,1210010
+121-275,GOOGLE-CAIR_MUL-Saturday-02,2663275-GOOGLE-CAIR_MUL-Saturday-02,Redlynch to City via Stratford,0,,1210010
+121-275,GOOGLE-CAIR_MUL-Saturday-02,2663276-GOOGLE-CAIR_MUL-Saturday-02,Redlynch to City via Stratford,0,,1210010
+121-275,GOOGLE-CAIR_MUL-Saturday-02,2663277-GOOGLE-CAIR_MUL-Saturday-02,City to Redlynch via Stratford (connects to route 122),1,,1210011
+121-275,GOOGLE-CAIR_MUL-Saturday-02,2663278-GOOGLE-CAIR_MUL-Saturday-02,City to Redlynch via Stratford (connects to route 122),1,,1210011
+121-275,GOOGLE-CAIR_MUL-Saturday-02,2663279-GOOGLE-CAIR_MUL-Saturday-02,City to Redlynch via Stratford (connects to route 122),1,,1210011
+121-275,GOOGLE-CAIR_MUL-Saturday-02,2663280-GOOGLE-CAIR_MUL-Saturday-02,City to Redlynch via Stratford (connects to route 122),1,,1210011
+121-275,GOOGLE-CAIR_MUL-Saturday-02,2663281-GOOGLE-CAIR_MUL-Saturday-02,City to Redlynch via Stratford (connects to route 122),1,,1210011
+121-275,GOOGLE-CAIR_MUL-Saturday-02,2663282-GOOGLE-CAIR_MUL-Saturday-02,City to Redlynch via Stratford (connects to route 122),1,,1210011
+121-275,GOOGLE-CAIR_MUL-Saturday-02,2663283-GOOGLE-CAIR_MUL-Saturday-02,City to Redlynch via Stratford (connects to route 122),1,,1210011
+121-275,GOOGLE-CAIR_MUL-Saturday-02,2663284-GOOGLE-CAIR_MUL-Saturday-02,City to Redlynch via Stratford (connects to route 122),1,,1210011
+121-275,GOOGLE-CAIR_MUL-Saturday-02,2663285-GOOGLE-CAIR_MUL-Saturday-02,City to Redlynch via Stratford (connects to route 122),1,,1210011
+121-275,GOOGLE-CAIR_MUL-Saturday-02,2663286-GOOGLE-CAIR_MUL-Saturday-02,City to Redlynch via Stratford (connects to route 122),1,,1210011
+121-275,GOOGLE-CAIR_MUL-Saturday-02,2663287-GOOGLE-CAIR_MUL-Saturday-02,City to Redlynch via Stratford (connects to route 122),1,,1210011
+121-275,GOOGLE-CAIR_MUL-Saturday-02,2663288-GOOGLE-CAIR_MUL-Saturday-02,City to Redlynch via Stratford (connects to route 122),1,,1210011
+121-275,GOOGLE-CAIR_MUL-Saturday-02,2663289-GOOGLE-CAIR_MUL-Saturday-02,City to Redlynch via Stratford (connects to route 122),1,,1210011
+121-275,GOOGLE-CAIR_MUL-Saturday-02,2663290-GOOGLE-CAIR_MUL-Saturday-02,City to Redlynch via Stratford (connects to route 122),1,,1210011
+121-275,GOOGLE-CAIR_MUL-Saturday-02,2663291-GOOGLE-CAIR_MUL-Saturday-02,City to Redlynch via Stratford (connects to route 122),1,,1210011
+122-275,GOOGLE-CAIR_MUL-Saturday-02,2663339-GOOGLE-CAIR_MUL-Saturday-02,JCU to Redlynch via Caravonica (connects to route 121),1,,1220011
+122-275,GOOGLE-CAIR_MUL-Saturday-02,2663340-GOOGLE-CAIR_MUL-Saturday-02,JCU to Redlynch via Caravonica (connects to route 121),1,,1220011
+122-275,GOOGLE-CAIR_MUL-Saturday-02,2663341-GOOGLE-CAIR_MUL-Saturday-02,JCU to Redlynch via Caravonica (connects to route 121),1,,1220011
+122-275,GOOGLE-CAIR_MUL-Saturday-02,2663342-GOOGLE-CAIR_MUL-Saturday-02,JCU to Redlynch via Caravonica (connects to route 121),1,,1220011
+122-275,GOOGLE-CAIR_MUL-Saturday-02,2663343-GOOGLE-CAIR_MUL-Saturday-02,JCU to Redlynch via Caravonica (connects to route 121),1,,1220011
+122-275,GOOGLE-CAIR_MUL-Saturday-02,2663344-GOOGLE-CAIR_MUL-Saturday-02,JCU to Redlynch via Caravonica (connects to route 121),1,,1220011
+122-275,GOOGLE-CAIR_MUL-Saturday-02,2663345-GOOGLE-CAIR_MUL-Saturday-02,JCU to Redlynch via Caravonica (connects to route 121),1,,1220011
+122-275,GOOGLE-CAIR_MUL-Saturday-02,2663346-GOOGLE-CAIR_MUL-Saturday-02,JCU to Redlynch via Caravonica (connects to route 121),1,,1220011
+122-275,GOOGLE-CAIR_MUL-Saturday-02,2663347-GOOGLE-CAIR_MUL-Saturday-02,JCU to Redlynch via Caravonica (connects to route 121),1,,1220011
+122-275,GOOGLE-CAIR_MUL-Saturday-02,2663348-GOOGLE-CAIR_MUL-Saturday-02,JCU to Redlynch via Caravonica (connects to route 121),1,,1220011
+122-275,GOOGLE-CAIR_MUL-Saturday-02,2663349-GOOGLE-CAIR_MUL-Saturday-02,JCU to Redlynch via Caravonica (connects to route 121),1,,1220011
+122-275,GOOGLE-CAIR_MUL-Saturday-02,2663350-GOOGLE-CAIR_MUL-Saturday-02,JCU to Redlynch via Caravonica (connects to route 121),1,,1220011
+122-275,GOOGLE-CAIR_MUL-Saturday-02,2663351-GOOGLE-CAIR_MUL-Saturday-02,JCU to Redlynch via Caravonica (connects to route 121),1,,1220011
+122-275,GOOGLE-CAIR_MUL-Saturday-02,2663352-GOOGLE-CAIR_MUL-Saturday-02,JCU to Redlynch via Caravonica (connects to route 121),1,,1220011
+122-275,GOOGLE-CAIR_MUL-Saturday-02,2663353-GOOGLE-CAIR_MUL-Saturday-02,JCU to Redlynch via Caravonica (connects to route 121),1,,1220011
+122-275,GOOGLE-CAIR_MUL-Saturday-02,2663354-GOOGLE-CAIR_MUL-Saturday-02,Redlynch to JCU via Caravonica,0,,1220010
+122-275,GOOGLE-CAIR_MUL-Saturday-02,2663355-GOOGLE-CAIR_MUL-Saturday-02,Redlynch to JCU via Caravonica,0,,1220010
+122-275,GOOGLE-CAIR_MUL-Saturday-02,2663356-GOOGLE-CAIR_MUL-Saturday-02,Redlynch to JCU via Caravonica,0,,1220010
+122-275,GOOGLE-CAIR_MUL-Saturday-02,2663357-GOOGLE-CAIR_MUL-Saturday-02,Redlynch to JCU via Caravonica,0,,1220010
+122-275,GOOGLE-CAIR_MUL-Saturday-02,2663358-GOOGLE-CAIR_MUL-Saturday-02,Redlynch to JCU via Caravonica,0,,1220010
+122-275,GOOGLE-CAIR_MUL-Saturday-02,2663359-GOOGLE-CAIR_MUL-Saturday-02,Redlynch to JCU via Caravonica,0,,1220010
+122-275,GOOGLE-CAIR_MUL-Saturday-02,2663360-GOOGLE-CAIR_MUL-Saturday-02,Redlynch to JCU via Caravonica,0,,1220010
+122-275,GOOGLE-CAIR_MUL-Saturday-02,2663361-GOOGLE-CAIR_MUL-Saturday-02,Redlynch to JCU via Caravonica,0,,1220010
+122-275,GOOGLE-CAIR_MUL-Saturday-02,2663362-GOOGLE-CAIR_MUL-Saturday-02,Redlynch to JCU via Caravonica,0,,1220010
+122-275,GOOGLE-CAIR_MUL-Saturday-02,2663363-GOOGLE-CAIR_MUL-Saturday-02,Redlynch to JCU via Caravonica,0,,1220010
+122-275,GOOGLE-CAIR_MUL-Saturday-02,2663364-GOOGLE-CAIR_MUL-Saturday-02,Redlynch to JCU via Caravonica,0,,1220010
+122-275,GOOGLE-CAIR_MUL-Saturday-02,2663365-GOOGLE-CAIR_MUL-Saturday-02,Redlynch to JCU via Caravonica,0,,1220010
+122-275,GOOGLE-CAIR_MUL-Saturday-02,2663366-GOOGLE-CAIR_MUL-Saturday-02,Redlynch to JCU via Caravonica,0,,1220010
+122-275,GOOGLE-CAIR_MUL-Saturday-02,2663367-GOOGLE-CAIR_MUL-Saturday-02,Redlynch to JCU via Caravonica,0,,1220010
+122-275,GOOGLE-CAIR_MUL-Saturday-02,2663368-GOOGLE-CAIR_MUL-Saturday-02,Redlynch to JCU via Caravonica,0,,1220010
+123-275,GOOGLE-CAIR_MUL-Saturday-02,2663443-GOOGLE-CAIR_MUL-Saturday-02,JCU to City via Brinsmead and Raintrees,0,,1230054
+123-275,GOOGLE-CAIR_MUL-Saturday-02,2663444-GOOGLE-CAIR_MUL-Saturday-02,JCU to City via Brinsmead and Raintrees,0,,1230054
+123-275,GOOGLE-CAIR_MUL-Saturday-02,2663445-GOOGLE-CAIR_MUL-Saturday-02,JCU to City via Brinsmead and Raintrees,0,,1230054
+123-275,GOOGLE-CAIR_MUL-Saturday-02,2663446-GOOGLE-CAIR_MUL-Saturday-02,JCU to City via Brinsmead and Raintrees,0,,1230054
+123-275,GOOGLE-CAIR_MUL-Saturday-02,2663447-GOOGLE-CAIR_MUL-Saturday-02,JCU to City via Brinsmead and Raintrees,0,,1230054
+123-275,GOOGLE-CAIR_MUL-Saturday-02,2663448-GOOGLE-CAIR_MUL-Saturday-02,JCU to City via Brinsmead and Raintrees,0,,1230054
+123-275,GOOGLE-CAIR_MUL-Saturday-02,2663449-GOOGLE-CAIR_MUL-Saturday-02,JCU to City via Brinsmead and Raintrees,0,,1230054
+123-275,GOOGLE-CAIR_MUL-Saturday-02,2663450-GOOGLE-CAIR_MUL-Saturday-02,JCU to City via Brinsmead and Raintrees,0,,1230054
+123-275,GOOGLE-CAIR_MUL-Saturday-02,2663451-GOOGLE-CAIR_MUL-Saturday-02,JCU to City via Brinsmead and Raintrees,0,,1230054
+123-275,GOOGLE-CAIR_MUL-Saturday-02,2663452-GOOGLE-CAIR_MUL-Saturday-02,JCU to City via Brinsmead and Raintrees,0,,1230054
+123-275,GOOGLE-CAIR_MUL-Saturday-02,2663453-GOOGLE-CAIR_MUL-Saturday-02,JCU to City via Brinsmead and Raintrees,0,,1230054
+123-275,GOOGLE-CAIR_MUL-Saturday-02,2663454-GOOGLE-CAIR_MUL-Saturday-02,JCU to City via Brinsmead and Raintrees,0,,1230054
+123-275,GOOGLE-CAIR_MUL-Saturday-02,2663455-GOOGLE-CAIR_MUL-Saturday-02,JCU to City via Brinsmead and Raintrees,0,,1230054
+123-275,GOOGLE-CAIR_MUL-Saturday-02,2663456-GOOGLE-CAIR_MUL-Saturday-02,JCU to City via Brinsmead and Raintrees,0,,1230054
+123-275,GOOGLE-CAIR_MUL-Saturday-02,2663457-GOOGLE-CAIR_MUL-Saturday-02,JCU to City via Brinsmead and Raintrees,0,,1230054
+123-275,GOOGLE-CAIR_MUL-Saturday-02,2663458-GOOGLE-CAIR_MUL-Saturday-02,JCU to City via Brinsmead and Raintrees,0,,1230054
+123-275,GOOGLE-CAIR_MUL-Saturday-02,2663459-GOOGLE-CAIR_MUL-Saturday-02,City to JCU via Raintrees and Brinsmead,1,,1230057
+123-275,GOOGLE-CAIR_MUL-Saturday-02,2663460-GOOGLE-CAIR_MUL-Saturday-02,City to JCU via Raintrees and Brinsmead,1,,1230057
+123-275,GOOGLE-CAIR_MUL-Saturday-02,2663461-GOOGLE-CAIR_MUL-Saturday-02,City to JCU via Raintrees and Brinsmead,1,,1230057
+123-275,GOOGLE-CAIR_MUL-Saturday-02,2663462-GOOGLE-CAIR_MUL-Saturday-02,City to JCU via Raintrees and Brinsmead,1,,1230057
+123-275,GOOGLE-CAIR_MUL-Saturday-02,2663463-GOOGLE-CAIR_MUL-Saturday-02,City to JCU via Raintrees and Brinsmead,1,,1230057
+123-275,GOOGLE-CAIR_MUL-Saturday-02,2663464-GOOGLE-CAIR_MUL-Saturday-02,City to JCU via Raintrees and Brinsmead,1,,1230057
+123-275,GOOGLE-CAIR_MUL-Saturday-02,2663465-GOOGLE-CAIR_MUL-Saturday-02,City to JCU via Raintrees and Brinsmead,1,,1230057
+123-275,GOOGLE-CAIR_MUL-Saturday-02,2663466-GOOGLE-CAIR_MUL-Saturday-02,City to JCU via Raintrees and Brinsmead,1,,1230057
+123-275,GOOGLE-CAIR_MUL-Saturday-02,2663467-GOOGLE-CAIR_MUL-Saturday-02,City to JCU via Raintrees and Brinsmead,1,,1230057
+123-275,GOOGLE-CAIR_MUL-Saturday-02,2663468-GOOGLE-CAIR_MUL-Saturday-02,City to JCU via Raintrees and Brinsmead,1,,1230057
+123-275,GOOGLE-CAIR_MUL-Saturday-02,2663469-GOOGLE-CAIR_MUL-Saturday-02,City to JCU via Raintrees and Brinsmead,1,,1230057
+123-275,GOOGLE-CAIR_MUL-Saturday-02,2663470-GOOGLE-CAIR_MUL-Saturday-02,City to JCU via Raintrees and Brinsmead,1,,1230057
+123-275,GOOGLE-CAIR_MUL-Saturday-02,2663471-GOOGLE-CAIR_MUL-Saturday-02,City to JCU via Raintrees and Brinsmead,1,,1230057
+123-275,GOOGLE-CAIR_MUL-Saturday-02,2663472-GOOGLE-CAIR_MUL-Saturday-02,City to JCU via Raintrees and Brinsmead,1,,1230057
+123-275,GOOGLE-CAIR_MUL-Saturday-02,2663473-GOOGLE-CAIR_MUL-Saturday-02,City to JCU via Raintrees and Brinsmead,1,,1230057
+123-275,GOOGLE-CAIR_MUL-Saturday-02,2663474-GOOGLE-CAIR_MUL-Saturday-02,City to JCU via Raintrees and Brinsmead,1,,1230057
+123-275,GOOGLE-CAIR_MUL-Saturday-02,2663475-GOOGLE-CAIR_MUL-Saturday-02,City to JCU via Raintrees and Brinsmead,1,,1230057
+130-275,GOOGLE-CAIR_MUL-Saturday-02,2663531-GOOGLE-CAIR_MUL-Saturday-02,Raintrees to City via Edge Hill,0,,1300012
+130-275,GOOGLE-CAIR_MUL-Saturday-02,2663532-GOOGLE-CAIR_MUL-Saturday-02,Raintrees to City via Edge Hill,0,,1300012
+130-275,GOOGLE-CAIR_MUL-Saturday-02,2663533-GOOGLE-CAIR_MUL-Saturday-02,Raintrees to City via Edge Hill,0,,1300012
+130-275,GOOGLE-CAIR_MUL-Saturday-02,2663534-GOOGLE-CAIR_MUL-Saturday-02,Raintrees to City via Edge Hill,0,,1300012
+130-275,GOOGLE-CAIR_MUL-Saturday-02,2663535-GOOGLE-CAIR_MUL-Saturday-02,Raintrees to City via Edge Hill,0,,1300012
+130-275,GOOGLE-CAIR_MUL-Saturday-02,2663536-GOOGLE-CAIR_MUL-Saturday-02,Raintrees to City via Edge Hill,0,,1300012
+130-275,GOOGLE-CAIR_MUL-Saturday-02,2663537-GOOGLE-CAIR_MUL-Saturday-02,Raintrees to City via Edge Hill,0,,1300012
+130-275,GOOGLE-CAIR_MUL-Saturday-02,2663538-GOOGLE-CAIR_MUL-Saturday-02,Raintrees to City via Edge Hill,0,,1300012
+130-275,GOOGLE-CAIR_MUL-Saturday-02,2663539-GOOGLE-CAIR_MUL-Saturday-02,Raintrees to City via Edge Hill,0,,1300012
+130-275,GOOGLE-CAIR_MUL-Saturday-02,2663540-GOOGLE-CAIR_MUL-Saturday-02,Raintrees to City via Edge Hill,0,,1300012
+130-275,GOOGLE-CAIR_MUL-Saturday-02,2663541-GOOGLE-CAIR_MUL-Saturday-02,City to Raintrees via Edge Hill,1,,1300014
+130-275,GOOGLE-CAIR_MUL-Saturday-02,2663542-GOOGLE-CAIR_MUL-Saturday-02,City to Raintrees via Edge Hill,1,,1300014
+130-275,GOOGLE-CAIR_MUL-Saturday-02,2663543-GOOGLE-CAIR_MUL-Saturday-02,City to Raintrees via Edge Hill,1,,1300014
+130-275,GOOGLE-CAIR_MUL-Saturday-02,2663544-GOOGLE-CAIR_MUL-Saturday-02,City to Raintrees via Edge Hill,1,,1300014
+130-275,GOOGLE-CAIR_MUL-Saturday-02,2663545-GOOGLE-CAIR_MUL-Saturday-02,City to Raintrees via Edge Hill,1,,1300014
+130-275,GOOGLE-CAIR_MUL-Saturday-02,2663546-GOOGLE-CAIR_MUL-Saturday-02,City to Raintrees via Edge Hill,1,,1300014
+130-275,GOOGLE-CAIR_MUL-Saturday-02,2663547-GOOGLE-CAIR_MUL-Saturday-02,City to Raintrees via Edge Hill,1,,1300014
+130-275,GOOGLE-CAIR_MUL-Saturday-02,2663548-GOOGLE-CAIR_MUL-Saturday-02,City to Raintrees via Edge Hill,1,,1300014
+130-275,GOOGLE-CAIR_MUL-Saturday-02,2663549-GOOGLE-CAIR_MUL-Saturday-02,City to Raintrees via Edge Hill,1,,1300014
+130-275,GOOGLE-CAIR_MUL-Saturday-02,2663550-GOOGLE-CAIR_MUL-Saturday-02,City to Raintrees via Edge Hill,1,,1300014
+131-275,GOOGLE-CAIR_MUL-Saturday-02,2663603-GOOGLE-CAIR_MUL-Saturday-02,Raintrees to City via Whitfield,0,,1310007
+131-275,GOOGLE-CAIR_MUL-Saturday-02,2663604-GOOGLE-CAIR_MUL-Saturday-02,Raintrees to City via Whitfield,0,,1310007
+131-275,GOOGLE-CAIR_MUL-Saturday-02,2663605-GOOGLE-CAIR_MUL-Saturday-02,Raintrees to City via Whitfield,0,,1310007
+131-275,GOOGLE-CAIR_MUL-Saturday-02,2663606-GOOGLE-CAIR_MUL-Saturday-02,Raintrees to City via Whitfield,0,,1310007
+131-275,GOOGLE-CAIR_MUL-Saturday-02,2663607-GOOGLE-CAIR_MUL-Saturday-02,Raintrees to City via Whitfield,0,,1310007
+131-275,GOOGLE-CAIR_MUL-Saturday-02,2663608-GOOGLE-CAIR_MUL-Saturday-02,Raintrees to City via Whitfield,0,,1310007
+131-275,GOOGLE-CAIR_MUL-Saturday-02,2663609-GOOGLE-CAIR_MUL-Saturday-02,Raintrees to City via Whitfield,0,,1310007
+131-275,GOOGLE-CAIR_MUL-Saturday-02,2663610-GOOGLE-CAIR_MUL-Saturday-02,Raintrees to City via Whitfield,0,,1310007
+131-275,GOOGLE-CAIR_MUL-Saturday-02,2663611-GOOGLE-CAIR_MUL-Saturday-02,Raintrees to City via Whitfield,0,,1310007
+131-275,GOOGLE-CAIR_MUL-Saturday-02,2663612-GOOGLE-CAIR_MUL-Saturday-02,Raintrees to City via Whitfield,0,,1310007
+131-275,GOOGLE-CAIR_MUL-Saturday-02,2663613-GOOGLE-CAIR_MUL-Saturday-02,City to Raintrees via Whitfield,1,,1310012
+131-275,GOOGLE-CAIR_MUL-Saturday-02,2663614-GOOGLE-CAIR_MUL-Saturday-02,City to Raintrees via Whitfield,1,,1310012
+131-275,GOOGLE-CAIR_MUL-Saturday-02,2663615-GOOGLE-CAIR_MUL-Saturday-02,City to Raintrees via Whitfield,1,,1310012
+131-275,GOOGLE-CAIR_MUL-Saturday-02,2663616-GOOGLE-CAIR_MUL-Saturday-02,City to Raintrees via Whitfield,1,,1310012
+131-275,GOOGLE-CAIR_MUL-Saturday-02,2663617-GOOGLE-CAIR_MUL-Saturday-02,City to Raintrees via Whitfield,1,,1310012
+131-275,GOOGLE-CAIR_MUL-Saturday-02,2663618-GOOGLE-CAIR_MUL-Saturday-02,City to Raintrees via Whitfield,1,,1310012
+131-275,GOOGLE-CAIR_MUL-Saturday-02,2663619-GOOGLE-CAIR_MUL-Saturday-02,City to Raintrees via Whitfield,1,,1310012
+131-275,GOOGLE-CAIR_MUL-Saturday-02,2663620-GOOGLE-CAIR_MUL-Saturday-02,City to Raintrees via Whitfield,1,,1310012
+131-275,GOOGLE-CAIR_MUL-Saturday-02,2663621-GOOGLE-CAIR_MUL-Saturday-02,City to Raintrees via Whitfield,1,,1310012
+131-275,GOOGLE-CAIR_MUL-Saturday-02,2663622-GOOGLE-CAIR_MUL-Saturday-02,City to Raintrees via Whitfield,1,,1310012
+131-275,GOOGLE-CAIR_MUL-Saturday-02,2663623-GOOGLE-CAIR_MUL-Saturday-02,City to Raintrees via Whitfield,1,,1310012
+131N-275,GOOGLE-CAIR_MUL-Saturday-02,2663646-GOOGLE-CAIR_MUL-Saturday-02,City to Raintrees via Edge Hill and Whitfield,1,509176,131N0006
+133-275,GOOGLE-CAIR_MUL-Saturday-02,2663684-GOOGLE-CAIR_MUL-Saturday-02,"Earlville to City via Mooroobool, Bungalow",0,,1330015
+133-275,GOOGLE-CAIR_MUL-Saturday-02,2663685-GOOGLE-CAIR_MUL-Saturday-02,"Earlville to City via Mooroobool, Bungalow",0,,1330015
+133-275,GOOGLE-CAIR_MUL-Saturday-02,2663686-GOOGLE-CAIR_MUL-Saturday-02,"Earlville to City via Mooroobool, Bungalow",0,,1330015
+133-275,GOOGLE-CAIR_MUL-Saturday-02,2663687-GOOGLE-CAIR_MUL-Saturday-02,"Earlville to City via Mooroobool, Bungalow",0,,1330015
+133-275,GOOGLE-CAIR_MUL-Saturday-02,2663688-GOOGLE-CAIR_MUL-Saturday-02,"Earlville to City via Mooroobool, Bungalow",0,,1330015
+133-275,GOOGLE-CAIR_MUL-Saturday-02,2663689-GOOGLE-CAIR_MUL-Saturday-02,"Earlville to City via Mooroobool, Bungalow",0,,1330015
+133-275,GOOGLE-CAIR_MUL-Saturday-02,2663690-GOOGLE-CAIR_MUL-Saturday-02,"Earlville to City via Mooroobool, Bungalow",0,,1330015
+133-275,GOOGLE-CAIR_MUL-Saturday-02,2663691-GOOGLE-CAIR_MUL-Saturday-02,"Earlville to City via Mooroobool, Bungalow",0,,1330015
+133-275,GOOGLE-CAIR_MUL-Saturday-02,2663692-GOOGLE-CAIR_MUL-Saturday-02,"Earlville to City via Mooroobool, Bungalow",0,,1330015
+133-275,GOOGLE-CAIR_MUL-Saturday-02,2663693-GOOGLE-CAIR_MUL-Saturday-02,"Earlville to City via Mooroobool, Bungalow",0,,1330015
+133-275,GOOGLE-CAIR_MUL-Saturday-02,2663694-GOOGLE-CAIR_MUL-Saturday-02,"Earlville to City via Mooroobool, Bungalow",0,,1330015
+133-275,GOOGLE-CAIR_MUL-Saturday-02,2663695-GOOGLE-CAIR_MUL-Saturday-02,"Earlville to City via Mooroobool, Bungalow",0,,1330015
+133-275,GOOGLE-CAIR_MUL-Saturday-02,2663696-GOOGLE-CAIR_MUL-Saturday-02,"Earlville to City via Mooroobool, Bungalow",0,,1330015
+133-275,GOOGLE-CAIR_MUL-Saturday-02,2663697-GOOGLE-CAIR_MUL-Saturday-02,"Earlville to City via Mooroobool, Bungalow",0,,1330015
+133-275,GOOGLE-CAIR_MUL-Saturday-02,2663698-GOOGLE-CAIR_MUL-Saturday-02,"Earlville to City via Mooroobool, Bungalow",0,,1330015
+133-275,GOOGLE-CAIR_MUL-Saturday-02,2663699-GOOGLE-CAIR_MUL-Saturday-02,"City to Earlville via Bungalow, Mooroobool",1,,1330018
+133-275,GOOGLE-CAIR_MUL-Saturday-02,2663700-GOOGLE-CAIR_MUL-Saturday-02,"City to Earlville via Bungalow, Mooroobool",1,,1330018
+133-275,GOOGLE-CAIR_MUL-Saturday-02,2663701-GOOGLE-CAIR_MUL-Saturday-02,"City to Earlville via Bungalow, Mooroobool",1,,1330018
+133-275,GOOGLE-CAIR_MUL-Saturday-02,2663702-GOOGLE-CAIR_MUL-Saturday-02,"City to Earlville via Bungalow, Mooroobool",1,,1330018
+133-275,GOOGLE-CAIR_MUL-Saturday-02,2663703-GOOGLE-CAIR_MUL-Saturday-02,"City to Earlville via Bungalow, Mooroobool",1,,1330018
+133-275,GOOGLE-CAIR_MUL-Saturday-02,2663704-GOOGLE-CAIR_MUL-Saturday-02,"City to Earlville via Bungalow, Mooroobool",1,,1330018
+133-275,GOOGLE-CAIR_MUL-Saturday-02,2663705-GOOGLE-CAIR_MUL-Saturday-02,"City to Earlville via Bungalow, Mooroobool",1,,1330018
+133-275,GOOGLE-CAIR_MUL-Saturday-02,2663706-GOOGLE-CAIR_MUL-Saturday-02,"City to Earlville via Bungalow, Mooroobool",1,,1330018
+133-275,GOOGLE-CAIR_MUL-Saturday-02,2663707-GOOGLE-CAIR_MUL-Saturday-02,"City to Earlville via Bungalow, Mooroobool",1,,1330018
+133-275,GOOGLE-CAIR_MUL-Saturday-02,2663708-GOOGLE-CAIR_MUL-Saturday-02,"City to Earlville via Bungalow, Mooroobool",1,,1330018
+133-275,GOOGLE-CAIR_MUL-Saturday-02,2663709-GOOGLE-CAIR_MUL-Saturday-02,"City to Earlville via Bungalow, Mooroobool",1,,1330018
+133-275,GOOGLE-CAIR_MUL-Saturday-02,2663710-GOOGLE-CAIR_MUL-Saturday-02,"City to Earlville via Bungalow, Mooroobool",1,,1330018
+133-275,GOOGLE-CAIR_MUL-Saturday-02,2663711-GOOGLE-CAIR_MUL-Saturday-02,"City to Earlville via Bungalow, Mooroobool",1,,1330018
+133-275,GOOGLE-CAIR_MUL-Saturday-02,2663712-GOOGLE-CAIR_MUL-Saturday-02,"City to Earlville via Bungalow, Mooroobool",1,,1330018
+133-275,GOOGLE-CAIR_MUL-Saturday-02,2663713-GOOGLE-CAIR_MUL-Saturday-02,"City to Earlville via Bungalow, Mooroobool",1,,1330018
+140-275,GOOGLE-CAIR_MUL-Saturday-02,2663772-GOOGLE-CAIR_MUL-Saturday-02,Edmonton to City via Bentley Park,0,,1400015
+140-275,GOOGLE-CAIR_MUL-Saturday-02,2663773-GOOGLE-CAIR_MUL-Saturday-02,Edmonton to City via Bentley Park,0,,1400015
+140-275,GOOGLE-CAIR_MUL-Saturday-02,2663774-GOOGLE-CAIR_MUL-Saturday-02,Edmonton to City via Bentley Park,0,,1400015
+140-275,GOOGLE-CAIR_MUL-Saturday-02,2663775-GOOGLE-CAIR_MUL-Saturday-02,Edmonton to City via Bentley Park,0,,1400015
+140-275,GOOGLE-CAIR_MUL-Saturday-02,2663776-GOOGLE-CAIR_MUL-Saturday-02,Edmonton to City via Bentley Park,0,,1400015
+140-275,GOOGLE-CAIR_MUL-Saturday-02,2663777-GOOGLE-CAIR_MUL-Saturday-02,Edmonton to City via Bentley Park,0,,1400015
+140-275,GOOGLE-CAIR_MUL-Saturday-02,2663778-GOOGLE-CAIR_MUL-Saturday-02,Edmonton to City via Bentley Park,0,,1400015
+140-275,GOOGLE-CAIR_MUL-Saturday-02,2663779-GOOGLE-CAIR_MUL-Saturday-02,Edmonton to City via Bentley Park,0,,1400015
+140-275,GOOGLE-CAIR_MUL-Saturday-02,2663780-GOOGLE-CAIR_MUL-Saturday-02,Edmonton to City via Bentley Park,0,,1400015
+140-275,GOOGLE-CAIR_MUL-Saturday-02,2663781-GOOGLE-CAIR_MUL-Saturday-02,Edmonton to City via Bentley Park,0,,1400015
+140-275,GOOGLE-CAIR_MUL-Saturday-02,2663782-GOOGLE-CAIR_MUL-Saturday-02,Edmonton to City via Bentley Park,0,,1400015
+140-275,GOOGLE-CAIR_MUL-Saturday-02,2663783-GOOGLE-CAIR_MUL-Saturday-02,Edmonton to City via Bentley Park,0,,1400015
+140-275,GOOGLE-CAIR_MUL-Saturday-02,2663784-GOOGLE-CAIR_MUL-Saturday-02,City to Edmonton via Bentley Park,1,,1400017
+140-275,GOOGLE-CAIR_MUL-Saturday-02,2663785-GOOGLE-CAIR_MUL-Saturday-02,City to Edmonton via Bentley Park,1,,1400017
+140-275,GOOGLE-CAIR_MUL-Saturday-02,2663786-GOOGLE-CAIR_MUL-Saturday-02,City to Edmonton via Bentley Park,1,,1400017
+140-275,GOOGLE-CAIR_MUL-Saturday-02,2663787-GOOGLE-CAIR_MUL-Saturday-02,City to Edmonton via Bentley Park,1,,1400017
+140-275,GOOGLE-CAIR_MUL-Saturday-02,2663788-GOOGLE-CAIR_MUL-Saturday-02,City to Edmonton via Bentley Park,1,,1400017
+140-275,GOOGLE-CAIR_MUL-Saturday-02,2663789-GOOGLE-CAIR_MUL-Saturday-02,City to Edmonton via Bentley Park,1,,1400017
+140-275,GOOGLE-CAIR_MUL-Saturday-02,2663790-GOOGLE-CAIR_MUL-Saturday-02,City to Edmonton via Bentley Park,1,,1400017
+140-275,GOOGLE-CAIR_MUL-Saturday-02,2663791-GOOGLE-CAIR_MUL-Saturday-02,City to Edmonton via Bentley Park,1,,1400017
+140-275,GOOGLE-CAIR_MUL-Saturday-02,2663792-GOOGLE-CAIR_MUL-Saturday-02,City to Edmonton via Bentley Park,1,,1400017
+140-275,GOOGLE-CAIR_MUL-Saturday-02,2663793-GOOGLE-CAIR_MUL-Saturday-02,City to Edmonton via Bentley Park,1,,1400017
+140-275,GOOGLE-CAIR_MUL-Saturday-02,2663794-GOOGLE-CAIR_MUL-Saturday-02,City to Edmonton via Bentley Park,1,,1400017
+140-275,GOOGLE-CAIR_MUL-Saturday-02,2663795-GOOGLE-CAIR_MUL-Saturday-02,City to Edmonton via Bentley Park,1,,1400017
+140N-275,GOOGLE-CAIR_MUL-Saturday-02,2663801-GOOGLE-CAIR_MUL-Saturday-02,City to Edmonton (Late night service),1,509183,140N0004
+140N-275,GOOGLE-CAIR_MUL-Saturday-02,2663802-GOOGLE-CAIR_MUL-Saturday-02,City to Edmonton (Late night service),1,509184,140N0004
+140N-275,GOOGLE-CAIR_MUL-Saturday-02,2663803-GOOGLE-CAIR_MUL-Saturday-02,City to Edmonton (Late night service),1,509185,140N0004
+140N-275,GOOGLE-CAIR_MUL-Saturday-02,2663804-GOOGLE-CAIR_MUL-Saturday-02,City to Edmonton (Late night service),1,509186,140N0004
+140N-275,GOOGLE-CAIR_MUL-Saturday-02,2663805-GOOGLE-CAIR_MUL-Saturday-02,City to Edmonton (Late night service),1,509187,140N0004
+141-275,GOOGLE-CAIR_MUL-Saturday-02,2663853-GOOGLE-CAIR_MUL-Saturday-02,Woree to City,0,,1410001
+141-275,GOOGLE-CAIR_MUL-Saturday-02,2663854-GOOGLE-CAIR_MUL-Saturday-02,Woree to City,0,,1410001
+141-275,GOOGLE-CAIR_MUL-Saturday-02,2663855-GOOGLE-CAIR_MUL-Saturday-02,Woree to City,0,,1410001
+141-275,GOOGLE-CAIR_MUL-Saturday-02,2663856-GOOGLE-CAIR_MUL-Saturday-02,Woree to City,0,,1410001
+141-275,GOOGLE-CAIR_MUL-Saturday-02,2663857-GOOGLE-CAIR_MUL-Saturday-02,Woree to City,0,,1410001
+141-275,GOOGLE-CAIR_MUL-Saturday-02,2663858-GOOGLE-CAIR_MUL-Saturday-02,Woree to City,0,,1410001
+141-275,GOOGLE-CAIR_MUL-Saturday-02,2663859-GOOGLE-CAIR_MUL-Saturday-02,Woree to City,0,,1410001
+141-275,GOOGLE-CAIR_MUL-Saturday-02,2663860-GOOGLE-CAIR_MUL-Saturday-02,Woree to City,0,,1410001
+141-275,GOOGLE-CAIR_MUL-Saturday-02,2663861-GOOGLE-CAIR_MUL-Saturday-02,Woree to City,0,,1410001
+141-275,GOOGLE-CAIR_MUL-Saturday-02,2663862-GOOGLE-CAIR_MUL-Saturday-02,Woree to City,0,,1410001
+141-275,GOOGLE-CAIR_MUL-Saturday-02,2663863-GOOGLE-CAIR_MUL-Saturday-02,Woree to City,0,,1410001
+141-275,GOOGLE-CAIR_MUL-Saturday-02,2663864-GOOGLE-CAIR_MUL-Saturday-02,Woree to City,0,,1410001
+141-275,GOOGLE-CAIR_MUL-Saturday-02,2663865-GOOGLE-CAIR_MUL-Saturday-02,Woree to City,0,,1410001
+141-275,GOOGLE-CAIR_MUL-Saturday-02,2663866-GOOGLE-CAIR_MUL-Saturday-02,City to Woree,1,,1410015
+141-275,GOOGLE-CAIR_MUL-Saturday-02,2663867-GOOGLE-CAIR_MUL-Saturday-02,City to Woree,1,,1410015
+141-275,GOOGLE-CAIR_MUL-Saturday-02,2663868-GOOGLE-CAIR_MUL-Saturday-02,City to Woree,1,,1410015
+141-275,GOOGLE-CAIR_MUL-Saturday-02,2663869-GOOGLE-CAIR_MUL-Saturday-02,City to Woree,1,,1410015
+141-275,GOOGLE-CAIR_MUL-Saturday-02,2663870-GOOGLE-CAIR_MUL-Saturday-02,City to Woree,1,,1410015
+141-275,GOOGLE-CAIR_MUL-Saturday-02,2663871-GOOGLE-CAIR_MUL-Saturday-02,City to Woree,1,,1410015
+141-275,GOOGLE-CAIR_MUL-Saturday-02,2663872-GOOGLE-CAIR_MUL-Saturday-02,City to Woree,1,,1410015
+141-275,GOOGLE-CAIR_MUL-Saturday-02,2663873-GOOGLE-CAIR_MUL-Saturday-02,City to Woree,1,,1410015
+141-275,GOOGLE-CAIR_MUL-Saturday-02,2663874-GOOGLE-CAIR_MUL-Saturday-02,City to Woree,1,,1410015
+141-275,GOOGLE-CAIR_MUL-Saturday-02,2663875-GOOGLE-CAIR_MUL-Saturday-02,City to Woree,1,,1410015
+141-275,GOOGLE-CAIR_MUL-Saturday-02,2663876-GOOGLE-CAIR_MUL-Saturday-02,City to Woree,1,,1410015
+141-275,GOOGLE-CAIR_MUL-Saturday-02,2663877-GOOGLE-CAIR_MUL-Saturday-02,City to Woree,1,,1410015
+141-275,GOOGLE-CAIR_MUL-Saturday-02,2663878-GOOGLE-CAIR_MUL-Saturday-02,City to Woree,1,,1410015
+142-275,GOOGLE-CAIR_MUL-Saturday-02,2663921-GOOGLE-CAIR_MUL-Saturday-02,City to Edmonton via Timberlea,1,,1420012
+142-275,GOOGLE-CAIR_MUL-Saturday-02,2663922-GOOGLE-CAIR_MUL-Saturday-02,City to Edmonton via Timberlea,1,,1420012
+142-275,GOOGLE-CAIR_MUL-Saturday-02,2663923-GOOGLE-CAIR_MUL-Saturday-02,City to Edmonton via Timberlea,1,,1420012
+142-275,GOOGLE-CAIR_MUL-Saturday-02,2663924-GOOGLE-CAIR_MUL-Saturday-02,City to Edmonton via Timberlea,1,,1420012
+142-275,GOOGLE-CAIR_MUL-Saturday-02,2663925-GOOGLE-CAIR_MUL-Saturday-02,City to Edmonton via Timberlea,1,,1420012
+142-275,GOOGLE-CAIR_MUL-Saturday-02,2663926-GOOGLE-CAIR_MUL-Saturday-02,City to Edmonton via Timberlea,1,,1420012
+142-275,GOOGLE-CAIR_MUL-Saturday-02,2663927-GOOGLE-CAIR_MUL-Saturday-02,City to Edmonton via Timberlea,1,,1420012
+142-275,GOOGLE-CAIR_MUL-Saturday-02,2663928-GOOGLE-CAIR_MUL-Saturday-02,City to Edmonton via Timberlea,1,,1420012
+142-275,GOOGLE-CAIR_MUL-Saturday-02,2663929-GOOGLE-CAIR_MUL-Saturday-02,City to Edmonton via Timberlea,1,,1420012
+142-275,GOOGLE-CAIR_MUL-Saturday-02,2663930-GOOGLE-CAIR_MUL-Saturday-02,City to Edmonton via Timberlea,1,,1420012
+142-275,GOOGLE-CAIR_MUL-Saturday-02,2663931-GOOGLE-CAIR_MUL-Saturday-02,City to Edmonton via Timberlea,1,,1420012
+142-275,GOOGLE-CAIR_MUL-Saturday-02,2663932-GOOGLE-CAIR_MUL-Saturday-02,City to Edmonton via Timberlea,1,,1420012
+142-275,GOOGLE-CAIR_MUL-Saturday-02,2663933-GOOGLE-CAIR_MUL-Saturday-02,Edmonton to City via Timberlea,0,,1420011
+142-275,GOOGLE-CAIR_MUL-Saturday-02,2663934-GOOGLE-CAIR_MUL-Saturday-02,Edmonton to City via Timberlea,0,,1420011
+142-275,GOOGLE-CAIR_MUL-Saturday-02,2663935-GOOGLE-CAIR_MUL-Saturday-02,Edmonton to City via Timberlea,0,,1420011
+142-275,GOOGLE-CAIR_MUL-Saturday-02,2663936-GOOGLE-CAIR_MUL-Saturday-02,Edmonton to City via Timberlea,0,,1420011
+142-275,GOOGLE-CAIR_MUL-Saturday-02,2663937-GOOGLE-CAIR_MUL-Saturday-02,Edmonton to City via Timberlea,0,,1420011
+142-275,GOOGLE-CAIR_MUL-Saturday-02,2663938-GOOGLE-CAIR_MUL-Saturday-02,Edmonton to City via Timberlea,0,,1420011
+142-275,GOOGLE-CAIR_MUL-Saturday-02,2663939-GOOGLE-CAIR_MUL-Saturday-02,Edmonton to City via Timberlea,0,,1420011
+142-275,GOOGLE-CAIR_MUL-Saturday-02,2663940-GOOGLE-CAIR_MUL-Saturday-02,Edmonton to City via Timberlea,0,,1420011
+142-275,GOOGLE-CAIR_MUL-Saturday-02,2663941-GOOGLE-CAIR_MUL-Saturday-02,Edmonton to City via Timberlea,0,,1420011
+142-275,GOOGLE-CAIR_MUL-Saturday-02,2663942-GOOGLE-CAIR_MUL-Saturday-02,Edmonton to City via Timberlea,0,,1420011
+142-275,GOOGLE-CAIR_MUL-Saturday-02,2663943-GOOGLE-CAIR_MUL-Saturday-02,Edmonton to City via Timberlea,0,,1420011
+143-275,GOOGLE-CAIR_MUL-Saturday-02,2664001-GOOGLE-CAIR_MUL-Saturday-02,Mt Sheridan Plaza to City via White Rock,0,,1430021
+143-275,GOOGLE-CAIR_MUL-Saturday-02,2664002-GOOGLE-CAIR_MUL-Saturday-02,Mt Sheridan Plaza to City via White Rock,0,,1430021
+143-275,GOOGLE-CAIR_MUL-Saturday-02,2664003-GOOGLE-CAIR_MUL-Saturday-02,Mt Sheridan Plaza to City via White Rock,0,,1430021
+143-275,GOOGLE-CAIR_MUL-Saturday-02,2664004-GOOGLE-CAIR_MUL-Saturday-02,Mt Sheridan Plaza to City via White Rock,0,,1430021
+143-275,GOOGLE-CAIR_MUL-Saturday-02,2664005-GOOGLE-CAIR_MUL-Saturday-02,Mt Sheridan Plaza to City via White Rock,0,,1430021
+143-275,GOOGLE-CAIR_MUL-Saturday-02,2664006-GOOGLE-CAIR_MUL-Saturday-02,Mt Sheridan Plaza to City via White Rock,0,,1430021
+143-275,GOOGLE-CAIR_MUL-Saturday-02,2664007-GOOGLE-CAIR_MUL-Saturday-02,Mt Sheridan Plaza to City via White Rock,0,,1430021
+143-275,GOOGLE-CAIR_MUL-Saturday-02,2664008-GOOGLE-CAIR_MUL-Saturday-02,Mt Sheridan Plaza to City via White Rock,0,,1430021
+143-275,GOOGLE-CAIR_MUL-Saturday-02,2664009-GOOGLE-CAIR_MUL-Saturday-02,Mt Sheridan Plaza to City via White Rock,0,,1430021
+143-275,GOOGLE-CAIR_MUL-Saturday-02,2664010-GOOGLE-CAIR_MUL-Saturday-02,Mt Sheridan Plaza to City via White Rock,0,,1430021
+143-275,GOOGLE-CAIR_MUL-Saturday-02,2664011-GOOGLE-CAIR_MUL-Saturday-02,Mt Sheridan Plaza to City via White Rock,0,,1430021
+143-275,GOOGLE-CAIR_MUL-Saturday-02,2664012-GOOGLE-CAIR_MUL-Saturday-02,Mt Sheridan Plaza to City via White Rock,0,,1430021
+143-275,GOOGLE-CAIR_MUL-Saturday-02,2664013-GOOGLE-CAIR_MUL-Saturday-02,Mt Sheridan Plaza to City via White Rock,0,,1430021
+143-275,GOOGLE-CAIR_MUL-Saturday-02,2664014-GOOGLE-CAIR_MUL-Saturday-02,Mt Sheridan Plaza to City via White Rock,0,,1430021
+143-275,GOOGLE-CAIR_MUL-Saturday-02,2664015-GOOGLE-CAIR_MUL-Saturday-02,City to Mt Sheridan Plaza via White Rock,1,,1430022
+143-275,GOOGLE-CAIR_MUL-Saturday-02,2664016-GOOGLE-CAIR_MUL-Saturday-02,City to Mt Sheridan Plaza via White Rock,1,,1430022
+143-275,GOOGLE-CAIR_MUL-Saturday-02,2664017-GOOGLE-CAIR_MUL-Saturday-02,City to Mt Sheridan Plaza via White Rock,1,,1430022
+143-275,GOOGLE-CAIR_MUL-Saturday-02,2664018-GOOGLE-CAIR_MUL-Saturday-02,City to Mt Sheridan Plaza via White Rock,1,,1430022
+143-275,GOOGLE-CAIR_MUL-Saturday-02,2664019-GOOGLE-CAIR_MUL-Saturday-02,City to Mt Sheridan Plaza via White Rock,1,,1430022
+143-275,GOOGLE-CAIR_MUL-Saturday-02,2664020-GOOGLE-CAIR_MUL-Saturday-02,City to Mt Sheridan Plaza via White Rock,1,,1430022
+143-275,GOOGLE-CAIR_MUL-Saturday-02,2664021-GOOGLE-CAIR_MUL-Saturday-02,City to Mt Sheridan Plaza via White Rock,1,,1430022
+143-275,GOOGLE-CAIR_MUL-Saturday-02,2664022-GOOGLE-CAIR_MUL-Saturday-02,City to Mt Sheridan Plaza via White Rock,1,,1430022
+143-275,GOOGLE-CAIR_MUL-Saturday-02,2664023-GOOGLE-CAIR_MUL-Saturday-02,City to Mt Sheridan Plaza via White Rock,1,,1430022
+143-275,GOOGLE-CAIR_MUL-Saturday-02,2664024-GOOGLE-CAIR_MUL-Saturday-02,City to Mt Sheridan Plaza via White Rock,1,,1430022
+143-275,GOOGLE-CAIR_MUL-Saturday-02,2664025-GOOGLE-CAIR_MUL-Saturday-02,City to Mt Sheridan Plaza via White Rock,1,,1430022
+143-275,GOOGLE-CAIR_MUL-Saturday-02,2664026-GOOGLE-CAIR_MUL-Saturday-02,City to Mt Sheridan Plaza via White Rock,1,,1430022
+143-275,GOOGLE-CAIR_MUL-Saturday-02,2664027-GOOGLE-CAIR_MUL-Saturday-02,City to Mt Sheridan Plaza via White Rock,1,,1430022
+143W-275,GOOGLE-CAIR_MUL-Saturday-02,2664037-GOOGLE-CAIR_MUL-Saturday-02,Mt Sheridan Plaza to City via White Rock and Woree,0,509197,143W0009
+143W-275,GOOGLE-CAIR_MUL-Saturday-02,2664038-GOOGLE-CAIR_MUL-Saturday-02,Mt Sheridan Plaza to City via White Rock and Woree,0,509198,143W0009
+143W-275,GOOGLE-CAIR_MUL-Saturday-02,2664039-GOOGLE-CAIR_MUL-Saturday-02,Mt Sheridan Plaza to City via White Rock and Woree,0,509199,143W0009
+143W-275,GOOGLE-CAIR_MUL-Saturday-02,2664040-GOOGLE-CAIR_MUL-Saturday-02,Mt Sheridan Plaza to City via White Rock and Woree,0,509200,143W0009
+143W-275,GOOGLE-CAIR_MUL-Saturday-02,2664041-GOOGLE-CAIR_MUL-Saturday-02,City to  Mt Sheridan Plaza via Woree and White Rock,1,509201,143W0010
+143W-275,GOOGLE-CAIR_MUL-Saturday-02,2664042-GOOGLE-CAIR_MUL-Saturday-02,City to  Mt Sheridan Plaza via Woree and White Rock,1,509202,143W0010
+143W-275,GOOGLE-CAIR_MUL-Saturday-02,2664043-GOOGLE-CAIR_MUL-Saturday-02,City to  Mt Sheridan Plaza via Woree and White Rock,1,509203,143W0010
+143W-275,GOOGLE-CAIR_MUL-Saturday-02,2664044-GOOGLE-CAIR_MUL-Saturday-02,City to  Mt Sheridan Plaza via Woree and White Rock,1,509204,143W0010
+143W-275,GOOGLE-CAIR_MUL-Saturday-02,2664045-GOOGLE-CAIR_MUL-Saturday-02,City to  Mt Sheridan Plaza via Woree and White Rock,1,509205,143W0010
+150-275,GOOGLE-CAIR_MUL-Saturday-02,2664103-GOOGLE-CAIR_MUL-Saturday-02,Gordonvale to City,0,,1500014
+150-275,GOOGLE-CAIR_MUL-Saturday-02,2664104-GOOGLE-CAIR_MUL-Saturday-02,Gordonvale to City,0,,1500014
+150-275,GOOGLE-CAIR_MUL-Saturday-02,2664105-GOOGLE-CAIR_MUL-Saturday-02,Gordonvale to City,0,,1500014
+150-275,GOOGLE-CAIR_MUL-Saturday-02,2664106-GOOGLE-CAIR_MUL-Saturday-02,Gordonvale to City,0,,1500014
+150-275,GOOGLE-CAIR_MUL-Saturday-02,2664107-GOOGLE-CAIR_MUL-Saturday-02,Gordonvale to City,0,,1500014
+150-275,GOOGLE-CAIR_MUL-Saturday-02,2664108-GOOGLE-CAIR_MUL-Saturday-02,Gordonvale to City,0,,1500014
+150-275,GOOGLE-CAIR_MUL-Saturday-02,2664109-GOOGLE-CAIR_MUL-Saturday-02,Gordonvale to City,0,,1500014
+150-275,GOOGLE-CAIR_MUL-Saturday-02,2664110-GOOGLE-CAIR_MUL-Saturday-02,Gordonvale to City,0,,1500014
+150-275,GOOGLE-CAIR_MUL-Saturday-02,2664111-GOOGLE-CAIR_MUL-Saturday-02,Gordonvale to City,0,,1500014
+150-275,GOOGLE-CAIR_MUL-Saturday-02,2664112-GOOGLE-CAIR_MUL-Saturday-02,Gordonvale to City,0,,1500014
+150-275,GOOGLE-CAIR_MUL-Saturday-02,2664113-GOOGLE-CAIR_MUL-Saturday-02,Gordonvale to City,0,,1500014
+150-275,GOOGLE-CAIR_MUL-Saturday-02,2664114-GOOGLE-CAIR_MUL-Saturday-02,Gordonvale to City,0,,1500014
+150-275,GOOGLE-CAIR_MUL-Saturday-02,2664115-GOOGLE-CAIR_MUL-Saturday-02,City to Gordonvale,1,,1500016
+150-275,GOOGLE-CAIR_MUL-Saturday-02,2664116-GOOGLE-CAIR_MUL-Saturday-02,City to Gordonvale,1,,1500016
+150-275,GOOGLE-CAIR_MUL-Saturday-02,2664117-GOOGLE-CAIR_MUL-Saturday-02,City to Gordonvale,1,,1500016
+150-275,GOOGLE-CAIR_MUL-Saturday-02,2664118-GOOGLE-CAIR_MUL-Saturday-02,City to Gordonvale,1,,1500016
+150-275,GOOGLE-CAIR_MUL-Saturday-02,2664119-GOOGLE-CAIR_MUL-Saturday-02,City to Gordonvale,1,,1500016
+150-275,GOOGLE-CAIR_MUL-Saturday-02,2664120-GOOGLE-CAIR_MUL-Saturday-02,City to Gordonvale,1,,1500016
+150-275,GOOGLE-CAIR_MUL-Saturday-02,2664121-GOOGLE-CAIR_MUL-Saturday-02,City to Gordonvale,1,,1500016
+150-275,GOOGLE-CAIR_MUL-Saturday-02,2664122-GOOGLE-CAIR_MUL-Saturday-02,City to Gordonvale,1,,1500016
+150-275,GOOGLE-CAIR_MUL-Saturday-02,2664123-GOOGLE-CAIR_MUL-Saturday-02,City to Gordonvale,1,,1500016
+150-275,GOOGLE-CAIR_MUL-Saturday-02,2664124-GOOGLE-CAIR_MUL-Saturday-02,City to Gordonvale,1,,1500016
+150E-275,GOOGLE-CAIR_MUL-Saturday-02,2664133-GOOGLE-CAIR_MUL-Saturday-02,City to Gordonvale via Edmonton,1,509244,150E0006
+150E-275,GOOGLE-CAIR_MUL-Saturday-02,2664134-GOOGLE-CAIR_MUL-Saturday-02,City to Gordonvale via Edmonton,1,509245,150E0006
+150E-275,GOOGLE-CAIR_MUL-Saturday-02,2664135-GOOGLE-CAIR_MUL-Saturday-02,City to Gordonvale via Edmonton,1,509246,150E0006
+150E-275,GOOGLE-CAIR_MUL-Saturday-02,2664136-GOOGLE-CAIR_MUL-Saturday-02,City to Gordonvale via Edmonton,1,509248,150E0006
+150E-275,GOOGLE-CAIR_MUL-Saturday-02,2664137-GOOGLE-CAIR_MUL-Saturday-02,City to Gordonvale via Edmonton,1,509247,150E0006
+150E-275,GOOGLE-CAIR_MUL-Saturday-02,2664138-GOOGLE-CAIR_MUL-Saturday-02,Gordonvale to City via Edmonton,0,509249,150E0004
+150E-275,GOOGLE-CAIR_MUL-Saturday-02,2664139-GOOGLE-CAIR_MUL-Saturday-02,Gordonvale to City via Edmonton,0,509250,150E0004
+150E-275,GOOGLE-CAIR_MUL-Saturday-02,2664140-GOOGLE-CAIR_MUL-Saturday-02,Gordonvale to City via Edmonton,0,509251,150E0004
+150E-275,GOOGLE-CAIR_MUL-Saturday-02,2664141-GOOGLE-CAIR_MUL-Saturday-02,Gordonvale to City via Edmonton,0,509252,150E0004
+150E-275,GOOGLE-CAIR_MUL-Saturday-02,2664142-GOOGLE-CAIR_MUL-Saturday-02,Gordonvale to City via Edmonton,0,509253,150E0004
+112-275,GOOGLE-CAIR_MUL-Saturday-02,3555278a-GOOGLE-CAIR_MUL-Saturday-02,Smithfield to Yorkeys Knob and return,1,,
+110-275,GOOGLE-CAIR_MUL-Sunday-02,2662925-GOOGLE-CAIR_MUL-Sunday-02,Palm Cove to City,0,,1100008
+110-275,GOOGLE-CAIR_MUL-Sunday-02,2662926-GOOGLE-CAIR_MUL-Sunday-02,Palm Cove to City,0,,1100008
+110-275,GOOGLE-CAIR_MUL-Sunday-02,2662927-GOOGLE-CAIR_MUL-Sunday-02,Palm Cove to City,0,,1100008
+110-275,GOOGLE-CAIR_MUL-Sunday-02,2662928-GOOGLE-CAIR_MUL-Sunday-02,Palm Cove to City,0,,1100008
+110-275,GOOGLE-CAIR_MUL-Sunday-02,2662929-GOOGLE-CAIR_MUL-Sunday-02,Palm Cove to City,0,,1100008
+110-275,GOOGLE-CAIR_MUL-Sunday-02,2662930-GOOGLE-CAIR_MUL-Sunday-02,Palm Cove to City,0,,1100008
+110-275,GOOGLE-CAIR_MUL-Sunday-02,2662931-GOOGLE-CAIR_MUL-Sunday-02,Palm Cove to City,0,,1100008
+110-275,GOOGLE-CAIR_MUL-Sunday-02,2662932-GOOGLE-CAIR_MUL-Sunday-02,Palm Cove to City,0,,1100008
+110-275,GOOGLE-CAIR_MUL-Sunday-02,2662933-GOOGLE-CAIR_MUL-Sunday-02,Palm Cove to City,0,,1100008
+110-275,GOOGLE-CAIR_MUL-Sunday-02,2662934-GOOGLE-CAIR_MUL-Sunday-02,Palm Cove to City,0,,1100008
+110-275,GOOGLE-CAIR_MUL-Sunday-02,2662935-GOOGLE-CAIR_MUL-Sunday-02,Palm Cove to City,0,,1100008
+110-275,GOOGLE-CAIR_MUL-Sunday-02,2662936-GOOGLE-CAIR_MUL-Sunday-02,Palm Cove to City,0,,1100008
+110-275,GOOGLE-CAIR_MUL-Sunday-02,2662937-GOOGLE-CAIR_MUL-Sunday-02,Palm Cove to City,0,,1100008
+110-275,GOOGLE-CAIR_MUL-Sunday-02,2662938-GOOGLE-CAIR_MUL-Sunday-02,Palm Cove to City,0,,1100008
+110-275,GOOGLE-CAIR_MUL-Sunday-02,2662939-GOOGLE-CAIR_MUL-Sunday-02,Palm Cove to City,0,,1100008
+110-275,GOOGLE-CAIR_MUL-Sunday-02,2662940-GOOGLE-CAIR_MUL-Sunday-02,Palm Cove to City,0,,1100008
+110-275,GOOGLE-CAIR_MUL-Sunday-02,2662941-GOOGLE-CAIR_MUL-Sunday-02,City to Palm Cove via Clifton Beach,1,,1100013
+110-275,GOOGLE-CAIR_MUL-Sunday-02,2662942-GOOGLE-CAIR_MUL-Sunday-02,City to Palm Cove via Clifton Beach,1,,1100013
+110-275,GOOGLE-CAIR_MUL-Sunday-02,2662943-GOOGLE-CAIR_MUL-Sunday-02,City to Palm Cove via Clifton Beach,1,,1100013
+110-275,GOOGLE-CAIR_MUL-Sunday-02,2662944-GOOGLE-CAIR_MUL-Sunday-02,City to Palm Cove via Clifton Beach,1,,1100013
+110-275,GOOGLE-CAIR_MUL-Sunday-02,2662945-GOOGLE-CAIR_MUL-Sunday-02,City to Palm Cove via Clifton Beach,1,,1100013
+110-275,GOOGLE-CAIR_MUL-Sunday-02,2662946-GOOGLE-CAIR_MUL-Sunday-02,City to Palm Cove via Clifton Beach,1,,1100013
+110-275,GOOGLE-CAIR_MUL-Sunday-02,2662947-GOOGLE-CAIR_MUL-Sunday-02,City to Palm Cove via Clifton Beach,1,,1100013
+110-275,GOOGLE-CAIR_MUL-Sunday-02,2662948-GOOGLE-CAIR_MUL-Sunday-02,City to Palm Cove via Clifton Beach,1,,1100013
+110-275,GOOGLE-CAIR_MUL-Sunday-02,2662949-GOOGLE-CAIR_MUL-Sunday-02,City to Palm Cove via Clifton Beach,1,,1100013
+110-275,GOOGLE-CAIR_MUL-Sunday-02,2662950-GOOGLE-CAIR_MUL-Sunday-02,City to Palm Cove via Clifton Beach,1,,1100013
+110-275,GOOGLE-CAIR_MUL-Sunday-02,2662951-GOOGLE-CAIR_MUL-Sunday-02,City to Palm Cove via Clifton Beach,1,,1100013
+110-275,GOOGLE-CAIR_MUL-Sunday-02,2662952-GOOGLE-CAIR_MUL-Sunday-02,City to Palm Cove via Clifton Beach,1,,1100013
+110-275,GOOGLE-CAIR_MUL-Sunday-02,2662953-GOOGLE-CAIR_MUL-Sunday-02,City to Palm Cove via Clifton Beach,1,,1100013
+110-275,GOOGLE-CAIR_MUL-Sunday-02,2662954-GOOGLE-CAIR_MUL-Sunday-02,City to Palm Cove via Clifton Beach,1,,1100013
+110-275,GOOGLE-CAIR_MUL-Sunday-02,2662955-GOOGLE-CAIR_MUL-Sunday-02,City to Palm Cove via Clifton Beach,1,,1100013
+110-275,GOOGLE-CAIR_MUL-Sunday-02,2662956-GOOGLE-CAIR_MUL-Sunday-02,City to Palm Cove via Clifton Beach,1,,1100013
+111-275,GOOGLE-CAIR_MUL-Sunday-02,2663068-GOOGLE-CAIR_MUL-Sunday-02,Kewarra Beach to City,0,,1110007
+111-275,GOOGLE-CAIR_MUL-Sunday-02,2663069-GOOGLE-CAIR_MUL-Sunday-02,Kewarra Beach to City,0,,1110007
+111-275,GOOGLE-CAIR_MUL-Sunday-02,2663070-GOOGLE-CAIR_MUL-Sunday-02,Kewarra Beach to City,0,,1110007
+111-275,GOOGLE-CAIR_MUL-Sunday-02,2663071-GOOGLE-CAIR_MUL-Sunday-02,Kewarra Beach to City,0,,1110007
+111-275,GOOGLE-CAIR_MUL-Sunday-02,2663072-GOOGLE-CAIR_MUL-Sunday-02,Kewarra Beach to City,0,,1110007
+111-275,GOOGLE-CAIR_MUL-Sunday-02,2663073-GOOGLE-CAIR_MUL-Sunday-02,Kewarra Beach to City,0,,1110007
+111-275,GOOGLE-CAIR_MUL-Sunday-02,2663074-GOOGLE-CAIR_MUL-Sunday-02,Kewarra Beach to City,0,,1110007
+111-275,GOOGLE-CAIR_MUL-Sunday-02,2663075-GOOGLE-CAIR_MUL-Sunday-02,Kewarra Beach to City,0,,1110007
+111-275,GOOGLE-CAIR_MUL-Sunday-02,2663076-GOOGLE-CAIR_MUL-Sunday-02,Kewarra Beach to City,0,,1110007
+111-275,GOOGLE-CAIR_MUL-Sunday-02,2663077-GOOGLE-CAIR_MUL-Sunday-02,Kewarra Beach to City,0,,1110007
+111-275,GOOGLE-CAIR_MUL-Sunday-02,2663078-GOOGLE-CAIR_MUL-Sunday-02,Kewarra Beach to City,0,,1110007
+111-275,GOOGLE-CAIR_MUL-Sunday-02,2663079-GOOGLE-CAIR_MUL-Sunday-02,Kewarra Beach to City,0,,1110007
+111-275,GOOGLE-CAIR_MUL-Sunday-02,2663080-GOOGLE-CAIR_MUL-Sunday-02,Kewarra Beach to City,0,,1110007
+111-275,GOOGLE-CAIR_MUL-Sunday-02,2663081-GOOGLE-CAIR_MUL-Sunday-02,Kewarra Beach to City,0,,1110007
+111-275,GOOGLE-CAIR_MUL-Sunday-02,2663082-GOOGLE-CAIR_MUL-Sunday-02,Kewarra Beach to City,0,,1110007
+111-275,GOOGLE-CAIR_MUL-Sunday-02,2663083-GOOGLE-CAIR_MUL-Sunday-02,Kewarra Beach to City,0,,1110007
+111-275,GOOGLE-CAIR_MUL-Sunday-02,2663084-GOOGLE-CAIR_MUL-Sunday-02,City to Kewarra Beach via Trinity Beach,1,,1110014
+111-275,GOOGLE-CAIR_MUL-Sunday-02,2663085-GOOGLE-CAIR_MUL-Sunday-02,City to Kewarra Beach via Trinity Beach,1,,1110014
+111-275,GOOGLE-CAIR_MUL-Sunday-02,2663086-GOOGLE-CAIR_MUL-Sunday-02,City to Kewarra Beach via Trinity Beach,1,,1110014
+111-275,GOOGLE-CAIR_MUL-Sunday-02,2663087-GOOGLE-CAIR_MUL-Sunday-02,City to Kewarra Beach via Trinity Beach,1,,1110014
+111-275,GOOGLE-CAIR_MUL-Sunday-02,2663088-GOOGLE-CAIR_MUL-Sunday-02,City to Kewarra Beach via Trinity Beach,1,,1110014
+111-275,GOOGLE-CAIR_MUL-Sunday-02,2663089-GOOGLE-CAIR_MUL-Sunday-02,City to Kewarra Beach via Trinity Beach,1,,1110014
+111-275,GOOGLE-CAIR_MUL-Sunday-02,2663090-GOOGLE-CAIR_MUL-Sunday-02,City to Kewarra Beach via Trinity Beach,1,,1110014
+111-275,GOOGLE-CAIR_MUL-Sunday-02,2663091-GOOGLE-CAIR_MUL-Sunday-02,City to Kewarra Beach via Trinity Beach,1,,1110014
+111-275,GOOGLE-CAIR_MUL-Sunday-02,2663092-GOOGLE-CAIR_MUL-Sunday-02,City to Kewarra Beach via Trinity Beach,1,,1110014
+111-275,GOOGLE-CAIR_MUL-Sunday-02,2663093-GOOGLE-CAIR_MUL-Sunday-02,City to Kewarra Beach via Trinity Beach,1,,1110014
+111-275,GOOGLE-CAIR_MUL-Sunday-02,2663094-GOOGLE-CAIR_MUL-Sunday-02,City to Kewarra Beach via Trinity Beach,1,,1110014
+111-275,GOOGLE-CAIR_MUL-Sunday-02,2663095-GOOGLE-CAIR_MUL-Sunday-02,City to Kewarra Beach via Trinity Beach,1,,1110014
+111-275,GOOGLE-CAIR_MUL-Sunday-02,2663096-GOOGLE-CAIR_MUL-Sunday-02,City to Kewarra Beach via Trinity Beach,1,,1110014
+111-275,GOOGLE-CAIR_MUL-Sunday-02,2663097-GOOGLE-CAIR_MUL-Sunday-02,City to Kewarra Beach via Trinity Beach,1,,1110014
+111-275,GOOGLE-CAIR_MUL-Sunday-02,2663098-GOOGLE-CAIR_MUL-Sunday-02,City to Kewarra Beach via Trinity Beach,1,,1110014
+111-275,GOOGLE-CAIR_MUL-Sunday-02,2663099-GOOGLE-CAIR_MUL-Sunday-02,City to Kewarra Beach via Trinity Beach,1,,1110014
+111-275,GOOGLE-CAIR_MUL-Sunday-02,2663100-GOOGLE-CAIR_MUL-Sunday-02,City to Kewarra Beach via Trinity Beach,1,,1110014
+112-275,GOOGLE-CAIR_MUL-Sunday-02,2663129-GOOGLE-CAIR_MUL-Sunday-02,Smithfield to Yorkeys Knob and return,1,,1120010
+112-275,GOOGLE-CAIR_MUL-Sunday-02,2663130-GOOGLE-CAIR_MUL-Sunday-02,Smithfield to Yorkeys Knob and return,1,,1120010
+112-275,GOOGLE-CAIR_MUL-Sunday-02,2663131-GOOGLE-CAIR_MUL-Sunday-02,Smithfield to Yorkeys Knob and return,1,,1120010
+112-275,GOOGLE-CAIR_MUL-Sunday-02,2663132-GOOGLE-CAIR_MUL-Sunday-02,Smithfield to Yorkeys Knob and return,1,,1120010
+112-275,GOOGLE-CAIR_MUL-Sunday-02,2663133-GOOGLE-CAIR_MUL-Sunday-02,Smithfield to Yorkeys Knob and return,1,,1120010
+112-275,GOOGLE-CAIR_MUL-Sunday-02,2663134-GOOGLE-CAIR_MUL-Sunday-02,Smithfield to Yorkeys Knob and return,1,,1120010
+112-275,GOOGLE-CAIR_MUL-Sunday-02,2663135-GOOGLE-CAIR_MUL-Sunday-02,Smithfield to Yorkeys Knob and return,1,,1120010
+112-275,GOOGLE-CAIR_MUL-Sunday-02,2663136-GOOGLE-CAIR_MUL-Sunday-02,Smithfield to Yorkeys Knob and return,1,,1120010
+120-275,GOOGLE-CAIR_MUL-Sunday-02,2663208-GOOGLE-CAIR_MUL-Sunday-02,Smithfield to City via Machans Beach and Holloways Beach,0,,1200005
+120-275,GOOGLE-CAIR_MUL-Sunday-02,2663209-GOOGLE-CAIR_MUL-Sunday-02,Smithfield to City via Machans Beach and Holloways Beach,0,,1200005
+120-275,GOOGLE-CAIR_MUL-Sunday-02,2663210-GOOGLE-CAIR_MUL-Sunday-02,Smithfield to City via Machans Beach and Holloways Beach,0,,1200005
+120-275,GOOGLE-CAIR_MUL-Sunday-02,2663211-GOOGLE-CAIR_MUL-Sunday-02,Smithfield to City via Machans Beach and Holloways Beach,0,,1200005
+120-275,GOOGLE-CAIR_MUL-Sunday-02,2663212-GOOGLE-CAIR_MUL-Sunday-02,Smithfield to City via Machans Beach and Holloways Beach,0,,1200005
+120-275,GOOGLE-CAIR_MUL-Sunday-02,2663213-GOOGLE-CAIR_MUL-Sunday-02,Smithfield to City via Machans Beach and Holloways Beach,0,,1200005
+120-275,GOOGLE-CAIR_MUL-Sunday-02,2663214-GOOGLE-CAIR_MUL-Sunday-02,Smithfield to City via Machans Beach and Holloways Beach,0,,1200005
+120-275,GOOGLE-CAIR_MUL-Sunday-02,2663215-GOOGLE-CAIR_MUL-Sunday-02,Smithfield to City via Machans Beach and Holloways Beach,0,,1200005
+120-275,GOOGLE-CAIR_MUL-Sunday-02,2663216-GOOGLE-CAIR_MUL-Sunday-02,Smithfield to City via Holloways Beach and Machans Beach,1,,1200007
+120-275,GOOGLE-CAIR_MUL-Sunday-02,2663217-GOOGLE-CAIR_MUL-Sunday-02,Smithfield to City via Holloways Beach and Machans Beach,1,,1200007
+120-275,GOOGLE-CAIR_MUL-Sunday-02,2663218-GOOGLE-CAIR_MUL-Sunday-02,Smithfield to City via Holloways Beach and Machans Beach,1,,1200007
+120-275,GOOGLE-CAIR_MUL-Sunday-02,2663219-GOOGLE-CAIR_MUL-Sunday-02,Smithfield to City via Holloways Beach and Machans Beach,1,,1200007
+120-275,GOOGLE-CAIR_MUL-Sunday-02,2663220-GOOGLE-CAIR_MUL-Sunday-02,Smithfield to City via Holloways Beach and Machans Beach,1,,1200007
+120-275,GOOGLE-CAIR_MUL-Sunday-02,2663221-GOOGLE-CAIR_MUL-Sunday-02,Smithfield to City via Holloways Beach and Machans Beach,1,,1200007
+120-275,GOOGLE-CAIR_MUL-Sunday-02,2663222-GOOGLE-CAIR_MUL-Sunday-02,Smithfield to City via Holloways Beach and Machans Beach,1,,1200007
+120-275,GOOGLE-CAIR_MUL-Sunday-02,2663223-GOOGLE-CAIR_MUL-Sunday-02,Smithfield to City via Holloways Beach and Machans Beach,1,,1200007
+121-275,GOOGLE-CAIR_MUL-Sunday-02,2663292-GOOGLE-CAIR_MUL-Sunday-02,Redlynch to City via Stratford,0,,1210010
+121-275,GOOGLE-CAIR_MUL-Sunday-02,2663293-GOOGLE-CAIR_MUL-Sunday-02,Redlynch to City via Stratford,0,,1210010
+121-275,GOOGLE-CAIR_MUL-Sunday-02,2663294-GOOGLE-CAIR_MUL-Sunday-02,Redlynch to City via Stratford,0,,1210010
+121-275,GOOGLE-CAIR_MUL-Sunday-02,2663295-GOOGLE-CAIR_MUL-Sunday-02,Redlynch to City via Stratford,0,,1210010
+121-275,GOOGLE-CAIR_MUL-Sunday-02,2663296-GOOGLE-CAIR_MUL-Sunday-02,Redlynch to City via Stratford,0,,1210010
+121-275,GOOGLE-CAIR_MUL-Sunday-02,2663297-GOOGLE-CAIR_MUL-Sunday-02,Redlynch to City via Stratford,0,,1210010
+121-275,GOOGLE-CAIR_MUL-Sunday-02,2663298-GOOGLE-CAIR_MUL-Sunday-02,Redlynch to City via Stratford,0,,1210010
+121-275,GOOGLE-CAIR_MUL-Sunday-02,2663299-GOOGLE-CAIR_MUL-Sunday-02,City to Redlynch via Stratford (connects to route 122),1,,1210011
+121-275,GOOGLE-CAIR_MUL-Sunday-02,2663300-GOOGLE-CAIR_MUL-Sunday-02,City to Redlynch via Stratford (connects to route 122),1,,1210011
+121-275,GOOGLE-CAIR_MUL-Sunday-02,2663301-GOOGLE-CAIR_MUL-Sunday-02,City to Redlynch via Stratford (connects to route 122),1,,1210011
+121-275,GOOGLE-CAIR_MUL-Sunday-02,2663302-GOOGLE-CAIR_MUL-Sunday-02,City to Redlynch via Stratford (connects to route 122),1,,1210011
+121-275,GOOGLE-CAIR_MUL-Sunday-02,2663303-GOOGLE-CAIR_MUL-Sunday-02,City to Redlynch via Stratford (connects to route 122),1,,1210011
+121-275,GOOGLE-CAIR_MUL-Sunday-02,2663304-GOOGLE-CAIR_MUL-Sunday-02,City to Redlynch via Stratford (connects to route 122),1,,1210011
+121-275,GOOGLE-CAIR_MUL-Sunday-02,2663305-GOOGLE-CAIR_MUL-Sunday-02,City to Redlynch via Stratford (connects to route 122),1,,1210011
+122-275,GOOGLE-CAIR_MUL-Sunday-02,2663369-GOOGLE-CAIR_MUL-Sunday-02,JCU to Redlynch via Caravonica (connects to route 121),1,,1220011
+122-275,GOOGLE-CAIR_MUL-Sunday-02,2663370-GOOGLE-CAIR_MUL-Sunday-02,JCU to Redlynch via Caravonica (connects to route 121),1,,1220011
+122-275,GOOGLE-CAIR_MUL-Sunday-02,2663371-GOOGLE-CAIR_MUL-Sunday-02,JCU to Redlynch via Caravonica (connects to route 121),1,,1220011
+122-275,GOOGLE-CAIR_MUL-Sunday-02,2663372-GOOGLE-CAIR_MUL-Sunday-02,JCU to Redlynch via Caravonica (connects to route 121),1,,1220011
+122-275,GOOGLE-CAIR_MUL-Sunday-02,2663373-GOOGLE-CAIR_MUL-Sunday-02,JCU to Redlynch via Caravonica (connects to route 121),1,,1220011
+122-275,GOOGLE-CAIR_MUL-Sunday-02,2663374-GOOGLE-CAIR_MUL-Sunday-02,JCU to Redlynch via Caravonica (connects to route 121),1,,1220011
+122-275,GOOGLE-CAIR_MUL-Sunday-02,2663375-GOOGLE-CAIR_MUL-Sunday-02,JCU to Redlynch via Caravonica (connects to route 121),1,,1220011
+122-275,GOOGLE-CAIR_MUL-Sunday-02,2663376-GOOGLE-CAIR_MUL-Sunday-02,Redlynch to JCU via Caravonica,0,,1220010
+122-275,GOOGLE-CAIR_MUL-Sunday-02,2663377-GOOGLE-CAIR_MUL-Sunday-02,Redlynch to JCU via Caravonica,0,,1220010
+122-275,GOOGLE-CAIR_MUL-Sunday-02,2663378-GOOGLE-CAIR_MUL-Sunday-02,Redlynch to JCU via Caravonica,0,,1220010
+122-275,GOOGLE-CAIR_MUL-Sunday-02,2663379-GOOGLE-CAIR_MUL-Sunday-02,Redlynch to JCU via Caravonica,0,,1220010
+122-275,GOOGLE-CAIR_MUL-Sunday-02,2663380-GOOGLE-CAIR_MUL-Sunday-02,Redlynch to JCU via Caravonica,0,,1220010
+122-275,GOOGLE-CAIR_MUL-Sunday-02,2663381-GOOGLE-CAIR_MUL-Sunday-02,Redlynch to JCU via Caravonica,0,,1220010
+122-275,GOOGLE-CAIR_MUL-Sunday-02,2663382-GOOGLE-CAIR_MUL-Sunday-02,Redlynch to JCU via Caravonica,0,,1220010
+123-275,GOOGLE-CAIR_MUL-Sunday-02,2663476-GOOGLE-CAIR_MUL-Sunday-02,JCU to City via Brinsmead and Raintrees,0,,1230054
+123-275,GOOGLE-CAIR_MUL-Sunday-02,2663477-GOOGLE-CAIR_MUL-Sunday-02,JCU to City via Brinsmead and Raintrees,0,,1230054
+123-275,GOOGLE-CAIR_MUL-Sunday-02,2663478-GOOGLE-CAIR_MUL-Sunday-02,JCU to City via Brinsmead and Raintrees,0,,1230054
+123-275,GOOGLE-CAIR_MUL-Sunday-02,2663479-GOOGLE-CAIR_MUL-Sunday-02,JCU to City via Brinsmead and Raintrees,0,,1230054
+123-275,GOOGLE-CAIR_MUL-Sunday-02,2663480-GOOGLE-CAIR_MUL-Sunday-02,JCU to City via Brinsmead and Raintrees,0,,1230054
+123-275,GOOGLE-CAIR_MUL-Sunday-02,2663481-GOOGLE-CAIR_MUL-Sunday-02,JCU to City via Brinsmead and Raintrees,0,,1230054
+123-275,GOOGLE-CAIR_MUL-Sunday-02,2663482-GOOGLE-CAIR_MUL-Sunday-02,JCU to City via Brinsmead and Raintrees,0,,1230054
+123-275,GOOGLE-CAIR_MUL-Sunday-02,2663483-GOOGLE-CAIR_MUL-Sunday-02,JCU to City via Brinsmead and Raintrees,0,,1230054
+123-275,GOOGLE-CAIR_MUL-Sunday-02,2663484-GOOGLE-CAIR_MUL-Sunday-02,JCU to City via Brinsmead and Raintrees,0,,1230054
+123-275,GOOGLE-CAIR_MUL-Sunday-02,2663485-GOOGLE-CAIR_MUL-Sunday-02,JCU to City via Brinsmead and Raintrees,0,,1230054
+123-275,GOOGLE-CAIR_MUL-Sunday-02,2663486-GOOGLE-CAIR_MUL-Sunday-02,JCU to City via Brinsmead and Raintrees,0,,1230054
+123-275,GOOGLE-CAIR_MUL-Sunday-02,2663487-GOOGLE-CAIR_MUL-Sunday-02,City to JCU via Raintrees and Brinsmead,1,,1230057
+123-275,GOOGLE-CAIR_MUL-Sunday-02,2663488-GOOGLE-CAIR_MUL-Sunday-02,City to JCU via Raintrees and Brinsmead,1,,1230057
+123-275,GOOGLE-CAIR_MUL-Sunday-02,2663489-GOOGLE-CAIR_MUL-Sunday-02,City to JCU via Raintrees and Brinsmead,1,,1230057
+123-275,GOOGLE-CAIR_MUL-Sunday-02,2663490-GOOGLE-CAIR_MUL-Sunday-02,City to JCU via Raintrees and Brinsmead,1,,1230057
+123-275,GOOGLE-CAIR_MUL-Sunday-02,2663491-GOOGLE-CAIR_MUL-Sunday-02,City to JCU via Raintrees and Brinsmead,1,,1230057
+123-275,GOOGLE-CAIR_MUL-Sunday-02,2663492-GOOGLE-CAIR_MUL-Sunday-02,City to JCU via Raintrees and Brinsmead,1,,1230057
+123-275,GOOGLE-CAIR_MUL-Sunday-02,2663493-GOOGLE-CAIR_MUL-Sunday-02,City to JCU via Raintrees and Brinsmead,1,,1230057
+123-275,GOOGLE-CAIR_MUL-Sunday-02,2663494-GOOGLE-CAIR_MUL-Sunday-02,City to JCU via Raintrees and Brinsmead,1,,1230057
+123-275,GOOGLE-CAIR_MUL-Sunday-02,2663495-GOOGLE-CAIR_MUL-Sunday-02,City to JCU via Raintrees and Brinsmead,1,,1230057
+123-275,GOOGLE-CAIR_MUL-Sunday-02,2663496-GOOGLE-CAIR_MUL-Sunday-02,City to JCU via Raintrees and Brinsmead,1,,1230057
+123-275,GOOGLE-CAIR_MUL-Sunday-02,2663497-GOOGLE-CAIR_MUL-Sunday-02,City to JCU via Raintrees and Brinsmead,1,,1230057
+130-275,GOOGLE-CAIR_MUL-Sunday-02,2663551-GOOGLE-CAIR_MUL-Sunday-02,Raintrees to City via Edge Hill,0,,1300012
+130-275,GOOGLE-CAIR_MUL-Sunday-02,2663552-GOOGLE-CAIR_MUL-Sunday-02,Raintrees to City via Edge Hill,0,,1300012
+130-275,GOOGLE-CAIR_MUL-Sunday-02,2663553-GOOGLE-CAIR_MUL-Sunday-02,Raintrees to City via Edge Hill,0,,1300012
+130-275,GOOGLE-CAIR_MUL-Sunday-02,2663554-GOOGLE-CAIR_MUL-Sunday-02,Raintrees to City via Edge Hill,0,,1300012
+130-275,GOOGLE-CAIR_MUL-Sunday-02,2663555-GOOGLE-CAIR_MUL-Sunday-02,Raintrees to City via Edge Hill,0,,1300012
+130-275,GOOGLE-CAIR_MUL-Sunday-02,2663556-GOOGLE-CAIR_MUL-Sunday-02,Raintrees to City via Edge Hill,0,,1300012
+130-275,GOOGLE-CAIR_MUL-Sunday-02,2663557-GOOGLE-CAIR_MUL-Sunday-02,Raintrees to City via Edge Hill,0,,1300012
+130-275,GOOGLE-CAIR_MUL-Sunday-02,2663558-GOOGLE-CAIR_MUL-Sunday-02,Raintrees to City via Edge Hill,0,,1300012
+130-275,GOOGLE-CAIR_MUL-Sunday-02,2663559-GOOGLE-CAIR_MUL-Sunday-02,Raintrees to City via Edge Hill,0,,1300012
+130-275,GOOGLE-CAIR_MUL-Sunday-02,2663560-GOOGLE-CAIR_MUL-Sunday-02,Raintrees to City via Edge Hill,0,,1300012
+130-275,GOOGLE-CAIR_MUL-Sunday-02,2663561-GOOGLE-CAIR_MUL-Sunday-02,City to Raintrees via Edge Hill,1,,1300014
+130-275,GOOGLE-CAIR_MUL-Sunday-02,2663562-GOOGLE-CAIR_MUL-Sunday-02,City to Raintrees via Edge Hill,1,,1300014
+130-275,GOOGLE-CAIR_MUL-Sunday-02,2663563-GOOGLE-CAIR_MUL-Sunday-02,City to Raintrees via Edge Hill,1,,1300014
+130-275,GOOGLE-CAIR_MUL-Sunday-02,2663564-GOOGLE-CAIR_MUL-Sunday-02,City to Raintrees via Edge Hill,1,,1300014
+130-275,GOOGLE-CAIR_MUL-Sunday-02,2663565-GOOGLE-CAIR_MUL-Sunday-02,City to Raintrees via Edge Hill,1,,1300014
+130-275,GOOGLE-CAIR_MUL-Sunday-02,2663566-GOOGLE-CAIR_MUL-Sunday-02,City to Raintrees via Edge Hill,1,,1300014
+130-275,GOOGLE-CAIR_MUL-Sunday-02,2663567-GOOGLE-CAIR_MUL-Sunday-02,City to Raintrees via Edge Hill,1,,1300014
+130-275,GOOGLE-CAIR_MUL-Sunday-02,2663568-GOOGLE-CAIR_MUL-Sunday-02,City to Raintrees via Edge Hill,1,,1300014
+130-275,GOOGLE-CAIR_MUL-Sunday-02,2663569-GOOGLE-CAIR_MUL-Sunday-02,City to Raintrees via Edge Hill,1,,1300014
+130-275,GOOGLE-CAIR_MUL-Sunday-02,2663570-GOOGLE-CAIR_MUL-Sunday-02,City to Raintrees via Edge Hill,1,,1300014
+131-275,GOOGLE-CAIR_MUL-Sunday-02,2663624-GOOGLE-CAIR_MUL-Sunday-02,Raintrees to City via Whitfield,0,,1310007
+131-275,GOOGLE-CAIR_MUL-Sunday-02,2663625-GOOGLE-CAIR_MUL-Sunday-02,Raintrees to City via Whitfield,0,,1310007
+131-275,GOOGLE-CAIR_MUL-Sunday-02,2663626-GOOGLE-CAIR_MUL-Sunday-02,Raintrees to City via Whitfield,0,,1310007
+131-275,GOOGLE-CAIR_MUL-Sunday-02,2663627-GOOGLE-CAIR_MUL-Sunday-02,Raintrees to City via Whitfield,0,,1310007
+131-275,GOOGLE-CAIR_MUL-Sunday-02,2663628-GOOGLE-CAIR_MUL-Sunday-02,Raintrees to City via Whitfield,0,,1310007
+131-275,GOOGLE-CAIR_MUL-Sunday-02,2663629-GOOGLE-CAIR_MUL-Sunday-02,Raintrees to City via Whitfield,0,,1310007
+131-275,GOOGLE-CAIR_MUL-Sunday-02,2663630-GOOGLE-CAIR_MUL-Sunday-02,Raintrees to City via Whitfield,0,,1310007
+131-275,GOOGLE-CAIR_MUL-Sunday-02,2663631-GOOGLE-CAIR_MUL-Sunday-02,Raintrees to City via Whitfield,0,,1310007
+131-275,GOOGLE-CAIR_MUL-Sunday-02,2663632-GOOGLE-CAIR_MUL-Sunday-02,Raintrees to City via Whitfield,0,,1310007
+131-275,GOOGLE-CAIR_MUL-Sunday-02,2663633-GOOGLE-CAIR_MUL-Sunday-02,Raintrees to City via Whitfield,0,,1310007
+131-275,GOOGLE-CAIR_MUL-Sunday-02,2663634-GOOGLE-CAIR_MUL-Sunday-02,City to Raintrees via Whitfield,1,,1310012
+131-275,GOOGLE-CAIR_MUL-Sunday-02,2663635-GOOGLE-CAIR_MUL-Sunday-02,City to Raintrees via Whitfield,1,,1310012
+131-275,GOOGLE-CAIR_MUL-Sunday-02,2663636-GOOGLE-CAIR_MUL-Sunday-02,City to Raintrees via Whitfield,1,,1310012
+131-275,GOOGLE-CAIR_MUL-Sunday-02,2663637-GOOGLE-CAIR_MUL-Sunday-02,City to Raintrees via Whitfield,1,,1310012
+131-275,GOOGLE-CAIR_MUL-Sunday-02,2663638-GOOGLE-CAIR_MUL-Sunday-02,City to Raintrees via Whitfield,1,,1310012
+131-275,GOOGLE-CAIR_MUL-Sunday-02,2663639-GOOGLE-CAIR_MUL-Sunday-02,City to Raintrees via Whitfield,1,,1310012
+131-275,GOOGLE-CAIR_MUL-Sunday-02,2663640-GOOGLE-CAIR_MUL-Sunday-02,City to Raintrees via Whitfield,1,,1310012
+131-275,GOOGLE-CAIR_MUL-Sunday-02,2663641-GOOGLE-CAIR_MUL-Sunday-02,City to Raintrees via Whitfield,1,,1310012
+131-275,GOOGLE-CAIR_MUL-Sunday-02,2663642-GOOGLE-CAIR_MUL-Sunday-02,City to Raintrees via Whitfield,1,,1310012
+131-275,GOOGLE-CAIR_MUL-Sunday-02,2663643-GOOGLE-CAIR_MUL-Sunday-02,City to Raintrees via Whitfield,1,,1310012
+131-275,GOOGLE-CAIR_MUL-Sunday-02,2663644-GOOGLE-CAIR_MUL-Sunday-02,City to Raintrees via Whitfield,1,,1310012
+131N-275,GOOGLE-CAIR_MUL-Sunday-02,2663647-GOOGLE-CAIR_MUL-Sunday-02,City to Raintrees via Edge Hill and Whitfield,1,509177,131N0006
+133-275,GOOGLE-CAIR_MUL-Sunday-02,2663714-GOOGLE-CAIR_MUL-Sunday-02,"Earlville to City via Mooroobool, Bungalow",0,,1330015
+133-275,GOOGLE-CAIR_MUL-Sunday-02,2663715-GOOGLE-CAIR_MUL-Sunday-02,"Earlville to City via Mooroobool, Bungalow",0,,1330015
+133-275,GOOGLE-CAIR_MUL-Sunday-02,2663716-GOOGLE-CAIR_MUL-Sunday-02,"Earlville to City via Mooroobool, Bungalow",0,,1330015
+133-275,GOOGLE-CAIR_MUL-Sunday-02,2663717-GOOGLE-CAIR_MUL-Sunday-02,"Earlville to City via Mooroobool, Bungalow",0,,1330015
+133-275,GOOGLE-CAIR_MUL-Sunday-02,2663718-GOOGLE-CAIR_MUL-Sunday-02,"Earlville to City via Mooroobool, Bungalow",0,,1330015
+133-275,GOOGLE-CAIR_MUL-Sunday-02,2663719-GOOGLE-CAIR_MUL-Sunday-02,"Earlville to City via Mooroobool, Bungalow",0,,1330015
+133-275,GOOGLE-CAIR_MUL-Sunday-02,2663720-GOOGLE-CAIR_MUL-Sunday-02,"Earlville to City via Mooroobool, Bungalow",0,,1330015
+133-275,GOOGLE-CAIR_MUL-Sunday-02,2663721-GOOGLE-CAIR_MUL-Sunday-02,"Earlville to City via Mooroobool, Bungalow",0,,1330015
+133-275,GOOGLE-CAIR_MUL-Sunday-02,2663722-GOOGLE-CAIR_MUL-Sunday-02,"Earlville to City via Mooroobool, Bungalow",0,,1330015
+133-275,GOOGLE-CAIR_MUL-Sunday-02,2663723-GOOGLE-CAIR_MUL-Sunday-02,"City to Earlville via Bungalow, Mooroobool",1,,1330018
+133-275,GOOGLE-CAIR_MUL-Sunday-02,2663724-GOOGLE-CAIR_MUL-Sunday-02,"City to Earlville via Bungalow, Mooroobool",1,,1330018
+133-275,GOOGLE-CAIR_MUL-Sunday-02,2663725-GOOGLE-CAIR_MUL-Sunday-02,"City to Earlville via Bungalow, Mooroobool",1,,1330018
+133-275,GOOGLE-CAIR_MUL-Sunday-02,2663726-GOOGLE-CAIR_MUL-Sunday-02,"City to Earlville via Bungalow, Mooroobool",1,,1330018
+133-275,GOOGLE-CAIR_MUL-Sunday-02,2663727-GOOGLE-CAIR_MUL-Sunday-02,"City to Earlville via Bungalow, Mooroobool",1,,1330018
+133-275,GOOGLE-CAIR_MUL-Sunday-02,2663728-GOOGLE-CAIR_MUL-Sunday-02,"City to Earlville via Bungalow, Mooroobool",1,,1330018
+133-275,GOOGLE-CAIR_MUL-Sunday-02,2663729-GOOGLE-CAIR_MUL-Sunday-02,"City to Earlville via Bungalow, Mooroobool",1,,1330018
+133-275,GOOGLE-CAIR_MUL-Sunday-02,2663730-GOOGLE-CAIR_MUL-Sunday-02,"City to Earlville via Bungalow, Mooroobool",1,,1330018
+133-275,GOOGLE-CAIR_MUL-Sunday-02,2663731-GOOGLE-CAIR_MUL-Sunday-02,"City to Earlville via Bungalow, Mooroobool",1,,1330018
+142-275,GOOGLE-CAIR_MUL-Sunday-02,2663944-GOOGLE-CAIR_MUL-Sunday-02,City to Edmonton via Timberlea,1,,1420012
+142-275,GOOGLE-CAIR_MUL-Sunday-02,2663945-GOOGLE-CAIR_MUL-Sunday-02,City to Edmonton via Timberlea,1,,1420012
+142-275,GOOGLE-CAIR_MUL-Sunday-02,2663946-GOOGLE-CAIR_MUL-Sunday-02,City to Edmonton via Timberlea,1,,1420012
+142-275,GOOGLE-CAIR_MUL-Sunday-02,2663947-GOOGLE-CAIR_MUL-Sunday-02,City to Edmonton via Timberlea,1,,1420012
+142-275,GOOGLE-CAIR_MUL-Sunday-02,2663948-GOOGLE-CAIR_MUL-Sunday-02,Edmonton to City via Timberlea,0,,1420011
+142-275,GOOGLE-CAIR_MUL-Sunday-02,2663949-GOOGLE-CAIR_MUL-Sunday-02,Edmonton to City via Timberlea,0,,1420011
+142-275,GOOGLE-CAIR_MUL-Sunday-02,2663950-GOOGLE-CAIR_MUL-Sunday-02,Edmonton to City via Timberlea,0,,1420011
+142-275,GOOGLE-CAIR_MUL-Sunday-02,2663951-GOOGLE-CAIR_MUL-Sunday-02,Edmonton to City via Timberlea,0,,1420011
+142-275,GOOGLE-CAIR_MUL-Sunday-02,2663952-GOOGLE-CAIR_MUL-Sunday-02,Edmonton to City via Timberlea,0,,1420011
+143W-275,GOOGLE-CAIR_MUL-Sunday-02,2664046-GOOGLE-CAIR_MUL-Sunday-02,Mt Sheridan Plaza to City via White Rock and Woree,0,509206,143W0009
+143W-275,GOOGLE-CAIR_MUL-Sunday-02,2664047-GOOGLE-CAIR_MUL-Sunday-02,Mt Sheridan Plaza to City via White Rock and Woree,0,509207,143W0009
+143W-275,GOOGLE-CAIR_MUL-Sunday-02,2664048-GOOGLE-CAIR_MUL-Sunday-02,Mt Sheridan Plaza to City via White Rock and Woree,0,509208,143W0009
+143W-275,GOOGLE-CAIR_MUL-Sunday-02,2664049-GOOGLE-CAIR_MUL-Sunday-02,Mt Sheridan Plaza to City via White Rock and Woree,0,509209,143W0009
+143W-275,GOOGLE-CAIR_MUL-Sunday-02,2664050-GOOGLE-CAIR_MUL-Sunday-02,Mt Sheridan Plaza to City via White Rock and Woree,0,509210,143W0009
+143W-275,GOOGLE-CAIR_MUL-Sunday-02,2664051-GOOGLE-CAIR_MUL-Sunday-02,Mt Sheridan Plaza to City via White Rock and Woree,0,509211,143W0009
+143W-275,GOOGLE-CAIR_MUL-Sunday-02,2664052-GOOGLE-CAIR_MUL-Sunday-02,Mt Sheridan Plaza to City via White Rock and Woree,0,509212,143W0009
+143W-275,GOOGLE-CAIR_MUL-Sunday-02,2664053-GOOGLE-CAIR_MUL-Sunday-02,Mt Sheridan Plaza to City via White Rock and Woree,0,509213,143W0009
+143W-275,GOOGLE-CAIR_MUL-Sunday-02,2664054-GOOGLE-CAIR_MUL-Sunday-02,Mt Sheridan Plaza to City via White Rock and Woree,0,509214,143W0009
+143W-275,GOOGLE-CAIR_MUL-Sunday-02,2664055-GOOGLE-CAIR_MUL-Sunday-02,Mt Sheridan Plaza to City via White Rock and Woree,0,509215,143W0009
+143W-275,GOOGLE-CAIR_MUL-Sunday-02,2664056-GOOGLE-CAIR_MUL-Sunday-02,Mt Sheridan Plaza to City via White Rock and Woree,0,509216,143W0009
+143W-275,GOOGLE-CAIR_MUL-Sunday-02,2664057-GOOGLE-CAIR_MUL-Sunday-02,Mt Sheridan Plaza to City via White Rock and Woree,0,509217,143W0009
+143W-275,GOOGLE-CAIR_MUL-Sunday-02,2664058-GOOGLE-CAIR_MUL-Sunday-02,Mt Sheridan Plaza to City via White Rock and Woree,0,509218,143W0009
+143W-275,GOOGLE-CAIR_MUL-Sunday-02,2664059-GOOGLE-CAIR_MUL-Sunday-02,Mt Sheridan Plaza to City via White Rock and Woree,0,509219,143W0009
+143W-275,GOOGLE-CAIR_MUL-Sunday-02,2664060-GOOGLE-CAIR_MUL-Sunday-02,Mt Sheridan Plaza to City via White Rock and Woree,0,509220,143W0009
+143W-275,GOOGLE-CAIR_MUL-Sunday-02,2664061-GOOGLE-CAIR_MUL-Sunday-02,City to  Mt Sheridan Plaza via Woree and White Rock,1,509221,143W0010
+143W-275,GOOGLE-CAIR_MUL-Sunday-02,2664062-GOOGLE-CAIR_MUL-Sunday-02,City to  Mt Sheridan Plaza via Woree and White Rock,1,509222,143W0010
+143W-275,GOOGLE-CAIR_MUL-Sunday-02,2664063-GOOGLE-CAIR_MUL-Sunday-02,City to  Mt Sheridan Plaza via Woree and White Rock,1,509223,143W0010
+143W-275,GOOGLE-CAIR_MUL-Sunday-02,2664064-GOOGLE-CAIR_MUL-Sunday-02,City to  Mt Sheridan Plaza via Woree and White Rock,1,509224,143W0010
+143W-275,GOOGLE-CAIR_MUL-Sunday-02,2664065-GOOGLE-CAIR_MUL-Sunday-02,City to  Mt Sheridan Plaza via Woree and White Rock,1,509225,143W0010
+143W-275,GOOGLE-CAIR_MUL-Sunday-02,2664066-GOOGLE-CAIR_MUL-Sunday-02,City to  Mt Sheridan Plaza via Woree and White Rock,1,509226,143W0010
+143W-275,GOOGLE-CAIR_MUL-Sunday-02,2664067-GOOGLE-CAIR_MUL-Sunday-02,City to  Mt Sheridan Plaza via Woree and White Rock,1,509227,143W0010
+143W-275,GOOGLE-CAIR_MUL-Sunday-02,2664068-GOOGLE-CAIR_MUL-Sunday-02,City to  Mt Sheridan Plaza via Woree and White Rock,1,509228,143W0010
+143W-275,GOOGLE-CAIR_MUL-Sunday-02,2664069-GOOGLE-CAIR_MUL-Sunday-02,City to  Mt Sheridan Plaza via Woree and White Rock,1,509229,143W0010
+143W-275,GOOGLE-CAIR_MUL-Sunday-02,2664070-GOOGLE-CAIR_MUL-Sunday-02,City to  Mt Sheridan Plaza via Woree and White Rock,1,509230,143W0010
+143W-275,GOOGLE-CAIR_MUL-Sunday-02,2664071-GOOGLE-CAIR_MUL-Sunday-02,City to  Mt Sheridan Plaza via Woree and White Rock,1,509231,143W0010
+143W-275,GOOGLE-CAIR_MUL-Sunday-02,2664072-GOOGLE-CAIR_MUL-Sunday-02,City to  Mt Sheridan Plaza via Woree and White Rock,1,509232,143W0010
+143W-275,GOOGLE-CAIR_MUL-Sunday-02,2664073-GOOGLE-CAIR_MUL-Sunday-02,City to  Mt Sheridan Plaza via Woree and White Rock,1,509233,143W0010
+143W-275,GOOGLE-CAIR_MUL-Sunday-02,2664074-GOOGLE-CAIR_MUL-Sunday-02,City to  Mt Sheridan Plaza via Woree and White Rock,1,509234,143W0010
+143W-275,GOOGLE-CAIR_MUL-Sunday-02,2664075-GOOGLE-CAIR_MUL-Sunday-02,City to  Mt Sheridan Plaza via Woree and White Rock,1,509235,143W0010
+150E-275,GOOGLE-CAIR_MUL-Sunday-02,2664143-GOOGLE-CAIR_MUL-Sunday-02,Gordonvale to City via Edmonton,0,509254,150E0004
+150E-275,GOOGLE-CAIR_MUL-Sunday-02,2664144-GOOGLE-CAIR_MUL-Sunday-02,Gordonvale to City via Edmonton,0,509255,150E0004
+150E-275,GOOGLE-CAIR_MUL-Sunday-02,2664145-GOOGLE-CAIR_MUL-Sunday-02,Gordonvale to City via Edmonton,0,509256,150E0004
+150E-275,GOOGLE-CAIR_MUL-Sunday-02,2664146-GOOGLE-CAIR_MUL-Sunday-02,Gordonvale to City via Edmonton,0,509257,150E0004
+150E-275,GOOGLE-CAIR_MUL-Sunday-02,2664147-GOOGLE-CAIR_MUL-Sunday-02,Gordonvale to City via Edmonton,0,509258,150E0004
+150E-275,GOOGLE-CAIR_MUL-Sunday-02,2664148-GOOGLE-CAIR_MUL-Sunday-02,Gordonvale to City via Edmonton,0,509259,150E0004
+150E-275,GOOGLE-CAIR_MUL-Sunday-02,2664149-GOOGLE-CAIR_MUL-Sunday-02,Gordonvale to City via Edmonton,0,509260,150E0004
+150E-275,GOOGLE-CAIR_MUL-Sunday-02,2664150-GOOGLE-CAIR_MUL-Sunday-02,Gordonvale to City via Edmonton,0,509261,150E0004
+150E-275,GOOGLE-CAIR_MUL-Sunday-02,2664151-GOOGLE-CAIR_MUL-Sunday-02,Gordonvale to City via Edmonton,0,509262,150E0004
+150E-275,GOOGLE-CAIR_MUL-Sunday-02,2664152-GOOGLE-CAIR_MUL-Sunday-02,Gordonvale to City via Edmonton,0,509263,150E0004
+150E-275,GOOGLE-CAIR_MUL-Sunday-02,2664153-GOOGLE-CAIR_MUL-Sunday-02,Gordonvale to City via Edmonton,0,509264,150E0004
+150E-275,GOOGLE-CAIR_MUL-Sunday-02,2664154-GOOGLE-CAIR_MUL-Sunday-02,Gordonvale to City via Edmonton,0,509265,150E0004
+150E-275,GOOGLE-CAIR_MUL-Sunday-02,2664155-GOOGLE-CAIR_MUL-Sunday-02,Gordonvale to City via Edmonton,0,509266,150E0004
+150E-275,GOOGLE-CAIR_MUL-Sunday-02,2664156-GOOGLE-CAIR_MUL-Sunday-02,Gordonvale to City via Edmonton,0,509267,150E0004
+150E-275,GOOGLE-CAIR_MUL-Sunday-02,2664157-GOOGLE-CAIR_MUL-Sunday-02,City to Gordonvale via Edmonton,1,509268,150E0006
+150E-275,GOOGLE-CAIR_MUL-Sunday-02,2664158-GOOGLE-CAIR_MUL-Sunday-02,City to Gordonvale via Edmonton,1,509269,150E0006
+150E-275,GOOGLE-CAIR_MUL-Sunday-02,2664159-GOOGLE-CAIR_MUL-Sunday-02,City to Gordonvale via Edmonton,1,509270,150E0006
+150E-275,GOOGLE-CAIR_MUL-Sunday-02,2664160-GOOGLE-CAIR_MUL-Sunday-02,City to Gordonvale via Edmonton,1,509271,150E0006
+150E-275,GOOGLE-CAIR_MUL-Sunday-02,2664161-GOOGLE-CAIR_MUL-Sunday-02,City to Gordonvale via Edmonton,1,509272,150E0006
+150E-275,GOOGLE-CAIR_MUL-Sunday-02,2664162-GOOGLE-CAIR_MUL-Sunday-02,City to Gordonvale via Edmonton,1,509273,150E0006
+150E-275,GOOGLE-CAIR_MUL-Sunday-02,2664163-GOOGLE-CAIR_MUL-Sunday-02,City to Gordonvale via Edmonton,1,509274,150E0006
+150E-275,GOOGLE-CAIR_MUL-Sunday-02,2664164-GOOGLE-CAIR_MUL-Sunday-02,City to Gordonvale via Edmonton,1,509275,150E0006
+150E-275,GOOGLE-CAIR_MUL-Sunday-02,2664165-GOOGLE-CAIR_MUL-Sunday-02,City to Gordonvale via Edmonton,1,509276,150E0006
+150E-275,GOOGLE-CAIR_MUL-Sunday-02,2664166-GOOGLE-CAIR_MUL-Sunday-02,City to Gordonvale via Edmonton,1,509277,150E0006
+150E-275,GOOGLE-CAIR_MUL-Sunday-02,2664167-GOOGLE-CAIR_MUL-Sunday-02,City to Gordonvale via Edmonton,1,509278,150E0006
+150E-275,GOOGLE-CAIR_MUL-Sunday-02,2664168-GOOGLE-CAIR_MUL-Sunday-02,City to Gordonvale via Edmonton,1,509279,150E0006
+150E-275,GOOGLE-CAIR_MUL-Sunday-02,2664169-GOOGLE-CAIR_MUL-Sunday-02,City to Gordonvale via Edmonton,1,509280,150E0006
+150E-275,GOOGLE-CAIR_MUL-Sunday-02,2664170-GOOGLE-CAIR_MUL-Sunday-02,City to Gordonvale via Edmonton,1,509281,150E0006
+112-275,GOOGLE-CAIR_MUL-Weekday-02,2663101a-GOOGLE-CAIR_MUL-Weekday-02,Smithfield to Yorkeys Knob and return,1,,1120010
+112-275,GOOGLE-CAIR_MUL-Weekday-02,2663102a-GOOGLE-CAIR_MUL-Weekday-02,Smithfield to Yorkeys Knob and return,1,,1120010
+112-275,GOOGLE-CAIR_MUL-Weekday-02,2663103a-GOOGLE-CAIR_MUL-Weekday-02,Smithfield to Yorkeys Knob and return,1,,1120010
+112-275,GOOGLE-CAIR_MUL-Weekday-02,2663104a-GOOGLE-CAIR_MUL-Weekday-02,Smithfield to Yorkeys Knob and return,1,,1120010
+112-275,GOOGLE-CAIR_MUL-Weekday-02,2663105a-GOOGLE-CAIR_MUL-Weekday-02,Smithfield to Yorkeys Knob and return,1,,1120010
+112-275,GOOGLE-CAIR_MUL-Weekday-02,2663106a-GOOGLE-CAIR_MUL-Weekday-02,Smithfield to Yorkeys Knob and return,1,,1120010
+112-275,GOOGLE-CAIR_MUL-Weekday-02,2663107a-GOOGLE-CAIR_MUL-Weekday-02,Smithfield to Yorkeys Knob and return,1,,1120010
+112-275,GOOGLE-CAIR_MUL-Weekday-02,2663108a-GOOGLE-CAIR_MUL-Weekday-02,Smithfield to Yorkeys Knob and return,1,,1120010
+112-275,GOOGLE-CAIR_MUL-Weekday-02,2663109a-GOOGLE-CAIR_MUL-Weekday-02,Smithfield to Yorkeys Knob and return,1,,1120010
+112-275,GOOGLE-CAIR_MUL-Weekday-02,2663110a-GOOGLE-CAIR_MUL-Weekday-02,Smithfield to Yorkeys Knob and return,1,,1120010
+112-275,GOOGLE-CAIR_MUL-Weekday-02,2663111a-GOOGLE-CAIR_MUL-Weekday-02,Smithfield to Yorkeys Knob and return,1,,1120010
+112-275,GOOGLE-CAIR_MUL-Weekday-02,2663112a-GOOGLE-CAIR_MUL-Weekday-02,Smithfield to Yorkeys Knob and return,1,,1120010
+112-275,GOOGLE-CAIR_MUL-Weekday-02,2663113a-GOOGLE-CAIR_MUL-Weekday-02,Smithfield to Yorkeys Knob and return,1,,1120010
+112-275,GOOGLE-CAIR_MUL-Weekday-02,2663114a-GOOGLE-CAIR_MUL-Weekday-02,Smithfield to Yorkeys Knob and return,1,,1120010
+112-275,GOOGLE-CAIR_MUL-Weekday-02,2663115a-GOOGLE-CAIR_MUL-Weekday-02,Smithfield to Yorkeys Knob and return,1,,1120010
+112-275,GOOGLE-CAIR_MUL-Saturday-02,2663116a-GOOGLE-CAIR_MUL-Saturday-02,Smithfield to Yorkeys Knob and return,1,,1120010
+112-275,GOOGLE-CAIR_MUL-Saturday-02,2663117a-GOOGLE-CAIR_MUL-Saturday-02,Smithfield to Yorkeys Knob and return,1,,1120010
+112-275,GOOGLE-CAIR_MUL-Saturday-02,2663118a-GOOGLE-CAIR_MUL-Saturday-02,Smithfield to Yorkeys Knob and return,1,,1120010
+112-275,GOOGLE-CAIR_MUL-Saturday-02,2663119a-GOOGLE-CAIR_MUL-Saturday-02,Smithfield to Yorkeys Knob and return,1,,1120010
+112-275,GOOGLE-CAIR_MUL-Saturday-02,2663120a-GOOGLE-CAIR_MUL-Saturday-02,Smithfield to Yorkeys Knob and return,1,,1120010
+112-275,GOOGLE-CAIR_MUL-Saturday-02,2663121a-GOOGLE-CAIR_MUL-Saturday-02,Smithfield to Yorkeys Knob and return,1,,1120010
+112-275,GOOGLE-CAIR_MUL-Saturday-02,2663122a-GOOGLE-CAIR_MUL-Saturday-02,Smithfield to Yorkeys Knob and return,1,,1120010
+112-275,GOOGLE-CAIR_MUL-Saturday-02,2663123a-GOOGLE-CAIR_MUL-Saturday-02,Smithfield to Yorkeys Knob and return,1,,1120010
+112-275,GOOGLE-CAIR_MUL-Saturday-02,2663124a-GOOGLE-CAIR_MUL-Saturday-02,Smithfield to Yorkeys Knob and return,1,,1120010
+112-275,GOOGLE-CAIR_MUL-Saturday-02,2663125a-GOOGLE-CAIR_MUL-Saturday-02,Smithfield to Yorkeys Knob and return,1,,1120010
+112-275,GOOGLE-CAIR_MUL-Saturday-02,2663126a-GOOGLE-CAIR_MUL-Saturday-02,Smithfield to Yorkeys Knob and return,1,,1120010
+112-275,GOOGLE-CAIR_MUL-Saturday-02,2663127a-GOOGLE-CAIR_MUL-Saturday-02,Smithfield to Yorkeys Knob and return,1,,1120010
+112-275,GOOGLE-CAIR_MUL-Sunday-02,2663129a-GOOGLE-CAIR_MUL-Sunday-02,Smithfield to Yorkeys Knob and return,1,,1120010
+112-275,GOOGLE-CAIR_MUL-Sunday-02,2663130a-GOOGLE-CAIR_MUL-Sunday-02,Smithfield to Yorkeys Knob and return,1,,1120010
+112-275,GOOGLE-CAIR_MUL-Sunday-02,2663131a-GOOGLE-CAIR_MUL-Sunday-02,Smithfield to Yorkeys Knob and return,1,,1120010
+112-275,GOOGLE-CAIR_MUL-Sunday-02,2663132a-GOOGLE-CAIR_MUL-Sunday-02,Smithfield to Yorkeys Knob and return,1,,1120010
+112-275,GOOGLE-CAIR_MUL-Sunday-02,2663133a-GOOGLE-CAIR_MUL-Sunday-02,Smithfield to Yorkeys Knob and return,1,,1120010
+112-275,GOOGLE-CAIR_MUL-Sunday-02,2663134a-GOOGLE-CAIR_MUL-Sunday-02,Smithfield to Yorkeys Knob and return,1,,1120010
+112-275,GOOGLE-CAIR_MUL-Sunday-02,2663135a-GOOGLE-CAIR_MUL-Sunday-02,Smithfield to Yorkeys Knob and return,1,,1120010
+112-275,GOOGLE-CAIR_MUL-Sunday-02,2663136a-GOOGLE-CAIR_MUL-Sunday-02,Smithfield to Yorkeys Knob and return,1,,1120010
