@@ -1,0 +1,4 @@
+service_id,monday,tuesday,wednesday,thursday,friday,saturday,sunday,start_date,end_date
+GOOGLE-BUND_MUL-Weekday-03,1,1,1,1,1,0,0,20130617,20131213
+GOOGLE-BUND_MUS-Saturday-00,0,0,0,0,0,1,0,20130622,20131228
+GOOGLE-BUND_MUL-Weekday-04,1,1,1,1,1,0,0,20130624,20131231
