@@ -1,0 +1,10 @@
+route_id,route_short_name,route_long_name,route_desc,route_type,route_url
+GR50-144,50,"Gympie to Tin Can Bay & Rainbow Beach",,3,
+GRT1-144,1,"Town Centre to Cooinda",,3,
+GRT2-144,2,"Town Centre to Stewart Terrace",,3,
+GRT3-144,3,"Town Centre to Rifle Range Rd",,3,
+GRT4-144,4,"Town Centre to Ashford Hill",,3,
+GRT5-144,5,"Town Centre to Monkland via Highway",,3,
+GRT6-144,6,"Monkland to Town Centre via Tin Can Bay Rd",,3,
+GRT7-144,7,"Town Centre to Southside",,3,
+GRT9-144,9,"Golden Loop",,3,
