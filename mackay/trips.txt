@@ -1,0 +1,222 @@
+route_id,service_id,trip_id,trip_headsign,direction_id,block_id,shape_id
+MKY1-136,GOOGLE-MACK_MUL-Weekday-02,2824478-GOOGLE-MACK_MUL-Weekday-02,"Caneland - City - East Mackay - City - Caneland",0,,MKY10004
+MKY1-136,GOOGLE-MACK_MUL-Weekday-02,2824479-GOOGLE-MACK_MUL-Weekday-02,"Caneland - City - East Mackay - City - Caneland",0,,MKY10003
+MKY1-136,GOOGLE-MACK_MUL-Weekday-02,2824480-GOOGLE-MACK_MUL-Weekday-02,"Caneland - City - East Mackay - City - Caneland",0,,MKY10003
+MKY1-136,GOOGLE-MACK_MUL-Weekday-02,2824481-GOOGLE-MACK_MUL-Weekday-02,"Caneland - City - East Mackay - City - Caneland",0,,MKY10003
+MKY1-136,GOOGLE-MACK_MUL-Weekday-02,2824482-GOOGLE-MACK_MUL-Weekday-02,"Caneland - City - East Mackay - City - Caneland",0,,MKY10003
+MKY1-136,GOOGLE-MACK_MUL-Weekday-02,2824483-GOOGLE-MACK_MUL-Weekday-02,"Caneland - City - East Mackay - City - Caneland",0,,MKY10003
+MKY1-136,GOOGLE-MACK_MUL-Weekday-02,2824484-GOOGLE-MACK_MUL-Weekday-02,"Caneland - City - East Mackay - City - Caneland",0,,MKY10003
+MKY1-136,GOOGLE-MACK_MUL-Weekday-02,2824485-GOOGLE-MACK_MUL-Weekday-02,"Caneland - City - East Mackay - City - Caneland",0,,MKY10003
+MKY1-136,GOOGLE-MACK_MUL-Weekday-02,2824486-GOOGLE-MACK_MUL-Weekday-02,"Caneland - City - East Mackay - City - Caneland",0,,MKY10003
+MKY1-136,GOOGLE-MACK_MUL-Weekday-02,2824487-GOOGLE-MACK_MUL-Weekday-02,"Caneland - City - East Mackay - City - Caneland",0,,MKY10003
+MKY1-136,GOOGLE-MACK_MUL-Weekday-02,2824488-GOOGLE-MACK_MUL-Weekday-02,"Caneland - City - East Mackay - City - Caneland",0,,MKY10003
+MKY2-136,GOOGLE-MACK_MUL-Weekday-02,2824516-GOOGLE-MACK_MUL-Weekday-02,"Caneland - City - West Mackay - Caneland",0,,MKY20003
+MKY2-136,GOOGLE-MACK_MUL-Weekday-02,2824517-GOOGLE-MACK_MUL-Weekday-02,"Caneland - City - West Mackay - Caneland",0,,MKY20003
+MKY2-136,GOOGLE-MACK_MUL-Weekday-02,2824518-GOOGLE-MACK_MUL-Weekday-02,"Caneland - City - West Mackay - Caneland",0,,MKY20003
+MKY2-136,GOOGLE-MACK_MUL-Weekday-02,2824519-GOOGLE-MACK_MUL-Weekday-02,"Caneland - City - West Mackay - Caneland",0,,MKY20003
+MKY2-136,GOOGLE-MACK_MUL-Weekday-02,2824520-GOOGLE-MACK_MUL-Weekday-02,"Caneland - City - West Mackay - Caneland",0,,MKY20003
+MKY2-136,GOOGLE-MACK_MUL-Weekday-02,2824521-GOOGLE-MACK_MUL-Weekday-02,"Caneland - City - West Mackay - Caneland",0,,MKY20003
+MKY2-136,GOOGLE-MACK_MUL-Weekday-02,2824522-GOOGLE-MACK_MUL-Weekday-02,"Caneland - City - West Mackay - Caneland",0,,MKY20003
+MKY2-136,GOOGLE-MACK_MUL-Weekday-02,2824523-GOOGLE-MACK_MUL-Weekday-02,"Caneland - City - West Mackay - Caneland",0,,MKY20003
+MKY2-136,GOOGLE-MACK_MUL-Weekday-02,2824524-GOOGLE-MACK_MUL-Weekday-02,"Caneland - City - West Mackay - Caneland",0,,MKY20003
+MKY2-136,GOOGLE-MACK_MUL-Weekday-02,2824525-GOOGLE-MACK_MUL-Weekday-02,"Caneland - City - West Mackay - Caneland",0,,MKY20003
+MKY2-136,GOOGLE-MACK_MUL-Weekday-02,2824526-GOOGLE-MACK_MUL-Weekday-02,"Caneland - City - West Mackay - Caneland",0,,MKY20003
+MKY3-136,GOOGLE-MACK_MUL-Weekday-02,2824531-GOOGLE-MACK_MUL-Weekday-02,"Caneland - City - South Mackay - City - Caneland",0,,MKY30004
+MKY3-136,GOOGLE-MACK_MUL-Weekday-02,2824532-GOOGLE-MACK_MUL-Weekday-02,"Caneland - City - South Mackay - City - Caneland",0,,MKY30005
+MKY3-136,GOOGLE-MACK_MUL-Weekday-02,2824533-GOOGLE-MACK_MUL-Weekday-02,"Caneland - City - South Mackay - City - Caneland",0,,MKY30005
+MKY3-136,GOOGLE-MACK_MUL-Weekday-02,2824534-GOOGLE-MACK_MUL-Weekday-02,"Caneland - City - South Mackay - City - Caneland",0,,MKY30005
+MKY3-136,GOOGLE-MACK_MUL-Weekday-02,2824535-GOOGLE-MACK_MUL-Weekday-02,"Caneland - City - South Mackay - City - Caneland",0,,MKY30005
+MKY3-136,GOOGLE-MACK_MUL-Weekday-02,2824536-GOOGLE-MACK_MUL-Weekday-02,"Caneland - City - South Mackay - City - Caneland",0,,MKY30005
+MKY3-136,GOOGLE-MACK_MUL-Weekday-02,2824537-GOOGLE-MACK_MUL-Weekday-02,"Caneland - City - South Mackay - City - Caneland",0,,MKY30005
+MKY3-136,GOOGLE-MACK_MUL-Weekday-02,2824538-GOOGLE-MACK_MUL-Weekday-02,"Caneland - City - South Mackay - City - Caneland",0,,MKY30005
+MKY3-136,GOOGLE-MACK_MUL-Weekday-02,2824539-GOOGLE-MACK_MUL-Weekday-02,"Caneland - City - South Mackay - City - Caneland",0,,MKY30005
+MKY3-136,GOOGLE-MACK_MUL-Weekday-02,2824540-GOOGLE-MACK_MUL-Weekday-02,"Caneland - City - South Mackay - City - Caneland",0,,MKY30005
+MKY3-136,GOOGLE-MACK_MUL-Weekday-02,2824541-GOOGLE-MACK_MUL-Weekday-02,"Caneland - City - South Mackay - City - Caneland",0,,MKY30005
+MKY4-136,GOOGLE-MACK_MUL-Weekday-02,2824546-GOOGLE-MACK_MUL-Weekday-02,"Caneland - City - Slade Point - City - Caneland",0,,MKY40005
+MKY4-136,GOOGLE-MACK_MUL-Weekday-02,2824547-GOOGLE-MACK_MUL-Weekday-02,"Caneland - City - Slade Point - City - Caneland",0,,MKY40004
+MKY4-136,GOOGLE-MACK_MUL-Weekday-02,2824548-GOOGLE-MACK_MUL-Weekday-02,"Caneland - City - Slade Point - City - Caneland",0,,MKY40004
+MKY4-136,GOOGLE-MACK_MUL-Weekday-02,2824549-GOOGLE-MACK_MUL-Weekday-02,"Caneland - City - Slade Point - City - Caneland",0,,MKY40004
+MKY4-136,GOOGLE-MACK_MUL-Weekday-02,2824550-GOOGLE-MACK_MUL-Weekday-02,"Caneland - City - Slade Point - City - Caneland",0,,MKY40004
+MKY4-136,GOOGLE-MACK_MUL-Weekday-02,2824551-GOOGLE-MACK_MUL-Weekday-02,"Caneland - City - Slade Point - City - Caneland",0,,MKY40004
+MKY4-136,GOOGLE-MACK_MUL-Weekday-02,2824552-GOOGLE-MACK_MUL-Weekday-02,"Caneland - City - Slade Point - City - Caneland",0,,MKY40004
+MKY4-136,GOOGLE-MACK_MUL-Weekday-02,2824553-GOOGLE-MACK_MUL-Weekday-02,"Caneland - City - Slade Point - City - Caneland",0,,MKY40006
+MK4A-136,GOOGLE-MACK_MUL-Weekday-02,2824554-GOOGLE-MACK_MUL-Weekday-02,"Caneland - City - Slade Point - City - Caneland",0,,MK4A0003
+MK4A-136,GOOGLE-MACK_MUL-Weekday-02,2824555-GOOGLE-MACK_MUL-Weekday-02,"Caneland - City - Slade Point - City - Caneland",0,,MK4A0003
+MK4A-136,GOOGLE-MACK_MUL-Weekday-02,2824556-GOOGLE-MACK_MUL-Weekday-02,"Caneland - City - Slade Point - City - Caneland",0,,MK4A0004
+MKY5-136,GOOGLE-MACK_MUL-Weekday-02,2824559-GOOGLE-MACK_MUL-Weekday-02,"Caneland - City - Andergrove - City - Caneland",0,,MKY50004
+MKY5-136,GOOGLE-MACK_MUL-Weekday-02,2824560-GOOGLE-MACK_MUL-Weekday-02,"Caneland - City - Andergrove - City - Caneland",0,,MKY50003
+MKY5-136,GOOGLE-MACK_MUL-Weekday-02,2824561-GOOGLE-MACK_MUL-Weekday-02,"Caneland - City - Andergrove - City - Caneland",0,,MKY50003
+MKY5-136,GOOGLE-MACK_MUL-Weekday-02,2824562-GOOGLE-MACK_MUL-Weekday-02,"Caneland - City - Andergrove - City - Caneland",0,,MKY50003
+MKY5-136,GOOGLE-MACK_MUL-Weekday-02,2824563-GOOGLE-MACK_MUL-Weekday-02,"Caneland - City - Andergrove - City - Caneland",0,,MKY50003
+MKY5-136,GOOGLE-MACK_MUL-Weekday-02,2824564-GOOGLE-MACK_MUL-Weekday-02,"Caneland - City - Andergrove - City - Caneland",0,,MKY50003
+MKY5-136,GOOGLE-MACK_MUL-Weekday-02,2824565-GOOGLE-MACK_MUL-Weekday-02,"Caneland - City - Andergrove - City - Caneland",0,,MKY50003
+MKY5-136,GOOGLE-MACK_MUL-Weekday-02,2824566-GOOGLE-MACK_MUL-Weekday-02,"Caneland - City - Andergrove - City - Caneland",0,,MKY50003
+MKY5-136,GOOGLE-MACK_MUL-Weekday-02,2824567-GOOGLE-MACK_MUL-Weekday-02,"Caneland - City - Andergrove - City - Caneland",0,,MKY50003
+MKY5-136,GOOGLE-MACK_MUL-Weekday-02,2824568-GOOGLE-MACK_MUL-Weekday-02,"Caneland - City - Andergrove - City - Caneland",0,,MKY50003
+MKY5-136,GOOGLE-MACK_MUL-Weekday-02,2824569-GOOGLE-MACK_MUL-Weekday-02,"Caneland - City - Andergrove - City - Caneland",0,,MKY50003
+MKY5-136,GOOGLE-MACK_MUL-Weekday-02,2824570-GOOGLE-MACK_MUL-Weekday-02,"Caneland - City - Andergrove - City - Caneland",0,,MKY50005
+MKY6-136,GOOGLE-MACK_MUL-Weekday-02,2824986-GOOGLE-MACK_MUL-Weekday-02,"Caneland - City - Mt Pleasant - Beaconsfield - Caneland",0,,MKY60005
+MKY6-136,GOOGLE-MACK_MUL-Weekday-02,2824987-GOOGLE-MACK_MUL-Weekday-02,"Caneland - City - Mt Pleasant - Beaconsfield - Caneland",0,,MKY60004
+MKY6-136,GOOGLE-MACK_MUL-Weekday-02,2824988-GOOGLE-MACK_MUL-Weekday-02,"Caneland - City - Mt Pleasant - Beaconsfield - Caneland",0,,MKY60004
+MKY6-136,GOOGLE-MACK_MUL-Weekday-02,2824989-GOOGLE-MACK_MUL-Weekday-02,"Caneland - City - Mt Pleasant - Beaconsfield - Caneland",0,,MKY60004
+MKY6-136,GOOGLE-MACK_MUL-Weekday-02,2824990-GOOGLE-MACK_MUL-Weekday-02,"Caneland - City - Mt Pleasant - Beaconsfield - Caneland",0,,MKY60004
+MKY6-136,GOOGLE-MACK_MUL-Weekday-02,2824991-GOOGLE-MACK_MUL-Weekday-02,"Caneland - City - Mt Pleasant - Beaconsfield - Caneland",0,,MKY60004
+MKY6-136,GOOGLE-MACK_MUL-Weekday-02,2824992-GOOGLE-MACK_MUL-Weekday-02,"Caneland - City - Mt Pleasant - Beaconsfield - Caneland",0,,MKY60004
+MKY6-136,GOOGLE-MACK_MUL-Weekday-02,2824993-GOOGLE-MACK_MUL-Weekday-02,"Caneland - City - Mt Pleasant - Beaconsfield - Caneland",0,,MKY60004
+MKY6-136,GOOGLE-MACK_MUL-Weekday-02,2824994-GOOGLE-MACK_MUL-Weekday-02,"Caneland - City - Mt Pleasant - Beaconsfield - Caneland",0,,MKY60004
+MKY6-136,GOOGLE-MACK_MUL-Weekday-02,2824995-GOOGLE-MACK_MUL-Weekday-02,"Caneland - City - Mt Pleasant - Beaconsfield - Caneland",0,,MKY60004
+MKY6-136,GOOGLE-MACK_MUL-Weekday-02,2824996-GOOGLE-MACK_MUL-Weekday-02,"Caneland - City - Mt Pleasant - Beaconsfield - Caneland",0,,MKY60004
+MKY6-136,GOOGLE-MACK_MUL-Weekday-02,2824997-GOOGLE-MACK_MUL-Weekday-02,"Caneland - City - Mt Pleasant - Beaconsfield - Caneland",0,,MKY60007
+MKY7-136,GOOGLE-MACK_MUL-Weekday-02,2825013-GOOGLE-MACK_MUL-Weekday-02,"Caneland - City - Mt Pleasant - Northern Beaches - Caneland",0,,MKY70009
+MKY7-136,GOOGLE-MACK_MUL-Weekday-02,2825014-GOOGLE-MACK_MUL-Weekday-02,"Caneland - City - Mt Pleasant - Northern Beaches - Caneland",0,,MKY70009
+MKY7-136,GOOGLE-MACK_MUL-Weekday-02,2825015-GOOGLE-MACK_MUL-Weekday-02,"Caneland - City - Mt Pleasant - Northern Beaches - Caneland",0,,MKY70009
+MKY7-136,GOOGLE-MACK_MUL-Weekday-02,2825016-GOOGLE-MACK_MUL-Weekday-02,"Caneland - City - Mt Pleasant - Northern Beaches - Caneland",0,,MKY70009
+MKY7-136,GOOGLE-MACK_MUL-Weekday-02,2825017-GOOGLE-MACK_MUL-Weekday-02,"Caneland - City - Mt Pleasant - Northern Beaches - Caneland",0,,MKY70009
+MKY7-136,GOOGLE-MACK_MUL-Weekday-02,2825018-GOOGLE-MACK_MUL-Weekday-02,"Caneland - City - Mt Pleasant - Northern Beaches - Caneland",0,,MKY70010
+MKY7-136,GOOGLE-MACK_MUL-Weekday-02,2825019-GOOGLE-MACK_MUL-Weekday-02,"Caneland - City - Mt Pleasant - Northern Beaches - Caneland",0,,MKY70007
+MKY7-136,GOOGLE-MACK_MUL-Weekday-02,2825020-GOOGLE-MACK_MUL-Weekday-02,"Caneland - City - Mt Pleasant - Northern Beaches - Caneland",0,,MKY70008
+MKY7-136,GOOGLE-MACK_MUL-Weekday-02,2825021-GOOGLE-MACK_MUL-Weekday-02,"Caneland - City - Mt Pleasant - Northern Beaches - Caneland",0,,MKY70011
+MKY8-136,GOOGLE-MACK_MUL-Weekday-02,2825025-GOOGLE-MACK_MUL-Weekday-02,"Caneland - Mater Hosp - Glenella - Mt Pleasant - Caneland",0,,MKY80003
+MKY8-136,GOOGLE-MACK_MUL-Weekday-02,2825026-GOOGLE-MACK_MUL-Weekday-02,"Caneland - Mater Hosp - Glenella - Mt Pleasant - Caneland",0,,MKY80003
+MKY8-136,GOOGLE-MACK_MUL-Weekday-02,2825027-GOOGLE-MACK_MUL-Weekday-02,"Caneland - Mater Hosp - Glenella - Mt Pleasant - Caneland",0,,MKY80003
+MKY9-136,GOOGLE-MACK_MUL-Weekday-02,2825030-GOOGLE-MACK_MUL-Weekday-02,"Caneland - City - Walkerston - Caneland",0,,MKY90005
+MKY9-136,GOOGLE-MACK_MUL-Weekday-02,2825031-GOOGLE-MACK_MUL-Weekday-02,"Caneland - City - Walkerston - Caneland",0,,MKY90004
+MKY9-136,GOOGLE-MACK_MUL-Weekday-02,2825032-GOOGLE-MACK_MUL-Weekday-02,"Caneland - City - Walkerston - Caneland",0,,MKY90004
+MKY9-136,GOOGLE-MACK_MUL-Weekday-02,2825033-GOOGLE-MACK_MUL-Weekday-02,"Caneland - City - Walkerston - Caneland",0,,MKY90006
+MK9A-136,GOOGLE-MACK_MUL-Weekday-02,2825034-GOOGLE-MACK_MUL-Weekday-02,"Caneland - University - Caneland",0,,MK9A0002
+MK9A-136,GOOGLE-MACK_MUL-Weekday-02,2825035-GOOGLE-MACK_MUL-Weekday-02,"Caneland - University - Caneland",0,,MK9A0002
+MK9A-136,GOOGLE-MACK_MUL-Weekday-02,2825036-GOOGLE-MACK_MUL-Weekday-02,"Caneland - University - Caneland",0,,MK9A0002
+MK9A-136,GOOGLE-MACK_MUL-Weekday-02,2825037-GOOGLE-MACK_MUL-Weekday-02,"Caneland - University - Caneland",0,,MK9A0002
+MK10-136,GOOGLE-MACK_MUL-Weekday-02,2825038-GOOGLE-MACK_MUL-Weekday-02,"Caneland - City - Sarina - Caneland",0,,MK100005
+MK10-136,GOOGLE-MACK_MUL-Weekday-02,2825039-GOOGLE-MACK_MUL-Weekday-02,"Caneland - City - Sarina - Caneland",0,,MK100008
+MK10-136,GOOGLE-MACK_MUL-Weekday-02-0100100,2825040-GOOGLE-MACK_MUL-Weekday-02-0100100,"Caneland - City - Sarina - Caneland",0,,MK100006
+MK10-136,GOOGLE-MACK_MUL-Weekday-02,2825041-GOOGLE-MACK_MUL-Weekday-02,"Caneland - City - Sarina - Caneland",0,,MK100009
+MK11-136,GOOGLE-MACK_MUL-Weekday-02-0001000,2825046-GOOGLE-MACK_MUL-Weekday-02-0001000,"Caneland - Mirani",1,,MK110005
+MK11-136,GOOGLE-MACK_MUL-Weekday-02-0001000,2825047-GOOGLE-MACK_MUL-Weekday-02-0001000,"Mirani - Caneland",0,,MK110003
+MK12-136,GOOGLE-MACK_MUL-Weekday-02,2825048-GOOGLE-MACK_MUL-Weekday-02,"Caneland - City - Marina - City - Caneland",0,,MK120002
+MK12-136,GOOGLE-MACK_MUL-Weekday-02,2825049-GOOGLE-MACK_MUL-Weekday-02,"Caneland - City - Marina - City - Caneland",0,,MK120002
+MK12-136,GOOGLE-MACK_MUL-Weekday-02,2825050-GOOGLE-MACK_MUL-Weekday-02,"Caneland - City - Marina - City - Caneland",0,,MK120002
+MK4A-136,GOOGLE-MACK_MUS-Saturday-01,498610-GOOGLE-MACK_MUS-Saturday-01,"Caneland - City - Slade Point - City - Caneland",0,411866,MK4A0003
+MK4A-136,GOOGLE-MACK_MUS-Saturday-01,498611-GOOGLE-MACK_MUS-Saturday-01,"Caneland - City - Slade Point - City - Caneland",0,411865,MK4A0004
+MK12-136,GOOGLE-MACK_MUS-Saturday-01,498612-GOOGLE-MACK_MUS-Saturday-01,"Caneland - City - Marina - City - Caneland",0,411865,MK120002
+MK12-136,GOOGLE-MACK_MUS-Saturday-01,498613-GOOGLE-MACK_MUS-Saturday-01,"Caneland - City - Marina - City - Caneland",0,411863,MK120002
+MKY8-136,GOOGLE-MACK_MUS-Saturday-01,498614-GOOGLE-MACK_MUS-Saturday-01,"Caneland - Mater Hosp - Glenella - Mt Pleasant - Caneland",0,411864,MKY80003
+MKY8-136,GOOGLE-MACK_MUS-Saturday-01,498615-GOOGLE-MACK_MUS-Saturday-01,"Caneland - Mater Hosp - Glenella - Mt Pleasant - Caneland",0,411863,MKY80003
+MKY6-136,GOOGLE-MACK_MUS-Saturday-01,498616-GOOGLE-MACK_MUS-Saturday-01,"Caneland - City - Mt Pleasant - Beaconsfield - Caneland",0,411863,MKY60006
+MKY6-136,GOOGLE-MACK_MUS-Saturday-01,498617-GOOGLE-MACK_MUS-Saturday-01,"Caneland - City - Mt Pleasant - Beaconsfield - Caneland",0,411863,MKY60006
+MKY6-136,GOOGLE-MACK_MUS-Saturday-01,498618-GOOGLE-MACK_MUS-Saturday-01,"Caneland - City - Mt Pleasant - Beaconsfield - Caneland",0,411864,MKY60006
+MKY5-136,GOOGLE-MACK_MUS-Saturday-01,498623-GOOGLE-MACK_MUS-Saturday-01,"Caneland - City - Andergrove - City - Caneland",0,411865,MKY50003
+MKY5-136,GOOGLE-MACK_MUS-Saturday-01,498624-GOOGLE-MACK_MUS-Saturday-01,"Caneland - City - Andergrove - City - Caneland",0,411864,MKY50003
+MKY5-136,GOOGLE-MACK_MUS-Saturday-01,498625-GOOGLE-MACK_MUS-Saturday-01,"Caneland - City - Andergrove - City - Caneland",0,411867,MKY50003
+MKY7-136,GOOGLE-MACK_MUS-Saturday-01,498626-GOOGLE-MACK_MUS-Saturday-01,"Caneland - City - Mt Pleasant - Northern Beaches - Caneland",0,411866,MKY70009
+MKY7-136,GOOGLE-MACK_MUS-Saturday-01,498627-GOOGLE-MACK_MUS-Saturday-01,"Caneland - City - Mt Pleasant - Northern Beaches - Caneland",0,411865,MKY70009
+MKY7-136,GOOGLE-MACK_MUS-Saturday-01,498628-GOOGLE-MACK_MUS-Saturday-01,"Caneland - City - Mt Pleasant - Northern Beaches - Caneland",0,411864,MKY70009
+MKY1-136,GOOGLE-MACK_MUS-Saturday-01,1768160-GOOGLE-MACK_MUS-Saturday-01,"Caneland - City - East Mackay - City - Caneland",0,411864,MKY10005
+MKY1-136,GOOGLE-MACK_MUS-Saturday-01,1768161-GOOGLE-MACK_MUS-Saturday-01,"Caneland - City - East Mackay - City - Caneland",0,411863,MKY10005
+MKY1-136,GOOGLE-MACK_MUS-Saturday-01,1768162-GOOGLE-MACK_MUS-Saturday-01,"Caneland - City - East Mackay - City - Caneland",0,411867,MKY10005
+MKY1-136,GOOGLE-MACK_MUS-Saturday-01,1768163-GOOGLE-MACK_MUS-Saturday-01,"Caneland - City - East Mackay - City - Caneland",0,411868,MKY10005
+MKY2-136,GOOGLE-MACK_MUS-Saturday-01,1768175-GOOGLE-MACK_MUS-Saturday-01,"Caneland - City - West Mackay - Caneland",0,411863,MKY20004
+MKY2-136,GOOGLE-MACK_MUS-Saturday-01,1768176-GOOGLE-MACK_MUS-Saturday-01,"Caneland - City - West Mackay - Caneland",0,411864,MKY20004
+MKY2-136,GOOGLE-MACK_MUS-Saturday-01,1768177-GOOGLE-MACK_MUS-Saturday-01,"Caneland - City - West Mackay - Caneland",0,411864,MKY20004
+MKY2-136,GOOGLE-MACK_MUS-Saturday-01,1768178-GOOGLE-MACK_MUS-Saturday-01,"Caneland - City - West Mackay - Caneland",0,411867,MKY20004
+MKY3-136,GOOGLE-MACK_MUS-Saturday-01,1768190-GOOGLE-MACK_MUS-Saturday-01,"Caneland - City - South Mackay - City - Caneland",0,411865,MKY30007
+MKY3-136,GOOGLE-MACK_MUS-Saturday-01,1768191-GOOGLE-MACK_MUS-Saturday-01,"Caneland - City - South Mackay - City - Caneland",0,411865,MKY30007
+MKY3-136,GOOGLE-MACK_MUS-Saturday-01,1768192-GOOGLE-MACK_MUS-Saturday-01,"Caneland - City - South Mackay - City - Caneland",0,411863,MKY30007
+MKY3-136,GOOGLE-MACK_MUS-Saturday-01,1768193-GOOGLE-MACK_MUS-Saturday-01,"Caneland - City - South Mackay - City - Caneland",0,411863,MKY30007
+MKY7-136,GOOGLE-MACY_MUL-Weekday-02,498504-GOOGLE-MACY_MUL-Weekday-02,"Caneland - City - Mt Pleasant - Northern Beaches - Caneland",0,411843,MKY70009
+MKY7-136,GOOGLE-MACY_MUL-Weekday-02,498505-GOOGLE-MACY_MUL-Weekday-02,"Caneland - City - Mt Pleasant - Northern Beaches - Caneland",0,411859,MKY70009
+MKY7-136,GOOGLE-MACY_MUL-Weekday-02,498506-GOOGLE-MACY_MUL-Weekday-02,"Caneland - City - Mt Pleasant - Northern Beaches - Caneland",0,411852,MKY70009
+MKY7-136,GOOGLE-MACY_MUL-Weekday-02,498507-GOOGLE-MACY_MUL-Weekday-02,"Caneland - City - Mt Pleasant - Northern Beaches - Caneland",0,411845,MKY70009
+MKY7-136,GOOGLE-MACY_MUL-Weekday-02,498508-GOOGLE-MACY_MUL-Weekday-02,"Caneland - City - Mt Pleasant - Northern Beaches - Caneland",0,411861,MKY70009
+MKY7-136,GOOGLE-MACY_MUL-Weekday-02,498509-GOOGLE-MACY_MUL-Weekday-02,"Caneland - City - Mt Pleasant - Northern Beaches - Caneland",0,411845,MKY70010
+MKY7-136,GOOGLE-MACY_MUL-Weekday-02,498510-GOOGLE-MACY_MUL-Weekday-02,"Caneland - City - Mt Pleasant - Northern Beaches - Caneland",0,411858,MKY70007
+MKY7-136,GOOGLE-MACY_MUL-Weekday-02,498511-GOOGLE-MACY_MUL-Weekday-02,"Caneland - City - Mt Pleasant - Northern Beaches - Caneland",0,411846,MKY70008
+MK9A-136,GOOGLE-MACY_MUL-Weekday-02,498516-GOOGLE-MACY_MUL-Weekday-02,"Caneland - University - Caneland",0,411845,MK9A0002
+MK9A-136,GOOGLE-MACY_MUL-Weekday-02,498517-GOOGLE-MACY_MUL-Weekday-02,"Caneland - University - Caneland",0,411852,MK9A0002
+MK9A-136,GOOGLE-MACY_MUL-Weekday-02,498518-GOOGLE-MACY_MUL-Weekday-02,"Caneland - University - Caneland",0,411858,MK9A0002
+MK9A-136,GOOGLE-MACY_MUL-Weekday-02,498519-GOOGLE-MACY_MUL-Weekday-02,"Caneland - University - Caneland",0,411845,MK9A0002
+MKY4-136,GOOGLE-MACY_MUL-Weekday-02,498548-GOOGLE-MACY_MUL-Weekday-02,"Caneland - City - Slade Point - City - Caneland",0,411852,MKY40005
+MKY4-136,GOOGLE-MACY_MUL-Weekday-02,498549-GOOGLE-MACY_MUL-Weekday-02,"Caneland - City - Slade Point - City - Caneland",0,411852,MKY40004
+MKY4-136,GOOGLE-MACY_MUL-Weekday-02,498550-GOOGLE-MACY_MUL-Weekday-02,"Caneland - City - Slade Point - City - Caneland",0,411845,MKY40004
+MKY4-136,GOOGLE-MACY_MUL-Weekday-02,498551-GOOGLE-MACY_MUL-Weekday-02,"Caneland - City - Slade Point - City - Caneland",0,411844,MKY40004
+MKY4-136,GOOGLE-MACY_MUL-Weekday-02,498552-GOOGLE-MACY_MUL-Weekday-02,"Caneland - City - Slade Point - City - Caneland",0,411844,MKY40004
+MKY4-136,GOOGLE-MACY_MUL-Weekday-02,498553-GOOGLE-MACY_MUL-Weekday-02,"Caneland - City - Slade Point - City - Caneland",0,411861,MKY40004
+MKY4-136,GOOGLE-MACY_MUL-Weekday-02,498554-GOOGLE-MACY_MUL-Weekday-02,"Caneland - City - Slade Point - City - Caneland",0,411861,MKY40004
+MKY4-136,GOOGLE-MACY_MUL-Weekday-02,498555-GOOGLE-MACY_MUL-Weekday-02,"Caneland - City - Slade Point - City - Caneland",0,411861,MKY40006
+MK4A-136,GOOGLE-MACY_MUL-Weekday-02,498556-GOOGLE-MACY_MUL-Weekday-02,"Caneland - City - Slade Point - City - Caneland",0,411845,MK4A0003
+MK4A-136,GOOGLE-MACY_MUL-Weekday-02,498557-GOOGLE-MACY_MUL-Weekday-02,"Caneland - City - Slade Point - City - Caneland",0,411857,MK4A0003
+MK4A-136,GOOGLE-MACY_MUL-Weekday-02,498558-GOOGLE-MACY_MUL-Weekday-02,"Caneland - City - Slade Point - City - Caneland",0,411844,MK4A0004
+MK12-136,GOOGLE-MACY_MUL-Weekday-02,498596-GOOGLE-MACY_MUL-Weekday-02,"Caneland - City - Marina - City - Caneland",0,411857,MK120002
+MK12-136,GOOGLE-MACY_MUL-Weekday-02,498597-GOOGLE-MACY_MUL-Weekday-02,"Caneland - City - Marina - City - Caneland",0,411845,MK120002
+MK12-136,GOOGLE-MACY_MUL-Weekday-02,498598-GOOGLE-MACY_MUL-Weekday-02,"Caneland - City - Marina - City - Caneland",0,411852,MK120002
+MKY8-136,GOOGLE-MACY_MUL-Weekday-02,498599-GOOGLE-MACY_MUL-Weekday-02,"Caneland - Mater Hosp - Glenella - Mt Pleasant - Caneland",0,411852,MKY80003
+MKY8-136,GOOGLE-MACY_MUL-Weekday-02,498600-GOOGLE-MACY_MUL-Weekday-02,"Caneland - Mater Hosp - Glenella - Mt Pleasant - Caneland",0,411859,MKY80003
+MKY8-136,GOOGLE-MACY_MUL-Weekday-02,498601-GOOGLE-MACY_MUL-Weekday-02,"Caneland - Mater Hosp - Glenella - Mt Pleasant - Caneland",0,411854,MKY80003
+MKY5-136,GOOGLE-MACY_MUL-Weekday-02,1119237-GOOGLE-MACY_MUL-Weekday-02,"Caneland - City - Andergrove - City - Caneland",0,411846,MKY50004
+MKY5-136,GOOGLE-MACY_MUL-Weekday-02,1119238-GOOGLE-MACY_MUL-Weekday-02,"Caneland - City - Andergrove - City - Caneland",0,411846,MKY50003
+MKY5-136,GOOGLE-MACY_MUL-Weekday-02,1119239-GOOGLE-MACY_MUL-Weekday-02,"Caneland - City - Andergrove - City - Caneland",0,411846,MKY50003
+MKY5-136,GOOGLE-MACY_MUL-Weekday-02,1119240-GOOGLE-MACY_MUL-Weekday-02,"Caneland - City - Andergrove - City - Caneland",0,411846,MKY50003
+MKY5-136,GOOGLE-MACY_MUL-Weekday-02,1119241-GOOGLE-MACY_MUL-Weekday-02,"Caneland - City - Andergrove - City - Caneland",0,411846,MKY50003
+MKY5-136,GOOGLE-MACY_MUL-Weekday-02,1119242-GOOGLE-MACY_MUL-Weekday-02,"Caneland - City - Andergrove - City - Caneland",0,411846,MKY50003
+MKY5-136,GOOGLE-MACY_MUL-Weekday-02,1119243-GOOGLE-MACY_MUL-Weekday-02,"Caneland - City - Andergrove - City - Caneland",0,411846,MKY50003
+MKY5-136,GOOGLE-MACY_MUL-Weekday-02,1119244-GOOGLE-MACY_MUL-Weekday-02,"Caneland - City - Andergrove - City - Caneland",0,411846,MKY50003
+MKY5-136,GOOGLE-MACY_MUL-Weekday-02,1119245-GOOGLE-MACY_MUL-Weekday-02,"Caneland - City - Andergrove - City - Caneland",0,411844,MKY50003
+MKY5-136,GOOGLE-MACY_MUL-Weekday-02,1119246-GOOGLE-MACY_MUL-Weekday-02,"Caneland - City - Andergrove - City - Caneland",0,411844,MKY50003
+MKY5-136,GOOGLE-MACY_MUL-Weekday-02,1119247-GOOGLE-MACY_MUL-Weekday-02,"Caneland - City - Andergrove - City - Caneland",0,411860,MKY50003
+MKY5-136,GOOGLE-MACY_MUL-Weekday-02,1119249-GOOGLE-MACY_MUL-Weekday-02,"Caneland - City - Andergrove - City - Caneland",0,411846,MKY50003
+MKY6-136,GOOGLE-MACY_MUL-Weekday-02,1119251-GOOGLE-MACY_MUL-Weekday-02,"Caneland - City - Mt Pleasant - Beaconsfield - Caneland",0,411851,MKY60005
+MKY6-136,GOOGLE-MACY_MUL-Weekday-02,1119252-GOOGLE-MACY_MUL-Weekday-02,"Caneland - City - Mt Pleasant - Beaconsfield - Caneland",0,411851,MKY60004
+MKY6-136,GOOGLE-MACY_MUL-Weekday-02,1119253-GOOGLE-MACY_MUL-Weekday-02,"Caneland - City - Mt Pleasant - Beaconsfield - Caneland",0,411851,MKY60004
+MKY6-136,GOOGLE-MACY_MUL-Weekday-02,1119254-GOOGLE-MACY_MUL-Weekday-02,"Caneland - City - Mt Pleasant - Beaconsfield - Caneland",0,411851,MKY60004
+MKY6-136,GOOGLE-MACY_MUL-Weekday-02,1119255-GOOGLE-MACY_MUL-Weekday-02,"Caneland - City - Mt Pleasant - Beaconsfield - Caneland",0,411851,MKY60004
+MKY6-136,GOOGLE-MACY_MUL-Weekday-02,1119256-GOOGLE-MACY_MUL-Weekday-02,"Caneland - City - Mt Pleasant - Beaconsfield - Caneland",0,411851,MKY60004
+MKY6-136,GOOGLE-MACY_MUL-Weekday-02,1119257-GOOGLE-MACY_MUL-Weekday-02,"Caneland - City - Mt Pleasant - Beaconsfield - Caneland",0,411851,MKY60004
+MKY6-136,GOOGLE-MACY_MUL-Weekday-02,1119258-GOOGLE-MACY_MUL-Weekday-02,"Caneland - City - Mt Pleasant - Beaconsfield - Caneland",0,411851,MKY60004
+MKY6-136,GOOGLE-MACY_MUL-Weekday-02,1119259-GOOGLE-MACY_MUL-Weekday-02,"Caneland - City - Mt Pleasant - Beaconsfield - Caneland",0,411851,MKY60004
+MKY6-136,GOOGLE-MACY_MUL-Weekday-02,1119260-GOOGLE-MACY_MUL-Weekday-02,"Caneland - City - Mt Pleasant - Beaconsfield - Caneland",0,411851,MKY60004
+MKY6-136,GOOGLE-MACY_MUL-Weekday-02,1119261-GOOGLE-MACY_MUL-Weekday-02,"Caneland - City - Mt Pleasant - Beaconsfield - Caneland",0,411850,MKY60004
+MKY6-136,GOOGLE-MACY_MUL-Weekday-02,1119263-GOOGLE-MACY_MUL-Weekday-02,"Caneland - City - Mt Pleasant - Beaconsfield - Caneland",0,411858,MKY60006
+MKY7-136,GOOGLE-MACY_MUL-Weekday-02,1119264-GOOGLE-MACY_MUL-Weekday-02,"Caneland - City - Mt Pleasant - Northern Beaches - Caneland",0,411847,MKY70011
+MKY1-136,GOOGLE-MACY_MUL-Weekday-02,1768149-GOOGLE-MACY_MUL-Weekday-02,"Caneland - City - East Mackay - City - Caneland",0,411855,MKY10006
+MKY1-136,GOOGLE-MACY_MUL-Weekday-02,1768150-GOOGLE-MACY_MUL-Weekday-02,"Caneland - City - East Mackay - City - Caneland",0,411859,MKY10005
+MKY1-136,GOOGLE-MACY_MUL-Weekday-02,1768151-GOOGLE-MACY_MUL-Weekday-02,"Caneland - City - East Mackay - City - Caneland",0,411859,MKY10005
+MKY1-136,GOOGLE-MACY_MUL-Weekday-02,1768152-GOOGLE-MACY_MUL-Weekday-02,"Caneland - City - East Mackay - City - Caneland",0,411861,MKY10005
+MKY1-136,GOOGLE-MACY_MUL-Weekday-02,1768153-GOOGLE-MACY_MUL-Weekday-02,"Caneland - City - East Mackay - City - Caneland",0,411861,MKY10005
+MKY1-136,GOOGLE-MACY_MUL-Weekday-02,1768154-GOOGLE-MACY_MUL-Weekday-02,"Caneland - City - East Mackay - City - Caneland",0,411861,MKY10005
+MKY1-136,GOOGLE-MACY_MUL-Weekday-02,1768155-GOOGLE-MACY_MUL-Weekday-02,"Caneland - City - East Mackay - City - Caneland",0,411861,MKY10005
+MKY1-136,GOOGLE-MACY_MUL-Weekday-02,1768156-GOOGLE-MACY_MUL-Weekday-02,"Caneland - City - East Mackay - City - Caneland",0,411862,MKY10005
+MKY1-136,GOOGLE-MACY_MUL-Weekday-02,1768157-GOOGLE-MACY_MUL-Weekday-02,"Caneland - City - East Mackay - City - Caneland",0,411862,MKY10005
+MKY1-136,GOOGLE-MACY_MUL-Weekday-02,1768158-GOOGLE-MACY_MUL-Weekday-02,"Caneland - City - East Mackay - City - Caneland",0,411862,MKY10005
+MKY1-136,GOOGLE-MACY_MUL-Weekday-02,1768159-GOOGLE-MACY_MUL-Weekday-02,"Caneland - City - East Mackay - City - Caneland",0,411862,MKY10005
+MKY2-136,GOOGLE-MACY_MUL-Weekday-02,1768164-GOOGLE-MACY_MUL-Weekday-02,"Caneland - City - West Mackay - Caneland",0,411857,MKY20004
+MKY2-136,GOOGLE-MACY_MUL-Weekday-02,1768165-GOOGLE-MACY_MUL-Weekday-02,"Caneland - City - West Mackay - Caneland",0,411852,MKY20004
+MKY2-136,GOOGLE-MACY_MUL-Weekday-02,1768166-GOOGLE-MACY_MUL-Weekday-02,"Caneland - City - West Mackay - Caneland",0,411854,MKY20004
+MKY2-136,GOOGLE-MACY_MUL-Weekday-02,1768167-GOOGLE-MACY_MUL-Weekday-02,"Caneland - City - West Mackay - Caneland",0,411854,MKY20004
+MKY2-136,GOOGLE-MACY_MUL-Weekday-02,1768168-GOOGLE-MACY_MUL-Weekday-02,"Caneland - City - West Mackay - Caneland",0,411854,MKY20004
+MKY2-136,GOOGLE-MACY_MUL-Weekday-02,1768169-GOOGLE-MACY_MUL-Weekday-02,"Caneland - City - West Mackay - Caneland",0,411854,MKY20004
+MKY2-136,GOOGLE-MACY_MUL-Weekday-02,1768170-GOOGLE-MACY_MUL-Weekday-02,"Caneland - City - West Mackay - Caneland",0,411858,MKY20004
+MKY2-136,GOOGLE-MACY_MUL-Weekday-02,1768171-GOOGLE-MACY_MUL-Weekday-02,"Caneland - City - West Mackay - Caneland",0,411858,MKY20004
+MKY2-136,GOOGLE-MACY_MUL-Weekday-02,1768172-GOOGLE-MACY_MUL-Weekday-02,"Caneland - City - West Mackay - Caneland",0,411844,MKY20004
+MKY2-136,GOOGLE-MACY_MUL-Weekday-02,1768173-GOOGLE-MACY_MUL-Weekday-02,"Caneland - City - West Mackay - Caneland",0,411846,MKY20004
+MKY2-136,GOOGLE-MACY_MUL-Weekday-02,1768174-GOOGLE-MACY_MUL-Weekday-02,"Caneland - City - West Mackay - Caneland",0,411856,MKY20004
+MKY3-136,GOOGLE-MACY_MUL-Weekday-02,1768179-GOOGLE-MACY_MUL-Weekday-02,"Caneland - City - South Mackay - City - Caneland",0,411853,MKY30008
+MKY3-136,GOOGLE-MACY_MUL-Weekday-02,1768180-GOOGLE-MACY_MUL-Weekday-02,"Caneland - City - South Mackay - City - Caneland",0,411843,MKY30007
+MKY3-136,GOOGLE-MACY_MUL-Weekday-02,1768181-GOOGLE-MACY_MUL-Weekday-02,"Caneland - City - South Mackay - City - Caneland",0,411855,MKY30007
+MKY3-136,GOOGLE-MACY_MUL-Weekday-02,1768182-GOOGLE-MACY_MUL-Weekday-02,"Caneland - City - South Mackay - City - Caneland",0,411855,MKY30007
+MKY3-136,GOOGLE-MACY_MUL-Weekday-02,1768183-GOOGLE-MACY_MUL-Weekday-02,"Caneland - City - South Mackay - City - Caneland",0,411855,MKY30007
+MKY3-136,GOOGLE-MACY_MUL-Weekday-02,1768184-GOOGLE-MACY_MUL-Weekday-02,"Caneland - City - South Mackay - City - Caneland",0,411855,MKY30007
+MKY3-136,GOOGLE-MACY_MUL-Weekday-02,1768185-GOOGLE-MACY_MUL-Weekday-02,"Caneland - City - South Mackay - City - Caneland",0,411855,MKY30007
+MKY3-136,GOOGLE-MACY_MUL-Weekday-02,1768186-GOOGLE-MACY_MUL-Weekday-02,"Caneland - City - South Mackay - City - Caneland",0,411845,MKY30007
+MKY3-136,GOOGLE-MACY_MUL-Weekday-02,1768187-GOOGLE-MACY_MUL-Weekday-02,"Caneland - City - South Mackay - City - Caneland",0,411845,MKY30007
+MKY3-136,GOOGLE-MACY_MUL-Weekday-02,1768188-GOOGLE-MACY_MUL-Weekday-02,"Caneland - City - South Mackay - City - Caneland",0,411845,MKY30007
+MKY3-136,GOOGLE-MACY_MUL-Weekday-02,1768189-GOOGLE-MACY_MUL-Weekday-02,"Caneland - City - South Mackay - City - Caneland",0,411845,MKY30007
+MKY9-136,GOOGLE-MACY_MUL-Weekday-02,1768194-GOOGLE-MACY_MUL-Weekday-02,"Caneland - City - Walkerston - Caneland",0,411855,MKY90009
+MKY9-136,GOOGLE-MACY_MUL-Weekday-02,1768195-GOOGLE-MACY_MUL-Weekday-02,"Caneland - City - Walkerston - Caneland",0,411852,MKY90007
+MKY9-136,GOOGLE-MACY_MUL-Weekday-02,1768196-GOOGLE-MACY_MUL-Weekday-02,"Caneland - City - Walkerston - Caneland",0,411859,MKY90007
+MKY9-136,GOOGLE-MACY_MUL-Weekday-02,1768197-GOOGLE-MACY_MUL-Weekday-02,"Caneland - City - Walkerston - Caneland",0,411854,MKY90008
+MK10-136,GOOGLE-MACY_MUL-Weekday-02,1768202-GOOGLE-MACY_MUL-Weekday-02,"Caneland - City - Sarina - Caneland",0,411843,MK100011
+MK10-136,GOOGLE-MACY_MUL-Weekday-02,1768203-GOOGLE-MACY_MUL-Weekday-02,"Caneland - City - Sarina - Caneland",0,411852,MK100013
+MK10-136,GOOGLE-MACY_MUL-Weekday-02-0100100,1768204-GOOGLE-MACY_MUL-Weekday-02-0100100,"Caneland - City - Sarina - Caneland",0,411857,MK100012
+MK10-136,GOOGLE-MACY_MUL-Weekday-02-0100100,1768205-GOOGLE-MACY_MUL-Weekday-02-0100100,"Caneland - City - Sarina - Caneland",0,411852,MK100014
+MK11-136,GOOGLE-MACY_MUL-Weekday-02-0001000,1768206-GOOGLE-MACY_MUL-Weekday-02-0001000,"Mirani - Caneland",0,411849,MK110007
+MK11-136,GOOGLE-MACY_MUL-Weekday-02-0001000,1768207-GOOGLE-MACY_MUL-Weekday-02-0001000,"Mirani - Caneland",0,411848,MK110006
