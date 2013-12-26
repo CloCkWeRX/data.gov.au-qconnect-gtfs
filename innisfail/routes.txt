@@ -1,0 +1,6 @@
+route_id,route_short_name,route_long_name,route_desc,route_type,route_url
+801-50,801,"Velution Street to Central Arcade",,3,
+802-50,802,"Servicing Hospital, Cullinane",,3,
+803-50,803,"City East , Innisfail, Webb",,3,
+804-50,804,"Innisfail West",,3,
+805-50,805,"FFP to Town via Innisfail Estate",,3,

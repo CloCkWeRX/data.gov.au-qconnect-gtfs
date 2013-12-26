@@ -1,0 +1,4 @@
+service_id,date,exception_type
+GOOGLE-INNISF-Weekday-00,20131007,2
+GOOGLE-INNISF-Weekday-00,20131225,2
+GOOGLE-INNISF-Weekday-00,20131226,2

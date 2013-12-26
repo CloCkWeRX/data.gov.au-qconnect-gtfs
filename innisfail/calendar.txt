@@ -1,0 +1,3 @@
+service_id,monday,tuesday,wednesday,thursday,friday,saturday,sunday,start_date,end_date
+GOOGLE-INNISF-Weekday-00,1,1,1,1,1,0,0,20130617,20131231
+GOOGLE-INNISF-Saturday-00,0,0,0,0,0,1,0,20130622,20131228
