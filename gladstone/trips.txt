@@ -1,0 +1,164 @@
+route_id,service_id,trip_id,trip_headsign,direction_id,block_id,shape_id
+500-255,GOOGLE-GLT_MUL-Weekday-05,2927478-GOOGLE-GLT_MUL-Weekday-05,"Stockland (Phillip St) - Hospital - TAFE - Stockland",0,546401,5000013
+500-255,GOOGLE-GLT_MUL-Weekday-05,2927479-GOOGLE-GLT_MUL-Weekday-05,"Stockland (Phillip St) - Hospital - TAFE - Stockland",0,546402,5000013
+500-255,GOOGLE-GLT_MUL-Weekday-05,2927480-GOOGLE-GLT_MUL-Weekday-05,"Stockland (Phillip St) - Hospital - TAFE - Stockland",0,546403,5000013
+500-255,GOOGLE-GLT_MUL-Weekday-05,2927481-GOOGLE-GLT_MUL-Weekday-05,"Stockland (Phillip St) - Hospital - TAFE - Stockland",0,546404,5000013
+500S-255,GOOGLE-GLT_MUL-Weekday-05,2927486-GOOGLE-GLT_MUL-Weekday-05,"Stockland (Phillip St) - Hospital - TAFE - Stockland",0,546409,500S0006
+500S-255,GOOGLE-GLT_MUL-Weekday-05,2927487-GOOGLE-GLT_MUL-Weekday-05,"Stockland (Phillip St) - Hospital - TAFE - Stockland",0,546410,500S0006
+500S-255,GOOGLE-GLT_MUL-Weekday-05,2927488-GOOGLE-GLT_MUL-Weekday-05,"Stockland (Phillip St) - Hospital - TAFE - Stockland",0,546411,500S0008
+500S-255,GOOGLE-GLT_MUL-Weekday-05,2927489-GOOGLE-GLT_MUL-Weekday-05,"Stockland (Phillip St) - Hospital - TAFE - Stockland",0,546412,500S0009
+500S-255,GOOGLE-GLT_MUL-Weekday-05,2927490-GOOGLE-GLT_MUL-Weekday-05,"Stockland (Phillip St) - Hospital - TAFE - Stockland",0,546413,500S0007
+500S-255,GOOGLE-GLT_MUL-Weekday-05,2927491-GOOGLE-GLT_MUL-Weekday-05,"Stockland (Phillip St) - Hospital - TAFE - Stockland",0,546414,500S0006
+501-255,GOOGLE-GLT_MUL-Weekday-05,2927492-GOOGLE-GLT_MUL-Weekday-05,"Stockland (Phillip St) - TAFE -  Hospital - Stockland",1,546415,5010004
+501-255,GOOGLE-GLT_MUL-Weekday-05,2927493-GOOGLE-GLT_MUL-Weekday-05,"Stockland (Phillip St) - TAFE -  Hospital - Stockland",1,546416,5010004
+501-255,GOOGLE-GLT_MUL-Weekday-05,2927494-GOOGLE-GLT_MUL-Weekday-05,"Stockland (Phillip St) - TAFE -  Hospital - Stockland",1,546417,5010004
+501-255,GOOGLE-GLT_MUL-Weekday-05,2927495-GOOGLE-GLT_MUL-Weekday-05,"Stockland (Phillip St) - TAFE -  Hospital - Stockland",1,546418,5010004
+501-255,GOOGLE-GLT_MUL-Weekday-05,2927496-GOOGLE-GLT_MUL-Weekday-05,"Stockland (Phillip St) - TAFE -  Hospital - Stockland",1,546419,5010005
+501S-255,GOOGLE-GLT_MUL-Weekday-05,2927503-GOOGLE-GLT_MUL-Weekday-05,"Stockland (Phillip St) - TAFE - Hospital - Stockland",1,546425,501S0006
+501S-255,GOOGLE-GLT_MUL-Weekday-05,2927504-GOOGLE-GLT_MUL-Weekday-05,"Stockland (Phillip St) - TAFE - Hospital - Stockland",1,546426,501S0008
+501S-255,GOOGLE-GLT_MUL-Weekday-05,2927505-GOOGLE-GLT_MUL-Weekday-05,"Stockland (Phillip St) - TAFE - Hospital - Stockland",1,546427,501S0010
+501S-255,GOOGLE-GLT_MUL-Weekday-05,2927506-GOOGLE-GLT_MUL-Weekday-05,"Stockland (Phillip St) - TAFE - Hospital - Stockland",1,546428,501S0007
+501S-255,GOOGLE-GLT_MUL-Weekday-05,2927507-GOOGLE-GLT_MUL-Weekday-05,"Stockland (Phillip St) - TAFE - Hospital - Stockland",1,546429,501S0009
+501S-255,GOOGLE-GLT_MUL-Weekday-05,2927508-GOOGLE-GLT_MUL-Weekday-05,"Stockland (Phillip St) - TAFE - Hospital - Stockland",1,546430,501S0008
+502-255,GOOGLE-GLT_MUL-Weekday-05,2927509-GOOGLE-GLT_MUL-Weekday-05,"Stockland (Phillip St) - Airport - Clinton - Stockland",0,546431,5020015
+502-255,GOOGLE-GLT_MUL-Weekday-05,2927510-GOOGLE-GLT_MUL-Weekday-05,"Stockland (Phillip St) - Airport - Clinton - Stockland",0,546432,5020015
+502-255,GOOGLE-GLT_MUL-Weekday-05,2927511-GOOGLE-GLT_MUL-Weekday-05,"Stockland (Phillip St) - Airport - Clinton - Stockland",0,546433,5020015
+502-255,GOOGLE-GLT_MUL-Weekday-05,2927512-GOOGLE-GLT_MUL-Weekday-05,"Stockland (Phillip St) - Airport - Clinton - Stockland",0,546434,5020015
+502-255,GOOGLE-GLT_MUL-Weekday-05,2927513-GOOGLE-GLT_MUL-Weekday-05,"Stockland (Phillip St) - Airport - Clinton - Stockland",0,546435,5020015
+502-255,GOOGLE-GLT_MUL-Weekday-05,2927514-GOOGLE-GLT_MUL-Weekday-05,"Stockland (Phillip St) - Airport - Clinton - Stockland",0,546436,5020015
+502-255,GOOGLE-GLT_MUL-Weekday-05,2927515-GOOGLE-GLT_MUL-Weekday-05,"Stockland (Phillip St) - Airport - Clinton - Stockland",0,546437,5020015
+502-255,GOOGLE-GLT_MUL-Weekday-05,2927516-GOOGLE-GLT_MUL-Weekday-05,"Stockland (Phillip St) - Airport - Clinton - Stockland",0,546438,5020015
+503-255,GOOGLE-GLT_MUL-Weekday-05,2927517-GOOGLE-GLT_MUL-Weekday-05,"Stockland (Phillip St) - Kirkwood",1,546439,5030012
+503-255,GOOGLE-GLT_MUL-Weekday-05,2927518-GOOGLE-GLT_MUL-Weekday-05,"Stockland (Phillip St) - Kirkwood",1,546440,5030012
+503-255,GOOGLE-GLT_MUL-Weekday-05,2927519-GOOGLE-GLT_MUL-Weekday-05,"Stockland (Phillip St) - Kirkwood",1,546441,5030012
+503-255,GOOGLE-GLT_MUL-Weekday-05,2927520-GOOGLE-GLT_MUL-Weekday-05,"Stockland (Phillip St) - Kirkwood",1,546442,5030012
+503-255,GOOGLE-GLT_MUL-Weekday-05,2927521-GOOGLE-GLT_MUL-Weekday-05,"Stockland (Phillip St) - Kirkwood",1,546443,5030012
+503-255,GOOGLE-GLT_MUL-Weekday-05,2927522-GOOGLE-GLT_MUL-Weekday-05,"Stockland (Phillip St) - Kirkwood",1,546444,5030012
+503-255,GOOGLE-GLT_MUL-Weekday-05,2927523-GOOGLE-GLT_MUL-Weekday-05,"Stockland (Phillip St) - Kirkwood",1,546445,5030012
+503-255,GOOGLE-GLT_MUL-Weekday-05,2927524-GOOGLE-GLT_MUL-Weekday-05,"Stockland (Phillip St) - Kirkwood",1,546446,5030012
+503-255,GOOGLE-GLT_MUL-Weekday-05,2927525-GOOGLE-GLT_MUL-Weekday-05,"Kirkwood - Stockland (Phillip St)",0,546447,5030011
+503-255,GOOGLE-GLT_MUL-Weekday-05,2927526-GOOGLE-GLT_MUL-Weekday-05,"Kirkwood - Stockland (Phillip St)",0,546448,5030011
+503-255,GOOGLE-GLT_MUL-Weekday-05,2927527-GOOGLE-GLT_MUL-Weekday-05,"Kirkwood - Stockland (Phillip St)",0,546449,5030011
+503-255,GOOGLE-GLT_MUL-Weekday-05,2927528-GOOGLE-GLT_MUL-Weekday-05,"Kirkwood - Stockland (Phillip St)",0,546450,5030011
+503-255,GOOGLE-GLT_MUL-Weekday-05,2927529-GOOGLE-GLT_MUL-Weekday-05,"Kirkwood - Stockland (Phillip St)",0,546451,5030011
+503-255,GOOGLE-GLT_MUL-Weekday-05,2927530-GOOGLE-GLT_MUL-Weekday-05,"Kirkwood - Stockland (Phillip St)",0,546452,5030011
+503-255,GOOGLE-GLT_MUL-Weekday-05,2927531-GOOGLE-GLT_MUL-Weekday-05,"Kirkwood - Stockland (Phillip St)",0,546453,5030011
+503-255,GOOGLE-GLT_MUL-Weekday-05,2927532-GOOGLE-GLT_MUL-Weekday-05,"Kirkwood - Stockland (Phillip St)",0,546454,5030011
+504-255,GOOGLE-GLT_MUL-Weekday-05,2927533-GOOGLE-GLT_MUL-Weekday-05,"Stockland (Phillip St) - Emmadale Park - New Auckland",1,546455,5040008
+504-255,GOOGLE-GLT_MUL-Weekday-05,2927534-GOOGLE-GLT_MUL-Weekday-05,"Stockland (Phillip St) - Emmadale Park - New Auckland",1,546456,5040008
+504-255,GOOGLE-GLT_MUL-Weekday-05,2927535-GOOGLE-GLT_MUL-Weekday-05,"Stockland (Phillip St) - Emmadale Park - New Auckland",1,546457,5040008
+504-255,GOOGLE-GLT_MUL-Weekday-05,2927536-GOOGLE-GLT_MUL-Weekday-05,"Stockland (Phillip St) - Emmadale Park - New Auckland",1,546458,5040008
+504-255,GOOGLE-GLT_MUL-Weekday-05,2927537-GOOGLE-GLT_MUL-Weekday-05,"Stockland (Phillip St) - Emmadale Park - New Auckland",1,546459,5040008
+504-255,GOOGLE-GLT_MUL-Weekday-05,2927538-GOOGLE-GLT_MUL-Weekday-05,"Stockland (Phillip St) - Emmadale Park - New Auckland",1,546460,5040008
+504-255,GOOGLE-GLT_MUL-Weekday-05,2927539-GOOGLE-GLT_MUL-Weekday-05,"Stockland (Phillip St) - Emmadale Park - New Auckland",1,546461,5040008
+504-255,GOOGLE-GLT_MUL-Weekday-05,2927540-GOOGLE-GLT_MUL-Weekday-05,"Stockland (Phillip St) - Emmadale Park - New Auckland",1,546462,5040008
+504-255,GOOGLE-GLT_MUL-Weekday-05,2927541-GOOGLE-GLT_MUL-Weekday-05,"New Auckland - Emmadale Park - Stockland (Phillip St)",0,546463,5040007
+504-255,GOOGLE-GLT_MUL-Weekday-05,2927542-GOOGLE-GLT_MUL-Weekday-05,"New Auckland - Emmadale Park - Stockland (Phillip St)",0,546464,5040007
+504-255,GOOGLE-GLT_MUL-Weekday-05,2927543-GOOGLE-GLT_MUL-Weekday-05,"New Auckland - Emmadale Park - Stockland (Phillip St)",0,546465,5040007
+504-255,GOOGLE-GLT_MUL-Weekday-05,2927544-GOOGLE-GLT_MUL-Weekday-05,"New Auckland - Emmadale Park - Stockland (Phillip St)",0,546466,5040007
+504-255,GOOGLE-GLT_MUL-Weekday-05,2927545-GOOGLE-GLT_MUL-Weekday-05,"New Auckland - Emmadale Park - Stockland (Phillip St)",0,546467,5040007
+504-255,GOOGLE-GLT_MUL-Weekday-05,2927546-GOOGLE-GLT_MUL-Weekday-05,"New Auckland - Emmadale Park - Stockland (Phillip St)",0,546468,5040007
+504-255,GOOGLE-GLT_MUL-Weekday-05,2927547-GOOGLE-GLT_MUL-Weekday-05,"New Auckland - Emmadale Park - Stockland (Phillip St)",0,546469,5040007
+504-255,GOOGLE-GLT_MUL-Weekday-05,2927548-GOOGLE-GLT_MUL-Weekday-05,"New Auckland - Emmadale Park - Stockland (Phillip St)",0,546470,5040007
+505-255,GOOGLE-GLT_MUL-Weekday-05,2927549-GOOGLE-GLT_MUL-Weekday-05,"Glen Eden - Stockland (Phillip St) via Telina",0,546471,5050007
+505-255,GOOGLE-GLT_MUL-Weekday-05,2927550-GOOGLE-GLT_MUL-Weekday-05,"Glen Eden - Stockland (Phillip St) via Telina",0,546472,5050007
+505-255,GOOGLE-GLT_MUL-Weekday-05,2927551-GOOGLE-GLT_MUL-Weekday-05,"Glen Eden - Stockland (Phillip St) via Telina",0,546473,5050007
+505-255,GOOGLE-GLT_MUL-Weekday-05,2927552-GOOGLE-GLT_MUL-Weekday-05,"Glen Eden - Stockland (Phillip St) via Telina",0,546474,5050007
+505-255,GOOGLE-GLT_MUL-Weekday-05,2927553-GOOGLE-GLT_MUL-Weekday-05,"Glen Eden - Stockland (Phillip St) via Telina",0,546475,5050007
+505-255,GOOGLE-GLT_MUL-Weekday-05,2927554-GOOGLE-GLT_MUL-Weekday-05,"Stockland (Phillip St) - Glen Eden via Telina",1,546476,5050008
+505-255,GOOGLE-GLT_MUL-Weekday-05,2927555-GOOGLE-GLT_MUL-Weekday-05,"Stockland (Phillip St) - Glen Eden via Telina",1,546477,5050008
+505-255,GOOGLE-GLT_MUL-Weekday-05,2927556-GOOGLE-GLT_MUL-Weekday-05,"Stockland (Phillip St) - Glen Eden via Telina",1,546478,5050008
+505-255,GOOGLE-GLT_MUL-Weekday-05,2927557-GOOGLE-GLT_MUL-Weekday-05,"Stockland (Phillip St) - Glen Eden via Telina",1,546479,5050008
+505-255,GOOGLE-GLT_MUL-Weekday-05,2927558-GOOGLE-GLT_MUL-Weekday-05,"Stockland (Phillip St) - Glen Eden via Telina",1,546480,5050008
+506-255,GOOGLE-GLT_MUL-Weekday-05,2927565-GOOGLE-GLT_MUL-Weekday-05,"Stockland (Phillip St) - New Auckland - Little Ck",0,546487,5060011
+506-255,GOOGLE-GLT_MUL-Weekday-05,2927566-GOOGLE-GLT_MUL-Weekday-05,"Stockland (Phillip St) - New Auckland - Little Ck",0,546488,5060011
+506-255,GOOGLE-GLT_MUL-Weekday-05,2927567-GOOGLE-GLT_MUL-Weekday-05,"Stockland (Phillip St) - New Auckland - Little Ck",0,546489,5060011
+506-255,GOOGLE-GLT_MUL-Weekday-05,2927568-GOOGLE-GLT_MUL-Weekday-05,"Stockland (Phillip St) - New Auckland - Little Ck",0,546490,5060011
+506-255,GOOGLE-GLT_MUL-Weekday-05,2927569-GOOGLE-GLT_MUL-Weekday-05,"Stockland (Phillip St) - New Auckland - Little Ck",0,546491,5060011
+506-255,GOOGLE-GLT_MUL-Weekday-05,2927570-GOOGLE-GLT_MUL-Weekday-05,"Stockland (Phillip St) - New Auckland - Little Ck",0,546492,5060011
+506-255,GOOGLE-GLT_MUL-Weekday-05,2927571-GOOGLE-GLT_MUL-Weekday-05,"Stockland (Phillip St) - New Auckland - Little Ck",0,546493,5060011
+550-255,GOOGLE-GLT_MUL-Weekday-05,2927572-GOOGLE-GLT_MUL-Weekday-05,"Stockland (Phillip St) - Boyne Island - Tannum Sands",1,546494,5500053
+550-255,GOOGLE-GLT_MUL-Weekday-05,2927573-GOOGLE-GLT_MUL-Weekday-05,"Stockland (Phillip St) - Boyne Island - Tannum Sands",1,546495,5500055
+550-255,GOOGLE-GLT_MUL-Weekday-05,2927574-GOOGLE-GLT_MUL-Weekday-05,"Stockland (Phillip St) - Boyne Island - Tannum Sands",1,546496,5500054
+550-255,GOOGLE-GLT_MUL-Weekday-05,2927575-GOOGLE-GLT_MUL-Weekday-05,"Stockland (Phillip St) - Boyne Island - Tannum Sands",1,546497,5500051
+550-255,GOOGLE-GLT_MUL-Weekday-05,2927576-GOOGLE-GLT_MUL-Weekday-05,"Stockland (Phillip St) - Boyne Island - Tannum Sands",1,546498,5500051
+550-255,GOOGLE-GLT_MUL-Weekday-05,2927577-GOOGLE-GLT_MUL-Weekday-05,"Stockland (Phillip St) - Boyne Island - Tannum Sands",1,546499,5500053
+550-255,GOOGLE-GLT_MUL-Weekday-05,2927578-GOOGLE-GLT_MUL-Weekday-05,"Stockland (Phillip St) - Boyne Island - Tannum Sands",1,546500,5500051
+550-255,GOOGLE-GLT_MUL-Weekday-05,2927579-GOOGLE-GLT_MUL-Weekday-05,"Tannum Sands - Boyne Island - Stockland (Phillip St)",0,546501,5500050
+550-255,GOOGLE-GLT_MUL-Weekday-05,2927580-GOOGLE-GLT_MUL-Weekday-05,"Tannum Sands - Boyne Island - Stockland (Phillip St)",0,546502,5500050
+550-255,GOOGLE-GLT_MUL-Weekday-05,2927581-GOOGLE-GLT_MUL-Weekday-05,"Tannum Sands - Boyne Island - Stockland (Phillip St)",0,546503,5500050
+550-255,GOOGLE-GLT_MUL-Weekday-05,2927582-GOOGLE-GLT_MUL-Weekday-05,"Tannum Sands - Boyne Island - Stockland (Phillip St)",0,546504,5500052
+550-255,GOOGLE-GLT_MUL-Weekday-05,2927583-GOOGLE-GLT_MUL-Weekday-05,"Tannum Sands - Boyne Island - Stockland (Phillip St)",0,546505,5500024
+550-255,GOOGLE-GLT_MUL-Weekday-05,2927584-GOOGLE-GLT_MUL-Weekday-05,"Tannum Sands - Boyne Island - Stockland (Phillip St)",0,546506,5500050
+507-255,GOOGLE-GLT_MUL-Weekday-05,2938278-GOOGLE-GLT_MUL-Weekday-05,"Seaview Hts - Kirkwood - New Auckland - Stockland Gladstone",1,551901,5070007
+500-255,GOOGLE-GLT_MUL-Weekday-06,2927482-GOOGLE-GLT_MUL-Weekday-06,"Stockland (Phillip St) - Hospital - TAFE - Stockland",0,546405,5000013
+500-255,GOOGLE-GLT_MUL-Weekday-06,2927483-GOOGLE-GLT_MUL-Weekday-06,"Stockland (Phillip St) - Hospital - TAFE - Stockland",0,546406,5000013
+500-255,GOOGLE-GLT_MUL-Weekday-06,2927484-GOOGLE-GLT_MUL-Weekday-06,"Stockland (Phillip St) - Hospital - TAFE - Stockland",0,546407,5000013
+500-255,GOOGLE-GLT_MUL-Weekday-06,2927485-GOOGLE-GLT_MUL-Weekday-06,"Stockland (Phillip St) - Hospital - TAFE - Stockland",0,546408,5000013
+501-255,GOOGLE-GLT_MUL-Weekday-06,2927497-GOOGLE-GLT_MUL-Weekday-06,"Stockland (Phillip St) - TAFE -  Hospital - Stockland",1,546420,5010004
+501-255,GOOGLE-GLT_MUL-Weekday-06,2927498-GOOGLE-GLT_MUL-Weekday-06,"Stockland (Phillip St) - TAFE -  Hospital - Stockland",1,546421,5010004
+501-255,GOOGLE-GLT_MUL-Weekday-06,2927499-GOOGLE-GLT_MUL-Weekday-06,"Stockland (Phillip St) - TAFE -  Hospital - Stockland",1,546422,5010004
+501-255,GOOGLE-GLT_MUL-Weekday-06,2927500-GOOGLE-GLT_MUL-Weekday-06,"Stockland (Phillip St) - TAFE -  Hospital - Stockland",1,546423,5010004
+501-255,GOOGLE-GLT_MUL-Weekday-06,2927501-GOOGLE-GLT_MUL-Weekday-06,"Stockland (Phillip St) - TAFE -  Hospital - Stockland",1,546424,5010005
+501-255,GOOGLE-GLT_MUL-Weekday-06,2927502-GOOGLE-GLT_MUL-Weekday-06,"Stockland (Phillip St) - TAFE -  Hospital - Stockland",1,548731,5010004
+502-255,GOOGLE-GLT_MUL-Weekday-06,2927509-GOOGLE-GLT_MUL-Weekday-06,"Stockland (Phillip St) - Airport - Clinton - Stockland",0,546431,5020015
+502-255,GOOGLE-GLT_MUL-Weekday-06,2927510-GOOGLE-GLT_MUL-Weekday-06,"Stockland (Phillip St) - Airport - Clinton - Stockland",0,546432,5020015
+502-255,GOOGLE-GLT_MUL-Weekday-06,2927511-GOOGLE-GLT_MUL-Weekday-06,"Stockland (Phillip St) - Airport - Clinton - Stockland",0,546433,5020015
+502-255,GOOGLE-GLT_MUL-Weekday-06,2927512-GOOGLE-GLT_MUL-Weekday-06,"Stockland (Phillip St) - Airport - Clinton - Stockland",0,546434,5020015
+502-255,GOOGLE-GLT_MUL-Weekday-06,2927513-GOOGLE-GLT_MUL-Weekday-06,"Stockland (Phillip St) - Airport - Clinton - Stockland",0,546435,5020015
+502-255,GOOGLE-GLT_MUL-Weekday-06,2927514-GOOGLE-GLT_MUL-Weekday-06,"Stockland (Phillip St) - Airport - Clinton - Stockland",0,546436,5020015
+502-255,GOOGLE-GLT_MUL-Weekday-06,2927515-GOOGLE-GLT_MUL-Weekday-06,"Stockland (Phillip St) - Airport - Clinton - Stockland",0,546437,5020015
+502-255,GOOGLE-GLT_MUL-Weekday-06,2927516-GOOGLE-GLT_MUL-Weekday-06,"Stockland (Phillip St) - Airport - Clinton - Stockland",0,546438,5020015
+503-255,GOOGLE-GLT_MUL-Weekday-06,2927517-GOOGLE-GLT_MUL-Weekday-06,"Stockland (Phillip St) - Kirkwood",1,546439,5030012
+503-255,GOOGLE-GLT_MUL-Weekday-06,2927518-GOOGLE-GLT_MUL-Weekday-06,"Stockland (Phillip St) - Kirkwood",1,546440,5030012
+503-255,GOOGLE-GLT_MUL-Weekday-06,2927519-GOOGLE-GLT_MUL-Weekday-06,"Stockland (Phillip St) - Kirkwood",1,546441,5030012
+503-255,GOOGLE-GLT_MUL-Weekday-06,2927520-GOOGLE-GLT_MUL-Weekday-06,"Stockland (Phillip St) - Kirkwood",1,546442,5030012
+503-255,GOOGLE-GLT_MUL-Weekday-06,2927521-GOOGLE-GLT_MUL-Weekday-06,"Stockland (Phillip St) - Kirkwood",1,546443,5030012
+503-255,GOOGLE-GLT_MUL-Weekday-06,2927522-GOOGLE-GLT_MUL-Weekday-06,"Stockland (Phillip St) - Kirkwood",1,546444,5030012
+503-255,GOOGLE-GLT_MUL-Weekday-06,2927523-GOOGLE-GLT_MUL-Weekday-06,"Stockland (Phillip St) - Kirkwood",1,546445,5030012
+503-255,GOOGLE-GLT_MUL-Weekday-06,2927524-GOOGLE-GLT_MUL-Weekday-06,"Stockland (Phillip St) - Kirkwood",1,546446,5030012
+503-255,GOOGLE-GLT_MUL-Weekday-06,2927525-GOOGLE-GLT_MUL-Weekday-06,"Kirkwood - Stockland (Phillip St)",0,546447,5030011
+503-255,GOOGLE-GLT_MUL-Weekday-06,2927526-GOOGLE-GLT_MUL-Weekday-06,"Kirkwood - Stockland (Phillip St)",0,546448,5030011
+503-255,GOOGLE-GLT_MUL-Weekday-06,2927527-GOOGLE-GLT_MUL-Weekday-06,"Kirkwood - Stockland (Phillip St)",0,546449,5030011
+503-255,GOOGLE-GLT_MUL-Weekday-06,2927528-GOOGLE-GLT_MUL-Weekday-06,"Kirkwood - Stockland (Phillip St)",0,546450,5030011
+503-255,GOOGLE-GLT_MUL-Weekday-06,2927529-GOOGLE-GLT_MUL-Weekday-06,"Kirkwood - Stockland (Phillip St)",0,546451,5030011
+503-255,GOOGLE-GLT_MUL-Weekday-06,2927530-GOOGLE-GLT_MUL-Weekday-06,"Kirkwood - Stockland (Phillip St)",0,546452,5030011
+503-255,GOOGLE-GLT_MUL-Weekday-06,2927531-GOOGLE-GLT_MUL-Weekday-06,"Kirkwood - Stockland (Phillip St)",0,546453,5030011
+503-255,GOOGLE-GLT_MUL-Weekday-06,2927532-GOOGLE-GLT_MUL-Weekday-06,"Kirkwood - Stockland (Phillip St)",0,546454,5030011
+504-255,GOOGLE-GLT_MUL-Weekday-06,2927533-GOOGLE-GLT_MUL-Weekday-06,"Stockland (Phillip St) - Emmadale Park - New Auckland",1,546455,5040008
+504-255,GOOGLE-GLT_MUL-Weekday-06,2927534-GOOGLE-GLT_MUL-Weekday-06,"Stockland (Phillip St) - Emmadale Park - New Auckland",1,546456,5040008
+504-255,GOOGLE-GLT_MUL-Weekday-06,2927535-GOOGLE-GLT_MUL-Weekday-06,"Stockland (Phillip St) - Emmadale Park - New Auckland",1,546457,5040008
+504-255,GOOGLE-GLT_MUL-Weekday-06,2927536-GOOGLE-GLT_MUL-Weekday-06,"Stockland (Phillip St) - Emmadale Park - New Auckland",1,546458,5040008
+504-255,GOOGLE-GLT_MUL-Weekday-06,2927537-GOOGLE-GLT_MUL-Weekday-06,"Stockland (Phillip St) - Emmadale Park - New Auckland",1,546459,5040008
+504-255,GOOGLE-GLT_MUL-Weekday-06,2927538-GOOGLE-GLT_MUL-Weekday-06,"Stockland (Phillip St) - Emmadale Park - New Auckland",1,546460,5040008
+504-255,GOOGLE-GLT_MUL-Weekday-06,2927539-GOOGLE-GLT_MUL-Weekday-06,"Stockland (Phillip St) - Emmadale Park - New Auckland",1,546461,5040008
+504-255,GOOGLE-GLT_MUL-Weekday-06,2927540-GOOGLE-GLT_MUL-Weekday-06,"Stockland (Phillip St) - Emmadale Park - New Auckland",1,546462,5040008
+504-255,GOOGLE-GLT_MUL-Weekday-06,2927541-GOOGLE-GLT_MUL-Weekday-06,"New Auckland - Emmadale Park - Stockland (Phillip St)",0,546463,5040007
+504-255,GOOGLE-GLT_MUL-Weekday-06,2927542-GOOGLE-GLT_MUL-Weekday-06,"New Auckland - Emmadale Park - Stockland (Phillip St)",0,546464,5040007
+504-255,GOOGLE-GLT_MUL-Weekday-06,2927543-GOOGLE-GLT_MUL-Weekday-06,"New Auckland - Emmadale Park - Stockland (Phillip St)",0,546465,5040007
+504-255,GOOGLE-GLT_MUL-Weekday-06,2927544-GOOGLE-GLT_MUL-Weekday-06,"New Auckland - Emmadale Park - Stockland (Phillip St)",0,546466,5040007
+504-255,GOOGLE-GLT_MUL-Weekday-06,2927545-GOOGLE-GLT_MUL-Weekday-06,"New Auckland - Emmadale Park - Stockland (Phillip St)",0,546467,5040007
+504-255,GOOGLE-GLT_MUL-Weekday-06,2927546-GOOGLE-GLT_MUL-Weekday-06,"New Auckland - Emmadale Park - Stockland (Phillip St)",0,546468,5040007
+504-255,GOOGLE-GLT_MUL-Weekday-06,2927547-GOOGLE-GLT_MUL-Weekday-06,"New Auckland - Emmadale Park - Stockland (Phillip St)",0,546469,5040007
+504-255,GOOGLE-GLT_MUL-Weekday-06,2927548-GOOGLE-GLT_MUL-Weekday-06,"New Auckland - Emmadale Park - Stockland (Phillip St)",0,546470,5040007
+506-255,GOOGLE-GLT_MUL-Weekday-06,2927565-GOOGLE-GLT_MUL-Weekday-06,"Stockland (Phillip St) - New Auckland - Little Ck",0,546487,5060011
+506-255,GOOGLE-GLT_MUL-Weekday-06,2927566-GOOGLE-GLT_MUL-Weekday-06,"Stockland (Phillip St) - New Auckland - Little Ck",0,546488,5060011
+506-255,GOOGLE-GLT_MUL-Weekday-06,2927567-GOOGLE-GLT_MUL-Weekday-06,"Stockland (Phillip St) - New Auckland - Little Ck",0,546489,5060011
+506-255,GOOGLE-GLT_MUL-Weekday-06,2927568-GOOGLE-GLT_MUL-Weekday-06,"Stockland (Phillip St) - New Auckland - Little Ck",0,546490,5060011
+506-255,GOOGLE-GLT_MUL-Weekday-06,2927569-GOOGLE-GLT_MUL-Weekday-06,"Stockland (Phillip St) - New Auckland - Little Ck",0,546491,5060011
+506-255,GOOGLE-GLT_MUL-Weekday-06,2927570-GOOGLE-GLT_MUL-Weekday-06,"Stockland (Phillip St) - New Auckland - Little Ck",0,546492,5060011
+506-255,GOOGLE-GLT_MUL-Weekday-06,2927571-GOOGLE-GLT_MUL-Weekday-06,"Stockland (Phillip St) - New Auckland - Little Ck",0,546493,5060011
+550-255,GOOGLE-GLT_MUL-Weekday-06,2927585-GOOGLE-GLT_MUL-Weekday-06,"Stockland (Phillip St) - Boyne Island - Tannum Sands",1,546507,5500051
+550-255,GOOGLE-GLT_MUL-Weekday-06,2927586-GOOGLE-GLT_MUL-Weekday-06,"Stockland (Phillip St) - Boyne Island - Tannum Sands",1,546508,5500051
+550-255,GOOGLE-GLT_MUL-Weekday-06,2927587-GOOGLE-GLT_MUL-Weekday-06,"Stockland (Phillip St) - Boyne Island - Tannum Sands",1,546509,5500051
+550-255,GOOGLE-GLT_MUL-Weekday-06,2927588-GOOGLE-GLT_MUL-Weekday-06,"Tannum Sands - Boyne Island - Stockland (Phillip St)",0,546510,5500050
+550-255,GOOGLE-GLT_MUL-Weekday-06,2927589-GOOGLE-GLT_MUL-Weekday-06,"Tannum Sands - Boyne Island - Stockland (Phillip St)",0,546511,5500050
+550-255,GOOGLE-GLT_MUL-Weekday-06,2927590-GOOGLE-GLT_MUL-Weekday-06,"Tannum Sands - Boyne Island - Stockland (Phillip St)",0,546512,5500050
+500-255,GOOGLE-GLT_MUL-Weekday-06,2927591-GOOGLE-GLT_MUL-Weekday-06,"Stockland (Phillip St) - Hospital - TAFE - Stockland",0,546513,5000013
+505-255,GOOGLE-GLT_MUL-Weekday-06,2927594-GOOGLE-GLT_MUL-Weekday-06,"Glen Eden - Stockland (Phillip St) via Telina",0,546516,5050007
+505-255,GOOGLE-GLT_MUL-Weekday-06,2927595-GOOGLE-GLT_MUL-Weekday-06,"Glen Eden - Stockland (Phillip St) via Telina",0,546517,5050007
+505-255,GOOGLE-GLT_MUL-Weekday-06,2927596-GOOGLE-GLT_MUL-Weekday-06,"Glen Eden - Stockland (Phillip St) via Telina",0,546518,5050007
+505-255,GOOGLE-GLT_MUL-Weekday-06,2927597-GOOGLE-GLT_MUL-Weekday-06,"Stockland (Phillip St) - Glen Eden via Telina",1,546519,5050008
+505-255,GOOGLE-GLT_MUL-Weekday-06,2927598-GOOGLE-GLT_MUL-Weekday-06,"Stockland (Phillip St) - Glen Eden via Telina",1,546520,5050008
+505-255,GOOGLE-GLT_MUL-Weekday-06,2927601-GOOGLE-GLT_MUL-Weekday-06,"Stockland (Phillip St) - Glen Eden via Telina",1,546523,5050008
+507-255,GOOGLE-GLT_MUL-Weekday-06,2938278-GOOGLE-GLT_MUL-Weekday-06,"Seaview Hts - Kirkwood - New Auckland - Stockland Gladstone",1,551901,5070007

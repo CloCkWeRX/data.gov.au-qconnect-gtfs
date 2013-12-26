@@ -1,0 +1,3 @@
+service_id,monday,tuesday,wednesday,thursday,friday,saturday,sunday,start_date,end_date
+GOOGLE-GLT_MUL-Weekday-05,1,1,1,1,1,0,0,20130617,20131213
+GOOGLE-GLT_MUL-Weekday-06,1,1,1,1,1,0,0,20130624,20131231

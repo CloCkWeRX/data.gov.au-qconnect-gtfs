@@ -1,0 +1,12 @@
+route_id,route_short_name,route_long_name,route_desc,route_type,route_url
+500-255,500,"Gladstone Loop",,3,
+500S-255,500S,"Gladstone Loop",,3,
+501-255,501,"Gladstone Loop",,3,
+501S-255,501S,"Gladstone Loop",,3,
+502-255,502,"Kin Kora to Clinton",,3,
+503-255,503,"Kin Kora to Kirkwood",,3,
+504-255,504,"Kin Kora to New Auckland",,3,
+505-255,505,"Kin Kora to Glen Eden via Telina",,3,
+506-255,506,"Kin Kora to Little Creek",,3,
+507-255,507,"Gladstone Loop (via Seaview Hts New Auckland)",,3,
+550-255,550,"Kin Kora to Boyne Is and Tannum Sands via Telina",,3,
